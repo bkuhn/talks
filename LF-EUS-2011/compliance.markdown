@@ -1,6 +1,6 @@
-% Demystifying GPL Enforcement: Using the Law To Uphold Copyleft
+% Free Software License Compliance
 % Bradley M. Kuhn
-% Saturday 20 February 2010
+% Tuesday 1 March 2011
 
 # Who I Am?
 
@@ -24,17 +24,44 @@
 
 + Let's clear up misconceptions.
 
-# The Clueful: Constant Vigilance!
+# Freedom to Use
+
++ *Using* GPL'd software is unrestricted (v2 &sect; 0, v3 &sect; 2)
+     - v2 &sect; 0: &ldquo;The act of running the Program is not restricted&rdquo;
+     - v3 &sect; 2: &ldquo;This License explicitly affirms your unlimited permission to run the unmodified Program.&rdquo;
+
++ &copy; (generally) governs: 
+    - copying
+    - modifying
+    - distribution
+
+# Private Modification
+
++ Redistribution of modified version is an *option*, not requirement.
+
++ License permissions allow private modification.
+
++ v3 is even clear about convey/propagate (contractors problem).
+
+# Distribution
+
++ When you distribute, that's when you must worry.
+
++ It really isn't hard.
+
++ Just have &hellip;
+
+# Constant Vigilance!
 
 <img src="moody.jpg" align="right"  />
 
-+ Made plan when incorporating FLOSS.
++ Make plan when incorporating FLOSS.
 
-+ Changed the software development practices.
++ Change the software development practices.
 
 # What the Clueful Do
 
-+ Planned best practices to avoid violation.
++ Plan best practices to avoid violation.
 
 + Realize GPL software is here to stay.
 
