@@ -5,7 +5,7 @@
 # Who I Am?
 
 + Currently: President of Software Freedom Conservancy, which is:
-     - ... non-profit home of BusyBox project.
+     - ... non-profit home & partial &copy;-holder of BusyBox
      - ... Erik Andersen's & BusyBox's designated GPL enforcement agent.
 
 + Currently: on Board of Directors of the FSF
@@ -15,9 +15,6 @@
 
 + Previously: Executive Director of FSF
      - Started and ran the GPL Compliance Labs, 2001-2005.
-
-+ Before That: Volunteer / Part Time for FSF
-     - Did GPL Compliance Engineering work, 1999-2001
 
 # GPL Compliance
 
@@ -228,13 +225,13 @@ arrest a guy who was just passing drugs from one guy to another.
     - ... a seasoned software copyright lawyer should study the facts.
     - ... such modifiers are already extremely sophisticated, anyway.
 
-# Follow / License 
+# More Info / License 
 
 + Conservancy Website: http://sfconservancy.org/
 
 + My blog: ebb.org/bkuhn/blog
 
-+ Personal Identica: @bkuhn
++ Personal Microblog: @bkuhn (on identi.ca)
 
 This talk and the slides are
 
