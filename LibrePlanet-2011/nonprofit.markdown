@@ -6,7 +6,7 @@
 
 + President and Executive Director of Software Freedom Conservancy.
 
-+ On Borad of Directors of the FSF.
++ On Board of Directors of the FSF.
 
 + This talk's about the important things the two orgs have in common.
 
@@ -28,7 +28,12 @@
 
 + Gets 501(c)(3) status in 1985.
 
-+ Throughout late 1980s and early 1990s, FSF employees developers/documentators
++ FSF's first 13 years is mostly to employ developers!
+      - (See: GNU's Bulletins 1987-1996)
+
+# FSF-Employed Developers
+
++ 1985-1996: FSF employs many developers:
     + Paul Rubin (GCC)
     + Jay Fenlason (awk, ld, etc)
     + Diane Barlow Close (documenation)
@@ -42,8 +47,6 @@
     + Karl Heuer (Emacs)
     + Miles Bader (HURD)
     + Ian Murdock (Debian (yes, FSF funded the first Debian))
-
- (Source: GNU's Bulletins 1987-1996)
 
 # Why Doesn't FSF Hire Programmers Now?
 
@@ -66,6 +69,19 @@
 + Software freedom is best when in public good.
 
 + Non-profit orgs (NPOs) are best place for software freedom.
+
+# Conservancy Differs Slightly from FSF
+
++ GNU is unique:
+     - since it's so well-established
+     - one of the oldest Free Software Projects
+
++ This uniqueness means FSF keeps for-profits from bad acts.
+
++ Other models needed for younger projects.
+
++ Sometimes, developers should be funded by non-profits,
+     - to mitigate dangers of for-profit control.
 
 # What Can NPOs Do?
 
@@ -97,7 +113,7 @@
 
 + One board of directors, one non-technical governance structure.
 
-# Directed Funding Through Conservancy 
+# Funding Through Conservancy 
 
 + Travel to conferences.
 
@@ -119,9 +135,7 @@
 
 + Conservancy Identica: !conservancy, @conservancy
 
-This talk and the slides are
-
-Copyright &copy; 2010, 2011 Bradley M. Kuhn.
+This talk and the slides are: Copyright &copy; 2010, 2011 Bradley M. Kuhn.
 
 <img src="cc-by-sa-3-0_88x31.png"/>
 <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">This presentation and these slides are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.
