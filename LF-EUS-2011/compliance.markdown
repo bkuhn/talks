@@ -260,7 +260,9 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + Personal Microblog: @bkuhn (on identi.ca)
 
-This talk and the slides are
++ Slides at: http://gitorious.org/bkuhn-small-hacks/talks
+
+This talk and the slides are:
 
 Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
 
