@@ -8,21 +8,21 @@
 
 + On Board of Directors of the FSF.
 
-+ This talk's about the important things the two orgs have in common.
++ This talk's about an important thing the two orgs have in common.
 
 # Some GNU History
 
+<img src="rms-80s-scaled.png" align="right" />
+
 + GNU Manifesto, 1984.
 
-+ RMS writes in *GNU Manifesto*:
++ RMS wrote in that *GNU Manifesto*:
       - *"All sorts of development can be funded with a Software Tax"*
       - *"People with new ideas could distribute programs as [free software], asking for donations from satisfied users"*
 
-<img src="rms-80s.png" align="right" />
-
-**
-
 # Some FSF History
+
+<img src="gnu-head.jpg" align="right" />
 
 + FSF is founded in 1984.
 
@@ -37,7 +37,7 @@
 + 1985-1997: FSF employs many developers:
     + Paul Rubin (GCC)
     + Jay Fenlason (awk, ld, etc)
-    + Diane Barlow Close (documenation)
+    + Diane Barlow Close (documentation)
     + Roland McGrath (glibc, make)
     + Mike Rowan
     + Thomas Bushnell (tar, HURD)
@@ -47,19 +47,19 @@
     + Lisa Goldstien (documentation)
     + Karl Heuer (Emacs)
     + Miles Bader (HURD)
-    + Ian Murdock (Debian (yes, FSF funded the first Debian))
+    + Ian Murdock (Debian (yes, FSF funded 1st Debian (!)))
 
-# Why Doesn't FSF Hire Programmers Now?
+# FSF's Now a Different Kind of Org
 
 + GNU packages now maintained by volunteers (from FSF's view)
 
-+ The volunteers are paid for by for-profits
-     - Red Hat, Codesourcery, etc.
-     - even Canonical, believe it or not, GRUB maintainer works there
++ The volunteers are usually paid for by for-profits
+     - Red Hat, Codesourcery, Google, IBM, etc.
+     - even Canonical, Ltd (GRUB maintainer works there)
 
 + FSF remains a non-profit home:
     - provides oversight & ensures software freedom
-    - copyright assignment
+    - &copy; assignment (w/ promise to keep it FaiF)
 
 # Non-Profit vs. For-Profit
 
@@ -71,22 +71,23 @@
 
 + Non-profit orgs (NPOs) are best place for software freedom.
 
-# Conservancy Differs Slightly from FSF
+# Conservancy Differs from (Modern) FSF
 
 + GNU is unique:
      - since it's so well-established
      - one of the oldest Free Software Projects
 
-+ This uniqueness means FSF keeps for-profits from bad acts.
++ The history helps FSF keep for-profits from bad actions.
 
 + Other models needed for younger projects.
 
-+ Sometimes, developers should be funded by non-profits,
++ Sometimes, developers should be *funded* by non-profits,
      - to mitigate dangers of for-profit control.
 
 # What Can NPOs Do?
 
 + Collect (USA-tax-deductible) donations for a project.
+      - both individual and corporate.
 
 + Distribute that money to advance project (and public good).
 
@@ -122,7 +123,7 @@
 
 + Conference invoicing and contracts.
 
-+ Stipends for developers.
++ Stipends and paid development contracts for developers.
 
 + Fiscal oversight.
 
