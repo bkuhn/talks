@@ -12,7 +12,7 @@
 
 # Some GNU History
 
-+ GNU Manifesto, 1985
++ GNU Manifesto, 1984.
 
 + RMS writes in *GNU Manifesto*:
       - *"All sorts of development can be funded with a Software Tax"*
@@ -28,12 +28,13 @@
 
 + Gets 501(c)(3) status in 1985.
 
-+ FSF's first 13 years is mostly to employ developers!
-      - (See: GNU's Bulletins 1987-1996)
++ FSF's first 12 years is mostly to employ developers!
+      - 46% of FSF's history.
+      - (Source: GNU's Bulletins 1986-1997)
 
 # FSF-Employed Developers
 
-+ 1985-1996: FSF employs many developers:
++ 1985-1997: FSF employs many developers:
     + Paul Rubin (GCC)
     + Jay Fenlason (awk, ld, etc)
     + Diane Barlow Close (documenation)
