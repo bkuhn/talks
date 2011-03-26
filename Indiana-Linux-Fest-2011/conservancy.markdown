@@ -2,17 +2,65 @@
 % Bradley M. Kuhn
 % Saturday 26 March 2011
 
-# Open Source / Free Software Governance?
+# Who Am I?
 
-+ Corporate sponsorship becoming more common.
++ Two official roles:
+    - On Board of Directors of Free Software Foundation.
+    - President of Software Freedom Conservancy.
+
++ Much of my views are influenced by these roles.
+
+# Why *Did* People Write Free Software?
+
+<img src="gnu-head.jpg" align="right" />
+
++ Consider GNU project.
+
++ Founded on idealism.
+
++ Recruited volunteers.
+
++ Those projects remain community-oriented.
+
+# The Danger of Our Success
+
++ Open Source is a corporate *fad* now.
+
++ VC's use Open Source manipulatively
+     - proprietary relicensing
+     - proprietary add-ons
+
++ Companies employ developers &hellip;
+     - &hellip; maybe to work on Free Software.
+     - &hellip; but companies control employee's time in their interest.
+
+# Where Things May Lead
+
++ FLOSS slowly goes toward for-profit corporate interest.
+
++ Or, it's purely thrown over the wall.
+    - At corporate whim
+    - cf: Android delayed release
+
++ Project decisions are made by companies.
+
+# Software Freedom Governance?
+
++ Corporate sponsorship are common.
 
 + For-profit control of projects can be dangerous.
 
-+ MySQL (& other Sun projects) is one example of how it can go wrong.
++ Fedora vs. Ubuntu as Coke vs. Pepsi
 
-# Non-Profit vs. For-Profit
+# Danger of For-Profits
 
 + For-profits act in interest in shareholders.
+
++ Those who care most about software are usually *not* shareholders.
+
++ Interests only align sometimes with community.
+
+# Non-Profits are Different
 
 + 501(c)(3) Non-profits act in interest of the public good.
 
@@ -31,6 +79,8 @@
 
 + Help leadership with non-technical decisions.
 
++ Neutral ground when corporations sponsor.
+ 
 # Organization Proliferation
 
 + Too many NPOs will confuse donors.
@@ -55,7 +105,7 @@
 
 + Travel to conferences.
 
-+ Handling Google SoC.
++ Handling Google SoC and other philanthropy programs.
 
 + Conference invoicing and contracts.
 
@@ -67,7 +117,7 @@
 
 + Looking for established projects.
 
-+ Relatively Informal process.
++ Relatively informal process.
 
 + Email info@sfconservancy.org
 
@@ -82,8 +132,6 @@
 + Personal Identica: @bkuhn
 
 + Conservancy Identica: !conservancy, @conservancy
-
-+ Donate: http://sfconservancy.org/support
 
 This talk and the slides are: Copyright &copy; 2010, 2011 Bradley M. Kuhn.
 
