@@ -25,8 +25,8 @@ BIBTEX = bibtex
 FIG2DEV = fig2dev
 DVIPS=dvips
 
-PDF_FIGS = logo.pdf
-EPS_FIGS = logo.eps
+PDF_FIGS = ui/conservancy/logo.pdf
+EPS_FIGS = ui/conservancy/logo.eps
 
 all:	err $(PRESENTATION_BASE).pdf $(PRESENTATION_BASE).ps $(PRESENTATION_BASE).html
 all:	$(PRESENTATION_BASE).html
