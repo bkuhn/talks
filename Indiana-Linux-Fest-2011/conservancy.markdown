@@ -34,7 +34,7 @@
      - &hellip; maybe to work on Free Software.
      - &hellip; but companies control employee's time in their interest.
 
-# Where Things May Lead
+# Where Things Are Heading
 
 + FLOSS slowly goes toward for-profit corporate interest.
 
