@@ -296,7 +296,21 @@ function clicker(e) {
 		} else {
 			subgo(1);
 		}
-	}
+	} else {
+            // Handle rightclick to go back
+            if (e.which == 3 || e.which == 2 || e.which == 4 ) {
+                if(number != undef) {
+                    go(-1 * number);
+                } else if (e.which == 2 || !incrementals[snum] || incpos <= 0) {
+                    go(-1);
+                } else {
+                    subgo(-1);
+                }
+            }
+            if (e.which == 8 || e.which ==9) {
+                goTo(0);
+            }
+        }
 }
 
 function findSlide(hash) {
@@ -528,6 +542,23 @@ function trap(e) {
 	return modifierKey || e.which == 0;
 }
 
+function skipmousedown(e) 
+{ 
+  try { if (event.button==2||event.button==3) return false; }  
+  catch (e) { if (e.which == 3) return false; } 
+}
+  function cancelContextMenu(e) {
+    // Here you can add additional code that is executed when the context menu
+    // is blocked. For instance you can use the following code to display a
+    // message to the user:
+    //alert("Please respect our copyright. Thank you!");
+ 
+    if (e && e.stopPropagation)
+      e.stopPropagation();
+ 
+    return false;
+  }
+ 
 function startup() {
 	defaultCheck();
 	if (!isOp) 
@@ -546,8 +577,17 @@ function startup() {
 		document.onkeyup = keys;
 		document.onkeypress = trap;
 		document.onclick = clicker;
+                document.oncontextmenu = cancelContextMenu;
+                document.ondragstart   = function() { return false; }
+                document.onmousedown = function () { return false; };
+//                document.onmousedown   = skipmousedown;
+                document.onselectstart= function() { return false; }
+                document.body.style.MozUserSelect='none';
+                document.body.style.userSelect='none';
 	}
+
 }
 
 window.onload = startup;
 window.onresize = function(){setTimeout('fontScale()', 50);}
+window.captureEvents(Event.MOUSEDOWN);
