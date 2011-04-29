@@ -1,14 +1,6 @@
-% 12 Years of FLOSS License Compliance: A Historical Perspective
+% 12 Years of GPL Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Thursday 7 April 2011
-
-# Sorry for my Virus
-
-<img src="rhinovirus.jpg" align="right"  />
-
-+ First time I've had a rhinovirus while traveling since 2002.
-
-+ Hearing how bad my throat is shows why I get upset when people call GPL a virus.
+% Friday 29 April 2011
 
 # My History
 
@@ -18,7 +10,7 @@
 
 + Worked at SFLC from 2005-2010.
 
-+ Now Executive Director of Conservancy.
++ Now Executive Director of Software Freedom Conservancy.
 
 + Plurality of my time since 1999 has been spent on GPL enforcement.
 
@@ -92,7 +84,7 @@ Matthew Self
 </span>
 
 
-# Thus Begins Jobs GPL hatred.
+# Thus Begins Jobs' GPL hatred.
 
 <img src="steve-jobs-bond.jpg" align="right"  />
 
@@ -111,30 +103,32 @@ and placed it into proprietary backup solutions.  A small band of freedom
 fighters enforced the GPL to liberate users who were opressed by the
 proprietary nature of GPL violators.</p>
 
-
 # Tar Wars
 
 + Tape backup systems essential in late 1990s.
 
 + Many companies made forks of GNU Tar, and violated.
 
-+ Sysadmins were good at noticing.
++ Sysadmins were good at finding these violations.
 
-+ All but one came into compliance.
++ All but one violator came into compliance.
 
-# Courts won't give compliance.
+# Courts may never give compliance.
 
-+ Last GNU tar enforcement I ever did (circa mid-2002).
++ Last GNU tar enforcement I ever did was circa mid-2002.
 
 + Company decided to *remove* tar &amp; rewrite rather than compliance.
 
 + Let's sue!
 
-+ Lawyers told me court won't grant compliance.
++ Lawyers told me court wouldn't give compliance as a rememdy.
 
-+ You just get money and injuction (they already de-facto gave latter).
++ Courts usually give money and an injuction
+     - Company already gave latter of their own accord (de-facto)
 
 # Coalition of the Willing
+
+FIXME: photo of a WRT54G
 
 + Spring 2003: dozens of reports on WRT54G.
 
@@ -167,7 +161,7 @@ proprietary nature of GPL violators.</p>
 
 + launches multiple lawsuits in Germany (about 8 between 2005-2008).
 
-+ Quite successful, although has same &ldquo;court will only grant injunction&rdquo; problem.
++ Quite successful, although has same &ldquo;courts generally only grant injunction&rdquo; again.
 
 # GCC Redux, 2003-2005
 
@@ -181,11 +175,11 @@ proprietary nature of GPL violators.</p>
 
 # Funding Crisis for Enforcement
 
-+ FSF had hoped to raise funds "certifying compliance".
++ FSF had hoped to raise funds &ldquo;certifying compliance&rdquo;.
 
 + You can't break even on this for less than $10,000/release.
 
-+ No one is willing to pay.
++ No one is willing to pay (still true today, AFAICT).
 
 + Those who'd know enough to buy services think they'll get away with violations anyway.
 
@@ -197,7 +191,7 @@ proprietary nature of GPL violators.</p>
      - Compilers or Violators?
      - Individual donors.
 
-+ There must be some deterrent.
++ There must be a deterrent.
 
 + Non-profit enforcement == accountability.
 
@@ -209,25 +203,36 @@ proprietary nature of GPL violators.</p>
 
 + Proprietary relicensing (by holding all copyright).
 
-+ GPL enforcement with profit as its goal.
++ GPL enforcement with profit as its primary (and only?) goal.
 
 + MySQL would shake down GPL users to buy proprietary licenses they didn't need.
 
-+ I wish I'd realize how corrupt this is soon.
++ I wish I'd realize how corrupt this is sooner.
 
 # Embedded Violations Prevalent
 
 + Erik Andersen becomes exasperated.
+     - post-Linksys compliance, router &amp; NAS market is a violation haven.
 
-+ Asks for help.
++ Eirk asks for help.
 
 + Conservancy becomes his enforcement agent (and gets some others &copy; assignment)
 
 + Conservancy has had > 100 (now > 300) GPL violations queued for action since 2007.
 
-+ Lawsuits become necessary.
+# The Era of GPL Litigation
 
-+ Focus is to settle: only way to get compliance rather than merely injunction &amp; money.
++ Lawsuits become necessary.
+     - Dan Ravicher &amp; Aaron Williamson file some in the USA.
+
++ Focus is to settle:
+     - What we want more than anything else is full compliance &hellip;
+     - on *all* GPL'd and LGPL'd components &hellip;
+     - no judge will grant us all that &hellip;
+     - so we work hard to settle on that request &hellip;
+     - taking money &amp; injunctions only as a consolation prize.
+
++ But why is full compliance so hard for these companies?
 
 # The Upstream Problem
 
@@ -237,15 +242,18 @@ When I said that I was king of forwards, you got to understand that I
 don't come up with this stuff. I just forward it along. You wouldn't
 arrest a guy who was just passing drugs from one guy to another.
 
-<p align=right>
+<p align="right">
  -- Michael Scott, *The Office* 
 </p>
+
+FIXME: which episode?
 
 # Suppliers Bully OEMs, AFAICT 
 
 + I'd be the worst cop in the world.
 
 + No one ever turns &ldquo;states' evidence&rdquo;
+     - &hellip; at least they don't for _me_, anyway.
 
 + Me: &ldquo;Please, just tell me on the record your supplier violator&rdquo;
 
@@ -259,10 +267,11 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + FSF finally gets fed up and sues.
 
-# C&CS is the Hardest Part.
+# C&CS Remains Hardest Part.
 
 + GPL/LGPL is by far the most popular software license.
-     - Shown clearly in Google Code Search &amp; SourceForge License Data
+     - Shown clearly in Google Code Search (proprietary data) &amp;
+     - SourceForge License Data (open data)
 
 + GPLv2: &ldquo;scripts to control compilation and installation of the executable&rdquo;
 
@@ -275,15 +284,19 @@ arrest a guy who was just passing drugs from one guy to another.
 + I continue on at BusyBox &amp; Samba enforcement through Conservancy.
      - new reports at least once a week.
 
-+ Matthew Garrett works hard at Android compliance.
++ Matthew Garrett works hard on Android device compliance.
 
 + Poor Brett at FSF is overwhelmed with violation reports.
 
-+ Armijn tries to find time in his schedule to enforce.
++ Armijn (of gpl-violations.org) tries to find time in his schedule to enforce.
 
-+ GPL Violations are everywhere.
++ GPL Violations *are* *everywhere*.
 
-# More Info / License 
++ I'll take an even money bet for (almost) any amount:
+     - Give me an hour, an Internet connection, and my laptop &hellip;
+     - &amp; I'll find you a GPL-violating firmware I've never seen before.
+
+# More Info / Talk License
 
 + Conservancy Website: http://sfconservancy.org/
 
@@ -293,7 +306,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + Conservancy Microblog: @conservancy (on identi.ca and twitter)
 
-This talk and the slides are
+This talk and the slides are:
 
 Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
 
