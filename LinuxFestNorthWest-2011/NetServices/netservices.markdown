@@ -1,17 +1,6 @@
 % With Software As a Service,<br/> Is Only the Network Luddite Free?
 % Bradley M. Kuhn
-% Saturday 10 April 2010
-
-# Who I Am?
-
-+ President of Software Freedom Conservancy
-    + makes non-profit home for FLOSS projects.
-+ Employee of SFLC
-    + gives legal services to non-profit FLOSS projects.
-+ Director of the Free Software Foundation
-    + preserves, protects, and promotes software freedom.
-+ My opinions may or may not be the opinions of any of these orgs
-    + Ask if you need clarification on official org positions.
+% Sunday 1 May 2011
 
 # In The Beginning ...
 
@@ -35,7 +24,7 @@
 
 + to modify and share modified versions.
 
-# ... Then Freedom Eluded Us
+# &hellip; Then Freedom Eluded Us
 
 + They built licensing walls.
 
@@ -137,7 +126,7 @@ MIT changed.
 
 + SaaS: Software as a Service
 
-+ True "SaaS" would end software freedom.
++ True &ldquo;SaaS&rdquo; would end software freedom.
 
 + Imagine: GCC as an network service.
 
@@ -198,13 +187,13 @@ MIT changed.
 
 + Users like it for collaboration aspects.
 
-# Users and "The Cloud"
+# Users and &ldquo;The Cloud&rdquo;
 
 <center>
 <img src="cloud-bad.jpg"  />
 </center>
 
-# Users and "The Cloud"
+# Users and &ldquo;The Cloud&rdquo;
 
 <center>
 <img src="cloud-symptoms-with-apps.jpg"  />
@@ -292,7 +281,7 @@ MIT changed.
 
 This talk and the slides are
 
-Copyright &copy; 2008, 2009, 2010 Bradley M. Kuhn.
+Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
