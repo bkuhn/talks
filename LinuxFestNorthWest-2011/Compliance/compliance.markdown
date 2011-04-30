@@ -281,16 +281,20 @@ FIXME: cop image?
 
 # Today.
 
-<img align=left src="DQWindmill.gif"/>
+<img align="right" height="473" width="557" src="DQWindmill.gif"/>
 
-+ I continue on at BusyBox &amp; Samba enforcement through Conservancy.
++ I continue on GPL enforcement for Conservancy projects.
      - new reports at least once a week.
 
 + Matthew Garrett works hard on Android device compliance.
 
-+ Poor Brett at FSF is overwhelmed with violation reports.
++ FSF is overwhelmed with violation reports.
 
-+ Armijn (of gpl-violations.org) tries to find time in his schedule to enforce.
++ Armijn (of gpl-violations.org) volunteers sporadically.
+
+# Today.
+
+<img align="right" height="473" width="557" src="DQWindmill.gif"/>
 
 + GPL Violations *are* *everywhere*.
 
