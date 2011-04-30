@@ -307,7 +307,10 @@ function clicker(e) {
                     subgo(-1);
                 }
             }
-            if (e.which == 8 || e.which ==9) {
+            // Middle mouse button action, but make sure iceweasel doesn't have:
+            // middlemouse.contentLoadURL set to 'true', as that will override this.
+            // FWIW, I also set middlemouse.paste to 'false' as well, just in case.  -- bkuhn
+            if (e.which == 8 || e.which == 9) {
                 goTo(0);
             }
         }
