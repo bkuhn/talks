@@ -121,14 +121,14 @@ proprietary nature of GPL violators.</p>
 
 + Let's sue!
 
-+ Lawyers told me court wouldn't give compliance as a rememdy.
++ Lawyers told me courts are unlikely to order compliance as a rememdy.
 
 + Courts usually give money and an injuction
      - Company already gave latter of their own accord (de-facto)
 
 # Coalition of the Willing
 
-FIXME: photo of a WRT54G
+<img align=right src="wrt54g.png"/>
 
 + Spring 2003: dozens of reports on WRT54G.
 
@@ -188,7 +188,7 @@ FIXME: photo of a WRT54G
 + No one in non-profits is getting rich from this.
 
 + Who should pay for enforcement: 
-     - Compilers or Violators?
+     - Those who *comply* or or those who *violate*?
      - Individual donors.
 
 + There must be a deterrent.
@@ -214,7 +214,7 @@ FIXME: photo of a WRT54G
 + Erik Andersen becomes exasperated.
      - post-Linksys compliance, router &amp; NAS market is a violation haven.
 
-+ Eirk asks for help.
++ Erik asks for help.
 
 + Conservancy becomes his enforcement agent (and gets some others &copy; assignment)
 
@@ -246,11 +246,7 @@ arrest a guy who was just passing drugs from one guy to another.
  -- Michael Scott, *The Office* 
 </p>
 
-FIXME: which episode?
-
 # Suppliers Bully OEMs, AFAICT 
-
-FIXME: cop image?
 
 + I'd be the worst cop in the world.
 
@@ -304,16 +300,14 @@ FIXME: cop image?
 
 # More Info / Talk License
 
-+ Conservancy Website: http://sfconservancy.org/
-
-+ My blog: ebb.org/bkuhn/blog
-
-+ Personal Microblog: @bkuhn (on identi.ca)
-
-+ Conservancy Microblog: @conservancy (on identi.ca and twitter)
++ Some URLS:
+     - Conservancy Website: http://sfconservancy.org/
+     - My blog: ebb.org/bkuhn/blog
+     - Personal Microblog: @bkuhn (on identi.ca)
+     - Conservancy Microblog: @conservancy (on identi.ca and twitter)
+     - FSF Licensing/Compliance Site: http://www.fsf.org/licensing
 
 This talk and the slides are:
-
 Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
 
 <img src="cc-by-sa-3-0_88x31.png"/>
