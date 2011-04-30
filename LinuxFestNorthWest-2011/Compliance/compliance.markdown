@@ -207,7 +207,7 @@ FIXME: photo of a WRT54G
 
 + MySQL would shake down GPL users to buy proprietary licenses they didn't need.
 
-+ I wish I'd realize how corrupt this is sooner.
++ I wish I'd identified this as corruption sooner.
 
 # Embedded Violations Prevalent
 
@@ -223,14 +223,14 @@ FIXME: photo of a WRT54G
 # The Era of GPL Litigation
 
 + Lawsuits become necessary.
-     - Dan Ravicher &amp; Aaron Williamson file some in the USA.
+     - Dan Ravicher &amp; Aaron Williamson file some in USA.
 
 + Focus is to settle:
      - What we want more than anything else is full compliance &hellip;
-     - on *all* GPL'd and LGPL'd components &hellip;
-     - no judge will grant us all that &hellip;
-     - so we work hard to settle on that request &hellip;
-     - taking money &amp; injunctions only as a consolation prize.
+     - &hellip; on *all* GPL'd and LGPL'd components &hellip;
+     - &hellip; no judge will grant us all that &hellip;
+     - &hellip; so we work hard to settle on that request &hellip;
+     - &hellip; taking money &amp; injunctions only as a consolation prize.
 
 + But why is full compliance so hard for these companies?
 
@@ -250,6 +250,8 @@ FIXME: which episode?
 
 # Suppliers Bully OEMs, AFAICT 
 
+FIXME: cop image?
+
 + I'd be the worst cop in the world.
 
 + No one ever turns &ldquo;states' evidence&rdquo;
@@ -267,7 +269,7 @@ FIXME: which episode?
 
 + FSF finally gets fed up and sues.
 
-# C&CS Remains Hardest Part.
+# C&CS Remains Hardest Part
 
 + GPL/LGPL is by far the most popular software license.
      - Shown clearly in Google Code Search (proprietary data) &amp;
