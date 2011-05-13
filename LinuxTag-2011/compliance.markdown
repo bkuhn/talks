@@ -1,6 +1,6 @@
 % 12 Years of GPL Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Friday 13 may 2011
+% Friday 13 May 2011
 
 # My History
 
@@ -14,13 +14,75 @@
 
 + Plurality of my time since 1999 has been spent on GPL enforcement.
 
-# Earliest Copylefted Programs
+# Nature of Free Software Community
 
-+ GNU Emacs: AFAIK Emacs' copyleft never been violated.
++ Through the eyes of a GPL enforcer &hellip;
 
-+ GCC: much more interesting to proprietary software companies.
++ The Free Software Community is separated into two equally important groups:
+     + The permissively licensed, who use social pressure to liberate code.
+     + The copyleft licensed, whose license requires liberation.
 
-+ Who was the first GPL violator?
++ Mine are the stories of the latter.
+
+# On Requirement By License
+
+<img src="Constitution.jpg" align="right"  />
+
++ Social pressure *does* work &hellip;
+     + &hellip; and should be used (and is), even for copylefted software.
+     + &hellip; enforcement is a last resort.
+
++ GPL == Constitution of Software Freedom Land.
+     + a &ldquo;written down&rdquo; embodiment of core principles.
+
++ GPL's a detailed implementation of the four freedoms:
+     + freedom to run and study.
+     + freedom to improve.
+     + freedom to share.
+     + freedom to share improvements.
+
+# How GPL Works (Theoretically)
+
+<img src="theory-vs-practice.jpg" align="right"  />
+
++ Copyright: the internationalized standard for authors' controls over works.
+
++ Use copyright license to grant permission.
+
++ Make permission conditional on giving your downstream the four freedoms.
+
++ This is the copyright law hack of copyleft.
+
++ Copyright rules require compliance with the license.
+
+# How GPL Works (In Reality)
+
+<img src="copyleft-e-copyright.jpg" align="right"  />
+
++ What do you do when someone violates?
+     + (and social pressure for compliance fails)?
+
++ Copyright enforcement
+     + &hellip; (yes, similar stuff to what the MPAA does: EEP!)
+     + &hellip; but for a *good* cause: the four freedoms.
+     + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
+
+# Earliest Copyleft Programs
+
+<img src="emacs.png" align="right" />
+
++ GNU Emacs: was the first GPL'd program.
+
++ AFAIK Emacs' copyleft never been violated.
+
+# Second Copyleft Program
+
+<img src="gcc_sm.png" align="right"  />
+
++ GCC: second GPL'd program.
+     + much more interesting to proprietary software companies.
+
++ So, who was the first GPL violator?
 
 # The NeXT Shall be First
 
@@ -88,9 +150,10 @@ Matthew Self
 
 <img src="steve-jobs-bond.jpg" align="right"  />
 
-+ Apple to this day works hard to ditch GCC.
++ Apple is ditching Samba soon.
 
-+ Funds LLVM.
++ Apple to this day works hard to ditch GCC.
+     + LLVM funding.
 
 + Spreads FUD about GPLv3.
 
@@ -231,11 +294,36 @@ proprietary nature of GPL violators.</p>
 + Focus is to settle:
      - What we want more than anything else is full compliance &hellip;
      - &hellip; on *all* GPL'd and LGPL'd components &hellip;
-     - &hellip; no judge will grant us all that &hellip;
+     - &hellip; judge is unlikely to grant us all that &hellip;
      - &hellip; so we work hard to settle on that request &hellip;
      - &hellip; taking extra money &amp; injunctions only as a consolation prize.
 
 + But why is full compliance so hard for these companies?
+
+# Linksys Redux
+
++ 2003-2004, everything they put out is VxWorks.
+
++ Circa late 2004, BusyBox/Linux &amp; GNU/Linux slowly becomes the Linksys default again.
+
++ FSF finally gets fed up and sues.
+
++ One wonders: Why don't they just come into compliance before getting sued?
+
+# Challenges of Modern Compliance
+
++ Saavy violators meant intelligent discussion.
+    + Jobs knew just what he was trying to get away with re: Objective C.
+
++ Clueless violators means difficult conversations:
+     + Me: &ldquo;Your software violates GPL.&rdquo;
+     + Them: &ldquo;We make hardware.&rdquo;
+     + Me: &ldquo;I know, but it has software in it.  Our members' software. Under the GPL.&rdquo;
+     + Them: &ldquo;No, it doesn't. We make hardware.&rdquo;
+     + Me: &ldquo;But your firmware download&hellip;on *your* website&hellip;that's software.&rdquo;
+     + Them: &ldquo;Oh, that's not ours.  We got that from someone.  Nothing to do with us.&rdquo;
+
++ Having the above conversation across four phone calls every two months is why I seem so insane most of the time.
 
 # The Upstream Problem
 
@@ -251,7 +339,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # Suppliers Bully OEMs, AFAICT 
 
-+ I'd be the worst cop in the world.
++ I'd be the worst police officer in the world.
 
 + No one ever turns &ldquo;states' evidence&rdquo;
      - &hellip; at least they don't for _me_, anyway.
@@ -260,23 +348,74 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + Them: &ldquo;We'll work with our upstream to get into compliance.&rdquo;
 
-# Linksys Redux
+# Embedded Device Software Freedom
 
-+ 2003-2004, everything they put out is VxWorks.
++ Sure, I've got the sources.
 
-+ Circa late 2004, BusyBox/Linux &amp; GNU/Linux slowly becomes the Linksys default again.
++ But, can I build it in the same way the company did?
 
-+ FSF finally gets fed up and sues.
++ If I get it built, can I install it?
 
-# C&CS Remains Hardest Part
++ By the time I get all that working, will the device be discontinued?
 
-+ GPL/LGPL is by far the most popular software license.
-     - Shown clearly in Google Code Search (proprietary data) &amp;
-     - SourceForge License Data (open data)
++ Will they get away with it if they do, only to violate in the next product line?
 
-+ GPLv2: &ldquo;scripts to control compilation and installation of the executable&rdquo;
++ In the age of the embedded device, copyleft seeks to answer these questions correctly.
 
-+ GPLv3: &ldquo;Install Information&rdquo;
+# GPL Predicted this Problem 
+
++ Even in 1991, RMS made sure GPLv2 handled this.
+
+# GPLv2: More than Just Source
+
+<p>For an executable work, complete source
+code means all the source code for all modules it contains, plus any
+associated interface definition files, plus <strong>the scripts used to
+control compilation and installation of the executable</strong>.</p>
+
+<p>(empahsis mine)</p>
+
+# GPLv2: More than Just Source
+
++ &ldquo;the scripts to control&hellip;&rdquo; gets us close.
+
++ It handles most of the issues.
+
++ I even argued it includes authorized install information.
+     + Unfortunately, RMS gave in on that one.
+
+# GPLv3: Installation Information
+
+<span class="fitonslide">
+<p><strong>&ldquo;Installation Information&rdquo;</strong> for a User Product <strong>means any methods,
+procedures</strong>, authorization keys, <strong>or</strong> other <strong>information required to install
+and execute modified versions</strong> of a covered work in that User Product from
+a modified version of its Corresponding Source.  The <strong>information must
+suffice to ensure that the continued functioning of the modified object
+code</strong> is in no case prevented or interfered with solely because
+modification has been made.</p>
+
+<p>If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as
+part of a transaction in which the right of possession and use of the
+User Product is transferred to the recipient in perpetuity or for a
+fixed term (regardless of how the transaction is characterized), the
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.</p>
+</span>
+
+<p>(empahsis mine)</p>
+
+# GPLv3: Installation Information
+
++ In my view, just clarifies GPLv2's terse wording.
+
++ In any event, it makes it certain.
+
++ Users of device can modify and upgrade their devices &hellip;
+     + &hellip; as it should be.
+
++ This is one of the reasons projects should upgrade to GPLv3.
 
 # Today.
 
@@ -301,22 +440,23 @@ arrest a guy who was just passing drugs from one guy to another.
      - Constant Vigilance!
 
 + BTW, I'll take an even money bet for (almost) any amount:
-     - Give me an hour, an Internet connection, and my laptop &hellip;
-     - &amp; I'll find you a GPL-violating firmware I've never seen before.
+     - Give me an hour and an Internet connection &hellip;
+     - &amp; I'll find you a GPL-violating embedded firmware I've never seen before.
 
 # More Info / Talk License
 
-+ Some URLs:
-     - Conservancy Website: http://sfconservancy.org/
-     - My blog: ebb.org/bkuhn/blog
-     - Personal Microblog: @bkuhn (on identi.ca)
-     - Conservancy Microblog: @conservancy
-     - FSF Licensing/Compliance Site: http://www.fsf.org/licensing
-     - Slides source at: https://gitorious.org/bkuhn-small-hacks/talks
++ URLs / Social Networking / Email:
+     - Conservancy: sfconservancy.org &amp; @conservancy
+     - Me: ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
+     - FSF Licensing Site: fsf.org/licensing
+     - Report GPL violations: &lt;compliance@sfconservancy.org&gt;
+     - Slides source: gitorious.org/bkuhn-small-hacks/talks
 
-This talk and the slides are:
-Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
+<span class="fitonslide">
+<p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn, and are licensed under:
+<p><img src="cc-by-sa-3-0_88x31.png"/>
+the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 Unported License</a>.</p>
 
-<img src="cc-by-sa-3-0_88x31.png"/>
-<a href="http://creativecommons.org/licenses/by-sa/3.0/us/">This presentation and these slides are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.
-            
+<p>Some images included herein are copyrighted by others. I believe my use of those images is fair use under USA &amp; German copyright law.  However, you should remove such images if you redistribute these slides under CC-By-SA.
+</p>
+</span>
