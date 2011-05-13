@@ -3,6 +3,8 @@
 # You can change the PRESENTATION_BASE below, or if you like, or set it as
 # an environment variable before you type make.
 
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/LinuxTag-2011
+
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=nonprofit
 endif
@@ -70,3 +72,8 @@ clean:
 	/bin/rm -f $(PRESENTATION_BASE).ps $(PRESENTATION_BASE).pdf $(PRESENTATION_BASE).log texput.log $(PRESENTATION_BASE).lg $(PRESENTATION_BASE).tmp $(PRESENTATION_BASE).xref *.4ct *.4tc *.aux *.dvi $(PRESENTATION_BASE)*.html *.idv *.lg *.tmp $(PRESENTATION_BASE).css $(PRESENTATION_BASE).log $(PRESENTATION_BASE).out $(PRESENTATION_BASE)-js.* $(PRESENTATION_BASE).tex
 
 err: ; $(ERR)
+
+install: all
+	rsync -HavP ./  $(INSTALL_DIR)
+	rm -rf $(INSTALL_DIR)/ui
+	rsync -HavP ../ui/ $(INSTALL_DIR)/ui/
