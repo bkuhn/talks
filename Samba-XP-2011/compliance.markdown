@@ -69,8 +69,6 @@
 
 # How GPL Works (In Reality)
 
-<img src="copyleft-e-copyright.jpg" align="right"  />
-
 + What do you do when someone violates?
      + (and social pressure for compliance fails)?
 
