@@ -10,7 +10,7 @@
 
 + Worked at SFLC from 2005-2010.
 
-+ Now Executive Director of Software Freedom Conservancy.
++ Now: Executive Director of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
 
 + Plurality of my time since 1999 has been spent on GPL enforcement.
 
@@ -77,7 +77,7 @@
 
 # Second Copyleft Program
 
-<img src="gcc_sm.png" align="right"  />
+<img src="gcc_sm.png" align="right" width="440" height="508"  />
 
 + GCC: second GPL'd program.
      + much more interesting to proprietary software companies.
@@ -298,8 +298,6 @@ proprietary nature of GPL violators.</p>
      - &hellip; so we work hard to settle on that request &hellip;
      - &hellip; taking extra money &amp; injunctions only as a consolation prize.
 
-+ But why is full compliance so hard for these companies?
-
 # Linksys Redux
 
 + 2003-2004, everything they put out is VxWorks.
@@ -308,12 +306,12 @@ proprietary nature of GPL violators.</p>
 
 + FSF finally gets fed up and sues.
 
-+ One wonders: Why don't they just come into compliance before getting sued?
++ One wonders: Why don't these companies just come into compliance before getting sued?
 
 # Challenges of Modern Compliance
 
 + Saavy violators meant intelligent discussion.
-    + Jobs knew just what he was trying to get away with re: Objective C.
+    + Jobs knew just what he was trying to get away by proprietarizing Objective C.
 
 + Clueless violators means difficult conversations:
      + Me: &ldquo;Your software violates GPL.&rdquo;
@@ -373,7 +371,7 @@ code means all the source code for all modules it contains, plus any
 associated interface definition files, plus <strong>the scripts used to
 control compilation and installation of the executable</strong>.</p>
 
-<p>(empahsis mine)</p>
+<p>(emphasis mine)</p>
 
 # GPLv2: More than Just Source
 
@@ -404,7 +402,7 @@ Corresponding Source conveyed under this section must be accompanied
 by the Installation Information.</p>
 </span>
 
-<p>(empahsis mine)</p>
+<p>(emphasis mine)</p>
 
 # GPLv3: Installation Information
 
@@ -421,12 +419,12 @@ by the Installation Information.</p>
 
 <img align="right" height="473" width="557" src="DQWindmill.gif"/>
 
-+ I continue on GPL enforcement for Conservancy projects.
-     - new reports at least once a week.
++ I continue enforcement for Conservancy.
+     - new reports each week.
 
-+ Matthew Garrett works hard on Android device compliance.
++ Matthew Garrett: Android device compliance.
 
-+ FSF is overwhelmed with violation reports.
++ FSF's queue as long as Conservancy.
 
 + Armijn (of gpl-violations.org) volunteers sporadically.
 
