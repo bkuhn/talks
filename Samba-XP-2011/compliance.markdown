@@ -391,9 +391,11 @@ arrest a guy who was just passing drugs from one guy to another.
      - FSF Licensing/Compliance Site: http://www.fsf.org/licensing
      - Slides source at: https://gitorious.org/bkuhn-small-hacks/talks
 
-This talk and the slides are:
-Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
+<span class="fitonslide">
+<p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn, and are licensed under:
+<p><img src="cc-by-sa-3-0_88x31.png"/>
+the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 Unported License</a>.</p>
 
-<img src="cc-by-sa-3-0_88x31.png"/>
-<a href="http://creativecommons.org/licenses/by-sa/3.0/us/">This presentation and these slides are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.
-            
+<p>Some images included herein are copyrighted by others. I believe my use of those images is fair use under USA &amp; German copyright law.  However, you should remove such images if you redistribute these slides under CC-By-SA.
+</p>
+</span>
