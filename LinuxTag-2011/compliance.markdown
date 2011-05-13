@@ -1,6 +1,6 @@
 % 12 Years of GPL Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Saturday 30 April 2011
+% Friday 13 may 2011
 
 # My History
 
@@ -154,6 +154,8 @@ proprietary nature of GPL violators.</p>
 + Harald is frustrated.
 
 # GPL-violations.org
+
+<img align=right src="harald-welte.jpg"/>
 
 + FSF was initially shy about lawsuits.
 

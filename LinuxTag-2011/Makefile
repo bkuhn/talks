@@ -4,7 +4,7 @@
 # an environment variable before you type make.
 
 ifndef PRESENTATION_BASE
-PRESENTATION_BASE=linuxtag
+PRESENTATION_BASE=compliance
 endif
 
 DO_INCREMENTAL_POINTS = -i -s
