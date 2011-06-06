@@ -138,28 +138,29 @@ MIT changed.
     + http://www.gnu.org/philosophy/who-does-that-server-really-serve.html
 
 # A New Era of Computing?
-<style type="text/css">
-.huge {
- font-size: 400pt
- }
-</style>
-<center>
-<span class="huge">&#x2601;</span>
-</center>
+
+Anyone know what this is?
+
+<img src="cloud-unicode.png" width="773" height="339" align="center" />
+
+&#x2601;
 
 # New Era: Cloud Computing?
-<style type="text/css">
-.medium {
- font-size: 150pt
- }
-</style>
-<p align="right">
-<span class="medium">&#x2601;</span>
-</p>
+
+<img src="cloud-unicode.png" width="580" height="254" align="center" />
 
 + Unicode Character 'CLOUD' (U+2601)
 + Given what this looks like &hellip;
      + &hellip; Unicode committee was omniscient.
+
+<style type="text/css">
+.medium {
+ font-size: 90pt
+ }
+</style>
+<p align="center">
+<span class="medium">&#x2601;</span>
+</p>
 
 # Cloud Computing: What changed?
 
@@ -279,15 +280,16 @@ MIT changed.
     + http://autonomo.us/
     + http://status.net/
 
-This talk and the slides are
++ About me:
+    + I co-host an oggcast, Free as In Freedom: faif.us
+    + I'm on identi.ca: @bkuhn
+    + I have a blog: http://ebb.org/blog
 
 Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
-
 <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
-alt="Creative Commons License" style="border-width:0" src="cc-license-88x31.png"
+alt="Creative Commons License" style="border-width:0" src="cc-by-sa-3-0_88x31.png"
 /></a><br />These slides, this talk, and audio/video recordings thereof
-are under a <a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons
-Attribution-Share Alike 3.0 United States License</a>.
-
+are licensed under the <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
+Attribution-Share Alike 3.0 Unported License</a>.
