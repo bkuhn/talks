@@ -1,0 +1,5 @@
+#!/bin/sh
+cd Conservancy && make && ./pres-cmd && \
+cd .. && cd GPLv3 && make && ./pres-cmd && \
+cd .. && cd NetServices && make netservices.html && ./pres-cmd && \
+echo "All ok"
