@@ -1,6 +1,6 @@
 % 12 Years of GPL Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Friday 29 April 2011
+% Saturday 30 April 2011
 
 # My History
 
@@ -100,7 +100,7 @@ Matthew Self
 
 <p> A long time ago, in a city far far away, the Empires had taken GNU tar
 and placed it into proprietary backup solutions.  A small band of freedom
-fighters enforced the GPL to liberate users who were opressed by the
+fighters enforced the GPL to liberate users who were oppressed by the
 proprietary nature of GPL violators.</p>
 
 # Tar Wars
@@ -121,9 +121,9 @@ proprietary nature of GPL violators.</p>
 
 + Let's sue!
 
-+ Lawyers told me courts are unlikely to order compliance as a rememdy.
++ Lawyers told me courts are unlikely to order compliance as a remedy.
 
-+ Courts usually give money and an injuction
++ Courts usually give money and an injunction
      - Company already gave latter of their own accord (de-facto)
 
 # Coalition of the Willing
@@ -188,8 +188,8 @@ proprietary nature of GPL violators.</p>
 + No one in non-profits is getting rich from this.
 
 + Who should pay for enforcement: 
-     - Those who *comply* or or those who *violate*?
-     - Individual donors.
+     - Those who *comply* or those who *violate*?
+     - Individual donors?
 
 + There must be a deterrent.
 
@@ -211,26 +211,27 @@ proprietary nature of GPL violators.</p>
 
 # Embedded Violations Prevalent
 
-+ Erik Andersen becomes exasperated.
++ Erik Andersen becomes exasperated by mid-2006.
      - post-Linksys compliance, router &amp; NAS market is a violation haven.
 
 + Erik asks for help.
 
 + Conservancy becomes his enforcement agent (and gets some others &copy; assignment)
 
-+ Conservancy has had > 100 (now > 300) GPL violations queued for action since 2007.
++ Conservancy has had > 100 GPL violations queued for action since 2007.
+     - Conservancy's list is now > 300
 
 # The Era of GPL Litigation
 
-+ Lawsuits become necessary.
-     - Dan Ravicher &amp; Aaron Williamson file some in USA.
++ Lawsuits become undeniably necessary.
+     - Dan Ravicher &amp; Aaron Williamson file some in USA: for Conservancy &amp; Erik.
 
 + Focus is to settle:
      - What we want more than anything else is full compliance &hellip;
      - &hellip; on *all* GPL'd and LGPL'd components &hellip;
      - &hellip; no judge will grant us all that &hellip;
      - &hellip; so we work hard to settle on that request &hellip;
-     - &hellip; taking money &amp; injunctions only as a consolation prize.
+     - &hellip; taking extra money &amp; injunctions only as a consolation prize.
 
 + But why is full compliance so hard for these companies?
 
@@ -253,7 +254,7 @@ arrest a guy who was just passing drugs from one guy to another.
 + No one ever turns &ldquo;states' evidence&rdquo;
      - &hellip; at least they don't for _me_, anyway.
 
-+ Me: &ldquo;Please, just tell me on the record your supplier violator&rdquo;
++ Me: &ldquo;Please, just tell me on the record your supplier violated when distributing to you.&rdquo;
 
 + Them: &ldquo;We'll work with our upstream to get into compliance.&rdquo;
 
@@ -288,24 +289,28 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + Armijn (of gpl-violations.org) volunteers sporadically.
 
-# Today.
+# Constant Vigilance!
 
-<img align="right" height="473" width="557" src="DQWindmill.gif"/>
+<img align="right" src="moody.jpg"/>
 
 + GPL Violations *are* *everywhere*.
 
-+ I'll take an even money bet for (almost) any amount:
++ My only recourse is &hellip;
+     - Constant Vigilance!
+
++ BTW, I'll take an even money bet for (almost) any amount:
      - Give me an hour, an Internet connection, and my laptop &hellip;
      - &amp; I'll find you a GPL-violating firmware I've never seen before.
 
 # More Info / Talk License
 
-+ Some URLS:
++ Some URLs:
      - Conservancy Website: http://sfconservancy.org/
      - My blog: ebb.org/bkuhn/blog
      - Personal Microblog: @bkuhn (on identi.ca)
-     - Conservancy Microblog: @conservancy (on identi.ca and twitter)
+     - Conservancy Microblog: @conservancy
      - FSF Licensing/Compliance Site: http://www.fsf.org/licensing
+     - Slides source at: https://gitorious.org/bkuhn-small-hacks/talks
 
 This talk and the slides are:
 Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
