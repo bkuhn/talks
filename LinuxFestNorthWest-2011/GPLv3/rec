@@ -1,0 +1,6 @@
+#!/bin/sh
+
+        /usr/bin/amixer -c 1 -- sset Mic 28dB capon
+#arecord -f cd -t wav -D plughw:1,0 $1.wav
+#-f S16_LE -c2 -r44100
+arecord -f S16_LE -c1 -r44100 -t wav -D plughw:1,0 $1.wav
