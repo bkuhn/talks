@@ -2,6 +2,7 @@
 
 talk=openfoam
 
+killall Xephyr
 rsync -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui
 rsync -HavP ../ui/  /home/pres/$talk/ui/
