@@ -112,7 +112,7 @@ MIT changed.
 + This doesn't work for Free Software &hellip;
      + &hellip; which needs worldwide distribution.
 
-+ Copyright, which governs software only gets this done.
++ Copyright, which governs software anyway, can do this.
 
 # Free Software Copyright License
 
@@ -120,7 +120,7 @@ MIT changed.
     + permissive vs. copyleft
     + both **want** software freedom.
 
-+ Permssive licensing:
++ Permissive licensing:
     + no legal requirement to share improvements.
     + authors usually still want it.
     + use social pressure.
@@ -128,7 +128,7 @@ MIT changed.
 + Copyleft.
      + prevents proprietarization by power of copyright.
      + share and share alike.
-     + failure to do so
+     + failure to do so is copyright infringement.
 
 # On Requirement By License
 
@@ -155,7 +155,7 @@ MIT changed.
 + Like most laws:
     + its spirit can be ignored.
     + it needs to be enforced.
-    + it can be manipluated and abused.
+    + it can be manipulated and abused.
 
 # How Do You Build Community?
 
@@ -167,6 +167,11 @@ MIT changed.
     + ideas
     + contribution
     + ownership
+
++ GPL fosters this diversity:
+    + each contributor typically owns their copyrights &hellip;
+    + &hellip; but it's contributed to the commons.
+    + ideas are shared and flourish.
 
 # GPL Corruption: MySQL
 
@@ -222,7 +227,7 @@ MIT changed.
     + FAQ: http://www.gnu.org/licenses/gpl-faq.html
 
 + About me:
-    + I co-host an oggcast, Free as In Freedom: faif.us
+    + I co-host an audcast, Free as In Freedom: faif.us
     + I'm on identi.ca (not twitter!): @bkuhn
     + I have a blog: http://ebb.org/blog
 
