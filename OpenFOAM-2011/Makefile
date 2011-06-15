@@ -60,7 +60,7 @@ $(PRESENTATION_BASE).pdf: $(PDF_FIGS) $(PRESENTATION_BASE).markdown
 	$(PDFLATEX)  $(PRESENTATION_BASE).tex
 
 $(PRESENTATION_BASE).html: $(PRESENTATION_BASE).markdown
-	$(PANDOC) $(DO_INCREMENTAL_POINTS) -S -C ./ui/conservancy/header.html -f markdown -t s5 $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).html
+	$(PANDOC) $(DO_INCREMENTAL_POINTS) -s -S --template ./ui/conservancy/pandoc-s5-template.html -f markdown -t s5 $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).html
 
 $(PRESENTATION_BASE).dvi: $(PRESENTATION_BASE).tex $(EPS_FIGS)
 	$(LATEX)  $(PRESENTATION_BASE).tex

@@ -1,7 +1,15 @@
-% With Software As a Service,<br/> Is Only the Network Luddite Free?
+% Copyleft Licensing and the Challenges of Software Freedom Community
 % Bradley M. Kuhn
-% Sunday 1 May 2011
+% 15  June 2011
 
+# Who Am I?
+
++ Executive Director of Software Freedom Conservancy.
+     + a non-profit home for permissive and copyleft projects
+
++ Member of Board of Directors of the FSF
+     + FSF are the authors of the GPL.
+ 
 # In The Beginning ...
 
 <img align=right src="pdp-10.jpg" />
@@ -40,7 +48,7 @@
 Some think he did:
 <br/>
 <img src="bill-gates-arrest.jpg" align="left"  />
-<p>Hai Hobbyists!  Softwearz gived free-domes, but I ated them.</p>
+<p>As the majority of hobbyists must be aware, most of you steal your software. &hellip; Software is something to share &hellip; You prevent good software from being written.</p>
 
 <br clear="all"/>
 
@@ -96,193 +104,126 @@ MIT changed.
 
 + For the user of individual computers.
 
-+ No reason now not to have freedom on your own machine.
++ How does it do this?
 
-# Internet changes little (to start)
+# Copy, Right?
 
-+ Client/Server computing.
++ Most software uses a contract EULA.
 
-+ Freedom implications are basically the same.
++ This doesn't work for Free Software &hellip;
+     + &hellip; which needs worldwide distribution.
 
-+ Example: The Email System.
++ Copyright, which governs software only gets this done.
 
-# Email: The MTA
+# Free Software Copyright License
 
-+ Yours has freedom: (postfix, exim, sendmail).
++ Roughly two different types of Free Sofware licenses:
+    + permissive vs. copyleft
+    + both **want** software freedom.
 
-+ Plenty of proprietary ones: (exchange).
++ Permssive licensing:
+    + no legal requirement to share improvements.
+    + authors usually still want it.
+    + use social pressure.
 
-+ RFCs define interoperability.
++ Copyleft.
+     + prevents proprietarization by power of copyright.
+     + share and share alike.
+     + failure to do so
 
-+ We reverse-engineer RFC-less protocols: (OpenChange).
+# On Requirement By License
 
-# Email: The MUA
+<img src="Constitution.jpg" align="right"  />
 
-+ Yours has freedom: (Thunderbird, mutt, Gnus)
++ Social pressure *does* work &hellip;
+     + &hellip; and should be used (and is), even for copylefted software.
 
-+ Plenty of proprietary ones: (outlook)
++ GPL == Constitution of Software Freedom Land.
+     + a &ldquo;written down&rdquo; embodiment of core principles.
 
-# The Great Fear: SaaS
++ GPL's a detailed implementation of the four freedoms.
 
-+ SaaS: Software as a Service
+# It Takes a Village
 
-+ True &ldquo;SaaS&rdquo; would end software freedom.
+<img src="gogh.village-street-auvers.jpg" align="right" width="404" height="319"  />
 
-+ Imagine: GCC as an network service.
++ GPL doesn't operate on its own.
 
-+ SaaS == your private computing done elsewhere.
++ It's a legal framework.
 
-+ Copyeft proponents all feared this threat.
++ Most people are good; they follow the spirit of the law.
 
-+ Is not widspread: but needs constant vigilance:
-    + http://www.gnu.org/philosophy/who-does-that-server-really-serve.html
++ Like most laws:
+    + its spirit can be ignored.
+    + it needs to be enforced.
+    + it can be manipluated and abused.
 
-# A New Era of Computing?
+# How Do You Build Community?
 
-Anyone know what this is?
++ Well, you don't **build** a community.
 
-<img src="cloud-unicode.png" width="773" height="339" align="center" />
++ One grows when the water's fine.
 
-&#x2601;
++ You need diversity of:
+    + ideas
+    + contribution
+    + ownership
 
-# New Era: Cloud Computing?
+# GPL Corruption: MySQL
 
-<img src="cloud-unicode.png" width="580" height="254" align="center" />
+<img width="274" height="383" align=right src="marten-mickos.jpg"/>
 
-+ Unicode Character 'CLOUD' (U+2601)
-+ Given what this looks like &hellip;
-     + &hellip; Unicode committee was omniscient.
++ Proprietary relicensing (by holding all copyright).
 
-<style type="text/css">
-.medium {
- font-size: 90pt
- }
-</style>
-<p align="center">
-<span class="medium">&#x2601;</span>
-</p>
++ GPL enforcement with profit as its primary (and only?) goal.
 
-# Cloud Computing: What changed?
++ MySQL would shake down GPL users to buy proprietary licenses they didn't need.
 
-+ The Browser as application delivery platform.
++ I wish I'd identified this as corruption sooner.
 
-+ AJAX.
+# How MySQL story ended?
 
-+ Whose computing is done where?
+<img align=right src="michael-rossiter-fish-eat-fish.jpg"/>
 
-+ Could Computing: more complicated than SaaS.
++ MySQL AB, Bought by Sun, then both by Oracle.
 
-+ Interesting applications are collaboration.
++ Forked by multiple communities.
 
-# Email becomes Gmail
++ Most thriving one doesn't require assignment to a company.
 
-+ "The experience"
++ But it's named Drizzle.
 
-+ Effectively: Thin Client.
+# What's in a Name?
 
-+ Mixes Up Free again: Price vs. Freedom.
++ Names aren't copyrighted.
+    + thus not copylefted either.
 
-+ RFCs no longer enough.
++ Trademark is legal system that governs names.
 
-+ We're back to proprietary "lock-in".
++ Often the name stays with whoever controlled it first commercially.
 
-+ Users like it for collaboration aspects.
++ New communities form new names (e.g., Drizzle).
 
-# Users and &ldquo;The Cloud&rdquo;
++ Ultimately this rarely matters.
+ 
+# Ongoing Prescription for Health?
 
-<center>
-<img src="cloud-bad.jpg"  />
-</center>
++ Develop in public
+    + share improvements, even when you don't have to.
 
-# Users and &ldquo;The Cloud&rdquo;
++ Take academic attitude about the software.
+    + publishing results means publishing related software.
 
-<center>
-<img src="cloud-symptoms-with-apps.jpg"  />
-</center>
-
-<p>Even *Worse* Than Proprietary Apps and OS'es</p>
-
-# What's The Challenge?
-
-+ Not merely a question of code and licensing.
-      + Although that's part of it (more later).
-
-+ A question of community source+data control.
-
-+ Power to transport: applications, data, human connections.
-
-+ Autonomy: of code, of data, of community.
-
-# How Do We Start?
-
-<img src="cloud-bad-with-bird-on-left.jpg" align="right"/>
-
-+ Infrastructure that respects freedom.
-
-+ Empower the user: give them **all** the code.
-
-# Can't Stop There
-
-+ User communities need ability to transplant.
-
-+ Reclaim your data; relocate your community.
-
-+ Truly distributed data.
-
-+ This is  **tough**  programming.
-
-# Projects to Look At
-
-+ status.net identi.ca (laconi.ca).
-     + DTRT in this regard for Microblogging
-     + Follow me there: 'bkuhn'
-
-+ Jesse Vincent's Prophet, CouchDB, and other truly decentralized data stores.
-
-+ Yourselves.
-    + make it even easier for developers to respect freedom.
-
-# License To Look At
-
-+ GPL is the BSD of Network Service.
-
-+ Affero GPL.
-
-+ Extends copyleft to network service world.
-
-+ Handles the code side well.
-
-# Techniques to Look At
-
-+ Deployed applications auto-give users source.
-
-+ Data is downloadable in community-chunks.
-
-# "Future" of the Cloud
-
-<img width=433 height=388 src="cloud-disappear.jpg" align="right"/>
-
-+ Disjoint but Integrated.
-
-+ Portable and Autonomous.
-
-+ Developers decide next direction.
-
-+ Ask **the** question in Cloud projects:
-      + Are we respecting the users' freedom and autonomy?
-
-+ The data is theirs; we are *their* custodians.
++ 
 
 # More Info and This Talk's License
 
-+ More Info?
-    + http://www.gnu.org/philosophy/who-does-that-server-really-serve.html
-    + http://autonomo.us/
-    + http://status.net/
++ More Info about GPL?
+    + FAQ: http://www.gnu.org/licenses/gpl-faq.html
 
 + About me:
     + I co-host an oggcast, Free as In Freedom: faif.us
-    + I'm on identi.ca: @bkuhn
+    + I'm on identi.ca (not twitter!): @bkuhn
     + I have a blog: http://ebb.org/blog
 
 Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
