@@ -34,12 +34,11 @@
 
 # &hellip; Then Freedom Eluded Us
 
+<img align=right src="berlin-wall-build.jpg" />
+
 + They built licensing walls.
 
 + By separating the software from the computer.
-
-<img align=right src="berlin-wall-build.jpg" />
-</center>
 
 + Who Invented Licensing?
 
@@ -48,7 +47,7 @@
 Some think he did:
 <br/>
 <img src="bill-gates-arrest.jpg" align="left"  />
-<p>As the majority of hobbyists must be aware, most of you steal your software. &hellip; Software is something to share &hellip; You prevent good software from being written.</p>
+<p>As the majority of hobbyists must be aware, most of you steal your software. &hellip; [If] software is something to share &hellip; You prevent good software from being written.</p>
 
 <br clear="all"/>
 
@@ -214,7 +213,8 @@ MIT changed.
 + Take academic attitude about the software.
     + publishing results means publishing related software.
 
-+ 
++ Control is an illusion anyway.
+    + If you love our software and your work, set it free.
 
 # More Info and This Talk's License
 
