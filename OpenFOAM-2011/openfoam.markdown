@@ -51,7 +51,7 @@ Some think he did:
 
 <br clear="all"/>
 
-+ Gates convinces IBM to license rather then acquire DOS.
++ Gates convinces IBM to license rather than acquire DOS.
 
 # Who Fixed this Problem?
 
