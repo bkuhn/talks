@@ -9,7 +9,9 @@
 
 + Member of Board of Directors of the FSF
      + FSF are the authors of the GPL.
- 
+
+(next slide at 04:58)
+
 # In The Beginning ...
 
 <img align=right src="pdp-10.jpg" />
@@ -22,6 +24,8 @@
 
 + ... and the users had freedom.
 
+(next slide at 05:40)
+
 # Ye Ol' Four Freedoms
 
 + to use.
@@ -32,6 +36,8 @@
 
 + to modify and share modified versions.
 
+(next slide at 08:40)
+
 # &hellip; Then Freedom Eluded Us
 
 <img align=right src="berlin-wall-build.jpg" />
@@ -41,6 +47,8 @@
 + By separating the software from the computer.
 
 + Who Invented Licensing?
+
+(next slide at 09:56)
 
 # Who Invented Licensing?
 <br/>
@@ -53,7 +61,11 @@ Some think he did:
 
 + Gates convinces IBM to license rather than acquire DOS.
 
+(next slide at 10:57)
+
 # Who Fixed this Problem?
+
+(next slide at 11:12)
 
 # Who Fixed this Problem?
 
@@ -62,6 +74,8 @@ Some think he did:
 <br/>
 <img src="rms-current.jpg"  />
 </center>
+
+(next slide at 11:28)
 
 # RMS
 
@@ -73,6 +87,8 @@ Some think he did:
 
 + In the Golden Age.
 
+(next slide at 11:46)
+
 # MIT AI Lab: The Golden Age
 
 <img src="pdp-10-2.jpg" align="right"  />
@@ -81,19 +97,27 @@ Some think he did:
  - software sharing.
  - no licenses!
 
+(next slide at 12:08)
+
 # MIT AI Lab
 
 <img src="ai-lab-tear-down.jpg" align="right"  />
 
 MIT changed.
 
+(next slide at 12:46)
+
 # MIT AI Lab
 
 <cite>patents == $$$</cite>
 
+(next slide at 12:54)
+
 # MIT AI Lab
 
 <cite>spin-offs == $$$</cite>
+
+(next slide at 13:44)
 
 # GNU
 
@@ -105,6 +129,8 @@ MIT changed.
 
 + How does it do this?
 
+(next slide at 14:22)
+
 # Copy, Right?
 
 + Most software uses a contract EULA.
@@ -113,6 +139,8 @@ MIT changed.
      + &hellip; which needs worldwide distribution.
 
 + Copyright, which governs software anyway, can do this.
+
+(next slide at 16:25)
 
 # Free Software Copyright License
 
@@ -130,6 +158,8 @@ MIT changed.
      + share and share alike.
      + failure to do so is copyright infringement.
 
+(next slide at 18:50)
+
 # On Requirement By License
 
 <img src="Constitution.jpg" align="right"  />
@@ -141,6 +171,8 @@ MIT changed.
      + a &ldquo;written down&rdquo; embodiment of core principles.
 
 + GPL's a detailed implementation of the four freedoms.
+
+(next slide at 19:50)
 
 # It Takes a Village
 
@@ -156,6 +188,8 @@ MIT changed.
     + its spirit can be ignored.
     + it needs to be enforced.
     + it can be manipulated and abused.
+
+(next slide at 21:15)
 
 # How Do You Build Community?
 
@@ -173,6 +207,8 @@ MIT changed.
     + &hellip; but it's contributed to the commons.
     + ideas are shared and flourish.
 
+(next slide at 24:18)
+
 # GPL Corruption: MySQL
 
 <img width="274" height="383" align=right src="marten-mickos.jpg"/>
@@ -185,6 +221,8 @@ MIT changed.
 
 + I wish I'd identified this as corruption sooner.
 
+(next slide at 26:31)
+
 # How MySQL story ended?
 
 <img align=right src="michael-rossiter-fish-eat-fish.jpg"/>
@@ -195,7 +233,9 @@ MIT changed.
 
 + Most thriving one doesn't require assignment to a company.
 
-+ But it's named Drizzle.
++ But it's named <a href="http://drizzle.org/">Drizzle</a>.
+
+(next slide at 28:10)
 
 # What's in a Name?
 
@@ -210,6 +250,8 @@ MIT changed.
 
 + Ultimately this rarely matters.
  
+(next slide at 30:49)
+
 # Ongoing Prescription for Health?
 
 + Develop in public
@@ -221,15 +263,19 @@ MIT changed.
 + Control is an illusion anyway.
     + If you love our software and your work, set it free.
 
+(next slide at 34:16)
+
 # More Info and This Talk's License
 
 + More Info about GPL?
-    + FAQ: http://www.gnu.org/licenses/gpl-faq.html
+    + FAQ: <a href="http://www.gnu.org/licenses/gpl-faq.html">http://www.gnu.org/licenses/gpl-faq.html</a>
 
 + About me:
-    + I co-host an audcast, Free as In Freedom: faif.us
-    + I'm on identi.ca (not twitter!): @bkuhn
-    + I have a blog: http://ebb.org/blog
+    + I co-host an audcast, <a href="http://faif.us">Free as In Freedom: faif.us</a>
+    + I'm on identi.ca (not twitter!): <a href="http://identi.ca/bkuhn">@bkuhn</a>
+    + I have a blog: <a href="http://ebb.org/bkuhn/blog">http://ebb.org/bkuhn/blog</a>
+
+(Q&amp;A at 35:17)
 
 Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
 <a rel="license"
