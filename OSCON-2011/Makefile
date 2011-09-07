@@ -3,10 +3,9 @@
 # You can change the PRESENTATION_BASE below, or if you like, or set it as
 # an environment variable before you type make.
 
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/LinuxTag-2011
-
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=compliance
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/OSCON-2011
 endif
 
 DO_INCREMENTAL_POINTS = -i -s
@@ -62,7 +61,7 @@ $(PRESENTATION_BASE).pdf: $(PDF_FIGS) $(PRESENTATION_BASE).markdown
 	$(PDFLATEX)  $(PRESENTATION_BASE).tex
 
 $(PRESENTATION_BASE).html: $(PRESENTATION_BASE).markdown
-	$(PANDOC) $(DO_INCREMENTAL_POINTS) -S -C ./ui/conservancy/header.html -f markdown -t s5 $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).html
+	$(PANDOC) $(DO_INCREMENTAL_POINTS) -s -S --template ./ui/conservancy/pandoc-s5-template.html -f markdown -t s5 $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).html
 
 $(PRESENTATION_BASE).dvi: $(PRESENTATION_BASE).tex $(EPS_FIGS)
 	$(LATEX)  $(PRESENTATION_BASE).tex

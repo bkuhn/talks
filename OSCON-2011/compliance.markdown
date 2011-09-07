@@ -1,6 +1,6 @@
 % 12 Years of GPL Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Friday 13 May 2011
+% Friday 29 July 2011
 
 # My History
 
@@ -176,7 +176,7 @@ proprietary nature of GPL violators.</p>
 
 + All but one violator came into compliance.
 
-# Courts may never give compliance.
+# Court May Not Mandate Source Release
 
 + Last GNU tar enforcement I ever did was circa mid-2002.
 
@@ -184,7 +184,7 @@ proprietary nature of GPL violators.</p>
 
 + Let's sue!
 
-+ Lawyers told me courts are unlikely to order compliance as a remedy.
++ Lawyers told me courts are unlikely to order a source release as a remedy.
 
 + Courts usually give money and an injunction
      - Company already gave latter of their own accord (de-facto)
@@ -197,7 +197,7 @@ proprietary nature of GPL violators.</p>
 
 + Discussions begin with Cisco (who'd bought Linksys just weeks before)
 
-+ Story hits slashdot 2003-06-08
++ Story hits slashdot on 2003-06-08
 
 + FSF puts together group to do enforcement.
      - key members: Erik Andersen (BusyBox) &amp; Harald Welte (Linux)
@@ -226,13 +226,13 @@ proprietary nature of GPL violators.</p>
 
 + launches multiple lawsuits in Germany (about 8 between 2005-2008).
 
-+ Quite successful, although has same &ldquo;courts generally only grant injunction&rdquo; again.
++ Quite successful, although has in some cases, courts only grant injunction.
 
 # GCC Redux, 2003-2005
 
 + Embedded systems become major part of industry.
 
-+ GCC is best compiler.
++ GCC is the best compiler.
 
 + Many companies start making GCC-based toolchains.
 
@@ -281,7 +281,7 @@ proprietary nature of GPL violators.</p>
 
 + Erik asks for help.
 
-+ Conservancy becomes his enforcement agent (and gets some others &copy; assignment)
++ Conservancy becomes his enforcement agent (&amp; receive some others' &copy; assignment)
 
 + Conservancy has had > 100 GPL violations queued for action since 2007.
      - Conservancy's list is now > 300
@@ -292,7 +292,7 @@ proprietary nature of GPL violators.</p>
      - Dan Ravicher &amp; Aaron Williamson file some in USA: for Conservancy &amp; Erik.
 
 + Focus is to settle:
-     - What we want more than anything else is full compliance &hellip;
+     - More than anything else, we want full compliance &hellip;
      - &hellip; on *all* GPL'd and LGPL'd components &hellip;
      - &hellip; judge is unlikely to grant us all that &hellip;
      - &hellip; so we work hard to settle on that request &hellip;
@@ -300,7 +300,7 @@ proprietary nature of GPL violators.</p>
 
 # Linksys Redux
 
-+ 2003-2004, everything they put out is VxWorks.
++ 2003-2004: all embedded consumer devices are VxWorks.
 
 + Circa late 2004, BusyBox/Linux &amp; GNU/Linux slowly becomes the Linksys default again.
 
@@ -426,8 +426,6 @@ by the Installation Information.</p>
 
 + FSF's queue as long as Conservancy.
 
-+ Armijn (of gpl-violations.org) volunteers sporadically.
-
 # Constant Vigilance!
 
 <img align="right" src="moody.jpg"/>
@@ -451,10 +449,8 @@ by the Installation Information.</p>
      - Slides source: gitorious.org/bkuhn-small-hacks/talks
 
 <span class="fitonslide">
-<p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn, and are licensed under:
-<p><img src="cc-by-sa-3-0_88x31.png"/>
-the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 Unported License</a>.</p>
+<p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 Unported License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
 
-<p>Some images included herein are copyrighted by others. I believe my use of those images is fair use under USA &amp; German copyright law.  However, you should remove such images if you redistribute these slides under CC-By-SA.
+<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA.
 </p>
 </span>
