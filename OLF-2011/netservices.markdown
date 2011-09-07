@@ -1,6 +1,6 @@
 % With Software As a Service,<br/> Is Only the Network Luddite Free?
 % Bradley M. Kuhn
-% Sunday 1 May 2011
+% Saturday 10 September 2011
 
 # In The Beginning ...
 
@@ -40,7 +40,7 @@
 Some think he did:
 <br/>
 <img src="bill-gates-arrest.jpg" align="left"  />
-<p>Hai Hobbyists!  Softwearz gived free-domes, but I ated them.</p>
+<p>As the majority of hobbyists must be aware, most of you steal your software. &hellip; [If] software is something to share &hellip; You prevent good software from being written.</p>
 
 <br clear="all"/>
 
@@ -170,7 +170,7 @@ Anyone know what this is?
 
 + Whose computing is done where?
 
-+ Could Computing: more complicated than SaaS.
++ Cloud Computing: more complicated than SaaS.
 
 + Interesting applications are collaboration.
 
@@ -188,6 +188,52 @@ Anyone know what this is?
 
 + Users like it for collaboration aspects.
 
+# Talk about Obfuscated!
+<span class="fitonslide">
+<pre>
+try{function e(b){throw b;}var i=void 0,k=null;
+function aa(){return function(b){return b}}
+function m(){return function(){}}
+function ba(b){return function(a){this[b]=a}}
+function o(b){ return function(){return this[b]}}
+function p(b){return function(){return b}}var q;
+function da(b,a,c){b=b.split(".");c=c||ea;
+!(b[0]in c)&&c.execScript&&c.execScript("var "+b[0]);
+for(var d;b.length&&(d=b.shift());)
+!b.length&&s(a)?c[d]=a:c=c[d]?c[d]:c[d]={}}
+function fa(b,a){for(var c=b.split("."),d=a||ea,f;f=c.shift();)
+if(t(d[f]))d=d[f];else return k;return d}function u(){}
+function ga(b){b.va=function $(){return b.xY||(b.xY=new b)}}
+function ia(b){var a=typeof b;if(a=="object")if(b){
+if(b instanceof Array)return"array";else if(b instanceof Object)return a;
+var c=Object.prototype.toString.call(b);if(c=="[object Window]")
+return"object";if(c=="[object Array]"||typeof b.length=="number"&&
+typeof b.splice!="undefined"&&typeof b.propertyIsEnumerable!="undefined"
+&&!b.propertyIsEnumerable("splice"))return"array";
+if(c=="[object Function]"||typeof b.call!="undefined"&&
+typeof b.propertyIsEnumerable!="undefined"&&!b.propertyIsEnumerable("call"))
+return"function"}else return"null";
+else if(a=="function"&&typeof b.call=="undefined")return"object";return a}function s(b){return b!==i}function ja(b){return b===k}function t(b){return b!=k}function ka(b){return ia(b)=="array"}function la(b){var a=ia(b);return a=="array"||a=="object"&&typeof b.length=="number"}function ma(b){return typeof b=="string"}function na(b){return typeof b=="boolean"}function oa(b){return typeof b=="number"}function pa(b){return ia(b)=="function"}
+</pre>
+
+# The Javascript Problem
+
+  + Microsoft **gets** this:
+       + the platform for future of proprietariness &hellip;
+       + &hellip; is already on your computer.
+
+  + Sure, you run a Free as in freedom operating system &hellip;
+       + &hellip; but how much proprietary code runs in your browser?
+       + Ultimately, they're proprietary application binaries.
+
+***
+
+> JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
+
+<p align=right>
+ &mdash; Erik Meijer of Microsoft on 5 July 2011.
+</p>
+
 # Users and &ldquo;The Cloud&rdquo;
 
 <center>
@@ -202,10 +248,9 @@ Anyone know what this is?
 
 <p>Even *Worse* Than Proprietary Apps and OS'es</p>
 
-# What's The Challenge?
+# The Bigger Challenge
 
 + Not merely a question of code and licensing.
-      + Although that's part of it (more later).
 
 + A question of community source+data control.
 
@@ -236,6 +281,7 @@ Anyone know what this is?
 + status.net identi.ca (laconi.ca).
      + DTRT in this regard for Microblogging
      + Follow me there: 'bkuhn'
+     + Losing Free Software Community lately to Google Plus
 
 + Jesse Vincent's Prophet, CouchDB, and other truly decentralized data stores.
 
@@ -251,6 +297,8 @@ Anyone know what this is?
 + Extends copyleft to network service world.
 
 + Handles the code side well.
+
++ Very few net applications use AGPL, though!
 
 # Techniques to Look At
 
@@ -275,21 +323,12 @@ Anyone know what this is?
 
 # More Info and This Talk's License
 
-+ More Info?
-    + http://www.gnu.org/philosophy/who-does-that-server-really-serve.html
-    + http://autonomo.us/
-    + http://status.net/
++ More Info: 
+    + http://gnu.org/philosophy/who-does-that-server-really-serve.html
+    + Oggcast: faif.us ; Blog: ebb.org/bkuhn/blog 
+    + identi.ca: @bkuhn
 
-+ About me:
-    + I co-host an oggcast, Free as In Freedom: faif.us
-    + I'm on identi.ca: @bkuhn
-    + I have a blog: http://ebb.org/blog
+<p>Presentation &amp; slides: Copyright &copy; 2008&mdash;2011 Bradley M. Kuhn.  License: <a href="http://creativecommons.org/licenses/by-sa/3.0/us">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
 
-Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn.
-<a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
-alt="Creative Commons License" style="border-width:0" src="cc-by-sa-3-0_88x31.png"
-/></a><br />These slides, this talk, and audio/video recordings thereof
-are licensed under the <a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
-Attribution-Share Alike 3.0 Unported License</a>.
+<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA.
+</p>
