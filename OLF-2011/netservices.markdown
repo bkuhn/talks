@@ -114,7 +114,7 @@ MIT changed.
 
 + RFCs define interoperability.
 
-+ We reverse-engineer RFC-less protocols: (OpenChange).
++ We protocol-analyze &amp; reimplement RFC-less protocols: (OpenChange).
 
 # Email: The MUA
 
@@ -132,10 +132,7 @@ MIT changed.
 
 + SaaS == your private computing done elsewhere.
 
-+ Copyeft proponents all feared this threat.
-
-+ Is not widspread: but needs constant vigilance:
-    + http://www.gnu.org/philosophy/who-does-that-server-really-serve.html
++ Copyleft proponents all feared this threat.
 
 # A New Era of Computing?
 
@@ -186,8 +183,6 @@ Anyone know what this is?
 
 + We're back to proprietary "lock-in".
 
-+ Users like it for collaboration aspects.
-
 # Talk about Obfuscated!
 <span class="fitonslide">
 <pre>
@@ -222,17 +217,19 @@ else if(a=="function"&&typeof b.call=="undefined")return"object";return a}functi
        + the platform for future of proprietariness &hellip;
        + &hellip; is already on your computer.
 
-  + Sure, you run a Free as in freedom operating system &hellip;
-       + &hellip; but how much proprietary code runs in your browser?
-       + Ultimately, they're proprietary application binaries.
+  + You might run a software freedom operating system &hellip;
+       + &hellip; but how much proprietary runs in your browser?
+       + Effectively, &ldquo;Compressed&rdquo; Javascript is a proprietary binary.
 
 ***
 
 > JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
 
+<span class="fitonslide">
 <p align=right>
  &mdash; Erik Meijer of Microsoft on 5 July 2011.
 </p>
+</span>
 
 # Users and &ldquo;The Cloud&rdquo;
 
@@ -266,7 +263,11 @@ else if(a=="function"&&typeof b.call=="undefined")return"object";return a}functi
 
 + Empower the user: give them **all** the code.
 
-# Can't Stop There
++ Link to your Javascript source repository.
+
++ Explain what code runs on server &amp;  **share that code**.
+
+# New Code's Needed, Too
 
 + User communities need ability to transplant.
 
@@ -274,19 +275,20 @@ else if(a=="function"&&typeof b.call=="undefined")return"object";return a}functi
 
 + Truly distributed data.
 
-+ This is  **tough**  programming.
++ This programming is  **tough**.
 
 # Projects to Look At
 
-+ status.net identi.ca (laconi.ca).
++ Run NoScript plugin to at least see what proprietary Javascript you're getting.
+
++ status.net / identi.ca
      + DTRT in this regard for Microblogging
      + Follow me there: 'bkuhn'
      + Losing Free Software Community lately to Google Plus
 
-+ Jesse Vincent's Prophet, CouchDB, and other truly decentralized data stores.
++ MediaGoblin (replaces Flickr &amp; Picasso) 
 
-+ Yourselves.
-    + make it even easier for developers to respect freedom.
++ Jesse Vincent's Prophet, CouchDB, and other truly decentralized data stores.
 
 # License To Look At
 
@@ -298,7 +300,7 @@ else if(a=="function"&&typeof b.call=="undefined")return"object";return a}functi
 
 + Handles the code side well.
 
-+ Very few net applications use AGPL, though!
++ Very few applications use AGPL, though!
 
 # Techniques to Look At
 
@@ -314,7 +316,7 @@ else if(a=="function"&&typeof b.call=="undefined")return"object";return a}functi
 
 + Portable and Autonomous.
 
-+ Developers decide next direction.
++ Developers will decide next direction.
 
 + Ask **the** question in Cloud projects:
       + Are we respecting the users' freedom and autonomy?
