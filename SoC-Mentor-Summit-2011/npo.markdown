@@ -1,6 +1,6 @@
 % Non-Profit Infrastructure for Software Freedom
 % Bradley M. Kuhn
-% Sunday 1 May 2011
+% Saturday 22 October 2011
 
 # Who Am I?
 
@@ -10,7 +10,6 @@
 
 + Much of my views are influenced by these roles.
 
-+ This talk is on behalf of Conservancy, though.
 
 # Why *Did* People Write Free Software?
 
@@ -36,9 +35,9 @@
      - &hellip; maybe to work on Free Software.
      - &hellip; but companies control employee's time in their interest.
 
-# Where Things Head
+# Where Things May Be Headed
 
-+ FLOSS slowly goes toward for-profit corporate interest.
++ FLOSS sometimes drifts toward for-profit corporate interest.
 
 + Or, it's purely thrown over the wall.
     - At corporate whim
@@ -108,9 +107,9 @@
 + Many projects get same benefit of single non-profit.
 
 + Current 501(c)(3) options are:
-     - Apache Software Foundation
      - Software Freedom Conservancy
      - Software in the Public Interest
+     - Apache Software Foundation
 
 # Software Freedom Conservancy
 
@@ -120,10 +119,10 @@
     - Evaluation by Board of Directors.
 
 + Key benefits:
-   - earmarked donations.
-   - basic developer liability protection.
-   - basic legal services (incl license enforcement)
-   - holding assets.
+    - earmarked donations.
+    - basic developer liability protection.
+    - basic legal services (incl license enforcement)
+    - holding assets.
 
 # Software in the Public Interest
 
@@ -151,8 +150,10 @@
 
 # More Info and This Talk's License
 
-+ More Info on Conservancy?
-    + http://sfconservancy.org
++ More Info:
+    + Conservancy: http://sfconservancy.org
+    + SPI: http://spi-inc.org/
+    + Apache: http://apache.org/
 
 + About me:
     + I co-host an oggcast, Free as In Freedom: faif.us
@@ -165,5 +166,5 @@ href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
 alt="Creative Commons License" style="border-width:0" src="cc-by-sa-3-0_88x31.png"
 /></a><br />These slides, this talk, and audio/video recordings thereof
 are licensed under the <a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
-Attribution-Share Alike 3.0 Unported License</a>.
+href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons
+Attribution-Share Alike 3.0 United States License</a>.
