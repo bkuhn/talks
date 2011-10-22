@@ -28,7 +28,7 @@
 
 + Open Source is a corporate *fad* now.
 
-+ VC's use Open Source manipulatively
++ VC's use Open Source manipulatively.
      - proprietary relicensing
      - proprietary add-ons
 
@@ -36,21 +36,20 @@
      - &hellip; maybe to work on Free Software.
      - &hellip; but companies control employee's time in their interest.
 
-# Where Things Are Heading
+# Where Things Head
 
 + FLOSS slowly goes toward for-profit corporate interest.
 
 + Or, it's purely thrown over the wall.
     - At corporate whim
-    - cf: Android delayed release
 
 + Project decisions are made by companies.
 
 # Software Freedom Governance?
 
-+ Corporate sponsorship are common.
++ Yet, corporate sponsorships are common and desired.
 
-+ For-profit control of projects can be dangerous.
++ But for-profit control of projects can be dangerous.
 
 + Fedora vs. Ubuntu as Coke vs. Pepsi
 
@@ -60,7 +59,9 @@
 
 + Those who care most about software are usually *not* shareholders.
 
-+ Interests only align sometimes with community.
++ Interests do align sometimes with software freedom community.
+
++ Common ground is needed so multiple for-profits can participate.
 
 # Non-Profits are Different
 
@@ -70,24 +71,29 @@
 
 + Non-profit orgs (NPOs) are best place for software freedom.
 
++ Provide a place to receive philanthropy
+     - (e.g., a place for SoC mentor funds to go)
+
 # What Can NPOs Do?
 
 + Collect (USA-tax-deductible) donations for a project.
       - both individual and corporate.
 
-+ Distribute that money to advance project (and public good).
++ Distribute that money to advance &amp; improve project (and public good).
 
 + Make sure project isn't controlled by for-profit interests.
 
 + Help leadership with non-technical decisions.
 
 + Neutral ground when corporations sponsor.
- 
+
 # Organization Proliferation
+
++ You can go your own way, but &hellip;
 
 + Too many NPOs will confuse donors.
 
-+ Need a board of directors, incorporation, meetings, IRS filings.
++ Each needs a board of directors, incorporation, meetings, IRS filings.
 
 + Hackers end up doing work they hate.
 
@@ -95,39 +101,57 @@
 
 # Aggregating Under Umbrella
 
-+ Conservancy is designed as one organization.
++ Sometimes called a &ldquo;fiscal sponsor&rdquo;
+    + it doesn't mean they give you money &hellip;
+    + &hellip; but rather handle assets for you.
 
-+ Composed of many different projects.
++ Many projects get same benefit of single non-profit.
 
-+ Each has its own funds.
++ Current 501(c)(3) options are:
+     - Apache Software Foundation
+     - Software Freedom Conservancy
+     - Software in the Public Interest
 
-+ One board of directors, one non-technical governance structure.
+# Software Freedom Conservancy
 
-# Funding Through Conservancy 
++ Requirements:
+    - Any license on both FSF's and OSI's lists.
+    - Established project.
+    - Evaluation by Board of Directors.
 
-+ Travel to conferences.
++ Key benefits:
+   - earmarked donations.
+   - basic developer liability protection.
+   - basic legal services (incl license enforcement)
+   - holding assets.
 
-+ Handling Google SoC and other philanthropy programs.
+# Software in the Public Interest
 
-+ Conference invoicing and contracts.
++ Requirements:
+    - License meets DFSG.
+    - Evaluation by Board of Directors.
 
-+ Stipends and paid development contracts for developers.
++ Key benefit:
+    - earmarked donations.
+    - holding assets.
 
-+ Fiscal oversight.
+# Apache Software Foundation
 
-# How to Join?
++ Requirements:
+    - Apache License.
+    - Must use SVN.
+    - Must follow &ldquo;Apache Way&rdquo;.
+    - Incubator process.
 
-+ Looking for established projects.
-
-+ Relatively informal process.
-
-+ Email info@sfconservancy.org
-
-+ 6-8 month signup lead time.
++ Benefits:
+    - Can apply for funding through Apache
+        - (but no earmarked donations)
+    - Technological infastructure &amp; hosting.
+    - basic developer liability protection.
 
 # More Info and This Talk's License
 
-+ More Info?
++ More Info on Conservancy?
     + http://sfconservancy.org
 
 + About me:
