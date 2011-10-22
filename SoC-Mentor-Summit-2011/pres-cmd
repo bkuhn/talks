@@ -1,0 +1,9 @@
+#!/bin/sh
+
+talk=conservancy
+
+rsync --delete -HavP ./  /home/pres/$talk/
+rm -rf /home/pres/$talk/ui
+rsync --delete -HavP ../../ui/  /home/pres/$talk/ui/
+find /home/pres/$talk -exec chmod gou+r {} \;
+find /home/pres/$talk -type d -exec chmod gou+rx {} \;
