@@ -8,8 +8,9 @@
     - On Board of Directors of Free Software Foundation.
     - President and Executive Director of Software Freedom Conservancy.
 
-+ Much of my views are influenced by these roles.
++ Many of my views are influenced by these roles.
 
++ These are still my views, not those of these orgs or others.
 
 # Why *Did* People Write Free Software?
 
@@ -20,6 +21,8 @@
 + Founded on idealism.
 
 + Recruited volunteers.
+
++ Paid non-profit staff.
 
 + Those projects remain community-oriented.
 
@@ -64,7 +67,7 @@
 
 # Non-Profits are Different
 
-+ 501(c)(3) Non-profits act in interest of the public good.
++ 501(c)(3) non-profits act in interest of the public good.
 
 + Software freedom is best when in public good.
 
@@ -111,6 +114,8 @@
      - Software in the Public Interest
      - Apache Software Foundation
 
++ Or, you can still go your own way.
+
 # Software Freedom Conservancy
 
 + Requirements:
@@ -145,8 +150,13 @@
 + Benefits:
     - Can apply for funding through Apache
         - (but no earmarked donations)
-    - Technological infastructure &amp; hosting.
+    - Technological infrastructure &amp; hosting.
     - basic developer liability protection.
+
+# Going Your Own Way
+
++ Should only do this if you want to be a non-profit administrator
+     + at least some of the time.
 
 # More Info and This Talk's License
 
