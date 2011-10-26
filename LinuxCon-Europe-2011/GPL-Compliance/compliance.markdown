@@ -117,7 +117,6 @@ passing C to gcc.</p>
 Brian
 </span>
 
-
 # NeXT Answers
 
 <span class="fitonslide">
@@ -318,7 +317,7 @@ don't come up with this stuff. I just forward it along. You wouldn't
 arrest a guy who was just passing drugs from one guy to another.
 
 <p align="right">
- -- Michael Scott, *The Office* 
+ -- Michael Scott, *The Office* (USA Version)
 </p>
 
 # Suppliers Bully OEMs, AFAICT 
