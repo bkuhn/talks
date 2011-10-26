@@ -1,4 +1,4 @@
-% 12 Years of GPL Compliance: A Historical Perspective
+% 12 Years of FLOSS License Compliance: A Historical Perspective
 % Bradley M. Kuhn
 % Wednesady 26 October 2011
 
