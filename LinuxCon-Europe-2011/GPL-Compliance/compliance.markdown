@@ -43,8 +43,6 @@
 
 # How GPL Works (Theoretically)
 
-<img src="theory-vs-practice.jpg" align="right"  />
-
 + Copyright: the internationalized standard for authors' controls over works.
 
 + Use copyright license to grant permission.
