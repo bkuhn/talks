@@ -412,7 +412,7 @@ by the Installation Information.</p>
 
 + Matthew Garrett: Android device compliance.
 
-+ FSF's queue as long as Conservancy.
++ FSF's queue as long as Conservancy's.
 
 # Constant Vigilance!
 
@@ -434,7 +434,7 @@ by the Installation Information.</p>
      - Me: ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
      - FSF Licensing Site: fsf.org/licensing
      - Report GPL violations: &lt;compliance@sfconservancy.org&gt;
-     - Slides at: ebb.org/bkuhn/talks
+     - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
