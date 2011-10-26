@@ -1,6 +1,6 @@
 % 12 Years of GPL Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Friday 29 July 2011
+% Wednesady 26 October 2011
 
 # My History
 
@@ -144,18 +144,6 @@ are very small.)</p>
 
 Matthew Self
 </span>
-
-
-# Thus Begins Jobs' GPL hatred.
-
-<img src="steve-jobs-bond.jpg" align="right"  />
-
-+ Apple is ditching Samba soon.
-
-+ Apple to this day works hard to ditch GCC.
-     + LLVM funding.
-
-+ Spreads FUD about GPLv3.
 
 # Tar Wars
 
@@ -446,7 +434,7 @@ by the Installation Information.</p>
      - Me: ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
      - FSF Licensing Site: fsf.org/licensing
      - Report GPL violations: &lt;compliance@sfconservancy.org&gt;
-     - Slides source: gitorious.org/bkuhn/talks
+     - Slides at: ebb.org/bkuhn/talks
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
