@@ -1,16 +1,6 @@
-% Non-Profit Infrastructure for Software Freedom
+% Software Freedom Conservancy: Non-Profit Infrastructure For FLOSS
 % Bradley M. Kuhn
-% Sunday 1 May 2011
-
-# Who Am I?
-
-+ Two official roles:
-    - On Board of Directors of Free Software Foundation.
-    - President and Executive Director of Software Freedom Conservancy.
-
-+ Much of my views are influenced by these roles.
-
-+ This talk is on behalf of Conservancy, though.
+% Thursday 27 October 2011
 
 # Why *Did* People Write Free Software?
 
@@ -21,6 +11,8 @@
 + Founded on idealism.
 
 + Recruited volunteers.
+
++ Paid non-profit staff.
 
 + Those projects remain community-oriented.
 
@@ -52,7 +44,8 @@
 
 + For-profit control of projects can be dangerous.
 
-+ Fedora vs. Ubuntu as Coke vs. Pepsi
++ Fedora vs. Ubuntu
+    - loss leader products to upsell RHEL, etc.
 
 # Danger of For-Profits
 
@@ -64,13 +57,14 @@
 
 # Non-Profits are Different
 
-+ 501(c)(3) Non-profits act in interest of the public good.
++ USA 501(c)(3) non-profits act in interest of the public good.
+    - similar to: Stichting in Netherlands or 1901 non-profit association in France
 
 + Software freedom is best when in public good.
 
 + Non-profit orgs (NPOs) are best place for software freedom.
 
-# What Can NPOs Do?
+# What Can USA NPOs Do?
 
 + Collect (USA-tax-deductible) donations for a project.
       - both individual and corporate.
@@ -141,5 +135,5 @@ href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
 alt="Creative Commons License" style="border-width:0" src="cc-by-sa-3-0_88x31.png"
 /></a><br />These slides, this talk, and audio/video recordings thereof
 are licensed under the <a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
-Attribution-Share Alike 3.0 Unported License</a>.
+href="http://creativecommons.org/licenses/by-sa/3.0/us">Creative Commons
+Attribution-Share Alike 3.0 United States License</a>.
