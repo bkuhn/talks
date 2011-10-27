@@ -16,6 +16,8 @@
 
 # Nature of Free Software Community
 
+<img width="340" height="512" align=right src="detective-munch.jpg"/>
+
 + Through the eyes of a GPL enforcer &hellip;
 
 + The Free Software Community is separated into two equally important groups:
