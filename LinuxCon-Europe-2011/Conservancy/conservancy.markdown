@@ -121,13 +121,12 @@
 
 # More Info and This Talk's License
 
-+ More Info?
-    + http://sfconservancy.org
-
-+ About me:
-    + I co-host an oggcast, Free as In Freedom: faif.us
-    + I'm on identi.ca: @bkuhn
-    + I have a blog: http://ebb.org/blog
++ URLs / Social Networking / Email:
+     - Conservancy: sfconservancy.org &amp; @conservancy
+     - Me: ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
+     - FSF Licensing Site: fsf.org/licensing
+     - Report GPL violations: &lt;compliance@sfconservancy.org&gt;
+     - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
 
 Copyright &copy; 2010, 2011 Bradley M. Kuhn.
 <a rel="license"
