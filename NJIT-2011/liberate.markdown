@@ -93,15 +93,21 @@ MIT changed.
 
 # MIT AI Lab
 
-<cite>patents == $$$</cite>
-
-# MIT AI Lab
-
 <cite>spin-offs == $$$</cite>
+
+# Restoring Natural Rights
+
++ Software Freedom activists believe four freedoms are inalienable rights &hellip;
+
++ &hellip; that every developer and users should have &hellip;
+
++ &hellip; developers &amp; sysadmins are left helpless without software freedom.
+
++ Proprietary software is actually harmful.
 
 # Software Freedom and Money?
 
-+ Licensing doesn't account for most software revenue.
++ Licensing *doesn't* account for most software revenue.
 
 + Most software business models are software-freedom-compatible:
     + services
@@ -187,20 +193,17 @@ MIT changed.
 # More Info and This Talk's License
 
 + More Info:
-    + Conservancy: http://sfconservancy.org
-    + FSF: http://fsf.org
-    + Google Summer of Code: http://code.google.com/soc/
+    + Software Freedom Conservancy: sfconservancy.org
+    + Free Software Foundation: fsf.org
+    + Please donate to these two 501(c)(3) charities!
 
 + About me:
     + I co-host an oggcast, Free as In Freedom: faif.us
     + I'm on identi.ca: @bkuhn
     + I have a blog: http://ebb.org/blog
 
-Copyright &copy; 2010, 2011 Bradley M. Kuhn.
-<a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
-alt="Creative Commons License" style="border-width:0" src="cc-by-sa-3-0_88x31.png"
-/></a><br />These slides, this talk, and audio/video recordings thereof
-are licensed under the <a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons
-Attribution-Share Alike 3.0 United States License</a>.
+
+<span class="fitonslide">
+<p>Presentation &amp; slides: Copyright &copy; 2010, 2011 Bradley M. Kuhn.  License: <a href="http://creativecommons.org/licenses/by-sa/3.0/us">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
+<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA.</p>
+</span>
