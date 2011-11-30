@@ -1,6 +1,6 @@
 #!/bin/sh
 
-talk=npo
+talk=liberate
 
 rsync --delete -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui
