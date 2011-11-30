@@ -150,6 +150,8 @@ MIT changed.
 
 # Luis Rodriguez
 
+<img src="luis-rodriguez.jpg" align="right"  />
+
 + Invited me to speak at Rutgers in 2002.
 
 + Had just started working on wireless device drivers as part of Rutgers research project.
