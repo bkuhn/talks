@@ -74,6 +74,7 @@ clean:
 err: ; $(ERR)
 
 install: all
+	mkdir -p $(INSTALL_DIR)
 	rsync -HavP ./  $(INSTALL_DIR)
 	rm -rf $(INSTALL_DIR)/ui
 	rsync -HavP ../ui/ $(INSTALL_DIR)/ui/
