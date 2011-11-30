@@ -188,6 +188,9 @@ MIT changed.
 
 + Learn the developer tools (bug tracker, DVCS, etc.).
 
++ Offer patches to fix documented, minor bugs at first.
+     + Prepare to have your first few patches rejected.
+
 + Participate in Google Summer of Code: http://code.google.com/soc/
 
 # More Info and This Talk's License
