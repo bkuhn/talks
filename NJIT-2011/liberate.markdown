@@ -1,169 +1,167 @@
-% Non-Profit Infrastructure for Software Freedom
+% Liberating Software for Fun and Profit
 % Bradley M. Kuhn
-% Saturday 22 October 2011
+% Wednesday 30 November 2011
 
-# Who Am I?
+# What's This About?
 
-+ Two official roles:
-    - On Board of Directors of Free Software Foundation.
-    - President and Executive Director of Software Freedom Conservancy.
++ For many of us, we're not just in this for the money.
 
-+ Many of my views are influenced by these roles.
++ We'd like to be employed &hellip;
 
-+ These are still my views, not those of these orgs or others.
++ &hellip; doing something we enjoy &hellip;
 
-# Why *Did* People Write Free Software?
++ &hellip; making software do cool things on computers.
 
-<img src="gnu-head.jpg" align="right" />
 
-+ Consider GNU project.
+# In The Beginning ...
 
-+ Founded on idealism.
+<img align=right src="pdp-10.jpg" />
 
-+ Recruited volunteers.
++ There was a computer.
 
-+ Paid non-profit staff.
++ There were terminals.
 
-+ Those projects remain community-oriented.
++ There were users.
 
-# The Danger of Our Success
++ ... and the users had freedom.
 
-+ Open Source is a corporate *fad* now.
+# Ye Ol' Four Freedoms
 
-+ VC's use Open Source manipulatively.
-     - proprietary relicensing
-     - proprietary add-ons
++ to use.
 
-+ Companies employ developers &hellip;
-     - &hellip; maybe to work on Free Software.
-     - &hellip; but companies control employee's time in their interest.
++ to learn and modify for yourself.
 
-# Where Things May Be Headed
++ to copy and share.
 
-+ FLOSS sometimes drifts toward for-profit corporate interest.
++ to modify and share modified versions.
 
-+ Or, it's purely thrown over the wall.
-    - At corporate whim
+# &hellip; Then Freedom Eluded Us
 
-+ Project decisions are made by companies.
++ They built licensing walls.
 
-# Software Freedom Governance?
++ By separating the software from the computer.
 
-+ Yet, corporate sponsorships are common and desired.
+<img align=right src="berlin-wall-build.jpg" />
+</center>
 
-+ But for-profit control of projects can be dangerous.
++ Who Invented Licensing?
 
-+ Fedora vs. Ubuntu as Coke vs. Pepsi
+# Who Invented Licensing?
+<br/>
+Some think he did:
+<br/>
+<img src="bill-gates-arrest.jpg" align="left"  />
+<p>As the majority of hobbyists must be aware, most of you steal your software. &hellip; [If] software is something to share &hellip; You prevent good software from being written.</p>
 
-# Danger of For-Profits
+<br clear="all"/>
 
-+ For-profits act in interest in shareholders.
++ Gates convinces IBM to license rather then acquire DOS.
 
-+ Those who care most about software are usually *not* shareholders.
+# Who Fixed this Problem?
 
-+ Interests do align sometimes with software freedom community.
+# Who Fixed this Problem?
 
-+ Common ground is needed so multiple for-profits can participate.
+<center>
+<br/>
+<br/>
+<img src="rms-current.jpg"  />
+</center>
 
-# Non-Profits are Different
+# RMS
 
-+ 501(c)(3) non-profits act in interest of the public good.
+<img align=right src="rms-book-cover.jpg"  />
 
-+ Software freedom is best when in public good.
++ Job at MIT's AI lab in late 1970s and early 1980s.
 
-+ Non-profit orgs (NPOs) are best place for software freedom.
++ Programming their PDP-10!
 
-+ Provide a place to receive philanthropy
-     - (e.g., a place for SoC mentor funds to go)
++ In the Golden Age.
 
-# What Can NPOs Do?
+# MIT AI Lab: The Golden Age
 
-+ Collect (USA-tax-deductible) donations for a project.
-      - both individual and corporate.
+<img src="pdp-10-2.jpg" align="right"  />
 
-+ Distribute that money to advance &amp; improve project (and public good).
+ - academic computing.
+ - software sharing.
+ - no licenses!
 
-+ Make sure project isn't controlled by for-profit interests.
+# MIT AI Lab
 
-+ Help leadership with non-technical decisions.
+<img src="ai-lab-tear-down.jpg" align="right"  />
 
-+ Neutral ground when corporations sponsor.
+MIT changed.
 
-# Organization Proliferation
+# MIT AI Lab
 
-+ You can go your own way, but &hellip;
+<cite>patents == $$$</cite>
 
-+ Too many NPOs will confuse donors.
+# MIT AI Lab
 
-+ Each needs a board of directors, incorporation, meetings, IRS filings.
+<cite>spin-offs == $$$</cite>
 
-+ Hackers end up doing work they hate.
+# Software Freedom and Money?
 
-+ Less Free Software gets written.
++ Licensing doesn't account for most software revenue.
 
-# Aggregating Under Umbrella
++ Most software business models are software-freedom-compatible:
+    + services
+    + support contracts
+    + warranty/indemnification
+    + custom modifications/improvements by contract
 
-+ Sometimes called a &ldquo;fiscal sponsor&rdquo;
-    + it doesn't mean they give you money &hellip;
-    + &hellip; but rather handle assets for you.
++ All work with proprietary software, too.
 
-+ Many projects get same benefit of single non-profit.
++ But doing it with Free Software is better for your career.
 
-+ Current 501(c)(3) options are:
-     - Software Freedom Conservancy
-     - Software in the Public Interest
-     - Apache Software Foundation
 
-+ Or, you can still go your own way.
+# Jeremy Allison
 
-# Software Freedom Conservancy
++ &ldquo;I quit Novell in protest over the Novell/Microsoft deal.&rdquo;
 
-+ Requirements:
-    - Any license on both FSF's and OSI's lists.
-    - Established project.
-    - Evaluation by Board of Directors.
++ &ldquo;My punishment for this political protest was I had to take a cushy job at Google.&rdquo;
 
-+ Key benefits:
-    - earmarked donations.
-    - basic developer liability protection.
-    - basic legal services (incl license enforcement)
-    - holding assets.
++ How did Jeremy get to do that?
 
-# Software in the Public Interest
 
-+ Requirements:
-    - License meets DFSG.
-    - Evaluation by Board of Directors.
+# Project Maintainers Are Always Employable
 
-+ Key benefit:
-    - earmarked donations.
-    - holding assets.
++ Most software businesses today rely on some Free Software components:
+     + Samba
+     + Linux
+     + GCC
+     + Selenium
+     + jQuery
+     + Git
+     + to name just a few examples!
 
-# Apache Software Foundation
++ Leaders of these codebases are always employable.
 
-+ Requirements:
-    - Apache License.
-    - Must use SVN.
-    - Must follow &ldquo;Apache Way&rdquo;.
-    - Incubator process.
+# Why You Should Know a Public Codebase
 
-+ Benefits:
-    - Can apply for funding through Apache
-        - (but no earmarked donations)
-    - Technological infrastructure &amp; hosting.
-    - basic developer liability protection.
++ The knowledge is the most transferable around.
 
-# Going Your Own Way
++ You collaborate with people outside your own organization.
 
-+ Should only do this if you want to be a non-profit administrator
-     + at least some of the time.
++ You collaborate with the most talented developers in the field.
+
+
+# How To Get Started
+
++ These communities are open and free.
+
++ Often, all it takes is joining a mailing list.
+
++ Be prepared to to do &ldquo;grunt&rdquo; work to start.
+
++ Learn the developer tools (bug tracker, DVCS, etc.).
+
++ Participate in Google Summer of Code.
 
 # More Info and This Talk's License
 
 + More Info:
     + Conservancy: http://sfconservancy.org
-    + SPI: http://spi-inc.org/
-    + Apache: http://apache.org/
+    + FSF: http://fsf.org
 
 + About me:
     + I co-host an oggcast, Free as In Freedom: faif.us
