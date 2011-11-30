@@ -4,7 +4,7 @@
 
 # What's This About?
 
-+ For many of us, we're not just in this for the money.
++ For many of us, we're not in this for the money.
 
 + We'd like to be employed &hellip;
 
@@ -109,12 +109,13 @@ MIT changed.
     + warranty/indemnification
     + custom modifications/improvements by contract
 
-+ All work with proprietary software, too.
++ All exist with proprietary software, too &hellip;
 
-+ But doing it with Free Software is better for your career.
-
++ &hellip; but doing it with Free Software is better for your career.
 
 # Jeremy Allison
+
+<img src="800px-Jeremy_allison.jpg" align="right"  />
 
 + &ldquo;I quit Novell in protest over the Novell/Microsoft deal.&rdquo;
 
@@ -122,8 +123,7 @@ MIT changed.
 
 + How did Jeremy get to do that?
 
-
-# Project Maintainers Are Always Employable
+# Maintainers Are Always Employable
 
 + Most software businesses today rely on some Free Software components:
      + Samba
@@ -132,18 +132,43 @@ MIT changed.
      + Selenium
      + jQuery
      + Git
-     + to name just a few examples!
+     + &hellip; to name just a few examples!
 
 + Leaders of these codebases are always employable.
 
-# Why You Should Know a Public Codebase
+# Indeed, They Can Get Away With This!
 
-+ The knowledge is the most transferable around.
+<img src="jeremy-allison-as-steve-balmer.jpg" align="right"  />
+
+# Software Freedom For a Living
+
++ Your allegiance is to the community project, not your employer.
+
++ Employers actually *like* this.
+
++ They want people who are connected to and have authority in the community.
+
+# Luis Rodriguez
+
++ Invited me to speak at Rutgers in 2002.
+
++ Had just started working on wireless device drivers as part of Rutgers research project.
+
++ Stayed on University staff after graduation.
+
++ Got hired by Atheros.
+
++ Now is the key Open Source expert inside Qualcomm.
+
+# Why Know a Public Codebase?
+
++ Admittedly, these examples are anecdotal. YMMV.
+
++ But, Free Software knowledge is clearly transferable.
 
 + You collaborate with people outside your own organization.
 
 + You collaborate with the most talented developers in the field.
-
 
 # How To Get Started
 
@@ -155,13 +180,14 @@ MIT changed.
 
 + Learn the developer tools (bug tracker, DVCS, etc.).
 
-+ Participate in Google Summer of Code.
++ Participate in Google Summer of Code: http://code.google.com/soc/
 
 # More Info and This Talk's License
 
 + More Info:
     + Conservancy: http://sfconservancy.org
     + FSF: http://fsf.org
+    + Google Summer of Code: http://code.google.com/soc/
 
 + About me:
     + I co-host an oggcast, Free as In Freedom: faif.us
