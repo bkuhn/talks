@@ -1,6 +1,6 @@
 % 12 Years of FLOSS License Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Wednesady 26 October 2011
+% Saturday 21 January 2012
 
 # My History
 
