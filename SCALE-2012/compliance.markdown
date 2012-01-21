@@ -176,7 +176,7 @@ proprietary nature of GPL violators.</p>
 + Lawyers told me courts are unlikely to order a source release as a remedy.
 
 + Courts usually give money and an injunction
-     - Company already gave latter of their own accord (de-facto)
+     - Company already gave latter of their own accord (de-facto injunction)
 
 # Coalition of the Willing
 
@@ -428,7 +428,8 @@ by the Installation Information.</p>
 + I'm not giving up on this &hellip;
        + &hellip; until there is no developer left in the world &hellip;
        + &hellip; who cares to enforce the GPL for the rights of users &hellip;
-       + &hellip; no matter how many embedded companies try to make me stop.
+       + &hellip; no matter how many embedded companies try to make me stop &hellip;
+       + &hellip; or how many anti-GPL developers they recruit to try to stop me.
 
 # More Info / Talk License
 
