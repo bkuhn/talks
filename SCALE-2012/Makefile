@@ -21,15 +21,15 @@ PANDOC=/usr/bin/pandoc
 TEX4HT=tex4ht
 T4HT=t4ht
 PDFLATEX = pdflatex
-LATEX = latex
+LATEX = /usr/bin/latex
 BIBTEX = bibtex
 FIG2DEV = fig2dev
-DVIPS=dvips
+DVIPS=/usr/bin/dvips
 
 PDF_FIGS = ui/conservancy/logo.pdf
 EPS_FIGS = ui/conservancy/logo.eps
 
-all:	err $(PRESENTATION_BASE).pdf $(PRESENTATION_BASE).ps $(PRESENTATION_BASE).html
+all:	err $(PRESENTATION_BASE).ps $(PRESENTATION_BASE).html
 all:	$(PRESENTATION_BASE).html
 
 .SUFFIXES: .fig .postscript .eps .pdf .pstex_t .pstex .ps .dvi .tex
@@ -55,7 +55,10 @@ all:	$(PRESENTATION_BASE).html
 .fig.pstex:
 	$(FIG2DEV) -L pstex $< > $@
 
-$(PRESENTATION_BASE).pdf: $(PDF_FIGS) $(PRESENTATION_BASE).markdown
+$(PRESENTATION_BASE).tex: $(PDF_FIGS) $(PRESENTATION_BASE).markdown
+	$(PANDOC) -S -s -f markdown -t latex $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).tex
+
+$(PRESENTATION_BASE).pdf: $(PRESENTATION_BASE).tex $(PDF_FIGS)
 	$(PANDOC) -S -s -f markdown -t latex $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).tex
 	$(PDFLATEX)  $(PRESENTATION_BASE).tex
 	$(PDFLATEX)  $(PRESENTATION_BASE).tex
@@ -73,7 +76,8 @@ clean:
 err: ; $(ERR)
 
 install: all
-	rm -rf $(INSTALL_DIR)/ui
-	rsync -HavP ./  $(INSTALL_DIR)
-	rm -rf $(INSTALL_DIR)/ui
-	rsync -HavP ../../ui/ $(INSTALL_DIR)/ui/
+	/bin/rm -rf $(INSTALL_DIR)/ui
+	/usr/bin/rsync -HavP ./  $(INSTALL_DIR)
+	/bin/rm -rf $(INSTALL_DIR)/ui
+	/usr/bin/rsync -HavP ../ui/ $(INSTALL_DIR)/ui/
+	./pres-cmd
