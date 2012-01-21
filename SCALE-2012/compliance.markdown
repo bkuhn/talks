@@ -6,13 +6,14 @@
 
 + Worked my first GPL enforcement case in 1999 (as FSF volunteer).
 
-+ Started working for FSF in 2000 (until 2005).
++ Started working for FSF in 2000 (was there until 2005).
 
 + Worked at SFLC from 2005-2010.
 
 + Now: Executive Director of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
 
 + Plurality of my time since 1999 has been spent on GPL enforcement.
+     + I'm probably the key person &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
 
 # Nature of Free Software Community
 
@@ -25,6 +26,9 @@
      + The copyleft licensed, whose license requires liberation.
 
 + Mine are the stories of the latter.
+
++ Copyright infringement shouldn't be a crime &hellip;
+     + &hellip; but if you analogize, I'm the only cop left on the beat.
 
 # On Requirement By License
 
@@ -409,9 +413,10 @@ by the Installation Information.</p>
 + I continue enforcement for Conservancy.
      - new reports each week.
 
-+ Matthew Garrett: Android device compliance.
++ BusyBox often stands alone &hellip;
+     + &hellip; and is frustrated by that.
 
-+ FSF's queue as long as Conservancy's.
++ I wish more individuals and non-profits would enforce.
 
 # Constant Vigilance!
 
@@ -422,9 +427,10 @@ by the Installation Information.</p>
 + My only recourse is &hellip;
      - Constant Vigilance!
 
-+ BTW, I'll take an even money bet for (almost) any amount:
-     - Give me an hour and an Internet connection &hellip;
-     - &amp; I'll find you a GPL-violating embedded firmware I've never seen before.
++ I'm not giving up on this &hellip;
+       + &hellip; until there is no developer left in the world &hellip;
+       + &hellip; who cares to enforce the GPL for the rights of users &hellip;
+       + &hellip; no matter how many embedded companies try to make me stop.
 
 # More Info / Talk License
 
@@ -436,7 +442,7 @@ by the Installation Information.</p>
      - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
 
 <span class="fitonslide">
-<p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
+<p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
 
 <p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA-USA 3.0.
 </p>
