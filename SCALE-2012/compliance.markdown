@@ -436,7 +436,7 @@ by the Installation Information.</p>
 
 + URLs / Social Networking / Email:
      - Conservancy: sfconservancy.org &amp; @conservancy
-     - Me: ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
+     - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
      - FSF Licensing Site: fsf.org/licensing
      - Report GPL violations: &lt;compliance@sfconservancy.org&gt;
      - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
