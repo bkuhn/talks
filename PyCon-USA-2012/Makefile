@@ -5,6 +5,7 @@
 
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=nonprofit
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/PyCon-USA-201
 endif
 
 DO_INCREMENTAL_POINTS = -i -s
@@ -20,10 +21,10 @@ PANDOC=/usr/bin/pandoc
 TEX4HT=tex4ht
 T4HT=t4ht
 PDFLATEX = pdflatex
-LATEX = latex
+LATEX = /usr/bin/latex
 BIBTEX = bibtex
 FIG2DEV = fig2dev
-DVIPS=dvips
+DVIPS=/usr/bin/dvips
 
 PDF_FIGS = ui/conservancy/logo.pdf
 EPS_FIGS = ui/conservancy/logo.eps
@@ -60,7 +61,8 @@ $(PRESENTATION_BASE).pdf: $(PDF_FIGS) $(PRESENTATION_BASE).markdown
 	$(PDFLATEX)  $(PRESENTATION_BASE).tex
 
 $(PRESENTATION_BASE).html: $(PRESENTATION_BASE).markdown
-	$(PANDOC) $(DO_INCREMENTAL_POINTS) -S -C ./ui/conservancy/header.html -f markdown -t s5 $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).html
+	$(PANDOC) $(DO_INCREMENTAL_POINTS) -s -S --template ./ui/conservancy/pandoc-s5-template.html -f markdown -t s5 $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).html
+
 
 $(PRESENTATION_BASE).dvi: $(PRESENTATION_BASE).tex $(EPS_FIGS)
 	$(LATEX)  $(PRESENTATION_BASE).tex
@@ -70,3 +72,10 @@ clean:
 	/bin/rm -f $(PRESENTATION_BASE).ps $(PRESENTATION_BASE).pdf $(PRESENTATION_BASE).log texput.log $(PRESENTATION_BASE).lg $(PRESENTATION_BASE).tmp $(PRESENTATION_BASE).xref *.4ct *.4tc *.aux *.dvi $(PRESENTATION_BASE)*.html *.idv *.lg *.tmp $(PRESENTATION_BASE).css $(PRESENTATION_BASE).log $(PRESENTATION_BASE).out $(PRESENTATION_BASE)-js.* $(PRESENTATION_BASE).tex
 
 err: ; $(ERR)
+
+install: all
+	/bin/rm -rf $(INSTALL_DIR)/ui
+	/usr/bin/rsync -HavP ./  $(INSTALL_DIR)
+	/bin/rm -rf $(INSTALL_DIR)/ui
+	/usr/bin/rsync -HavP ../ui/ $(INSTALL_DIR)/ui/
+	./pres-cmd
