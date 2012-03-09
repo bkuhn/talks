@@ -1,6 +1,6 @@
 #!/bin/sh
 
-talk=libreplanet2011
+talk=pycon2012
 
 rsync -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui
