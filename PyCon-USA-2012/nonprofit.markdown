@@ -1,20 +1,21 @@
-% Non-Profit Infrastructure for Free Software
+% Non-Profit Centers of FLOSS Development
 % Bradley M. Kuhn
 % Saturday 19 March 2011
 
-# My Two Roles
+# Who Am I?
 
 + President and Executive Director of Software Freedom Conservancy.
 
-+ On Board of Directors of the FSF.
++ An 501(c)(3) not-for-profit charity dedicated to promoting, advancing, defending, and developing Free, Libre and Open Source Software.
 
-+ This talk's about an important thing the two orgs have in common.
++ And, yes, I used to work for the FSF &hellip;
+     + &hellip; and I'm still friends with RMS and on FSF's Board.
 
-# Some GNU History
+# A Brief Non-Profit Free Software History
 
 <img src="rms-80s-scaled.png" align="right" />
 
-+ GNU Manifesto, 1984.
++ 1984: GNU Manifesto.
 
 + RMS wrote in that *GNU Manifesto*:
       - *"All sorts of development can be funded with a Software Tax"*
@@ -49,19 +50,15 @@
     + Miles Bader (HURD)
     + Ian Murdock (Debian (yes, FSF funded 1st Debian (!)))
 
-# FSF's Now a Different Kind of Org
+# The Rise of the Volunteers
 
-+ GNU packages now maintained by volunteers (from FSF's view)
++ Most Free Software is written by volunteers &hellip;
+     + &hellip; who are only such from the point of view of the projects.
 
 + The volunteers are usually paid for by for-profits
-     - Red Hat, Codesourcery, Google, IBM, etc.
-     - even Canonical, Ltd (GRUB maintainer works there)
+     - Red Hat, Google, IBM, etc.
 
-+ FSF remains a non-profit home:
-    - provides oversight & ensures software freedom
-    - &copy; assignment (w/ promise to keep it FaiF)
-
-# Non-Profit vs. For-Profit
+# For-Profit vs. Non-Profit
 
 + For-profits act in interest in shareholders.
 
@@ -71,18 +68,29 @@
 
 + Non-profit orgs (NPOs) are best place for software freedom.
 
-# Conservancy Differs from (Modern) FSF
++ NPOs can accept for-profit donations, but provide a firewall.
 
-+ GNU is unique:
-     - since it's so well-established
-     - one of the oldest Free Software Projects
+# For-Profit Employees as Volunteers 
 
-+ The history helps FSF keep for-profits from bad actions.
++ Most Free Software code is written by for-profit employees.
 
-+ Other models needed for younger projects.
++ *20% time* and other such policies are a boon to software freedom.
+
++ But, the cost is that codebases drift in directions of the company's needs.
 
 + Sometimes, developers should be *funded* by non-profits,
      - to mitigate dangers of for-profit control.
+
+***
+
+> It's the duty of all developers to convince their employers to let them give as much time as possible to Free Software work.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Jeremy Allison, Director, Conservancy &amp; Member, Samba Team 
+</p>
+</span>
+
 
 # What Can NPOs Do?
 
@@ -127,6 +135,44 @@
 
 + Fiscal oversight.
 
+# Major Successes in Python Community: Twisted
+
++ Throughout 2008 and 2009, Twisted needed Jean-Paul Calderone's attention to bugsquashing and maintenance.
+
++ Twisted community sought major corporate donors and many individual ones.
+
++ Contract was funded for part-time work for Jean-Paul.
+
++ We're talking about having him start up work again soon.
+
+# Major Successes in Python Community: Mercurial
+
++ Matt Mackall asked me at the Linux Collaboration Summit 2010 and said the quote below.
+
++ Asked if Conservancy could handle donations toward a contract to fund his work.
+
++ We drafted up a proposal, and Matt's been fully funded by donors through Conservancy since then.
+
+***
+
+> I'm funding myself doing Linux kernel-space development, but it slows down Mercurial work because of my tough brain context switch to Python userspace.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Jeremy Allison, Director, Conservancy &amp; Member, Samba Team 
+</p>
+</span>
+
+# Major Successes in Python Community: PyPy
+
++ PyPy has launched three initiaties to fund specific projects in PyPy.
+
++ Py3k and Numpy have each individually raised nearly $42,000.
+
++ Developers have already begun the Py3k and Numpy work.
+
++ Stackless Transactional Memory fundraising campaign was launched this week. 
+
 # More Info?
 
 + http://sfconservancy.org
@@ -137,7 +183,7 @@
 
 + Conservancy Identica: !conservancy, @conservancy
 
-This talk and the slides are: Copyright &copy; 2010, 2011 Bradley M. Kuhn.
+This talk and the slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn.
 
 <img src="cc-by-sa-3-0_88x31.png"/>
 <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">This presentation and these slides are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.
