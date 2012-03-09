@@ -1,6 +1,6 @@
 % Non-Profit Centers of FLOSS Development
 % Bradley M. Kuhn
-% Saturday 19 March 2011
+% Friday 9 March 2011
 
 # Who Am I?
 
@@ -70,27 +70,24 @@
 
 + NPOs can accept for-profit donations, but provide a firewall.
 
-# For-Profit Employees as Volunteers 
+# For-Profit-Employee &ldquo;Volunteers&rdquo;
 
-+ Most Free Software code is written by for-profit employees.
++ Most code written by for-profit employees.
+     + *20% time* is a boon to software freedom.
+     + **But** codebases drift in directions of company's needs.
 
-+ *20% time* and other such policies are a boon to software freedom.
-
-+ But, the cost is that codebases drift in directions of the company's needs.
-
-+ Sometimes, developers should be *funded* by non-profits,
++ Some developers should be *funded* by non-profits,
      - to mitigate dangers of for-profit control.
 
 ***
 
-> It's the duty of all developers to convince their employers to let them give as much time as possible to Free Software work.
+> It's the duty of all Free Software developers to steal as much time as they can from their employers for software freedom.
 
 <span class="fitonslide">
 <p align=right>
  &mdash; Jeremy Allison, Director, Conservancy &amp; Member, Samba Team 
 </p>
 </span>
-
 
 # What Can NPOs Do?
 
@@ -135,7 +132,7 @@
 
 + Fiscal oversight.
 
-# Major Successes in Python Community: Twisted
+# Conservancy Success: Twisted
 
 + Throughout 2008 and 2009, Twisted needed Jean-Paul Calderone's attention to bugsquashing and maintenance.
 
@@ -145,25 +142,29 @@
 
 + We're talking about having him start up work again soon.
 
-# Major Successes in Python Community: Mercurial
-
-+ Matt Mackall asked me at the Linux Collaboration Summit 2010 and said the quote below.
-
-+ Asked if Conservancy could handle donations toward a contract to fund his work.
-
-+ We drafted up a proposal, and Matt's been fully funded by donors through Conservancy since then.
+# Conservancy Success: Mercurial
 
 ***
 
-> I'm funding myself doing Linux kernel-space development, but it slows down Mercurial work because of my tough brain context switch to Python userspace.
+<img src="matt-mackall-scaled.jpg" align="right" />
+
+> I'm funding myself doing Linux kernel-space development contracts, but it slows down Mercurial because of the brain context switch to Python userspace.
 
 <span class="fitonslide">
 <p align=right>
- &mdash; Jeremy Allison, Director, Conservancy &amp; Member, Samba Team 
+ &mdash; Matt Mackall, Mercurial Maintainer (in April 2010)
 </p>
 </span>
 
-# Major Successes in Python Community: PyPy
+***
+
++ April 2010: Matt asked if Conservancy to handle donations to fund his Mercurial work.
+
++ Drafted up a proposal.
+
++ Matt's been fully funded by donors through Conservancy since then.
+
+# Conservancy Success: PyPy
 
 + PyPy has launched three initiaties to fund specific projects in PyPy.
 
@@ -173,17 +174,16 @@
 
 + Stackless Transactional Memory fundraising campaign was launched this week. 
 
-# More Info?
+# More Info / Talk License
 
-+ http://sfconservancy.org
++ URLs / Social Networking / Email:
+     - Conservancy: sfconservancy.org &amp; @conservancy
+     - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
+     - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
 
-+ My personal blog: ebb.org/bkuhn/blog
+<span class="fitonslide">
+<p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
 
-+ Personal Identica: @bkuhn
-
-+ Conservancy Identica: !conservancy, @conservancy
-
-This talk and the slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn.
-
-<img src="cc-by-sa-3-0_88x31.png"/>
-<a href="http://creativecommons.org/licenses/by-sa/3.0/us/">This presentation and these slides are licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.
+<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA-USA 3.0.
+</p>
+</span>
