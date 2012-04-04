@@ -6,16 +6,14 @@
 
 + Worked my first GPL enforcement case in 1999 (as FSF volunteer).
 
-+ Started working for FSF in 2000 (was there until 2005).  Now on FSF Board of Directors.
++ FSF Executive Director, 2000-2005.  Now an FSF Director.
 
-+ Now: Executive Director of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
++ President, Software Freedom Conservancy, 2006-present.
 
 + Plurality of my time since 1999 has been spent on GPL enforcement.
-     + I'm probably the key person &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
+     + I'm the key person &ldquo;responsible&rdquo; for nearly every major USA GPL enforcement action.
 
-+ Conservancy &amp; FSF are responsible for nearly all GPL enforcement in the USA.
-
-+ This is a talk about how you never have to hear from me.
++ Conservancy &amp; FSF are responsible for nearly all GPL enforcement in USA.
 
 # They Say Compliance is Hard &hellip;
 
@@ -25,30 +23,28 @@
 
 # The &ldquo;Compliance&rdquo; Industry
 
-+ I'm disturbed Harald Welte &amp; I've created the &ldquo;compliance&rdquo; industry.
++ I'm disturbed Harald Welte &amp; I've inspired creation of the &ldquo;compliance&rdquo; industry.
 
 + Ironically, this industry wants enforcement to seem worse than it is.
 
-+ It behooves them when others spread FUD.
++ FUD aids their mission.
 
 # FUD Becomes Marketing
 
 <img src="pick-flick.jpg" align="right"  />
 
-+ Salespeople live to sell you things you don't already need.
++ Salespeople sell things you don't need.
 
-+ Most who talk about &ldquo;compliance&rdquo; want to sell you products you don't need.
-
-+ Fear of enforcement is their motivator.
++ Most talking of &ldquo;compliance&rdquo; wanna sell you proprietary junk.
 
 + Educate yourself:
-      + Ask people  who do enforcement, rather than sales people.
+      + Ask people who *do* enforcement, not sales people.
+
 ***
 > Coca-Cola's by far the world's number one soft drink, and they spend more money than anybody on advertising.
-
 <span class="fitonslide">
 <p align=right>
- &mdash; Tracy Flick, character in the 1999 film, <cite>Election</cite>
+ &mdash; Tracy Flick, character in the 1999 film, *Election*
 </p>
 </span>
 
@@ -67,11 +63,13 @@
 
 + Any strict rules in copyleft licenses are designed to uphold these freedoms.
 
-# Have You Ever Ignored One of These?
+# Ever Ignored One of These?
 
-<img src="speed-limit-55.gif" align="right"  />
+<img src="speed-limit-55.gif" align="center" />
 
 # How Badly?
+
+<img src="speed-limit-55.gif" align="right" />
 
 + Routinely 10 over limit?
 
@@ -81,27 +79,31 @@
 
 + Routinely 40 over limit?
 
-# And If You Drove a Commercial Vehicle?
+# What About Commercial Vehicles?
 
 <img src="commercial-truck.jpg" align="right"  />
 
 + Nearly all GPL violations are by for-profit companies.
 
-+ They absolutely increase their profits by failing to comply.
++ They absolutely increase their profits by failing to comply &hellip;
+     + &hellip; just like truckers who delivery faster by speeding.
 
-+ They undercut those who comply.
++ Both *undercut* those who comply.
 
-+ But it's still a matter of degree.
++ But it's still a matter of degree:
+      + should speeding trucks get pulled over when they go 57 mph?
 
 # Angels Dancing on Heads of Pins
 
 <img src="richard-baxter.jpg" align="right"  />
 
+<br/>
+
 > And Schibler with others, maketh the difference of extension to be this, that Angels can contract their whole substance into one part of space, and therefore have not partes extra partes.  Whereupon it is that the Schoolmen have questioned how many Angels may fit upon the point of a Needle?
-***
+
 <span class="fitonslide">
 <p align=right>
- &mdash; 
+ &mdash; Richard Baxter, *The Reasons of the Christian Religion*, 1667.
 </p>
 </span>
 
@@ -111,7 +113,8 @@
 
 + &hellip; but it doesn't address the fundamental problem:
 
-+ hundreds of egregious violations are ongoing and mostly ignored.
++ hundreds of egregious violations are ongoing and mostly ignored &hellip;
+      + &hellip; (except by me, Harald, and FSF).
 
 # Egregious Violations
 
@@ -120,8 +123,8 @@
     + &hellip; and make sure it is the *right* source code. 
 
 + Nearly all the violations I handle are:
-     + no-source-nor-offer: complete diregard for GPLv2&sect;3 / GPLv3&sect;6 
-     + offer-fail: bogus offer for source under GPLv2&sect;3(b) / GPLv3&sect;6(b)
+     + **no-source-nor-offer**: complete disregard for GPLv2&sect;3 / GPLv3&sect;6 
+     + **offer-fail**: bogus offer for source under GPLv2&sect;3(b) / GPLv3&sect;6(b)
 
 + I've been doing this 13 years &amp; the &ldquo;egregious&rdquo; queue has never been near empty.
 
@@ -130,14 +133,17 @@
 + Believe it or not, I'm a pragmatist.
 
 + But I'm oft-accused of wanting perfect compliance.
-     + (Mainly by people who don't really like copyleft too much.)
+     + (Mainly by people who don't like copyleft much.)
 
 + Oddly, the compliance industry seek perfection:
-     + Probably because perfection costs more.
+     + Probably because perfection costs *you* more.
 
-# FUD Overhead on LWN
+# FUD Overheard on LWN
 
-> It is possible for a mistake made by an ODM (like providing the wrong busybox source version) could result in the recall of millions of unrelated products.
+<br/>
+
+> &ldquo;It is possible for a mistake made by an ODM (like providing the wrong busybox source version) could result in the recall of millions of unrelated products.&rdquo;
+
 ***
 
 + Sure, this is possible in theory &hellip;
@@ -148,21 +154,23 @@
 
 # FUD Overheard on LWN
 
-> [I've] heard occasional worries about the prospect of "copyright trolls." It's not too hard to imagine that somebody with a trollish inclination might come into possession of the copyright on some kernel code; that somebody could then go shaking down former violators with threats of lawsuits for ongoing infringement.
+<br/>
+
+> &ldquo;[I've] heard &hellip; worries about &hellip; &ldquo;copyright trolls&rdquo; It's not too hard to imagine that somebody with a trollish inclination might come into possession of &hellip; &copy; on some kernel code &hellip; shak[e] down former violators with threats of lawsuits&rdquo;
 
 *** 
 
 + You need to read the statute.
 
-+ You can't get rich suing for copyright infringement &hellip;
-     + &hellip; particularly if you've already granted a rather broad license.
++ You can't get rich suing for &copy; infringement &hellip;
+     + &hellip; particularly if broad license was available.
 
-+ Anyway, if you believe non-profit enforcement  &ldquo;inspired&rdquo; these copyright trolls
-     + &hellip; it's already too late on that one.
++ *even if* NPO enforcement &ldquo;inspired&rdquo; &copy; trolls
+     + &hellip; it's already too late on that.
 
 # Challenges of Modern Compliance
 
-+ Saavy violators means intelligent discussion.
++ Savvy violators means intelligent discussion.
 
 + Clueless violators means difficult conversations:
      + Me: &ldquo;Your software violates GPL.&rdquo;
@@ -182,13 +190,15 @@
 
 + &hellip; it's an engineering problem.
 
++ Everything else is trivially fixed!
+
 # The Easy Parts of Compliance
 
-+ Fixing copyright notices
++ Fixing copyright notices.
 
-+ Clarifying contradictory license texts
++ Clarifying contradictory license texts.
 
-+ Other informational requirements
++ Other informational requirements.
 
 # The Only Hard Part of Compliance
 
@@ -238,75 +248,6 @@
 
 + Confidentiality is something violators ask for.
 
-
-# GPLv2: More than Just Source
-
-+ &ldquo;the scripts to control&hellip;&rdquo; gets us close.
-
-+ It handles most of the issues.
-
-+ I even argued it includes authorized install information.
-     + Unfortunately, RMS gave in on that one.
-
-# GPLv3: Installation Information
-
-<span class="fitonslide">
-<p><strong>&ldquo;Installation Information&rdquo;</strong> for a User Product <strong>means any methods,
-procedures</strong>, authorization keys, <strong>or</strong> other <strong>information required to install
-and execute modified versions</strong> of a covered work in that User Product from
-a modified version of its Corresponding Source.  The <strong>information must
-suffice to ensure that the continued functioning of the modified object
-code</strong> is in no case prevented or interfered with solely because
-modification has been made.</p>
-
-<p>If you convey an object code work under this section in, or with, or
-specifically for use in, a User Product, and the conveying occurs as
-part of a transaction in which the right of possession and use of the
-User Product is transferred to the recipient in perpetuity or for a
-fixed term (regardless of how the transaction is characterized), the
-Corresponding Source conveyed under this section must be accompanied
-by the Installation Information.</p>
-</span>
-
-<p>(emphasis mine)</p>
-
-# GPLv3: Installation Information
-
-+ In my view, just clarifies GPLv2's terse wording.
-
-+ In any event, it makes it certain.
-
-+ Users of device can modify and upgrade their devices &hellip;
-     + &hellip; as it should be.
-
-+ This is one of the reasons projects should upgrade to GPLv3.
-
-# Today.
-
-<img align="right" height="473" width="557" src="DQWindmill.gif"/>
-
-+ I continue enforcement for Conservancy.
-     - new reports each week.
-
-+ BusyBox often stands alone &hellip;
-     + &hellip; and is frustrated by that.
-
-+ I wish more individuals and non-profits would enforce.
-
-# Constant Vigilance!
-
-<img align="right" src="moody.jpg"/>
-
-+ GPL Violations *are* *everywhere*.
-
-+ My only recourse is &hellip;
-     - Constant Vigilance!
-
-+ I'm not giving up on this &hellip;
-       + &hellip; until there is no developer left in the world &hellip;
-       + &hellip; who cares to enforce the GPL for the rights of users &hellip;
-       + &hellip; no matter how many embedded companies try to make me stop &hellip;
-       + &hellip; or how many anti-GPL developers they recruit to try to stop me.
 
 # More Info / Talk License
 
