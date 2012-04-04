@@ -248,7 +248,18 @@
 
 + Confidentiality is something violators ask for.
 
+# Why Keep Doing Enforcement?
 
+
+# Why Keep Doing Enforcement?
+
++ It's very simple:
+    + an unenforced GPL is the ISC license.
+    + If the world prefers ISC, they will switch to it.
+
++ When no software developers are left who want to enforce GPL &hellip;
+    + I'll of course stop.
+ 
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
