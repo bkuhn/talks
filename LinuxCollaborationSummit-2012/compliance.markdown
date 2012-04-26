@@ -254,8 +254,9 @@
 # Why Keep Doing Enforcement?
 
 + It's very simple:
-    + an unenforced GPL is the ISC license.
+    + an unenforced GPL **is** the ISC license.
     + If the world prefers ISC, they will switch to it.
+    + It's still Free Software, I'm not against it.
 
 + When no software developers are left who want to enforce GPL &hellip;
     + I'll of course stop.
