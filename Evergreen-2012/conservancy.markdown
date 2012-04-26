@@ -161,15 +161,13 @@ Some think he did:
 
 # Software Freedom Governance?
 
-+ Corporate sponsorship are common.
-
-+ But for-profit control of projects can be dangerous.
-
-# Danger of For-Profits
-
 + For-profits act in interest in shareholders.
 
 + Those who care most about software are usually *not* shareholders.
+
++ Corporate sponsorship are common.
+
++ But for-profit **control** of projects can be dangerous.
 
 + Interests only align sometimes with community.
 
