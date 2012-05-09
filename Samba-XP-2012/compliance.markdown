@@ -196,6 +196,8 @@
 
 + &hellip; or they don't know who they are.
 
++ &hellip; and the engineering problems aren't even interesting!
+
 # On Asking for Complete Compliance
 
 + *All* GPL enforcers ask for this (including Harald).
@@ -245,7 +247,21 @@
 
 + When no software developers are left who want to enforce GPL &hellip;
     + I'll of course stop.
- 
+
+# Samba Enforcement Plans
+
++ Samba has a long history of GPL enforcement.
+     + More developer-run enforcement efforts than any project in history.
+     + Jeremy &amp; Tridge dealt with one of the earliest nefarious violators in history.
+     + Simo has led compliance efforts for years.
+
++ Sadly, enforcement **isn't** an interesting technical problem:
+     + Rarely are violators smart enough to write useful new code &hellip;
+     + &hellip; they just punish their users by prohibiting upgrade of Samba.
+     + &hellip; no interesting engineering problems.
+
++ Use Conservancy to get the job done: it's always here to to do Samba's boring work.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
