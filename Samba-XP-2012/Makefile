@@ -5,7 +5,7 @@
 
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=compliance
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/LinuxCollaborationSummit-2012
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/Samba-XP-2012
 endif
 
 DO_INCREMENTAL_POINTS = -i -s

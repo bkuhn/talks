@@ -1,6 +1,6 @@
 #!/bin/sh
 
-talk=easy-compliance
+talk=sambaxp
 
 rsync -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui
