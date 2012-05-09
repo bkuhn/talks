@@ -65,11 +65,11 @@
 
 # Ever Ignored One of These?
 
-<img src="speed-limit-70km.jpg" align="center" />
+<img src="speed-limit-50km.jpg" align="center" />
 
 # How Badly?
 
-<img src="speed-limit-70km.jpg" align="right" />
+<img src="speed-limit-50km.jpg" align="right" />
 
 + Routinely 10 over limit?
 
