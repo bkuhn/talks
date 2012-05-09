@@ -1,6 +1,6 @@
 % GPL Compliance Is Easier Than You Think
 % Bradley M. Kuhn
-% Wednesday 4 April 2012
+% Wednesday 9 May 2012
 
 # My History
 
@@ -65,11 +65,11 @@
 
 # Ever Ignored One of These?
 
-<img src="speed-limit-55.gif" align="center" />
+<img src="speed-limit-70km.jpg" align="center" />
 
 # How Badly?
 
-<img src="speed-limit-55.gif" align="right" />
+<img src="speed-limit-70km.jpg" align="right" />
 
 + Routinely 10 over limit?
 
