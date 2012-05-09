@@ -86,7 +86,7 @@
 + Nearly all GPL violations are by for-profit companies.
 
 + They absolutely increase their profits by failing to comply &hellip;
-     + &hellip; just like truckers who delivery faster by speeding.
+     + &hellip; just like truckers who deliver faster by speeding.
 
 + Both *undercut* those who comply.
 
