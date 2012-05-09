@@ -136,7 +136,8 @@
      + (Mainly by people who don't like copyleft much.)
 
 + Oddly, the compliance industry seek perfection:
-     + Probably because perfection costs *you* more.
+     + Probably because perfection *costs* companies more &hellip;
+     + &hellip; than one of my enforcement actions.
 
 # FUD Overheard on LWN
 
