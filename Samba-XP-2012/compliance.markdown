@@ -91,7 +91,7 @@
 + Both *undercut* those who comply.
 
 + But it's still a matter of degree:
-      + should speeding trucks get pulled over when they go 57 mph?
+      + should speeding trucks get pulled over when they go 73 km/h in 70 zone?
 
 # Angels Dancing on Heads of Pins
 
@@ -128,7 +128,7 @@
 
 + I've been doing this 13 years &amp; the &ldquo;egregious&rdquo; queue has never been near empty.
 
-# I Know You Won't Be Perfect
+# I Know They Won't Be Perfect
 
 + Believe it or not, I'm a pragmatist.
 
@@ -148,9 +148,9 @@
 
 + Sure, this is possible in theory &hellip;
 
-+ &hellip; but who doing enforce is asking for this in practice?
++ &hellip; but who doing enforce asks for this in practice?
 
-+ I've accepted *disgusting* settlement terms sometimes just to avoid disrupting a violator's business.
++ I've accepted *disgusting* settlement terms just to avoid disrupting a violator's business.
 
 # FUD Overheard on LWN
 
@@ -160,27 +160,13 @@
 
 *** 
 
-+ You need to read the statute.
++ You need to read the statutes.
 
 + You can't get rich suing for &copy; infringement &hellip;
      + &hellip; particularly if broad license was available.
 
 + *even if* NPO enforcement &ldquo;inspired&rdquo; &copy; trolls
      + &hellip; it's already too late on that.
-
-# Challenges of Modern Compliance
-
-+ Savvy violators means intelligent discussion.
-
-+ Clueless violators means difficult conversations:
-     + Me: &ldquo;Your software violates GPL.&rdquo;
-     + Them: &ldquo;We make hardware.&rdquo;
-     + Me: &ldquo;I know, but it has software in it.  Our members' software. Under the GPL.&rdquo;
-     + Them: &ldquo;No, it doesn't. We make hardware.&rdquo;
-     + Me: &ldquo;But your firmware download&hellip;on *your* website&hellip;that's software.&rdquo;
-     + Them: &ldquo;Oh, that's not ours.  We got that from someone.  Nothing to do with us.&rdquo;
-
-+ Having the above conversation across four phone calls every two months is why I seem so insane most of the time.
 
 # A Radical Statement
 
@@ -206,7 +192,7 @@
 
 + Bulk of all enforcement time is spent on this.
 
-+ It's hard because violators won't let me talk to engineers &hellip;
++ It's hard b/c violators won't let me talk to engineers &hellip;
 
 + &hellip; or they don't know who they are.
 
@@ -249,7 +235,6 @@
 + Confidentiality is something violators ask for.
 
 # Why Keep Doing Enforcement?
-
 
 # Why Keep Doing Enforcement?
 
