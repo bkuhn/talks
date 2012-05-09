@@ -267,7 +267,7 @@
 
 + Use Conservancy to get the job done: it's always here to to do Samba's boring work.
 
-# Why Samba Should Enforce More at Conservancy 
+# Why Samba Should Enforce via Conservancy 
 
 + BusyBox stands by itself right now.
      + Criticism of BusyBox acting alone has some moral validity.
