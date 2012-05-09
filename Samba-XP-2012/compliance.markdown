@@ -248,6 +248,8 @@
 
 + When no software developers are left who want to enforce GPL &hellip;
     + I'll of course stop.
+    + Won't be soon:
+    + two more developers signed Conservancy enforcement agreements over breakfast today.
 
 # Samba Enforcement Plans
 
@@ -255,6 +257,8 @@
      + More developer-run enforcement efforts than any project in history.
      + Jeremy &amp; Tridge dealt with one of the earliest nefarious violators in history.
      + Simo has led compliance efforts for years.
+
+# Samba Enforcement Plans
 
 + Sadly, enforcement **isn't** an interesting technical problem:
      + Rarely are violators smart enough to write useful new code &hellip;
