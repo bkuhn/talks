@@ -91,7 +91,7 @@
 + Both *undercut* those who comply.
 
 + But it's still a matter of degree:
-      + should speeding trucks get pulled over when they go 73 km/h in 70 zone?
+      + should speeding trucks get pulled over when they go 53 km/h in 50 zone?
 
 # Angels Dancing on Heads of Pins
 
