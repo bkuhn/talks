@@ -274,6 +274,17 @@
      + undercutting those who do real NAS innovation (in compliance).
      + a market opportunity for many GPL projects to stand together.
 
+# A Brief Reminder
+
++ I talk about enforcement because (sadly) it's the most interesting thing Conservancy does.
+
++ Most of what Conservancy does for Samba is *really* boring:
+     + flight reimbursements for developers.
+     + invoicing donors for their finanical donations.
+     + handling other random logistical bulls***.
+
++ Enforcement is just a small part of Conservancy's work.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
