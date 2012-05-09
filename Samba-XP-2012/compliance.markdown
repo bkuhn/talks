@@ -262,6 +262,17 @@
 
 + Use Conservancy to get the job done: it's always here to to do Samba's boring work.
 
+# Why Samba Should Enforce More at Conservancy 
+
++ BusyBox stands by itself right now.
+     + Criticism of BusyBox acting alone has some moral validity.
+
++ Samba should stand with its co-projects in the embedded space.
+
++ low-end NAS market needs **serious** cleanup.
+     + undercutting those who do real NAS innovation (in compliance).
+     + a market opportunity for many GPL projects to stand together.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
