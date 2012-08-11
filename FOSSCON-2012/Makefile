@@ -5,7 +5,7 @@
 
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=nonprofit
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/PyCon-USA-2012
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/FOSSCON-2012/
 endif
 
 DO_INCREMENTAL_POINTS = -i -s
