@@ -1,12 +1,12 @@
 % Non-Profit Centers of FLOSS Development
 % Bradley M. Kuhn
-% Friday 9 March 2011
+% Saturday 11 August 2011
 
 # Who Am I?
 
 + President and Executive Director of Software Freedom Conservancy.
 
-+ An 501(c)(3) not-for-profit charity dedicated to promoting, advancing, defending, and developing Free, Libre and Open Source Software.
++ A 501(c)(3) not-for-profit charity dedicated to promoting, advancing, defending, and developing Free, Libre and Open Source Software.
 
 + And, yes, I used to work for the FSF &hellip;
      + &hellip; and I'm still friends with RMS and on FSF's Board.
@@ -62,7 +62,7 @@
 
 + For-profits act in interest in shareholders.
 
-+ 501(c)(3) Non-profits act in interest of the public good.
++ 501(c)(3) non-profits act in interest of the public good.
 
 + Software freedom is best when in public good.
 
@@ -85,7 +85,7 @@
 
 <span class="fitonslide">
 <p align=right>
- &mdash; Jeremy Allison, Director, Conservancy &amp; Member, Samba Team 
+ &mdash; Jeremy Allison, Director, Conservancy &amp; Co-Founder, Samba Project
 </p>
 </span>
 
@@ -104,7 +104,7 @@
 
 + Too many NPOs will confuse donors.
 
-+ Need a board of directors, incorporation, meetings, IRS filings.
++ Each needs board of directors, incorporation, meetings, IRS filings.
 
 + Hackers end up doing work they hate.
 
@@ -118,7 +118,7 @@
 
 + Each has its own funds.
 
-+ One board of directors, one non-technical governance structure.
++ One board of directors &amp; one non-technical governance structure.
 
 # Funding Through Conservancy 
 
@@ -160,19 +160,19 @@
 
 + April 2010: Matt asked if Conservancy to handle donations to fund his Mercurial work.
 
-+ Drafted up a proposal.
++ Conservancy drafted a proposal.
 
-+ Matt's been fully funded by donors through Conservancy since then.
++ Matt's was fully funded by donors 2010-04 through 2012-06.
 
 # Conservancy Success: PyPy
 
 + PyPy has launched three initiaties to fund specific projects in PyPy.
 
-+ Py3k and Numpy have each individually raised nearly $42,000.
++ Py3k and Numpy have each individually raised $42,000.
 
-+ Developers have already begun the Py3k and Numpy work.
++ Software Transactional Memory has raised $21,500. 
 
-+ Stackless Transactional Memory fundraising campaign was launched this week. 
++ Conservancy is funding four developers.
 
 # More Info / Talk License
 
@@ -180,6 +180,8 @@
      - Conservancy: sfconservancy.org &amp; @conservancy
      - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
      - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
+
++ Please donate: sfconservancy.org/donate/ or Conservancy's projects' sites.
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
