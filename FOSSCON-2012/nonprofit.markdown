@@ -1,6 +1,6 @@
 % Promoting Software Freedom Development via Non-Profits
 % Bradley M. Kuhn
-% Saturday 11 August 2011
+% Saturday 11 August 2012
 
 # Follow along &hellip;
 
