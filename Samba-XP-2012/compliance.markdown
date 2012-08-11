@@ -249,7 +249,7 @@
 + When no software developers are left who want to enforce GPL &hellip;
     + I'll of course stop.
     + Won't be soon:
-    + two more developers signed Conservancy enforcement agreements over breakfast today.
+    + two more Samba developers signed Conservancy enforcement agreements over breakfast today.
 
 # Samba Enforcement Plans
 
@@ -267,15 +267,15 @@
 
 + Use Conservancy to get the job done: it's always here to to do Samba's boring work.
 
-# Why Samba Should Enforce via Conservancy 
+# Why Enforce on Samba w/ Conservancy?
 
 + BusyBox stands by itself right now.
      + Criticism of BusyBox acting alone has some moral validity.
 
 + Samba should stand with its co-projects in the embedded space.
 
-+ low-end NAS market needs **serious** cleanup.
-     + undercutting those who do real NAS innovation (in compliance).
++ low-end embedded market needs attention.
+     + undercutting those who do real innovation (in compliance).
      + a market opportunity for many GPL projects to stand together.
 
 # A Brief Reminder
