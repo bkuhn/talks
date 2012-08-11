@@ -1,6 +1,16 @@
-% Non-Profit Centers of FLOSS Development
+% Promoting Software Freedom Development via Non-Profits
 % Bradley M. Kuhn
 % Saturday 11 August 2011
+
+# Follow along &hellip;
+
++ If you can't see the screen, the slides are at:
+
+    - http://ebb.org/bkuhn/talks/FOSSCON-2012/nonprofit.html
+    - (aka: http://ur1.ca/9xllk )
+    - Javascript required.
+
++ Sources at: https://gitorious.org/bkuhn/talks/trees/master/FOSSCON-2012/
 
 # Who Am I?
 
