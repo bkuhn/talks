@@ -166,7 +166,7 @@
 
 # Conservancy Success: PyPy
 
-+ PyPy has launched three initiaties to fund specific projects in PyPy.
++ PyPy has launched three initiatives to fund specific projects in PyPy.
 
 + Py3k and Numpy have each individually raised $42,000.
 
