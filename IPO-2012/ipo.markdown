@@ -8,10 +8,10 @@
 
 + Goal: Create software that could be shared by all without licensing fees &hellip;
      + &hellip; that gave <a href="http://www.gnu.org/philosophy/free-sw.html">the freedoms for all users</a> to:
-     + study
-     + modify
-     + distribute
-     + distribute modified versions.
+         + study
+         + modify
+         + distribute
+         + distribute modified versions.
 
 + Ironically, Free Software is now essential to commercial, for-profit companies.
 
@@ -33,7 +33,7 @@
 
 + Conservancy fills the need to create a non-profit home for these unincorporated communities of developers.
 
-# How Non-Profits Help.
+# How Non-Profits Help
 
 + A <a href="http://www.irs.gov/charities/charitable/article/0,,id=96099,00.html/">501(c)(3)</a> cannot give <a href="http://www.irs.gov/charities/charitable/article/0,,id=123297,00.html">private benefit</a> to any single individual or for-profit.
 
@@ -213,7 +213,7 @@
 
 + Other informational requirements.
 
-# The Only Hard Part of Compliance
+# Only Hard Part of Compliance
 
 + C&amp;CS: complete and corresponding source code.
 
