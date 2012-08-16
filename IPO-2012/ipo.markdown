@@ -264,6 +264,8 @@
 
 # Talk License
 
++ Source is available for these slides at <a href="https://gitorious.org/bkuhn/talks">gitorious.org/bkuhn/talks</a>.
+
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
 
