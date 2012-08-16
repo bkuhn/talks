@@ -190,7 +190,7 @@
     + &hellip; and make sure it is the *right* source code. 
 
 + Nearly all the violations Conservancy handles are:
-     + **no-source-nor-offer**: complete disregard for <a href="http://www.gnu.org/licenses/gpl-2.0.html#section3">GPLv2&sect;3</a> / <a href="http://www.gnu.org/copyleft/gpl.html#section6"GPLv3&sect;6</a> 
+     + **no-source-nor-offer**: complete disregard for <a href="http://www.gnu.org/licenses/gpl-2.0.html#section3">GPLv2&sect;3</a> / <a href="http://www.gnu.org/copyleft/gpl.html#section6">GPLv3&sect;6</a> 
      + **offer-fail**: bogus offer for source under GPLv2&sect;3(b) / GPLv3&sect;6(b)
 
 + I've been doing this 13 years &amp; the &ldquo;egregious&rdquo; queue has never been near empty.
