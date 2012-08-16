@@ -73,7 +73,7 @@
 
 + Conservancy often is the owner of the computers used for the projects.
 
-+ Conservancy is part to any contracts/agreements.
++ Conservancy is party to any contracts/agreements.
 
 + And your area of interest:
       + so-called &ldquo;intellectual property&rdquo;
