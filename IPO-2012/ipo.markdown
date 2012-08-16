@@ -243,7 +243,7 @@
 
 + It's very simple:
     + an unenforced GPL **is** the <a href="http://en.wikipedia.org/wiki/ISC_license">ISC license</a>.
-    + If developers prefer ISC, they will switch to it.
+    + If developers prefer ISC, they'll switch to it.
     + It's still Free Software; I'm not against it.
 
 + When no software developers are left who want to enforce GPL &hellip;
