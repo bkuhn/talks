@@ -7,7 +7,7 @@
 + Free Software development started in earnest in mid-1980s.
 
 + Goal: Create software that could be shared by all without licensing fees &hellip;
-     + &hellip; that gave the freedoms for all users to:
+     + &hellip; that gave <a href="http://www.gnu.org/philosophy/free-sw.html">the freedoms for all users</a> to:
      + study
      + modify
      + distribute
@@ -35,7 +35,7 @@
 
 # How Non-Profits Help.
 
-+ A 501(c)(3) cannot give private benefit to any single individual or for-profit.
++ A <a href="http://www.irs.gov/charities/charitable/article/0,,id=96099,00.html/">501(c)(3)</a> cannot give <a href="http://www.irs.gov/charities/charitable/article/0,,id=123297,00.html">private benefit</a> to any single individual or for-profit.
 
 + Must act in the interest of the general public.
 
@@ -47,13 +47,13 @@
 
 # Aggregating Under Umbrella
 
-+ Conservancy is designed as one organization.
++ <a href="http://sfconservancy.org/">Conservancy</a> is designed as one organization.
 
-+ Composed of many different projects.
++ Composed of <a href="http://sfconservancy.org/members/current/">many different projects</a>.
 
 + Each has its own funds.
 
-+ One board of directors, one non-technical governance structure.
++ One <a href="http://sfconservancy.org/about/board/">board of directors</a>, one non-technical governance structure.
 
 # Funding Through Conservancy 
 
@@ -66,6 +66,8 @@
 + Stipends and paid development contracts for developers.
 
 + Fiscal oversight.
+
++ <a href="http://sfconservancy.org/members/services/">Many other services</a>.
 
 # Assets and the Like
 
@@ -86,7 +88,7 @@
 + Note: By IP, most developers think you mean &ldquo;Internet Protocol&rdquo;.
 
 + If they know term &ldquo;intellectual property&rdquo; &hellip;
-     + they probably object to its fundamental bias (as I do).
+     + they probably object to <a href="http://www.gnu.org/philosophy/not-ipr.html">its fundamental bias</a> (as I do).
      + ideas aren't akin to physical property.
 
 # Free Software and "IP"
@@ -111,13 +113,13 @@
 + Adoption and sharing of the software is key.
 
 + Strict policies are met with ire
-     + cf.: Iceweasel/Firefox debacle
+     + cf.: <a href="http://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project">Iceweasel/Firefox debacle</a>
 
 # Patents
 
 + Conservancy opposes all patenting of software.
      + Nearly every org in the Free Software community does.
-     + See amici in Bilski.
+     + See various Free Software related amici in Bilski.
 
 + Post-Bilski, fighting software patents seems insurmountable.
      + Generating our own software patents to fight back is cost-prohibitive.
@@ -241,15 +243,16 @@
 
 + It's very simple:
     + an unenforced GPL **is** the ISC license.
-    + If the world prefers ISC, they will switch to it.
-    + It's still Free Software, I'm not against it.
+    + If developers prefer ISC, they will switch to it.
+    + It's still Free Software; I'm not against it.
 
 + When no software developers are left who want to enforce GPL &hellip;
     + I'll of course stop.
+    + Conservancy does what our developers ask us to do for their projects.
 
 # A Brief Reminder
 
-+ I talk about enforcement because (sadly) it's the most interesting thing Conservancy does.
++ I talk extensively about enforcement because it's the most interesting thing Conservancy does.
 
 + Most of what Conservancy does is *really* boring:
      + flight reimbursements for developers.
