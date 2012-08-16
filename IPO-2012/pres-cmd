@@ -2,8 +2,6 @@
 
 talk=ipo
 
-rsync -HavP ./  /home/pres/$talk/
-rm -rf /home/pres/$talk/ui
-rsync -HavP ../ui/  /home/pres/$talk/ui/
-find /home/pres/$talk -exec chmod gou+r {} \;
-find /home/pres/$talk -type d -exec chmod gou+rx {} \;
+rsync -HavP --exclude ui ./  dogwood:/var/www/conservancy/static/bkuhn/ipo-presentation/
+rsync -HavP ../ui/  dogwood:/var/www/conservancy/static/bkuhn/ipo-presentation/ui/
+
