@@ -76,7 +76,7 @@
 + Conservancy is part to any contracts/agreements.
 
 + And your area of interest:
-      + so-called &ldquo;intellectual proprerty&rdquo;
+      + so-called &ldquo;intellectual property&rdquo;
 
 
 # Free Software and "IP"
@@ -94,11 +94,11 @@
 # Free Software and "IP"
 
 + When applied to software, these systems rarely function &hellip;
-     + &ldquo; in the manner that Free Software developers want.
+     + &hellip; in the manner that Free Software developers want, anyway.
 
-+ They're actually seperate, unrelated topics: trademarks, patents, copyrights, trade secrets.
++ They're actually separate, unrelated topics: trademarks, patents, copyrights, trade secrets.
 
-+ Conservancy has different polices on each of these.
++ Conservancy has different polices on each.
 
 + Let's start with the one we all probably use in the same way: trademarks
 
@@ -136,8 +136,8 @@
 
 + Much of Conservancy's work involves advising and working with issues of copyright.
 
-+ But, Conservancy doesn't mandate developer assign copyright.
-     + Some do anyway, though
++ But, Conservancy doesn't mandate developer assign copyright to Conservancy.
+     + Some do anyway, though.
 
 # Free Software Copyright Licensing
 
@@ -154,11 +154,11 @@
 + GPL == Constitution of Software Freedom Land.
      + a &ldquo;written down&rdquo; embodiment of core principles.
 
-+ Any strict rules in copyleft licenses are designed to uphold these freedoms.
++ Any strict rules in copyleft licenses are designed to uphold software freedom.
 
 + Any enforcement of the license has the primary goal of software freedom in mind.
 
-+ Injunctions &amp; monetary compensation are at best a consolation prize.
++ Injunctions &amp; monetary compensation are (at best) a consolation prize.
 
 # GPL Enforcement
 
@@ -167,7 +167,7 @@
 
 + I'm disturbed Harald Welte &amp; I've inspired creation of the &ldquo;compliance&rdquo; industry.
 
-+ Ironically, this industry wants enforcement to seem worse than it is.
++ Ironically, &ldquo;compliance&rdquo; industry wants enforcement to seem worse than it is.
 
 + FUD aids their mission.
 
@@ -175,7 +175,7 @@
 
 + Nearly all GPL violations are by for-profit companies.
 
-+ They absolutely increase their profits by failing to comply &hellip;
++ Violators absolutely increase their profits by failing to comply &hellip;
      + &hellip; just like truckers who deliver faster by speeding.
 
 + Both *undercut* those who comply.
@@ -189,8 +189,8 @@
     + &hellip; is to make sure source code is available.
     + &hellip; and make sure it is the *right* source code. 
 
-+ Nearly all the violations I handle are:
-     + **no-source-nor-offer**: complete disregard for GPLv2&sect;3 / GPLv3&sect;6 
++ Nearly all the violations Conservancy handles are:
+     + **no-source-nor-offer**: complete disregard for <a href="http://www.gnu.org/licenses/gpl-2.0.html#section3">GPLv2&sect;3</a> / <a href="http://www.gnu.org/copyleft/gpl.html#section6"GPLv3&sect;6</a> 
      + **offer-fail**: bogus offer for source under GPLv2&sect;3(b) / GPLv3&sect;6(b)
 
 + I've been doing this 13 years &amp; the &ldquo;egregious&rdquo; queue has never been near empty.
@@ -236,27 +236,28 @@
 + There must be a deterrent.
 
 + Non-profit enforcement == accountability.
-
+    + See <a href="http://sfconservancy.org/about/filings/">Conservancy's Form 990s</a>.
 + Confidentiality is something violators ask for.
 
 # Why Keep Doing Enforcement?
 
 + It's very simple:
-    + an unenforced GPL **is** the ISC license.
+    + an unenforced GPL **is** the <a href="http://en.wikipedia.org/wiki/ISC_license">ISC license</a>.
     + If developers prefer ISC, they will switch to it.
     + It's still Free Software; I'm not against it.
 
 + When no software developers are left who want to enforce GPL &hellip;
-    + I'll of course stop.
+    + I'll, of course, stop.
     + Conservancy does what our developers ask us to do for their projects.
 
 # A Brief Reminder
 
 + I talk extensively about enforcement because it's the most interesting thing Conservancy does.
+     + Indeed, I'm almost sure it's why you invited me here today.
 
 + Most of what Conservancy does is *really* boring:
      + flight reimbursements for developers.
-     + invoicing donors for their finanical donations.
+     + invoicing donors for their financial donations.
      + handling other random logistical bulls***.
 
 + Enforcement is just a small part of Conservancy's work.
