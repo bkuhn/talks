@@ -1,0 +1,7 @@
+#!/bin/sh
+
+xrandr --output LVDS --mode 1024x768
+/usr/bin/gconftool-2 -t str -s /desktop/gnome/background/picture_filename /home/pres/mstk-background-1024x768.png
+/usr/bin/gconftool-2 -t str -s /desktop/gnome/background/picture_options centered
+xrandr --output VGA-0 --mode 1024x768 --same-as LVDS
+xmodmap /home/pres/.thinkpad.km

@@ -1,0 +1,9 @@
+#!/bin/sh
+
+make
+rsync -HavzP ./ /home/pres/gplv3/
+find /home/pres/gplv3 -exec chmod gou+r {} \;
+find /home/pres/gplv3 -type d -exec chmod gou+rx {} \;
+cp pres-cmd /home/pres/pres-cmd
+chmod gou+rx /home/pres/pres-cmd
+
