@@ -77,5 +77,5 @@ install: all
 	/bin/rm -rf $(INSTALL_DIR)/ui
 	/usr/bin/rsync -HavP ./  $(INSTALL_DIR)
 	/bin/rm -rf $(INSTALL_DIR)/ui
-	/usr/bin/rsync -HavP ../ui/ $(INSTALL_DIR)/ui/
+	/usr/bin/rsync -HavP ../../ui/ $(INSTALL_DIR)/ui/
 	./pres-cmd
