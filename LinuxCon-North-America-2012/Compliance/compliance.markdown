@@ -86,7 +86,7 @@
 + Nearly all GPL violations are by for-profit companies.
 
 + They absolutely increase their profits by failing to comply &hellip;
-     + &hellip; just like truckers who delivery faster by speeding.
+     + &hellip; just like truckers who deliver faster by speeding.
 
 + Both *undercut* those who comply.
 
@@ -136,7 +136,8 @@
      + (Mainly by people who don't like copyleft much.)
 
 + Oddly, the compliance industry seek perfection:
-     + Probably because perfection costs *you* more.
+     + Probably because perfection costs *you* more &hellip;
+     + &hellip; than one of my enforcement actions.
 
 # FUD Overheard on LWN
 
@@ -148,9 +149,10 @@
 
 + Sure, this is possible in theory &hellip;
 
-+ &hellip; but who doing enforce is asking for this in practice?
++ &hellip; but who doing enforce asks for this in practice?
 
-+ I've accepted *disgusting* settlement terms sometimes just to avoid disrupting a violator's business.
+
++ I've accepted *disgusting* settlement terms just to avoid disrupting a violator's business.
 
 # FUD Overheard on LWN
 
@@ -160,7 +162,7 @@
 
 *** 
 
-+ You need to read the statute.
++ You need to read the statutes.
 
 + You can't get rich suing for &copy; infringement &hellip;
      + &hellip; particularly if broad license was available.
@@ -206,9 +208,11 @@
 
 + Bulk of all enforcement time is spent on this.
 
-+ It's hard because violators won't let me talk to engineers &hellip;
++ It's hard b/c violators won't let me talk to engineers &hellip;
 
 + &hellip; or they don't know who they are.
+
++ &hellip; and the engineering problems aren't even interesting!
 
 # On Asking for Complete Compliance
 
@@ -260,7 +264,31 @@
 
 + When no software developers are left who want to enforce GPL &hellip;
     + I'll of course stop.
- 
+
+# Why Increase Enforce project List?
+
++ BusyBox once stood by itself right now.
+     + Criticism of BusyBox acting alone has some moral validity.
+
++ BusyBox wanted tohers to stand with it on compliance in the embedded space.
+     + &hellip; and Samba &amp; Linux copyright holders asked for this took.
+
++ low-end embedded market needs attention.
+     + undercutting those who do real innovation (in compliance).
+     + a market opportunity for many GPL projects to stand together.
+
+# A Brief Reminder
+
++ I talk about enforcement because (sadly) it's the most interesting thing Conservancy does.
+
++ Most of what Conservancy does for its projects is *really* boring:
+     + flight reimbursements for developers.
+     + invoicing donors for their finanical donations.
+     + handling other random logistical bulls***.
+     + see my talk yesterday for details.
+
++ Enforcement is just a small part of Conservancy's work.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
