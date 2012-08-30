@@ -265,12 +265,12 @@
 + When no software developers are left who want to enforce GPL &hellip;
     + I'll of course stop.
 
-# Why Increase Enforce project List?
+# Why Enforce for More Projects?
 
 + BusyBox once stood by itself right now.
-     + Criticism of BusyBox acting alone has some moral validity.
+     + Criticism of BusyBox acting alone for complete compliance has some moral validity.
 
-+ BusyBox wanted tohers to stand with it on compliance in the embedded space.
++ BusyBox wanted others to stand with it on compliance in the embedded space.
      + &hellip; and Samba &amp; Linux copyright holders asked for this took.
 
 + low-end embedded market needs attention.
