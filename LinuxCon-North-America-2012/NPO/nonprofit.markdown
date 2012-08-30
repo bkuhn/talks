@@ -1,16 +1,6 @@
-% Promoting Software Freedom Development via Non-Profits
+% Funding &amp; Promoting Software Freedom Development via Non-Profits
 % Bradley M. Kuhn
-% Saturday 11 August 2012
-
-# Follow along &hellip;
-
-+ If you can't see the screen, the slides are at:
-
-    - http://ebb.org/bkuhn/talks/FOSSCON-2012/nonprofit.html
-    - (aka: http://ur1.ca/9xllk )
-    - Javascript required.
-
-+ Sources at: https://gitorious.org/bkuhn/talks/trees/master/FOSSCON-2012/
+% Wednesday 29 August 2012
 
 # Who Am I?
 
@@ -192,6 +182,8 @@
      - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
 
 + Please donate: sfconservancy.org/donate/ or Conservancy's projects' sites.
+
++ See my talk about GPL Compliance: tommorrow, 14:45, Harbor Island 3
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
