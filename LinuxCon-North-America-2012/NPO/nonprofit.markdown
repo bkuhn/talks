@@ -134,7 +134,7 @@
 
 + Travel to conferences.
 
-+ Handling Google SoC.
++ Handling Google Summer of Code.
 
 + Conference invoicing and contracts.
 
