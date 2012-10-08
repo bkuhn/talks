@@ -267,11 +267,11 @@
 
 # Why Enforce for More Projects?
 
-+ BusyBox once stood by itself right now.
++ BusyBox once stood by itself.
      + Criticism of BusyBox acting alone for complete compliance has some moral validity.
 
 + BusyBox wanted others to stand with it on compliance in the embedded space.
-     + &hellip; and Samba &amp; Linux copyright holders asked for this took.
+     + &hellip; and Samba &amp; Linux copyright holders asked for this too.
 
 + low-end embedded market needs attention.
      + undercutting those who do real innovation (in compliance).
