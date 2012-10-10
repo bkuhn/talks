@@ -12,8 +12,7 @@
      + The permissively licensed, who use social pressure to liberate code.
      + The copyleft licensed, whose license requires liberation.
 
-+ Copyright infringement shouldn't be a crime &hellip;
-     + &hellip; but if you analogize, I'm the only cop left on the beat.
++ (Copyright infringement shouldn't be a crime, BTW: this is just an analogy.
 
 # On Requirement By License
 
