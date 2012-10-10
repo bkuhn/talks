@@ -82,9 +82,9 @@
        + Simply this: work with violators to get a source release that **works**.
 
 + Conservancy does the work:
-        - giving updates to copyright holders involved &hellip;
-        - &hellip; using the tried-and-true, simple Free Software community tool:
-        - just a mailing list.
+     - giving updates to copyright holders involved &hellip;
+     - &hellip; using the tried-and-true, simple Free Software community tool:
+     - just a mailing list.
 
 # Who Can Join?
 
@@ -103,8 +103,8 @@
 + Frankly, BusyBox developers asked if we could engage.
 
 + Also, various Linux developers &hellip;
-        - &mdash; like Matthew Garrett &mdash;
-        + &mdash; had bugged Conservancy for years to help with enforcement.
+     - &mdash; like Matthew Garrett &mdash;
+     - &mdash; had bugged Conservancy for years to help with enforcement.
 
 + GPL Compliance Project for Linux Developers gives structure to Linux compliance activity.
 
