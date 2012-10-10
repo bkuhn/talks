@@ -22,6 +22,8 @@
 
 # The Catalyst
 
+<img src="henry-poole.jpg" align="right"  />
+
 + Henry (sometimes Henri) Poole forms Allseer.
        + Which becomes Affero.
 
