@@ -1,6 +1,6 @@
-% 12 Years of FLOSS License Compliance: A Historical Perspective
+% 13 Years of FLOSS License Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Saturday 21 January 2012
+% Friday 12 October 2012
 
 # My History
 
@@ -8,12 +8,10 @@
 
 + Started working for FSF in 2000 (was there until 2005).
 
-+ Worked at SFLC from 2005-2010.
-
 + Now: Executive Director of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
 
 + Plurality of my time since 1999 has been spent on GPL enforcement.
-     + I'm probably the key person &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
+     + I'm probably the person &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
 
 # Nature of Free Software Community
 
@@ -256,12 +254,7 @@ proprietary nature of GPL violators.</p>
 <img width="274" height="383" align=right src="marten-mickos.jpg"/>
 
 + Proprietary relicensing (by holding all copyright).
-
-+ GPL enforcement with profit as its primary (and only?) goal.
-
-+ MySQL would shake down GPL users to buy proprietary licenses they didn't need.
-
-+ I wish I'd identified this as corruption sooner.
+     - As I spoke about this morning.
 
 # Embedded Violations Prevalent
 
@@ -278,7 +271,7 @@ proprietary nature of GPL violators.</p>
 # The Era of GPL Litigation
 
 + Lawsuits become undeniably necessary.
-     - Dan Ravicher &amp; Aaron Williamson file some in USA: for Conservancy &amp; Erik.
+     - Dan Ravicher file some in USA: for Conservancy &amp; Erik.
 
 + Focus is to settle:
      - More than anything else, we want full compliance &hellip;
@@ -411,10 +404,10 @@ by the Installation Information.</p>
 + I continue enforcement for Conservancy.
      - new reports each week.
 
-+ BusyBox often stands alone &hellip;
-     + &hellip; and is frustrated by that.
-
 + I wish more individuals and non-profits would enforce.
+
++ There are saavy violators out there that we're dealing with now.
+      - I wish I could say more on the record.
 
 # Constant Vigilance!
 
