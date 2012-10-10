@@ -4,7 +4,7 @@
 # an environment variable before you type make.
 
 ifndef PRESENTATION_BASE
-PRESENTATION_BASE=compliance
+PRESENTATION_BASE=collab-comply
 INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/Open-World-Forum-2012/Collaborative-Compliance
 endif 
 
