@@ -1,4 +1,4 @@
-% Collaborative GPL Compliance Through Non-Profit Entities
+% Collaborative GPL Compliance Through Non-Profits
 % Bradley M. Kuhn
 % Thursday 11 October 2012
 
