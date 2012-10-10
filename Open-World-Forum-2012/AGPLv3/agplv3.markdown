@@ -79,8 +79,8 @@
 + The rise of:
        + Ruby on Rails
        + AJAX (remember that it was once called that)
-       + &ldquo;Release everything but your secret sauce&rdquo;
-
+       + &ldquo;Release everything but your secret sauce&rdquo; (cf: <a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">Preston's <cite>Open Source (Almost) Everything</cite></a>)
+       
 + Web developers didn't pick copyleft &hellip;
        + &hellip; maybe because we hadn't given them a copyleft.
        + permissive MIT license &amp; 3-clause BSD rules the web.
