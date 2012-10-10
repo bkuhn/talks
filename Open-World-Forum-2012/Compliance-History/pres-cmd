@@ -1,6 +1,6 @@
 #!/bin/sh
 
-talk=compliance
+talk=owf-comp-history
 
 rsync -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui

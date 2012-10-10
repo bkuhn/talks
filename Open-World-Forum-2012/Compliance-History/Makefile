@@ -5,8 +5,8 @@
 
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=compliance
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/SCALE-2012
-endif
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/Open-World-Forum-2012/Compliance-History
+endif 
 
 DO_INCREMENTAL_POINTS = -i -s
 
