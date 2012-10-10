@@ -42,6 +42,7 @@
 
 # The idea
 
+<img src="ouroboros.png" align="right"  />
 
 + The classic Computer Science ouroboros:
       + the program that prints its own source
