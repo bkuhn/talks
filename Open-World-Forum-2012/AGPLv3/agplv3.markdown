@@ -15,7 +15,7 @@
 
 + Well, it wasn't *really* a loophole
 
-+ GPLv2 didn't (couldn't?) forsee web applications.
++ GPLv2 didn't (couldn't?) foresee web applications.
       + client/server barely existed when it was written.
 
 + Copyleft's copyright hack centered around distribution.
@@ -38,9 +38,10 @@
 + If it were, would it be enough of a copyleft hack?
 
 + I've long supported it as an &ldquo;at best, a no-op&rdquo; addition.
-      + I've been unable to pursuade anyone else.
+      + I've been unable to persuade anyone else.
 
 # The idea
+
 
 + The classic Computer Science ouroboros:
       + the program that prints its own source
@@ -110,7 +111,7 @@
 
 # Dark Ages? Really?
 
-<img src="monks.jpg" align="right"  />
+<img width="664" height="448" src="monks.jpg" align="right"  />
 
 + We cloistered few shall have freedom:
       + source code haves and have-nots  &hellip;
@@ -120,7 +121,7 @@
 
 + Has today's developer chased a bug from the top to the bottom?
 
-+ Will tommorow's developer ever need to?
++ Will tomorrow's developer ever need to?
        + Is the complexity too much anyway?
 
 + Will tomorrow's developer care?
