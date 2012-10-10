@@ -87,9 +87,11 @@
 
 # The Application
 
+<img src="dark-ages.jpg" align="right"  />
+
 + Today, most new applications deploy online &hellp;
        + from infrastructure-level like OpenStack  &hellip;
-       + to developer tools like GitHub &helip;
+       + to *even* developer tools like GitHub/BitBucket (!) &hellip;
        + to end-user applications: FaceBook, Twitter, GooglePlus.
 
 + The dark ages are coming!
