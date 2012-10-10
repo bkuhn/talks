@@ -55,13 +55,13 @@
 
 + Confusion is really just victim of being first.
 
-+ (Full Disclosure: I'm on FSF's Board of Directors &hellip; but also)
++ (Full Disclosure: I'm on FSF's Board of Directors &hellip; but also &hellip;)
 
-# Compliance As a Service to Developers
+# Compliance: Service to Developers
 
 + I'm Executive Director of Software Freedom Conservancy.
 
-+ Conservancy gives a <a href="http://sfconservancy.org/members/services/">wide range of services to projects.
++ Conservancy gives a <a href="http://sfconservancy.org/members/services/">wide range of services</a> to projects.
 
 + Compliance is just (rather mundanely) &ldquo;one of those services.
 
@@ -71,9 +71,8 @@
 
 + Compliance certainly qualifies.
 
-+ Almost like a service provider,
-
-+ but more like a place for collaboration.
++ Almost like a service provider &hellip;
+      + &hellip; but more like a place for collaboration.
 
 # Compliance As Collaboration
 
@@ -83,18 +82,18 @@
        + Simply this: work with violators to get a source release that **works**.
 
 + Conservancy does the work:
-        + giving updates to copyright holders involved &hellip;
-        + &hellip; using the tried-and-true, simple Free Software community tool:
-        + just a mailing list.
+        - giving updates to copyright holders involved &hellip;
+        - &hellip; using the tried-and-true, simple Free Software community tool:
+        - just a mailing list.
 
 # Who Can Join?
 
 + Any copyright holder on an existing Conservancy project can request.
        + approval for a compliance program required by projects' leadership committee.
 
-+ Linux developers can join:
-      + even though Linux proper isn't a Conservancy project.
-      + through a special-case project:
++ Linux developers can join &hellip;
+      + &hellip; even though Linux proper isn't a Conservancy project.
+      + They join through a &ldquo;special&rdquo; project &hellip;
       + GPL Compliance Project for Linux Developers.
 
 # Why Special Case Linux?
@@ -103,11 +102,11 @@
 
 + Frankly, BusyBox developers asked if we could engage.
 
-+ Various Linux developers
-        + like Matthew Garrett
-        + had bugged Conservancy for years to help with enforcement.
++ Also, various Linux developers &hellip;
+        - &mdash; like Matthew Garrett &mdash;
+        + &mdash; had bugged Conservancy for years to help with enforcement.
 
-+ GPL Compliance Project for Linux Developers gives them a structure.
++ GPL Compliance Project for Linux Developers gives structure to Linux compliance activity.
 
 # Please Never Forget
 
