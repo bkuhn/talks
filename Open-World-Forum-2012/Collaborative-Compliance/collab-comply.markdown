@@ -103,8 +103,8 @@
 + Frankly, BusyBox developers asked if we could engage.
 
 + Also, various Linux developers &hellip;
-     - &mdash; like Matthew Garrett &mdash;
-     - &mdash; had bugged Conservancy for years to help with enforcement.
+     - &hellip; like Matthew Garrett &hellip;
+     - &hellip; had bugged Conservancy for years to help with enforcement.
 
 + GPL Compliance Project for Linux Developers gives structure to Linux compliance activity.
 
