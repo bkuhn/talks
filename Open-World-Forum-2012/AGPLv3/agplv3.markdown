@@ -38,7 +38,7 @@
 + If it were, would it be enough of a copyleft hack?
 
 + I've long supported it as an &ldquo;at best, a no-op&rdquo; addition.
-        + I've been unable to pursuade anyone else.
+      + I've been unable to pursuade anyone else.
 
 # The idea
 
@@ -79,7 +79,7 @@
 + The rise of:
        + Ruby on Rails
        + AJAX (remember that it was once called that)
-       + &ldquo;Release everything but your secret sauce&rdquo; (cf: <a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">Preston's <cite>Open Source (Almost) Everything</cite></a>)
+       + &ldquo;Release everything but your secret sauce&rdquo; (cf: <a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">Preston's *Open Source (Almost) Everything*</a>)
        
 + Web developers didn't pick copyleft &hellip;
        + &hellip; maybe because we hadn't given them a copyleft.
@@ -89,7 +89,7 @@
 
 <img src="dark-ages.jpg" align="right"  />
 
-+ Today, most new applications deploy online &hellp;
++ Today, most new applications deploy online &hellip;
        + from infrastructure-level like OpenStack  &hellip;
        + to *even* developer tools like GitHub/BitBucket (!) &hellip;
        + to end-user applications: FaceBook, Twitter, GooglePlus.
