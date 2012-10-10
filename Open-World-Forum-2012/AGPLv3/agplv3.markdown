@@ -98,12 +98,23 @@
 
 # Dark Ages? Really?
 
+<img src="monk-scriptorium.jpg" align="right"  />
+
 + The develpoers (monks) have the source code (books).
+
+# Dark Ages? Really?
+
+<img src="serfs-pray.jpg" align="right"  />
 
 + The people (users) trust the power of the church (Facebook).
 
+# Dark Ages? Really?
+
+<img src="monks.jpg" align="right"  />
+
 + We cloistered few shall have freedom:
-       + source code haves and have-nots (again!)
+      + source code haves and have-nots  &hellip;
+      + &hellip; (again!)
 
 # Generational Change
 
@@ -118,7 +129,7 @@
 # Hindsight
 
 + Maybe this was inevitable?
-      + Even if GPLv2.2 came out in mid-2002:
+      + Even if GPLv2.2 came out in mid-2002 &hellip;
       + Generational disconnect was the primary factor.
 
 + Who's AGPLv3 for today?
@@ -153,24 +164,22 @@
 # The Great Marketing Challenge
 
 + The Free Software Twitter exists &hellip;
-        + &hellip; StatusNet; it's AGPLv3'd
-        + &hellip;  but it's a ghost-town compared to Twitter.
+      + &hellip; StatusNet; it's AGPLv3'd
+      + &hellip;  but it's a ghost-town compared to Twitter.
 
 + The Free Software tumblr/flickr exists &hellip;
-        + &hellip; GNU Mediagoblin; it's AGPLv3'd
-        + &hellip;  but it's a ghost-town compared to tumblr/flickr.
+      + &hellip; GNU Mediagoblin; it's AGPLv3'd
+      + &hellip;  but it's a ghost-town compared to tumblr/flickr.
 
 + We're back to catching up to proprietary software:
-        + Like GNU had to catch up to Unix.
-        + That took almost 20 years!
+      + Like GNU had to catch up to Unix.
+      + That took almost 20 years!
 
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
      - Conservancy: sfconservancy.org &amp; @conservancy
      - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
-     - FSF Licensing Site: fsf.org/licensing
-     - Report GPL violations: &lt;compliance@sfconservancy.org&gt;
      - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
 
 <span class="fitonslide">
