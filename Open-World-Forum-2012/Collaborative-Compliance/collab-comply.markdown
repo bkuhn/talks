@@ -43,7 +43,7 @@
      + &hellip; but for a *good* cause: the four freedoms.
      + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
 
-# How Compliance Happened Traditionally
+# &ldquo;Traditional&rdquo; Compliance
 
 + FSF asked for copyright assignment to enforce for some GNU packages.
 
