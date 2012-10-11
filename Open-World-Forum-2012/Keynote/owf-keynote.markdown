@@ -1,17 +1,18 @@
 % Funding &amp; Promoting Software Freedom Development via Non-Profits
 % Bradley M. Kuhn
-% Wednesday 29 August 2012
+% Friday 12 October 2012
 
-# Who Am I?
+# My Background
 
 + President and Executive Director of Software Freedom Conservancy.
 
 + A 501(c)(3) not-for-profit charity dedicated to promoting, advancing, defending, and developing Free, Libre and Open Source Software.
+     - Roughly akin to 1901 Associations (but some differences).
 
 + And, yes, I used to work for the FSF &hellip;
-     + &hellip; and I'm still friends with RMS and on FSF's Board.
+     + &hellip; and I'm still on FSF's Board of Directors.
 
-# A Brief Non-Profit Free Software History
+# Non-Profit Free Software History
 
 <img src="rms-80s-scaled.png" align="right" />
 
@@ -62,13 +63,13 @@
 
 + For-profits act in interest in shareholders.
 
-+ 501(c)(3) non-profits act in interest of the public good.
++ Non-profits act in interest of the public good.
 
 + Software freedom is best when in public good.
 
 + Non-profit orgs (NPOs) are best place for software freedom.
 
-+ NPOs can accept for-profit donations, but provide a firewall.
++ NPOs can accept for-profit donations, but provide a firewall for projects.
 
 # For-Profit-Employee &ldquo;Volunteers&rdquo;
 
@@ -78,16 +79,6 @@
 
 + Some developers should be *funded* by non-profits,
      - to mitigate dangers of for-profit control.
-
-***
-
-> It's the duty of all Free Software developers to steal as much time as they can from their employers for software freedom.
-
-<span class="fitonslide">
-<p align=right>
- &mdash; Jeremy Allison, Director, Conservancy &amp; Co-Founder, Samba Project
-</p>
-</span>
 
 # What Can NPOs Do?
 
@@ -99,38 +90,6 @@
 + Make sure project isn't controlled by for-profit interests.
 
 + Help leadership with non-technical decisions.
-
-# Organization Proliferation
-
-+ Too many NPOs will confuse donors.
-
-+ Each needs board of directors, incorporation, meetings, IRS filings.
-
-+ Hackers end up doing work they hate.
-
-+ Less Free Software gets written.
-
-# Aggregating Under Umbrella
-
-+ Conservancy is designed as one organization.
-
-+ Composed of many different projects.
-
-+ Each has its own funds.
-
-+ One board of directors &amp; one non-technical governance structure.
-
-# Funding Through Conservancy 
-
-+ Travel to conferences.
-
-+ Handling Google Summer of Code.
-
-+ Conference invoicing and contracts.
-
-+ Stipends and paid development contracts for developers.
-
-+ Fiscal oversight.
 
 # Conservancy Success: Twisted
 
@@ -168,11 +127,12 @@
 
 + PyPy has launched three initiatives to fund specific projects in PyPy.
 
-+ Py3k and Numpy have each individually raised $42,000.
++ Py3k and Numpy have each individually raised over US$42,000.
 
-+ Software Transactional Memory has raised $21,500. 
++ Software Transactional Memory has raised over US$23,000.
 
 + Conservancy is funding four developers.
+
 
 # More Info / Talk License
 
@@ -180,10 +140,6 @@
      - Conservancy: sfconservancy.org &amp; @conservancy
      - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
      - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
-
-+ Please donate: sfconservancy.org/donate/ or Conservancy's projects' sites.
-
-+ See my talk about GPL Compliance: tommorrow, 14:45, Harbor Island 3
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
