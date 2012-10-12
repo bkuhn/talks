@@ -7,7 +7,8 @@
 + President and Executive Director of Software Freedom Conservancy.
 
 + A 501(c)(3) not-for-profit charity dedicated to promoting, advancing, defending, and developing Free, Libre and Open Source Software.
-     - Roughly akin to 1901 Associations (but some differences).
+     - Somewhat similar akin to 1901 Association &hellip;
+     - &hellip; but 501(c)(3)'s are legally required to act in public good.
 
 + And, yes, I used to work for the FSF &hellip;
      + &hellip; and I'm still on FSF's Board of Directors.
