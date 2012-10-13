@@ -1,4 +1,4 @@
-% 13 Years of FLOSS License Compliance: A Historical Perspective
+% 13 Years of Copyleft License Compliance: A Historical Perspective
 % Bradley M. Kuhn
 % Friday 12 October 2012
 
