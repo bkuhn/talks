@@ -1,6 +1,6 @@
 % Non-Profit Infrastructure for Software Freedom
 % Bradley M. Kuhn
-% Saturday 22 October 2011
+% Saturday 20 October 2012
 
 # Who Am I?
 
@@ -12,60 +12,17 @@
 
 + These are still my views, not those of these orgs or others.
 
-# Why *Did* People Write Free Software?
+# The Rise of the Volunteers
 
-<img src="gnu-head.jpg" align="right" />
++ Most Free Software is written by volunteers &hellip;
+     + &hellip; who are only such from the point of view of the projects.
 
-+ Consider GNU project.
++ The volunteers are usually paid for by for-profits
+     - Red Hat, Google, IBM, etc.
 
-+ Founded on idealism.
-
-+ Recruited volunteers.
-
-+ Paid non-profit staff.
-
-+ Those projects remain community-oriented.
-
-# The Danger of Our Success
-
-+ Open Source is a corporate *fad* now.
-
-+ VC's use Open Source manipulatively.
-     - proprietary relicensing
-     - proprietary add-ons
-
-+ Companies employ developers &hellip;
-     - &hellip; maybe to work on Free Software.
-     - &hellip; but companies control employee's time in their interest.
-
-# Where Things May Be Headed
-
-+ FLOSS sometimes drifts toward for-profit corporate interest.
-
-+ Or, it's purely thrown over the wall.
-    - At corporate whim
-
-+ Project decisions are made by companies.
-
-# Software Freedom Governance?
-
-+ Yet, corporate sponsorships are common and desired.
-
-+ But for-profit control of projects can be dangerous.
-
-+ Fedora vs. Ubuntu as Coke vs. Pepsi
-
-# Danger of For-Profits
+# For-Profit vs. Non-Profit
 
 + For-profits act in interest in shareholders.
-
-+ Those who care most about software are usually *not* shareholders.
-
-+ Interests do align sometimes with software freedom community.
-
-+ Common ground is needed so multiple for-profits can participate.
-
-# Non-Profits are Different
 
 + 501(c)(3) non-profits act in interest of the public good.
 
@@ -73,33 +30,50 @@
 
 + Non-profit orgs (NPOs) are best place for software freedom.
 
-+ Provide a place to receive philanthropy
-     - (e.g., a place for SoC mentor funds to go)
++ NPOs can accept for-profit donations, but provide a firewall.
+
+# For-Profit-Employee &ldquo;Volunteers&rdquo;
+
++ Most code written by for-profit employees.
+     + *20% time* is a boon to software freedom.
+     + **But** codebases drift in directions of company's needs.
+
++ Some developers should be *funded* by non-profits,
+     - to mitigate dangers of for-profit control.
+
+***
+
+> It's the duty of all Free Software developers to steal as much time as they can from their employers for software freedom.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Jeremy Allison, Director, Conservancy &amp; Co-Founder, Samba Project
+</p>
+</span>
+
 
 # What Can NPOs Do?
 
 + Collect (USA-tax-deductible) donations for a project.
       - both individual and corporate.
 
-+ Distribute that money to advance &amp; improve project (and public good).
++ Distribute that money to advance project (and public good).
 
 + Make sure project isn't controlled by for-profit interests.
 
 + Help leadership with non-technical decisions.
 
-+ Neutral ground when corporations sponsor.
-
 # Organization Proliferation
-
-+ You can go your own way, but &hellip;
 
 + Too many NPOs will confuse donors.
 
-+ Each needs a board of directors, incorporation, meetings, IRS filings.
++ Each needs board of directors, incorporation, meetings, IRS filings.
 
 + Hackers end up doing work they hate.
 
 + Less Free Software gets written.
+
++ Rob will talk about how this is not so bad.
 
 # Aggregating Under Umbrella
 
@@ -143,7 +117,7 @@
 
 + Requirements:
     - Apache License.
-    - Must use SVN.
+    - Must use SVN (that's changing, so I hear)
     - Must follow &ldquo;Apache Way&rdquo;.
     - Incubator process.
 
@@ -165,12 +139,12 @@
     + SPI: http://spi-inc.org/
     + Apache: http://apache.org/
 
-+ About me:
-    + I co-host an oggcast, Free as In Freedom: faif.us
++ About bkuhn:
+    + I co-host an audcast, Free as In Freedom: faif.us
     + I'm on identi.ca: @bkuhn
     + I have a blog: http://ebb.org/blog
 
-Copyright &copy; 2010, 2011 Bradley M. Kuhn.
+Copyright &copy; 2010, 2011, 2012. Bradley M. Kuhn.
 <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
 alt="Creative Commons License" style="border-width:0" src="cc-by-sa-3-0_88x31.png"
