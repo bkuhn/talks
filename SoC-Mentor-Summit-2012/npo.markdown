@@ -111,7 +111,7 @@
     - License meets DFSG.
     - Evaluation by Board of Directors.
 
-+ Key benefit:
++ Key benefits:
     - earmarked donations.
     - holding assets.
 
