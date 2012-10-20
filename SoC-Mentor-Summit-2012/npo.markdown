@@ -144,11 +144,11 @@
     + I'm on identi.ca: @bkuhn
     + I have a blog: http://ebb.org/blog
 
-Copyright &copy; 2010, 2011, 2012. Bradley M. Kuhn.
-<a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img
-alt="Creative Commons License" style="border-width:0" src="cc-by-sa-3-0_88x31.png"
-/></a><br />These slides, this talk, and audio/video recordings thereof
-are licensed under the <a rel="license"
-href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons
-Attribution-Share Alike 3.0 United States License</a>.
++ Please donate: sfconservancy.org/donate/ or Conservancy's projects' sites.
+
+<span class="fitonslide">
+<p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
+
+<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA-USA 3.0.
+</p>
+</span>
