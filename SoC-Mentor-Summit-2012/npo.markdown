@@ -95,13 +95,15 @@
 + Requirements:
     - Any license on both FSF's and OSI's lists.
     - Established project.
-    - Evaluation by Board of Directors.
+    - Evaluation by Conservancy's Evaluation Committee.
 
 + Key benefits:
     - earmarked donations.
     - basic developer liability protection.
-    - basic legal services (incl license enforcement)
+    - legal services (including license enforcement)
     - holding assets.
+    - conference organizing assistance.
+    - fundraising assistance.
 
 # Software in the Public Interest
 
