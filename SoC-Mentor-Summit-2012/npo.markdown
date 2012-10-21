@@ -88,16 +88,17 @@
 
 + Sometimes called a &ldquo;fiscal sponsor&rdquo;
     + it doesn't mean they give you money &hellip;
-    + &hellip; but rather handle assets for you.
-
-+ Many projects get same benefit of single non-profit.
+    + &hellip; but rather handle non-profit work for you.
 
 + Current 501(c)(3) options are:
      - Software Freedom Conservancy
      - Software in the Public Interest
+     - Free Software Foundation 
      - Apache Software Foundation
 
-+ Or, you can still go your own way.
++ There are some 501(c)(6) options.
+     - Outercurve Foundation
+     - Linux Foundation
 
 # Software Freedom Conservancy
 
@@ -124,6 +125,15 @@
     - earmarked donations.
     - holding assets.
 
+# Free Software Foundation
+
++ Requirements:
+    - Must be part of the GNU Project.
+
++ Key benefits:
+    - earmarked donations.
+    - holding assets.
+
 # Apache Software Foundation
 
 + Requirements:
@@ -137,6 +147,8 @@
         - (but no earmarked donations)
     - Technological infrastructure &amp; hosting.
     - basic developer liability protection.
+
+# Outercurve Foundation
 
 # Going Your Own Way
 
