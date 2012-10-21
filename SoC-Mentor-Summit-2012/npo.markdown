@@ -1,6 +1,6 @@
 % Non-Profit Infrastructure for Software Freedom
 % Bradley M. Kuhn
-% Saturday 20 October 2012
+% Sunday 21 October 2012
 
 # Who Am I?
 
