@@ -51,8 +51,7 @@
 </p>
 </span>
 
-
-# What Can NPOs Do?
+# What Can 501(c)(3)'s Do?
 
 + Collect (USA-tax-deductible) donations for a project.
       - both individual and corporate.
@@ -62,6 +61,16 @@
 + Make sure project isn't controlled by for-profit interests.
 
 + Help leadership with non-technical decisions.
+
+# What Can 501(c)(6)'s do?
+
++ Donations not tax-deductible.
+
++ Controlled by a group of companies.
+
++ Acts in the shared business interest of those companies.
+
++ Fundraising is often easier, since companies can control projects.
 
 # Organization Proliferation
 
