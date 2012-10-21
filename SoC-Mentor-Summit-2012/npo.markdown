@@ -161,13 +161,8 @@
     + Conservancy: http://sfconservancy.org
     + SPI: http://spi-inc.org/
     + Apache: http://apache.org/
-
-+ About bkuhn:
-    + I co-host an audcast, Free as In Freedom: faif.us
-    + I'm on identi.ca: @bkuhn
-    + I have a blog: http://ebb.org/blog
-
-+ Please donate: sfconservancy.org/donate/ or Conservancy's projects' sites.
+    + Outercurve: http://www.outercurve.org/
+    + MetaBrainz: http://metabrainz.org/
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
