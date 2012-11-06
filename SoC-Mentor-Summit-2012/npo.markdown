@@ -138,7 +138,6 @@
 
 + Requirements:
     - Apache License.
-    - Must use SVN (that's changing, so I hear)
     - Must follow &ldquo;Apache Way&rdquo;.
     - Incubator process.
 
