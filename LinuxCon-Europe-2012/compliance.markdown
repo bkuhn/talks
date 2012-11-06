@@ -1,6 +1,6 @@
 % GPL Compliance Is Easier Than You Think
 % Bradley M. Kuhn
-% Thursday 30 August 2012
+% Wednesday 7 November 2012
 
 # My History
 
