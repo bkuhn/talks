@@ -91,7 +91,7 @@
 + Both *undercut* those who comply.
 
 + But it's still a matter of degree:
-      + should speeding trucks get pulled over when they go 57 mph?
+      + should speeding trucks get pulled over when they go 57 km/h?
 
 # Angels Dancing on Heads of Pins
 
