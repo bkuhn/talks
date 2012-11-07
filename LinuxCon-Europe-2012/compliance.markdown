@@ -317,7 +317,12 @@
 
 + GPL compliance is (roughly) only about 5-10% of what Conservancy does.
 
-+ Most of what we do is so boring, no wants to hear me talk about it.
++ Most of what Conservancy does for its projects is *really* boring:
+     + flight reimbursements for developers.
+     + invoicing donors for their finanical donations.
+     + paying developers with those donations.
+     + handling other random logistical bulls***.
+     + No one finds those talks exciting.
 
 # More Info / Talk License
 
