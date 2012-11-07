@@ -65,7 +65,7 @@
 
 # Ever Ignored One of These?
 
-<img src="speed-limit-55.gif" align="center" />
+<img src="speed-limit-50km.jpg" align="right" />
 
 # How Badly?
 
