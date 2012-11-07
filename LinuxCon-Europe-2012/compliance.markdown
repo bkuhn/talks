@@ -128,7 +128,7 @@
 
 + I've been doing this 13 years &amp; the &ldquo;egregious&rdquo; queue has never been near empty.
 
-# I Know You Won't Be Perfect
+# I Know They Won't Be Perfect
 
 + Believe it or not, I'm a pragmatist.
 
