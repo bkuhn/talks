@@ -204,7 +204,7 @@
 
 # The Only Hard Part of Compliance
 
-+ C&amp;CS: complete and corresponding source code.
++ CCS: complete, corresponding source code.
 
 + Bulk of all enforcement time is spent on this.
 
