@@ -277,17 +277,46 @@
      + undercutting those who do real innovation (in compliance).
      + a market opportunity for many GPL projects to stand together.
 
-# A Brief Reminder
 
-+ I talk about enforcement because (sadly) it's the most interesting thing Conservancy does.
+# Compliance As Collaboration
 
-+ Most of what Conservancy does for its projects is *really* boring:
-     + flight reimbursements for developers.
-     + invoicing donors for their finanical donations.
-     + handling other random logistical bulls***.
-     + see my talk yesterday for details.
++ Multiple Conservancy projects are GPL or LGPL.
 
-+ Enforcement is just a small part of Conservancy's work.
++ Nearly all agree on compliance goals:
+       + Simply this: work with violators to get a source release that **works**.
+
++ Conservancy does the work:
+     - giving updates to copyright holders involved &hellip;
+     - &hellip; using the tried-and-true, simple Free Software community tool:
+     - just a mailing list.
+
+# Who Can Join?
+
++ Any copyright holder on an existing Conservancy project can request.
+       + approval for a compliance program required by projects' leadership committee.
+
++ Linux developers can join &hellip;
+      + &hellip; even though Linux proper isn't a Conservancy project.
+      + They join through a &ldquo;special&rdquo; project &hellip;
+      + GPL Compliance Project for Linux Developers.
+
+# Why Special Case Linux?
+
++ Linux violations are rampant.
+
++ Frankly, BusyBox developers asked if we could engage.
+
++ Also, various Linux developers &hellip;
+     - &hellip; like Matthew Garrett &hellip;
+     - &hellip; had bugged Conservancy for years to help with enforcement.
+
++ GPL Compliance Project for Linux Developers gives structure to Linux compliance activity.
+
+# Please Never Forget
+
++ GPL compliance is (roughly) only about 5-10% of what Conservancy does.
+
++ Most of what we do is so boring, no wants to hear me talk about it.
 
 # More Info / Talk License
 
