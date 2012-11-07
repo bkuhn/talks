@@ -139,7 +139,7 @@
      + Probably because perfection costs *you* more &hellip;
      + &hellip; than one of my enforcement actions.
 
-# FUD Overheard on LWN
+# FUD in LWN Comments
 
 <br/>
 
@@ -154,7 +154,7 @@
 
 + I've accepted *disgusting* settlement terms just to avoid disrupting a violator's business.
 
-# FUD Overheard on LWN
+# FUD in LWN Comments
 
 <br/>
 
