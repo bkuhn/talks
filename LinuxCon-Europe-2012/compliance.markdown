@@ -69,7 +69,7 @@
 
 # How Badly?
 
-<img src="speed-limit-55.gif" align="right" />
+<img src="speed-limit-50km.jpg" align="right" />
 
 + Routinely 10 over limit?
 
