@@ -309,6 +309,7 @@
 + Also, various Linux developers &hellip;
      - &hellip; like Matthew Garrett &hellip;
      - &hellip; had bugged Conservancy for years to help with enforcement.
+     - Linus: &ldquo;I wanted everyone to have their own copyrights so they could make their own decisions about this.&rdquo;
 
 + GPL Compliance Project for Linux Developers gives structure to Linux compliance activity.
 
