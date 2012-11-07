@@ -149,7 +149,7 @@
 
 + Sure, this is possible in theory &hellip;
 
-+ &hellip; but who doing enforce asks for this in practice?
++ &hellip; but which enforcer asks for this in practice?
 
 
 + I've accepted *disgusting* settlement terms just to avoid disrupting a violator's business.
@@ -268,13 +268,14 @@
 # Why Enforce for More Projects?
 
 + BusyBox once stood by itself.
-     + Criticism of BusyBox acting alone for complete compliance has some moral validity.
+     + The criticism was: BusyBox shouldn't act alone for complete compliance
+          -  I agree this has some moral validity.
 
 + BusyBox wanted others to stand with it on compliance in the embedded space.
      + &hellip; and Samba &amp; Linux copyright holders asked for this too.
 
 + low-end embedded market needs attention.
-     + undercutting those who do real innovation (in compliance).
+     + undercutting those who comply **&amp;**  really innovate.
      + a market opportunity for many GPL projects to stand together.
 
 
