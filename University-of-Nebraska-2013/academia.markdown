@@ -146,7 +146,7 @@ But MIT was changing.
 
 # The Cycle
 
-+ Goverment funds research.
++ Government funds research.
 
 + Universities gain patents &amp; copyrights.
 
@@ -224,7 +224,7 @@ But MIT was changing.
 + A perennial issue for academic CS research.
 
 + Corporate spin-offs is not **charitable** technology transfer.
-      + I question if Universities are fufilling their 501(c)(3) missions with it.
+      + I question if Universities are fulfilling their 501(c)(3) missions with it.
       + IRS legality is an &ldquo;open question&rdquo;. [Milton2010]
 
 + Obama's Jobs Council says: &ldquo;the Administration should test an &lsquo;open-source&rsquo; approach to tech transfer and commercialization.&ldquo; [JobsCouncil2011]
@@ -239,7 +239,7 @@ But MIT was changing.
 
 + Many contributors and industry interest.
 
-+ Now some standard Free Software porgramming language.
++ Now some standard Free Software programming language.
 
 + Reference: [Hudak2007]
 
@@ -263,9 +263,9 @@ But MIT was changing.
 
 + What's the space in-between academia &amp; industry in FLOSS:
       + The FLOSS 501(c)(3) non-profit organizations.
-      + (Same tax status as Univerisities).
+      + (Same tax status as Universities).
 
-# What's Consevancy Do?
+# What's Conservancy Do?
 
 + Project communities join.
 
@@ -274,7 +274,7 @@ But MIT was changing.
 + Conservancy handles grants, donations, legal issues.
        + anything other than coding that needs done.
 
-+ Becomes a center-point for collaboration &amp; communcation with project.
++ Becomes a center-point for collaboration &amp; communication with project.
 
 
 # References
