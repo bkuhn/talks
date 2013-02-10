@@ -84,7 +84,9 @@ Some think he did:
 
 + They sue UC-Berkeley in 1992.
 
-+ Unresolved until mid 1990s: unworking bits of code.
++ Unresolved until mid 1990s
+        + Legal BSD release left incomplete system.
+        + Took years for BSD to work again.
 
 + BSD only barely recovered.
 
