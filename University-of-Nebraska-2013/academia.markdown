@@ -10,7 +10,7 @@
 
 + Worked at various non-profits.
 
-+ Now work at a fiscal sponsor non-profit, called Software Freedom Conservancy.
++ Now I run a 501(c)(3) fiscal sponsor non-profit, called Software Freedom Conservancy.
 
 + I'm not a researcher; I'm a policy wonk &amp; advocate for software freedom.
 
@@ -88,7 +88,7 @@ Some think he did:
     - Legal BSD release left incomplete system.
     - Took years for BSD to work again.
 
-+ BSD only barely recovered.
++ BSD, as a project, only barely recovered.
 
 # The Rise of Copyleft
 
@@ -98,21 +98,12 @@ Some think he did:
 <img src="rms-current.jpg"  />
 </center>
 
-# RMS
-
-<img align=right src="rms-book-cover.jpg"  />
-
-+ Job at MIT's AI lab in late 1970s and early 1980s.
-
-+ Programming their PDP-10!
-
-+ In the Golden Age.
-
 # GNU Project
 
 <img src="gnu-hacker.jpg" align="right" />
 
-+ RMS founds GNU project: copyleft licensing.
++ RMS founds GNU project around copyleft licensing.
+      - use copyright law against itself to uphold freedom. 
 
 + Founded on idealism.
 
@@ -162,7 +153,7 @@ But MIT was changing.
 
 + Ever wonder why he's so wealthy?
 
-# Selling Patented Stuff From Outside USA
+# Selling Patented Tech From Outside USA
 
 + RSA was published in 1977; patented years later.
 
@@ -172,7 +163,7 @@ But MIT was changing.
 + Shuttleworth sells RSA certificates back to USA cheaply.
        + Undercuts Network Solutions.
 
-+ Why did we let that wealth leave USA for South Africa? 
++ Why'd we let that wealth leave USA for South Africa? 
 
 # My Own Master's Thesis
 
@@ -227,7 +218,7 @@ But MIT was changing.
 + Perennial issue for academic research.
 
 + Corporate spin-offs aren't **charitable** technology transfer.
-      + Does it fufill University's 501(c)(3) mission?
+      + Does it fulfill University's 501(c)(3) mission?
       + IRS legality is an &ldquo;open question&rdquo;. [Milton2010]
 
 + Obama's Jobs Council says:
@@ -241,9 +232,9 @@ But MIT was changing.
 
 + University of Glasgow released implementation as Free Software.
 
-+ Many contributors and industry interest.
++ Many contributors; both volunteer &amp; for-profit industry interest.
 
-+ Now some standard Free Software programming language.
++ Now widely used Free Software programming language.
 
 + Reference: [Hudak2007]
 
@@ -287,7 +278,7 @@ But MIT was changing.
 <p>[Hudak2007] Hudak, et al.  <a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.pdf">&ldquo;A History of Haskell:Being Lazy With Class&rdquo;</a>.  Proceedings of the third ACM SIGPLAN conference on History of programming languages". Pages 12-1-12-55. (<a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.mp4">Video of talk</a>)</p>
 <p>[Milton2010] Cerny, Milton and Hellmuth, Kelly. <a href="http://www.mcguirewoods.com/news-resources/publications/taxation/TaxationofExempts-May-June2010.pdf">&ldquo;Economic Crises? Technology Transfer to the Rescue&rdquo;</a>. 21 Taxation Exempts 6 (2010).</p>
 
-<p>[JobsCouncil2011] President's Council on Jobs and Competitiveness. &ldquo;Taking action, building confidence:  Five Common-Sense Initiatives to Boost Jobs and Competitiveness&rdquo; Iterim Report. October 2011.</p>
+<p>[JobsCouncil2011] President's Council on Jobs and Competitiveness. &ldquo;Taking action, building confidence:  Five Common-Sense Initiatives to Boost Jobs and Competitiveness&rdquo; Interim Report. October 2011.</p>
 </span>
 
 # More Info / Talk License
