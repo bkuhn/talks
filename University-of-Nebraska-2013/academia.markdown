@@ -85,8 +85,8 @@ Some think he did:
 + They sue UC-Berkeley in 1992.
 
 + Unresolved until mid 1990s
-        + Legal BSD release left incomplete system.
-        + Took years for BSD to work again.
+    - Legal BSD release left incomplete system.
+    - Took years for BSD to work again.
 
 + BSD only barely recovered.
 
@@ -110,7 +110,7 @@ Some think he did:
 
 # GNU Project
 
-<img src="gnu-head.jpg" align="right" />
+<img src="gnu-hacker.jpg" align="right" />
 
 + RMS founds GNU project: copyleft licensing.
 
@@ -144,7 +144,7 @@ But MIT was changing.
 
 + MIT launches spin-off: RSA Data Security.
 
-+ Sets back adoption of public key cryptography.
++ Sets back adoption of public key cryptography by a decade (IMO).
 
 # The Cycle
 
@@ -162,7 +162,7 @@ But MIT was changing.
 
 + Ever wonder why he's so wealthy?
 
-# Selling from outside the USA.
+# Selling Patented Stuff From Outside USA
 
 + RSA was published in 1977; patented years later.
 
@@ -178,17 +178,17 @@ But MIT was changing.
 
 + University of Cincinnati Copyright Policy says:
        + Graduate students hold copyright on their thesis document.
-       + But not on your software!
+       + But not on their software!
+       + Don't even hold copyright on your own **homework**.
 
 + Hired a lawyer, but couldn't get University lawyers to budge.
 
-+ So, I put my source code as an appendix to my thesis document.
++ So, I put my source code as an appendix to my thesis document &hellip;
+    - &hellip; and released it as Free Software.
 
-+ &hellip; and released it as Free Software.
+# How Collaboration Should Work
 
-# How Collaboration Should Work.
-
-+ Academic system should be released in software freedom.
++ Academic software systems should be released in software freedom.
 
 + The four freedoms are **designed** for academic exploration.
 
@@ -201,9 +201,9 @@ But MIT was changing.
 <img src="lab-rat.jpg" align="right"  />
 
 + FLOSS community has become a favorite research target.
-        + Business schools
-        + Anthropologists
-        + Sociologists
+    - Business schools
+    - Anthropologists
+    - Sociologists
 
 + I've been a lab rat in four different studies.
 
@@ -213,25 +213,27 @@ But MIT was changing.
 
 + So many research systems are released as proprietary software.
 
-+ The paper is king: what about the software?
++ The referred paper is king: what about the software?
 
 + Even systems without commercial viability are kept proprietary.
 
 + NSF funding shouldn't go toward proprietary software.
+    - that's the &ldquo;people's code&rdquo;.
 
 # Technology Transfer
 
 <img src="CACM-cover-1996-09.jpg" align="right"  />
 
-+ A perennial issue for academic CS research.
++ Perennial issue for academic research.
 
-+ Corporate spin-offs is not **charitable** technology transfer.
-      + I question if Universities are fulfilling their 501(c)(3) missions with it.
++ Corporate spin-offs aren't **charitable** technology transfer.
+      + Does it fufill University's 501(c)(3) mission?
       + IRS legality is an &ldquo;open question&rdquo;. [Milton2010]
 
-+ Obama's Jobs Council says: &ldquo;the Administration should test an &lsquo;open-source&rsquo; approach to tech transfer and commercialization.&ldquo; [JobsCouncil2011]
++ Obama's Jobs Council says:
+      - &ldquo;the Administration should test an &lsquo;open-source&rsquo; approach to tech transfer and commercialization.&rdquo; [JobsCouncil2011]
 
-+ Academia can take the lead here.
++ Academia should take lead here.
 
 # Haskell
 
@@ -245,9 +247,9 @@ But MIT was changing.
 
 + Reference: [Hudak2007]
 
-# What Your Students Need.
+# What Your Students Need
 
-+ Linux-based systems are everywhere.
++ Linux-based systems are everywhere (Android, etc.).
 
 + So many other FLOSS systems are standard.
 
@@ -261,7 +263,7 @@ But MIT was changing.
 + FLOSS communities are notoriously difficult to engage with.
 
 + Purely industry-centered &ldquo;communities&rdquo; are common.
-      + But designed merely as a trade associations.
+      + But designed as a trade associations.
 
 + What's the space in-between academia &amp; industry in FLOSS:
       + The FLOSS 501(c)(3) non-profit organizations.
@@ -281,11 +283,12 @@ But MIT was changing.
 
 # References
 
-+ [Hudak2007] Hudak, et al.  <a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.pdf">&ldquo;A History of Haskell:Being Lazy With Class&rdquo;</a>.  Proceedings of the third ACM SIGPLAN conference on History of programming languages". Pages 12-1-12-55. (<a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.mp4">Video of talk</a>)
- 
-+ [Milton2010] Cerny, Milton and Hellmuth, Kelly. <a href="http://www.mcguirewoods.com/news-resources/publications/taxation/TaxationofExempts-May-June2010.pdf">&ldquo;Economic Crises? Technology Transfer to the Rescue&rdquo;</a>. 21 Taxation Exempts 6 (2010).
+<span class="fitonslide">
+<p>[Hudak2007] Hudak, et al.  <a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.pdf">&ldquo;A History of Haskell:Being Lazy With Class&rdquo;</a>.  Proceedings of the third ACM SIGPLAN conference on History of programming languages". Pages 12-1-12-55. (<a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.mp4">Video of talk</a>)</p>
+<p>[Milton2010] Cerny, Milton and Hellmuth, Kelly. <a href="http://www.mcguirewoods.com/news-resources/publications/taxation/TaxationofExempts-May-June2010.pdf">&ldquo;Economic Crises? Technology Transfer to the Rescue&rdquo;</a>. 21 Taxation Exempts 6 (2010).</p>
 
-+ [JobsCouncil2011] President's Council on Jobs and Competitiveness. &ldquo;Taking action, building confidence:  Five Common-Sense Initiatives to Boost Jobs and Competitiveness&rdquo; Iterim Report. October 2011.
+<p>[JobsCouncil2011] President's Council on Jobs and Competitiveness. &ldquo;Taking action, building confidence:  Five Common-Sense Initiatives to Boost Jobs and Competitiveness&rdquo; Iterim Report. October 2011.</p>
+</span>
 
 # More Info / Talk License
 
