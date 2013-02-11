@@ -1,6 +1,6 @@
 #!/bin/sh
 
-talk=compliance-linuxcon-eu
+talk=omaha
 
 rsync -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui
