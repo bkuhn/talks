@@ -243,7 +243,7 @@ else if(a=="function"&&typeof b.call=="undefined")return"object";return a}functi
 
 <img src="monk-scriptorium.jpg" align="right"  />
 
-+ The develpoers (monks) have the source code (books).
++ The developers (monks) have the source code (books).
 
 # Dark Ages? Really?
 
