@@ -177,11 +177,62 @@ but the work with which it is combined will remain governed by version
        + &hellip; maybe because we hadn't given them a copyleft.
        + permissive MIT license &amp; 3-clause BSD rules the web.
 
++ This is server-side, trade-secret software.
+
+# Talk about Obfuscated!
+<span class="fitonslide">
+<pre>
+try{function e(b){throw b;}var i=void 0,k=null;
+function aa(){return function(b){return b}}
+function m(){return function(){}}
+function ba(b){return function(a){this[b]=a}}
+function o(b){ return function(){return this[b]}}
+function p(b){return function(){return b}}var q;
+function da(b,a,c){b=b.split(".");c=c||ea;
+!(b[0]in c)&&c.execScript&&c.execScript("var "+b[0]);
+for(var d;b.length&&(d=b.shift());)
+!b.length&&s(a)?c[d]=a:c=c[d]?c[d]:c[d]={}}
+function fa(b,a){for(var c=b.split("."),d=a||ea,f;f=c.shift();)
+if(t(d[f]))d=d[f];else return k;return d}function u(){}
+function ga(b){b.va=function $(){return b.xY||(b.xY=new b)}}
+function ia(b){var a=typeof b;if(a=="object")if(b){
+if(b instanceof Array)return"array";else if(b instanceof Object)return a;
+var c=Object.prototype.toString.call(b);if(c=="[object Window]")
+return"object";if(c=="[object Array]"||typeof b.length=="number"&&
+typeof b.splice!="undefined"&&typeof b.propertyIsEnumerable!="undefined"
+&&!b.propertyIsEnumerable("splice"))return"array";
+if(c=="[object Function]"||typeof b.call!="undefined"&&
+typeof b.propertyIsEnumerable!="undefined"&&!b.propertyIsEnumerable("call"))
+return"function"}else return"null";
+else if(a=="function"&&typeof b.call=="undefined")return"object";return a}function s(b){return b!==i}function ja(b){return b===k}function t(b){return b!=k}function ka(b){return ia(b)=="array"}function la(b){var a=ia(b);return a=="array"||a=="object"&&typeof b.length=="number"}function ma(b){return typeof b=="string"}function na(b){return typeof b=="boolean"}function oa(b){return typeof b=="number"}function pa(b){return ia(b)=="function"}
+</pre>
+
+# The Client Proprietary (aka Javascript Trap)
+
+  + Microsoft **gets** this:
+       + the platform for future of proprietariness &hellip;
+       + &hellip; is already on your computer.
+
+  + You might run a software freedom operating system &hellip;
+       + &hellip; but how much proprietary runs in your browser?
+       + Effectively, &ldquo;Compressed&rdquo; Javascript is a proprietary binary.
+
+***
+
+> JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Erik Meijer of Microsoft, on 5 July 2011.
+</p>
+</span>
+
 # The Application
 
 <img src="dark-ages.jpg" align="right"  />
 
 + Today, most new applications deploy online &hellip;
+       + as a mix of trade-secret server-side plus proprietary client-side Javascript &hellip;
        + from infrastructure-level like OpenStack  &hellip;
        + to *even* developer tools like GitHub/BitBucket (!) &hellip;
        + to end-user applications: FaceBook, Twitter, GooglePlus.
