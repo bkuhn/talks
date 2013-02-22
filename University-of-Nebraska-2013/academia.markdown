@@ -278,7 +278,7 @@ But MIT was changing.
 <p>[Hudak2007] Hudak, et al.  <a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.pdf">&ldquo;A History of Haskell:Being Lazy With Class&rdquo;</a>.  Proceedings of the third ACM SIGPLAN conference on History of programming languages". Pages 12-1-12-55. (<a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.mp4">Video of talk</a>)</p>
 <p>[Milton2010] Cerny, Milton and Hellmuth, Kelly. <a href="http://www.mcguirewoods.com/news-resources/publications/taxation/TaxationofExempts-May-June2010.pdf">&ldquo;Economic Crises? Technology Transfer to the Rescue&rdquo;</a>. 21 Taxation Exempts 6 (2010).</p>
 
-<p>[JobsCouncil2011] President's Council on Jobs and Competitiveness. &ldquo;Taking action, building confidence:  Five Common-Sense Initiatives to Boost Jobs and Competitiveness&rdquo; Interim Report. October 2011.</p>
+<p>[JobsCouncil2011] President's Council on Jobs and Competitiveness. <a href="http://files.jobs-council.com/jobscouncil/files/2011/10/JobsCouncil_InterimReport_Oct11.pdf">&ldquo;Taking action, building confidence:  Five Common-Sense Initiatives to Boost Jobs and Competitiveness&rdquo; Interim Report</a>. October 2011.</p>
 </span>
 
 # More Info / Talk License
