@@ -1,6 +1,6 @@
 #!/bin/sh
 
-talk=owf-agplv3
+talk=scale-2013
 
 rsync -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui

@@ -5,7 +5,7 @@
 
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=agplv3
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/Open-World-Forum-2012/AGPLv3
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/SCALE-2013
 endif 
 
 DO_INCREMENTAL_POINTS = -i -s
