@@ -170,31 +170,37 @@
 
 # Why Don't We Do More?
 
-<img height="496" width="589" src="pypy-donations.png" align="right" />
+<img height="446" width="530" src="pypy-donations.png" align="right" />
 
 + This is the only fundraising pitch.
 
 + But I'd love to see more blue in this graph &hellip;
       + &hellip; &amp; every other Conservancy's project graph.
 
-+ We need a culture where people give a little cash from their pocket back to the projects they love.
+# Why Don't We Do More?
 
-+ We don't want the teat of for-profit largess to be our only safety net.
+<img height="446" width="530" src="pypy-donations.png" align="right" />
 
-+ And, frankly, more companies should be giving back cash too, rather than just staff time.
++ We need a culture &hellip;
+       + &hellip; where people give a little cash from their pockets &hellip;
+       + &hellip; back to the projects they love.
+       + &hellip; so Free Software doesn't live on the teat of for-profit largess.
+
++ And, frankly, more companies &hellip;
+       + &hellip; should be giving back cash too &hellip;
+       + &hellip; rather than just staff time.
 
 # Why Don't We Do More?
 
-+ My walk through PyCon tradeshow floor last year was enlightening &hellip;
-       + &hellip; I'd never before seen a tradeshow floor focused almost exclusively on recruiting before.
++ PyCon tradeshow floor last year was enlightening &hellip;
+       + &hellip; I'd never before seen a tradeshow floor focused almost exclusively on recruiting.
 
 + It's clear good Python hackers have low unemployment.
        + supply &amp; demand will leave them well-paid.
 
-+ Non-profits don't pay that much.
-
-+ Conservancy has lost contractors to places like:
-       + Facebook, consulting companies, &amp; even trade associations.
++ Non-profits don't pay that much &hellip;
+       + &hellip; Conservancy has lost contractors to places like:
+       + &hellip; Facebook, consulting companies, &amp; even trade associations.
 
 + Developers have a choice to make, too:
        + What matters more in your life &hellip;
