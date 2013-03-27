@@ -122,6 +122,8 @@
 
 # Where's the Money come from?
 
+<img height="496" width="589" src="pypy-donations.png" align="right" />
+
 + Example: PyPy
 
 + Wait, the majority are from for profit companies?
@@ -129,8 +131,6 @@
 + Didn't I just get through saying we should avoid that?
 
 + Well, it's complicated.
-
-<img height="496" width="589" src="pypy-donations.png" align="right" />
 
 # The IRS is Awesome!
 
