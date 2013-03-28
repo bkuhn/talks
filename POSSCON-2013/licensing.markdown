@@ -10,7 +10,7 @@
 
 + I used to be software developer.
 
-+ I was Executive Director (2001-2005) of the Free Software Foundation (creater of GPL)
++ I was Executive Director (2001-2005) of the Free Software Foundation (creator of GPL)
      + I'm still on FSF's Board of Directors as a volunteer. 
 
 # Ye Ol' Four Freedoms
@@ -35,7 +35,7 @@
 # What Free Software License Does?
 
 + Copyright on software governs three basic activities:
-         + copying, modifying and distributing.
+      + copying, modifying and distributing.
 
 + By default, you're prohibited from doing those things.
 
@@ -51,7 +51,7 @@
 + Ultimately depends on the authors' goal.
       + More on this in a moment.
 
-+ Every Free Software license gives first receipient those four freedoms.
++ Every Free Software license gives first recipient those four freedoms.
 
 + Question is: What about everyone else?
 
@@ -64,13 +64,58 @@
       + distribution of modified versions need same (with changes).
 
 + Generally triggered on distribution:
-      + (Note: Affero GPL triggers on modification.
-
+      + (Note: Affero GPL triggers on modification.)
 
 # Comparing Licenses
 
-<img src="license-spectrum.svg" align="left" />
+<br/>
+<br/>
 
+<img src="license-spectrum.png" align="center" />
+
+# Contribution Models
+
++ Both permissive and copyleft communities **want** changes back.
+
++ The Free Software Community is separated into two equally important groups:
+     + The permissively licensed, who use social pressure to liberate code.
+     + The copyleft licensed, whose license requires liberation.
+
+# On Requirement By License
+
+<img src="Constitution.jpg" align="right"  />
+
++ Social pressure *does* work &hellip;
+     + &hellip; and should be used (and is), even for copylefted software.
+     + &hellip; license enforcement is a last resort.
+
++ GPL == Constitution of Software Freedom Land.
+     + a &ldquo;written down&rdquo; embodiment of core principles.
+
++ GPL's a detailed implementation of the four freedoms:
+     + freedom to run and study.
+     + freedom to improve.
+     + freedom to share.
+     + freedom to share improvements.
+
+# The "More Free" Argument
+
++ Permissive license communities argue they give &ldquo;more freedom&rdquo;
+     + This is a ultimately a Libertarian argument.
+     + Businesses are &ldquo;free&rdquo; to do whatever they want.
+     + Dispute is not unlike &ldquo;role of government&rdquo; debates.
+
++ Such debates are not ultimately helpful.
+
+# How Do you Select a License?
+
++ Use one that is both on the <a href="http://www.gnu.org/licenses/license-list.html">FSF's</a> and <a href="http://opensource.org/licenses">OSI's</a> lists.
+
++ Please don't try to write your own.
+      + Particularly if corporate attorneys are involved.
+
++ If you're giving to a contribution to a project, use the license already selected by the project.
+ 
 # More Info / Talk License
 
 + URLs / Social Networking / Email:

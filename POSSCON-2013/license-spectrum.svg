@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="license-spectrum.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -71,26 +71,26 @@
        xml:space="preserve"
        style="font-size:26.98973465px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="39.012241"
-       y="293.14157"
+       y="262.7847"
        id="text3594"
        sodipodi:linespacing="125%"
        transform="scale(0.84324014,1.1859018)"><tspan
          sodipodi:role="line"
          id="tspan3596"
          x="39.012241"
-         y="293.14157">Highly Permissive</tspan></text>
+         y="262.7847">Highly Permissive</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:31.44734955px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="538.6073"
-       y="311.69458"
+       y="279.47607"
        id="text3598"
        sodipodi:linespacing="125%"
        transform="scale(0.89495302,1.1173771)"><tspan
          sodipodi:role="line"
          id="tspan3600"
          x="538.6073"
-         y="311.69458">Highly copyleft</tspan></text>
+         y="279.47607">Highly copyleft</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
@@ -318,33 +318,55 @@
        xml:space="preserve"
        style="font-size:17.07959938px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="46.420452"
-       y="326.05209"
+       y="294.74765"
        id="text3710"
        sodipodi:linespacing="125%"
        transform="scale(0.86956273,1.1500033)"><tspan
          sodipodi:role="line"
          x="46.420452"
-         y="326.05209"
+         y="294.74765"
          id="tspan3714">(allows more proprietary</tspan><tspan
          sodipodi:role="line"
          x="46.420452"
-         y="347.40158"
+         y="316.09714"
          id="tspan3718"> derivations)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:19.19839287px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="549.84253"
-       y="330.37854"
+       y="298.96313"
        id="text3720"
        sodipodi:linespacing="125%"
        transform="scale(0.87265426,1.1459292)"><tspan
          sodipodi:role="line"
          id="tspan3722"
          x="549.84253"
-         y="330.37854">(allows fewer proprietary</tspan><tspan
+         y="298.96313">(allows fewer proprietary</tspan><tspan
          sodipodi:role="line"
          x="549.84253"
-         y="354.37653"
+         y="322.96112"
          id="tspan3724">   derivations)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="28.385796"
+       y="403.80365"
+       id="text3747"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3749"
+         x="28.385796"
+         y="403.80365">(adoption is easier)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="374.67017"
+       y="403.84424"
+       id="text3751"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3753"
+         x="374.67017"
+         y="403.84424">   (software freedom is assured)</tspan></text>
   </g>
 </svg>
