@@ -122,7 +122,7 @@
      - Conservancy: sfconservancy.org &amp; @conservancy
      - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca only)
      - Slides at: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
-     - Please donate: http://sfconservancy.org/donate/
+     - Please donate: sfconservancy.org/donate/
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012, 2013 Bradley M. Kuhn, and are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/usa/">Creative Commons Attribution-Share Alike (CC-By-SA) 3.0 United States License</a>. <img src="cc-by-sa-3-0_88x31.png"/></p>
