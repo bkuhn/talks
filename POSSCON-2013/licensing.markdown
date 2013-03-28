@@ -67,6 +67,10 @@
       + (Note: Affero GPL triggers on modification.
 
 
+# Comparing Licenses
+
+<img src="license-spectrum.svg" align="left" />
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
