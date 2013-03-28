@@ -4,7 +4,7 @@
 # an environment variable before you type make.
 
 ifndef PRESENTATION_BASE
-PRESENTATION_BASE=fundraising
+PRESENTATION_BASE=licensing
 INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/PyCon-USA-2013
 endif
 
