@@ -76,11 +76,12 @@
 
 <img src="peanut-butter-jelly-time-comic.png" align="right"  />
 
-+ Erik Andersen rewrote BusyBox from (mostly) scratch in early 2000's.
++ Andersen rewrote BusyBox from scratch (starting 2001).
 
-+ BusyBox became standard Unix-like userspace for embedded systems.
++ BusyBox standard userspace for embedded systems.
 
-+ Linux plus BusyBox was the Peanut and Jelly sandwich of embedded systems.
++ Linux plus BusyBox:
+     + PB&amp;J of embedded systems.
      + Usually out of compliance.
 
 # Is It Really Degrading?
