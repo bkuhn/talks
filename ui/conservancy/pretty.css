@@ -31,17 +31,19 @@ sup {font-size: smaller; line-height: 1px;}
 
 /* url(http://www.softwarefreedom.org/img/headerbg.png) */
 div#header, div#footer {
-  background-color: #afe578;
   color: #AAB;
   font-family: Verdana, Helvetica, sans-serif;}
 /* div#logobutton { */
+/*  background: url(conservancy-logo-50px.png) right top no-repeat !important; */
 div#header {
-  background: url(conservancy-logo-50px.png) right top no-repeat !important;
-  top: 2mm;
-  left: -5mm;
+  background: #afe578 url('conservancy-logo-50px.png') top left no-repeat;
 }
-body {  background: url(headerbg.png) left top repeat-x;}
-div#footer {font-size: 0.5em; font-weight: bold; padding: 1em 0;}
+div#footer {
+  background: #ccd4a3 url('conservancy-footer.png') top right no-repeat;
+  font-size: 0.5em;
+  font-weight: bold;
+  padding: 1em 0;
+}
 #footer h1, #footer h2 {display: block; padding: 0 1em;}
 #footer h2 {font-style: italic;}
 
