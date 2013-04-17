@@ -66,7 +66,7 @@
 
 # Compliance: Service to Developers
 
-+ &hellip; but also &hellip; my day job isExecutive Director of Software Freedom Conservancy.
++ &hellip; but also &hellip; my day job is Executive Director of Software Freedom Conservancy.
 
 + Conservancy gives a <a href="http://sfconservancy.org/members/services/">wide range of services</a> to projects.
 
@@ -81,7 +81,7 @@
 + BusyBox became standard Unix-like userspace for embedded systems.
 
 + Linux plus BusyBox was the Peanut and Jelly sandwich of embedded systems.
-        + Usually out of compliance.
+     + Usually out of compliance.
 
 # Is It Really Degrading?
 
