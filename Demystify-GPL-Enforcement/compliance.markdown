@@ -181,7 +181,7 @@
 
 + Avoid two sets of rules: participators vs. the ignorant.
 
-+ Either coplyeft matters, or we should all switch to Apache-2.0.
++ Either copyleft matters, or we should all switch to Apache-2.0.
 
 + Every GPL violator is a new potential contributor.
 
@@ -205,7 +205,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + A repackager is a distributor, just like supplier is.
 
-+ Repakager shares the same obligations.
++ Repackager shares the same obligations.
 
 + Should ask due diligence questions *before* buying.
 

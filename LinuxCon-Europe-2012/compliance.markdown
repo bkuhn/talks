@@ -294,7 +294,7 @@
 # Who Can Join?
 
 + Any copyright holder on an existing Conservancy project can request.
-       + approval for a compliance program required by projects' leadership committee.
+       + approval for a compliance program required by project's leadership committee.
 
 + Linux developers can join &hellip;
       + &hellip; even though Linux proper isn't a Conservancy project.
@@ -320,7 +320,7 @@
 
 + Most of what Conservancy does for its projects is *really* boring:
      + flight reimbursements for developers.
-     + invoicing donors for their finanical donations.
+     + invoicing donors for their financial donations.
      + paying developers with those donations.
      + handling other random logistical bulls***.
      + No one finds those talks exciting.
