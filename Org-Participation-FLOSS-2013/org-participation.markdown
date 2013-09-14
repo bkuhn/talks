@@ -127,7 +127,7 @@
 # The Pet Industry
 
 + For-profit companies abound &hellip;
-      - pet food, veterinarian clincs, pet stores.
+      - pet food, veterinarian clinics, pet stores.
 
 + Some have non-profit equivalents, but why?
       - pet stores are historically the biggest perpetrators of puppy mill purchases.
@@ -138,7 +138,7 @@
       - shelter pet adoption events at pet stores.
  
 + Puppy mills would be the norm if NPOs have no power.
-     - &amp; proprietary software explotation would be the norm (again) w/out a healthy Free Software NPO ecosystem.
+     - &amp; proprietary software exploitation would be the norm (again) w/out a healthy Free Software NPO ecosystem.
 
 # A Very Few Words On Licensing
 
