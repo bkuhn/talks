@@ -126,14 +126,14 @@
 
 # The Pet Industry
 
-+ For profit companies abound &hellip;
++ For-profit companies abound &hellip;
       - pet food, veterinarian clincs, pet stores.
 
 + Some have non-profit equivalents, but why?
       - pet stores are historically the biggest perpetrators of puppy mill purchases.
       - non-profit shelters &amp; rescues provide **morally** centered method for pet acquisition.
 
-+ For profit companies adapt:
++ For-profit companies adapt:
       - donate pet food to shelters (marketing/brand loyalty for later)
       - shelter pet adoption events at pet stores.
  
