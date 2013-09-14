@@ -117,7 +117,7 @@
 
 + True **control** by for-profit companies **will** kill the gravy train.
       - No, I can't prove that with data.
-      - But ∃ plenty of anecdotes &amp; &hellip;
+      - But &#x2203; plenty of anecdotes &amp; &hellip;
       - &hellip; my 20 years of intuition, FWIW.
 
 # Quick Analogy
