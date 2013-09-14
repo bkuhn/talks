@@ -26,6 +26,8 @@
       - *"All sorts of development can be funded with a Software Tax"*
       - *"People with new ideas could distribute programs as [free software], asking for donations from satisfied users"*
 
++ A non-profit model for the community was planned from the start.
+
 # Some FSF History
 
 <img src="gnu-head.jpg" align="right" />
