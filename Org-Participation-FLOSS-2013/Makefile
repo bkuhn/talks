@@ -4,7 +4,7 @@
 # an environment variable before you type make.
 
 ifndef PRESENTATION_BASE
-PRESENTATION_BASE=academia
+PRESENTATION_BASE=org-participation
 INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks//University-of-Nebraska-2013/
 endif
 
@@ -79,5 +79,5 @@ install: all
 	/bin/rm -rf $(INSTALL_DIR)/ui
 	/usr/bin/rsync -HavP --delete ./  $(INSTALL_DIR)
 	/bin/rm -rf $(INSTALL_DIR)/ui
-	/usr/bin/rsync -HavP ../ui/ $(INSTALL_DIR)/ui/
+	/usr/bin/rsync -HavP --exclude sambaxp ../ui/ $(INSTALL_DIR)/ui/
 	./pres-cmd
