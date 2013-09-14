@@ -61,8 +61,8 @@ $(PRESENTATION_BASE).tex: $(PDF_FIGS) $(PRESENTATION_BASE).markdown
 
 $(PRESENTATION_BASE).pdf: $(PRESENTATION_BASE).tex $(PDF_FIGS)
 	$(PANDOC) -S -s -f markdown -t latex $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).tex
-	$(PDFLATEX)  $(PRESENTATION_BASE).tex
-	$(PDFLATEX)  $(PRESENTATION_BASE).tex
+	-$(PDFLATEX)  $(PRESENTATION_BASE).tex
+	-$(PDFLATEX)  $(PRESENTATION_BASE).tex
 
 $(PRESENTATION_BASE).html: $(PRESENTATION_BASE).markdown
 	$(PANDOC) $(DO_INCREMENTAL_POINTS) -s -S --template ./ui/conservancy/pandoc-s5-template.html -f markdown -t s5 $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).html
