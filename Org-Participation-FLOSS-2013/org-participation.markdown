@@ -38,24 +38,9 @@
 
 + FSF's first 12 years is mostly to employ developers!
       - 46% of FSF's history.
+      - Some of the key developers who now lead many of the largest Free Software projects.
       - (Source: GNU's Bulletins 1986-1997)
-
-# FSF-Employed Developers
-
-+ 1985-1997: FSF employs many developers:
-    + Paul Rubin (GCC)
-    + Jay Fenlason (awk, ld, etc)
-    + Diane Barlow Close (documentation)
-    + Roland McGrath (glibc, make)
-    + Mike Rowan
-    + Thomas Bushnell (tar, HURD)
-    + Jim Blandy (Emacs, Guile)
-    + Tom Lord (oleo, rx, Guile)
-    + Melissa Weisshaus (documentation)
-    + Lisa Goldstien (documentation)
-    + Karl Heuer (Emacs)
-    + Miles Bader (HURD)
-    + Ian Murdock (Debian (yes, FSF funded 1st Debian (!)))
+      
 
 # The Rise of the Volunteers
 
