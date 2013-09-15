@@ -108,7 +108,8 @@
 
 + What's wrong with for-profits?
       - that duty to shareholders gets in the way.
-      - business interest merely accelerates pace.
+      - at best, business interest merely accelerates pace.
+      - at worst, it distorts the community into trade-association thinking.
 
 + Only non-profits can view community, sharing, helping, and learning as paramount.
 
