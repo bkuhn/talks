@@ -122,9 +122,13 @@
 
 # Quick Analogy
 
+<img src="alfie-winnie.png" align="right" />
+
 + Which, I admit, is perhaps a pathetically thin pretext to put a photo of my dogs in this presentation.
 
 # The Pet Industry
+
+<img src="alfie.png" align="right" />
 
 + For-profit companies abound &hellip;
       - pet food, veterinarian clinics, pet stores.
@@ -132,6 +136,8 @@
 + Some have non-profit equivalents, but why?
       - pet stores are historically the biggest perpetrators of puppy mill purchases.
       - non-profit shelters &amp; rescues provide **morally** centered method for pet acquisition.
+
+<img src="winnie.png" align="right" />
 
 + For-profit companies adapt:
       - donate pet food to shelters (marketing/brand loyalty for later)
