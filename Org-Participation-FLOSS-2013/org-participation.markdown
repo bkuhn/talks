@@ -71,7 +71,7 @@
 + Some developers should be *funded* by non-profits,
      - to mitigate dangers of for-profit control.
 
-***
+<hr/>
 
 > It's the duty of all Free Software developers to steal as much time as they can from their employers for software freedom.
 
