@@ -6,8 +6,7 @@
 
 + In a CS PhD program at University of Cincinnati (1997-2000).
 
-+ Dropped out with a Master's to do policy work for Free Software Foundation.
-     + &hellip; and I'm still friends with RMS and on FSF's Board.
++ Dropped out with a Master's to do policy work for Free Software Foundation (on its Board these days).
 
 + Worked at various non-profits.
 
