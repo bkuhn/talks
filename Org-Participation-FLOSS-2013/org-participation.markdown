@@ -132,26 +132,27 @@
       - pet food, veterinarian clinics, pet stores.
 
 + Some have non-profit equivalents, but why?
-      - pet stores are historically the biggest perpetrators of puppy mill purchases.
+      - pet stores historically biggest puppy mill purchasers.
       - non-profit shelters &amp; rescues provide **morally** centered method for pet acquisition.
 
 <img src="winnie.png" align="right" />
 
 + For-profit companies adapt:
-      - donate pet food to shelters (marketing/brand loyalty for later)
-      - shelter pet adoption events at pet stores.
+      - donate pet food to shelters.
+      - host pet adoption events at pet stores.
  
-+ Puppy mills would be the norm if NPOs have no power.
-     - &amp; proprietary software exploitation would be the norm (again) w/out a healthy Free Software NPO ecosystem.
++ Puppy mills would be norm w/out NPOs.
+     - &amp; proprietary software exploitation'd be norm w/out healthy Free Software NPOs.
+
 
 # A Very Few Words On Licensing
 
-+ My actual GPL talk is Tuesday 17:10 in Celestin C.
++ My actual GPL talk is Tuesday at 17:10 in Celestin C.
 
 + But, given I've done more GPL enforcement than anyone on the planet &hellip;
-      - I should probably say just one thing about GPL compliance, which is:
+      - I should probably say at least one thing about GPL compliance, which is:
 
-+ GPL compliance is trivial if you make nothing proprietary &amp; do all you work upstream.
++ License compliance is trivial if you make nothing proprietary &amp; do all you work upstream.
       - &hellip; which is the ethical &amp; moral thing to do, anyway.
       - &hellip; so just do that &amp; never worry about compliance problems again.
 
