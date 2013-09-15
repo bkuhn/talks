@@ -49,6 +49,19 @@
 + The volunteers are usually paid for by for-profits
      - Red Hat, Google, IBM, etc.
 
+# The Rise of &ldquo;Open Source&rdquo;
+
++ Open Source, that thing most of you study, is just a business phenomena.
+
++ It's a concept specifically designed as an amoral alternative to software freedom politics.
+     - [see Evgeny Morozov's article, *The Meme Hustler*](http://thebaffler.com/past/the_meme_hustler)
+
++ For-profit companies always prefer the amoral.
+
++ I'd love to see the areas of academics that relate most to software freedom engaged:
+     - Political Science
+     - Philosophy
+
 # For-Profit vs. Non-Profit
 
 + For-profits act in interest in shareholders.
