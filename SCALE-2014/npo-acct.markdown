@@ -155,6 +155,17 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 </p>
 </span>
 
+# Why-At ERP?
+
++ ERP: TLA for Enterprise Resource Planning
+
++ ERP people are obsessed with workflows.
+     + Workflows *are* important.
+     + But remember the vertical market bias.
+
++ ERP workflows always make assumptions about their preferred vertical
+  market.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
