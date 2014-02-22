@@ -49,6 +49,16 @@
      + And often not very well.
      + e.g.: ERPNext: we found two SQL injection attacks in 30 minutes.
      + None of them separate API boundry walls adequately.
+ 
+# A Brief History of Double-Entry System
+
++ Luca Pacioli: a late 1400s Venetian mathematician with a wealthy patron.
+
++ Luca is writing a math book.
+
++ His patron asks him to write up the Ventian System.
+
++ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407-a-mathematician-the-last-supper-and-the-birth-of-accounting">NPR's <cite>Planet Money</cite>, Episode 407: <cite>A Mathematician, The Last Supper And The Birth Of Accounting</cite>
 
 # More Info / Talk License
 
