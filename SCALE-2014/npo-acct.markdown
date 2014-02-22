@@ -249,6 +249,18 @@ which git brought to version control.
     $ wc -l `find . -type f -print`|tail -1
     1324 total
 
+# Enter Ledger-CLI
+
++ Ledger CLI is a hackers' way of doing accounting.
+
++ plain text files format
+
++ generate reports with the command line.
+
++ Only a command-line hacker who is *also* an accounting geek can love this.
+       + there are probably only 100 people like this on the planet.
+
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
