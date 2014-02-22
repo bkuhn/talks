@@ -87,6 +87,15 @@
        Assets:Checking           $1,000.00
        Accrued                  $-1,000.00
 
+# Pretty Simple, Right?
+
++ Sure, Double Entry bookkeeping is simple and easy to learn.
+
++ It's relatively easy to explain.
+
++ So, every developer looks at it and just implements it again.
+     + But why?
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
