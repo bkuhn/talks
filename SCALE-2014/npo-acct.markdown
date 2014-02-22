@@ -108,19 +108,16 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 + So, every developer looks at it and just implements it again.
      + But why?
 
-# Why So-Oft Reinvention?
+# Why Is This Wheel Reinvented?: 1st Reason
 
-+ First reason: one-off projects.
-
-+ Why did we get Y2K?
-     + Who would still be using this code in 2000?
++ How'd did we get Y2K?
+     + &ldquo;Who would still be using this code in 2000?&rdquo;x
      + Systems live longer than developers think.
 
 + Great developers plan ahead.
+     + But great developers are rarely assigned accounting.
 
-+ But great developers are rarely assigned this job.
-
-***
+<hr/>
 
 > He wasn't a good enough developer to work on GNU, so I assigned him to work on FSF's accounting system, figuring maybe he could do that.  I guess he couldn't.
 
