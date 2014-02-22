@@ -268,6 +268,15 @@ which git brought to version control.
 + I'm documenting our system of tagging transactions to link up to reporting:
        + <a href="https://gitorious.org/ledger/npo-ledger-cli">https://gitorious.org/ledger/npo-ledger-cli</a>
 
+# Reusing Ledger-CLI
+
++ Ledger-CLI ultimately *is* a double entry accounting math library.
+
++ but it has no real API.
+
++ Our first job: make an API.
+
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
