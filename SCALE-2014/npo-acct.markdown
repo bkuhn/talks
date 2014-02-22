@@ -232,6 +232,22 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
        + How many times have you written sqrt(), cos()?
        + We need a library.
 
+# Brogrammers Are Sometimes (Partly) Right
+<span class="fitonslide">
+*Up The Asset* is a reimagination of accounting software for the modern
+age.  Based on the proven, centuries-old principle of double-entry
+bookkeeping, yet using nothing but open web standards &amp; formats stored in
+text files, it aims to bring to accounting the same breath of fresh air
+which git brought to version control.
+</span>
+
+**Arrogant Much?**
+
+    $ git clone https://github.com/zacharyvoase/uptheasset
+    $ cd uptheasset; git log --pretty=oneline|wc -l
+    52
+    $ wc -l `find . -type f -print`|tail -1
+    1324 total
 
 # More Info / Talk License
 
