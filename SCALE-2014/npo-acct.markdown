@@ -260,6 +260,13 @@ which git brought to version control.
 + Only a command-line hacker who is *also* an accounting geek can love this.
        + there are probably only 100 people like this on the planet.
 
+# Conservancy Already Runs on This
+
++ I keep the books of Conservancy myself &hellip;
+       + &amp; I happen to be a CLI hacker who's also an accounting geek.
+
++ I'm documenting our system of tagging transactions to link up to reporting:
+       + <a href="https://gitorious.org/ledger/npo-ledger-cli">https://gitorious.org/ledger/npo-ledger-cli</a>
 
 # More Info / Talk License
 
