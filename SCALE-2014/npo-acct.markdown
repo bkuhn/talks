@@ -108,7 +108,7 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 + So, every developer looks at it and just implements it again.
      + But why?
 
-# Why Is This Wheel Reinvented?: 1st Reason
+# Why Is This Wheel Reinvented?: 1st
 
 + How'd did we get Y2K?
      + &ldquo;Who would still be using this code in 2000?&rdquo;x
@@ -127,7 +127,7 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 </p>
 </span>
 
-# Why Is This Wheel Reinvented?: 2nd Reason
+# Why Is This Wheel Reinvented?: 2nd
 
 + Accounting is seen as purely horizontal market software.
 
