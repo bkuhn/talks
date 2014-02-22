@@ -276,6 +276,14 @@ which git brought to version control.
 
 + Our first job: make an API.
 
+# This Is Not Vaporware
+
++ Yes, if I have to title a slide &hellip;
+      + that says this isn't vaporware &hellip
+      + you have to worry if it's vaporware.
+
++ But, we've written a proof of concept of a JSON API to do double entry
+  accounting.
 
 # More Info / Talk License
 
