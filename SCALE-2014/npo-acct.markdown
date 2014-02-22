@@ -296,6 +296,16 @@ which git brought to version control.
 Documentation available at: <a
 href="http://npoacct.sfconservancy.org/accounting-api/">http://npoacct.sfconservancy.org/accounting-api/</a>.
 
+
+# Basics of the REST API
+
+Ledger-CLI Data: 
+    2010/01/01 Kindly T. Donor
+        ;Id: Ids can be anything
+      Income:Foo:Donation   $-100.00
+        ;Invoice: Projects/Foo/Invoices/Invoice20100101.pdf
+      Assets:Checking       $100.00
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
