@@ -206,6 +206,22 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 
 + So many reports no one but a non-profit needs.
 
+# The Public Support Test
+
++ Take the last five years' income.
+
++ Compute 2% of it.
+
++ Figure out what donors in the last 5 years have given more than 2% of that.
+
++ Divide the excess donations by the total donations over the five year
+  period.  You "pass" if that number is 33&#x2153;.%.
+
++ (And there other special cases not described above).
+
++ This report doesn't exist:
+     + Many non-profits don't even have data-gathering sufficient to run it.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
