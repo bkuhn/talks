@@ -191,6 +191,21 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 
 + But this is no good for NPOs.
 
+
+# NPO as YA Vertical Market
+
++ Fiscal sponsorship is specialized.
+
++ Conservancy's auditor call this the Z axis of accounting:
+       + NPOs care where money came from (example next).
+       + Fiscal sponsors have to earmark funds under temporary restrictions.
+
++ Even fiscal sponsors outside of software *have developers on staff* to do
+  custom accounting.
+       + e.g., Fractured Atlas.
+
++ So many reports no one but a non-profit needs.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
