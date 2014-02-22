@@ -70,6 +70,13 @@
 
 + Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407-a-mathematician-the-last-supper-and-the-birth-of-accounting">NPR's <cite>Planet Money</cite>, Episode 407: <cite>A Mathematician, The Last Supper And The Birth Of Accounting</cite>
 
+
+#  An Example of Double Entry
+
+    2014-02-10 Monthly Salary
+       Assets:Checking           $1,000.00
+       Income:Salary            $-1,000.00
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
