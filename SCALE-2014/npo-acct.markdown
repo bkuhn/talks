@@ -156,12 +156,12 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
-     - Conservancy: sfconservancy.org &amp; @conservancy
-     - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca)
-     - Slides: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
      - NPO Accounting project:
           + http://npoacct.sfconservancy.org/
           + https://gitorious.org/conservancy/accounting-api
+     - Conservancy: sfconservancy.org &amp; @conservancy
+     - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca)
+     - Slides: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
      - DONATE: http://sfconservancy.org/donate/
 
 <span class="fitonslide">
