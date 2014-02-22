@@ -183,6 +183,14 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
       + fine under GAAP &hellip;
       + as long as you *don't* accrue.
 
+# ERP Workflow FAIL: Example
+
++ Most ERP systems auto-accrue on invoice generation.
+
++ It's not a configurable part of workflow.
+
++ But this is no good for NPOs.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
