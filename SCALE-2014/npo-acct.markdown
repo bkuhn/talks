@@ -112,7 +112,7 @@
 
 ***
 
-> He wasn't a good enough developer to work on GNU, so I assigned him to work on the accounting system, figuring maybe he could do that.  I guess he couldn't.
+> He wasn't a good enough developer to work on GNU, so I assigned him to work on FSF's accounting system, figuring maybe he could do that.  I guess he couldn't.
 
 <span class="fitonslide">
 <p align=right>
