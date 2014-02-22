@@ -285,6 +285,17 @@ which git brought to version control.
 + But, we've written a proof of concept of a JSON API to do double entry
   accounting.
 
+# There's a There There.
+
+    $ git clone https://git.gitorious.org/conservancy/accounting-api.git
+    $ cd accounting-api; git log --pretty=oneline|wc -l
+    64
+    $ wc -l `find . -type f -print`|tail -1
+    58395 total
+
+Documentation available at: <a
+href="http://npoacct.sfconservancy.org/accounting-api/">http://npoacct.sfconservancy.org/accounting-api/</a>.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
