@@ -60,7 +60,12 @@
 
 + His patron asks him to write up the Ventian System.
 
-+ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407-a-mathematician-the-last-supper-and-the-birth-of-accounting">NPR's <cite>Planet Money</cite>, Episode 407: <cite>A Mathematician, The Last Supper And The Birth Of Accounting</cite>
+<hr/>
+<span class="fitonslide">
+<p align=right>
+Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407-a-mathematician-the-last-supper-and-the-birth-of-accounting">NPR's *Planet Money*, Episode 407: *A Mathematician, The Last Supper And The Birth Of Accounting*</a>
+</p>
+</span>
 
 # A Brief History of Double-Entry System
 
@@ -70,7 +75,12 @@
 
 + Luca adds it to his math encyclopedia
 
-+ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407-a-mathematician-the-last-supper-and-the-birth-of-accounting">NPR's <cite>Planet Money</cite>, Episode 407: <cite>A Mathematician, The Last Supper And The Birth Of Accounting</cite>
+<hr/>
+<span class="fitonslide">
+<p align=right>
+Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407-a-mathematician-the-last-supper-and-the-birth-of-accounting">NPR's *Planet Money*, Episode 407: *A Mathematician, The Last Supper And The Birth Of Accounting*</a>
+</p>
+</span>
 
 
 #  An Example of Double Entry
