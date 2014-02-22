@@ -30,6 +30,16 @@
      + But an hour or two is ideal.
      + Public mailing list and IRC channel.
 
+# A Brief History of Accounting Software
+
++ Accounting software systems have existed since 1960s.
+
++ Imagine how many times our society as reinvented this wheel.
+
++ People are *still* getting hired to write COBOL &hellip;
+     + &hellip; mostly for accounting/financial systems.
+
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
