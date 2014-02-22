@@ -1,4 +1,4 @@
-% Non-Profit Accounting Software: A Plan For Our Future
+% A New Approach to Accounting Software for Non-Profit Organizations
 % Bradley M. Kuhn
 % Saturday 22 February 2014
 
