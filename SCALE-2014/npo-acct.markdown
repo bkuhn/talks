@@ -50,15 +50,18 @@
      + Every single one of them *reinvents the double-entry wheel*.
      + And often not very well.
      + e.g.: ERPNext: we found two SQL injection attacks in 30 minutes.
-     + None of them separate API boundry walls adequately.
+     + None of them separate API boundary walls adequately.
  
+# A Brief History of Double-Entry System
+
+
 # A Brief History of Double-Entry System
 
 + Luca Pacioli: a late 1400s Venetian mathematician with a wealthy patron.
 
 + Luca is writing a math book.
 
-+ His patron asks him to write up the Ventian System.
++ His patron asks him to write up the Venetian System.
 
 <hr/>
 <span class="fitonslide">
