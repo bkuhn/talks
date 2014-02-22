@@ -77,6 +77,16 @@
        Assets:Checking           $1,000.00
        Income:Salary            $-1,000.00
 
+# The Accrual Basis
+
+    2014-01-31 Earned Monthly Salary
+       Accrued                   $1,000.00
+       Income:Salary            $-1,000.00
+
+    2014-02-10 Monthly Salary
+       Assets:Checking           $1,000.00
+       Accrued                  $-1,000.00
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
