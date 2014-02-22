@@ -137,12 +137,11 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 
 + Blackbaud is the Oracle of non-profits.
     + No one ever got fired for chosing Blackbaud.
-    + (although Josh Berkus as an example of people who got fired because of it.)
+    + (although ask Josh Berkus for his story about this.)
 
 + Accountants generally don't understand software, so:
     + they are used to what they know.
-
-+ Smarter accountants know something is wrong.
+    + Smarter accountants know something is wrong.
 
 <hr/>
 > I'd tell you to buy Blackbaud or Fund-EZ, but your books as a fiscal sponsor are complicated enough that they won't meet your needs anyway.
