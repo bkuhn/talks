@@ -12,8 +12,6 @@
 
 + That means a lot to me as a non-profit career administrator &amp; policy wonk.
 
-+ Also, thanks to SCALE for covering my travel expenses this year.
-
 # Governance / Licensing First
 
 + I always hate sitting through talks waiting to hear what the license is.
