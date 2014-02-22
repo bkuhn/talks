@@ -39,6 +39,16 @@
 + People are *still* getting hired to write COBOL &hellip;
      + &hellip; mostly for accounting/financial systems.
 
+# &amp; In Open Source and Free Software?
+
++ Phase 0 of our project: evaluate known FLOSS accounting software.
+
++ Results: http://npoacct.sfconservancy.org/ExistingProjects/
+     + Nearly 20 projects.
+     + Every single one of them *reinvents the double-entry wheel*.
+     + And often not very well.
+     + e.g.: ERPNext: we found two SQL injection attacks in 30 minutes.
+     + None of them separate API boundry walls adequately.
 
 # More Info / Talk License
 
