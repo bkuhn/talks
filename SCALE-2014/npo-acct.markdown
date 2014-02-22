@@ -2,6 +2,19 @@
 % Bradley M. Kuhn
 % Saturday 22 February 2014
 
+# Thanks to SCALE
+
++ This is one of the best conferences in the Open Source and Free Software community.
+
++ Because it's community-run and organized by a non-profit.
+
++ For-profit corporate control is not an issue here.
+
++ That means a lot to me as a non-profit career administrator &amp; policy wonk.
+
++ Also, thanks to SCALE for covering my travel expenses this year.
+
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
