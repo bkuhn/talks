@@ -166,6 +166,23 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 + ERP workflows always make assumptions about their preferred vertical
   market.
 
+
+# ERP Workflow FAIL: Example
+
++ Most accountants will tell you: &ldquo;Accrue funds when you issue an
+  invoice&rdquo;.
+
++ That's *usually* correct.
+
++ Except when it isn't.
+
++ NPO Fundraising trick: issue an invoice that you don't have a good faith
+  basis to be paid.
+
++ Of course, accountants agree that this is &hellip;
+      + fine under GAAP &hellip;
+      + as long as you *don't* accrue.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
