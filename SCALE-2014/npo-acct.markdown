@@ -222,6 +222,17 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 + This report doesn't exist:
      + Many non-profits don't even have data-gathering sufficient to run it.
 
+
+# Those Who Forget the Past &hellip;
+
++ What should we do to avoid this vertical market bias?
+
++ Remember what Luca taught us circa 1509:
+       + double entry accounting is a *math library*.
+       + How many times have you written sqrt(), cos()?
+       + We need a library.
+
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
