@@ -337,6 +337,16 @@ Ledger-CLI Data:
               }
       }]}
 
+
+# REST API Functions
+
++ Get all, get specific, Add, delete, update
+
++ This is admittedly a proof-of-concept.
+
++ Next step: transition Conservancy reporting to use this API:
+      + to improve and shake out the bugs.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
