@@ -14,6 +14,22 @@
 
 + Also, thanks to SCALE for covering my travel expenses this year.
 
+# Governance / Licensing First
+
++ I always hate sitting through talks waiting to hear what the license is.
+
++ Conservancy's NPO Accounting Project will:
+     + Be multi-copyright held (NO CLA!) &hellip;
+     + &hellip; even Conservancy is letting contractors keep copyright.
+     + new code licensed under Affero GPL.
+     + any upstreamable code: use license of upstream project &hellip;
+     + &hellip; specifically Ledger-CLI is 3-Clause-BSD.
+
++ All development done in public:
+     + Max time btw. authorship &amp; publish is a day or two.
+     + But an hour or two is ideal.
+     + Public mailing list and IRC channel.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
