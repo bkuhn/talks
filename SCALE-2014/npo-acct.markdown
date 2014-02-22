@@ -347,6 +347,17 @@ Ledger-CLI Data:
 + Next step: transition Conservancy reporting to use this API:
       + to improve and shake out the bugs.
 
+
+# Where Do We Go From Here?
+
++ Projects need developers.
+
++ I've established we need developers who:
+      + think long term.
+      + grok accounting.
+
++ Such people are hard to find, so:
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
