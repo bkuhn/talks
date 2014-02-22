@@ -96,6 +96,28 @@
 + So, every developer looks at it and just implements it again.
      + But why?
 
+# Why So-Oft Reinvention?
+
++ First reason: one-off projects.
+
++ Why did we get Y2K?
+     + Who would still be using this code in 2000?
+     + Systems live longer than developers think.
+
++ Great developers plan ahead.
+
++ But great developers are rarely assigned this job.
+
+***
+
+> He wasn't a good enough developer to work on GNU, so I assigned him to work on the accounting system, figuring maybe he could do that.  I guess he couldn't.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Richard M. Stallman
+</p>
+</span>
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
