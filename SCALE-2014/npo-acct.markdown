@@ -14,13 +14,15 @@
 
 + Also, thanks to SCALE for covering my travel expenses this year.
 
-
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
      - Conservancy: sfconservancy.org &amp; @conservancy
      - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca)
      - Slides: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
+     - NPO Accounting project:
+          + http://npoacct.sfconservancy.org/
+          + https://gitorious.org/conservancy/accounting-api
      - DONATE: http://sfconservancy.org/donate/
 
 <span class="fitonslide">
