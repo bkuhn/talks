@@ -306,6 +306,37 @@ Ledger-CLI Data:
         ;Invoice: Projects/Foo/Invoices/Invoice20100101.pdf
       Assets:Checking       $100.00
 
+
+# REST API: Transaction List
+
+    GET /transaction HTTP/1.1
+    Host: accounting.example
+    Accept: application/json
+
+    HTTP/1.1 200 OK
+    Content-Type: application/json
+    {
+       "transactions": [
+         {
+            "__type__": "Transaction",
+            "date": "2010-01-01",
+            "id": "Ids can be anything",
+            "metadata": {},
+            "payee": "Kindly T. Donor",
+            "postings": [
+            {
+               "__type__": "Posting",
+               "account": "Income:Foo:Donation",
+                   "amount": {
+                       "__type__": "Amount",
+                       "amount": "-100",
+                       "symbol": "$"
+                    },
+             "metadata": {
+                 "Invoice": "Projects/Foo/Invoices/Invoice20100101.pdf"
+              }
+      }]}
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
