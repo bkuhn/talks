@@ -132,9 +132,9 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 
 # Why Is This Wheel Reinvented?: 2nd
 
-+ Accounting is seen as purely horizontal market software.
++ Accounting is seen as purely vertical market software.
 
-+ AFAICT, no one *has ever* tried to write a true vertical marketing accounting software stack.
++ AFAICT, no one *has ever* tried to write a true horizontal marketing accounting software stack.
 
 # Consider the NPO Problem
 
