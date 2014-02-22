@@ -127,6 +127,32 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 </p>
 </span>
 
+# Why Is This Wheel Reinvented?: 2nd Reason
+
++ Accounting is seen as purely horizontal market software.
+
++ AFAICT, no one *has ever* tried to write a true vertical marketing accounting software stack.
+
+# Consider the NPO Problem
+
++ Blackbaud is the Oracle of non-profits.
+    + No one ever got fired for chosing Blackbaud.
+    + (although Josh Berkus as an example of people who got fired because of it.)
+
++ Accountants generally don't understand software, so:
+    + they are used to what they know.
+
++ Smarter accountants know something is wrong.
+
+<hr/>
+> I'd tell you to buy Blackbaud or Fund-EZ, but your books as a fiscal sponsor are complicated enough that they won't meet your needs anyway.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Gary Eisenkraft, Conservancy's auditor, after Conservancy's FY 2011 audit.
+</p>
+</span>
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
