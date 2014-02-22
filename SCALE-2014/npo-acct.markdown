@@ -358,6 +358,15 @@ Ledger-CLI Data:
 
 + Such people are hard to find, so:
 
+
+# Preannouncement
+
++ I'm working with Conservancy's Board:
+      + to hire additional management-level staff at Conservancy.
+      + so I can give 50% of my time to his project.
+
++ But going slow is still a good idea.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
