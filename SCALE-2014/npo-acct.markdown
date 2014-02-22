@@ -142,9 +142,9 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
     + No one ever got fired for chosing Blackbaud.
     + (although ask Josh Berkus for his story about this.)
 
-+ Accountants generally don't understand software, so:
-    + they are used to what they know.
-    + Smarter accountants know something is wrong.
++ Accountants generally don't understand software &hellip;
+    + &hellip; so, they are used to what they know.
+    + &hellip; but, Smarter accountants know something is wrong.
 
 <hr/>
 > I'd tell you to buy Blackbaud or Fund-EZ, but your books as a fiscal sponsor are complicated enough that they won't meet your needs anyway.
