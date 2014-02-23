@@ -248,6 +248,17 @@ which git brought to version control.
     $ wc -l `find . -type f -print`|tail -1
     1324 total
 
+# What's Right About That?
+
++ Well, text files might be a good storage (sometimes).
+
++ And, using REST APIs with JSON seems right.
+
++ But, if we're going to do this, it's harder than just writing a README.md
+  file with sweeping claims.
+
++ As a start, we need software hackers to *like* accounting.
+
 # Enter Ledger-CLI
 
 + Ledger CLI is a hackers' way of doing accounting.
