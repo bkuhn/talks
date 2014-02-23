@@ -307,11 +307,13 @@ Ledger-CLI Data:
       Assets:Checking       $100.00
 
 
-# REST API: Transaction List
+# REST API: Transaction List Request
 
     GET /transaction HTTP/1.1
     Host: accounting.example
     Accept: application/json
+
+# REST API: Transaction List Answer
 
     HTTP/1.1 200 OK
     Content-Type: application/json
@@ -334,9 +336,7 @@ Ledger-CLI Data:
                     },
              "metadata": {
                  "Invoice": "Projects/Foo/Invoices/Invoice20100101.pdf"
-              }
-      }]}
-
+              }}]}
 
 # REST API Functions
 
