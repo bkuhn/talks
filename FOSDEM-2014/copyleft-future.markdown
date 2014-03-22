@@ -137,6 +137,8 @@
 + The blurring line of source to object code.
       + so subtle that few see it.
 
++ And those who do perceive it differently.
+
 # xdm, Solaris and NIS+
 
 + I once chased a bug from xdm, down through NIS+ to the Solaris kernel
