@@ -35,6 +35,17 @@
 
 # The Truce We Once Had
 
+<img src="mundie-behlendorf.jpg" align="right"  />
+
++ OSCON 2001.
+
++ Microsoft &ldquo;Shared Source&rdquo; anti-copyleft campaign.
+
++ Brian Behlendorf of Apache Software Foundation stood up for copyleft.
+
++ Would ASF do that today?
+
+
 # Back When It Was a Cause &hellip;
 
 + In high school, I got beat up for being in the environmental club.
