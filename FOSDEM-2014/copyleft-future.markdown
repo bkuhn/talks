@@ -161,18 +161,18 @@
 
 # Developers who are Children of the Web
 
-#  The web itself is a disjointed stack.
-      + You never have all the source ...
-      + ... but you're often fed a JSON API.
-      + Javascript developers don't consider idea they'd have &ldquo;all the
-            source&rdquo; on hand.
-# &amp; they didn't have a copyleft license anyway ...
++ You never have all the source ...
+
++ ... but you're often fed a JSON API.
+
++ Javascript developers don't consider idea they'd have &ldquo;all the source&rdquo; on hand.
+
++ &amp; they didn't have a copyleft license anyway ...
       + b/c GPL is the ISC license of web applications.
 
 + These are also people who found the startups that hate copyleft.
       + Their employers don't know they need it.
       + and these employers let you upstream a bit, after all.
-
 
                               As the Web grows up
 
