@@ -197,6 +197,15 @@
 
 + But that may take a generation.
 
+# Reboostrapping
+
++ Slowly, the cooption leaves the only essential GPL'd program as Linux.
+
++ Copyleft works only when we have code that companies can't live without.
+          + And if GPL isn't treated like GPL, it doesn't work either.
+
++ The cooption pushes from this side too.
+
 # Corporate Self-Interest
 
 + I doubt anyone would disagree:
