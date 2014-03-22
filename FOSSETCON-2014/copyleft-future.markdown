@@ -99,10 +99,6 @@
 
 # Divide And Conquer
 
-+ Github talk
-
-+ So transparent
-
 + Microsoft wasn't powerful enough to do what a thousand uncoordinated start-ups can.
 
 + This isn't a conspiracy; it's a sponteneous alignment of independant self-interest.
