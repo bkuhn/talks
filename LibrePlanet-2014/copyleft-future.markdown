@@ -206,13 +206,6 @@
 
 + The cooption pushes from this side too.
 
-# Corporate Self-Interest
-
-+ I doubt anyone would disagree:
-     + For-profit companies act almost exclusively in their own financial self-interest.
-+ Companies happily use GPL enforcement when it's in their own self-interest.
-     + even as they oppose community-oriented enforcement.
-
 # Logically Consistent Copyleft?
 
 <img src="wonderful-life_george-clarence-wisper-at-bar.jpg" align="right"  />
