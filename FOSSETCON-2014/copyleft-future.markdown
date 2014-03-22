@@ -136,6 +136,7 @@
 
 + The blurring line of source to object code.
       + so subtle that few see it.
+      + Of course, RMS saw this way back when he wrote GPLv2: &ldquo;preferred form of the work for making modifications to it&rdquo;.
 
 + And those who do perceive it differently.
 
