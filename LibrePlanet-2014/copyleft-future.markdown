@@ -186,6 +186,17 @@
 
      * But that may take a generation.
 
+# As the Web grows up
+
++ They'll reinvent the wheel more.
+     + Like all of us old Unix hackers did.
+
++ Once you do that enough, you pine for copyleft.
+
++ Cooption will hopefully stop working.
+
++ But that may take a generation.
+
 # Corporate Self-Interest
 
 + I doubt anyone would disagree:
