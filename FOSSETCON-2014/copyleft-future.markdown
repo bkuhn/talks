@@ -140,6 +140,12 @@
 
 + And those who do perceive it differently.
 
+# So, raise your hands:
+
++ How many of you run LibreJS and/or NoScript browser plugins?
+
++ How many of use Chromium?
+
 # xdm, Solaris and NIS+
 
 + I once chased a bug from xdm, down through NIS+ to the Solaris kernel
