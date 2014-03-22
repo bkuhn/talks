@@ -84,6 +84,19 @@
       + upstream code when it behooves you &hellip;
       + &hellip; don't when it doesn't.
 
+# OSCON, 12 years later
+
+<img src="preston-werner.jpg" align="right"  />
+
++ Tom Preston-Werner
+     + yes, the &ldquo;open source almost everything guy&rdquo;
+
++ Claims at OSCON 2013:
+     * &ldquo;The GPL is a license of restrictions; I don't like restrictions. just
+       use MIT&rdquo; [sic]
+
++ This is so transparently self-serving, yet it's widely accepted.
+
 # Divide And Conquer
 
 + Github talk
