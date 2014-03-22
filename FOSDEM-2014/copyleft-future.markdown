@@ -159,6 +159,33 @@
 
 + The layers of proprietarization got thinner.
 
+# Developers who are Children of the Web
+
+#  The web itself is a disjointed stack.
+      + You never have all the source ...
+      + ... but you're often fed a JSON API.
+      + Javascript developers don't consider idea they'd have &ldquo;all the
+            source&rdquo; on hand.
+# &amp; they didn't have a copyleft license anyway ...
+      + b/c GPL is the ISC license of web applications.
+
++ These are also people who found the startups that hate copyleft.
+      + Their employers don't know they need it.
+      + and these employers let you upstream a bit, after all.
+
+
+                              As the Web grows up
+
+     * They'll reinvent the wheel more.
+
+     * Like all of us old Unix hackers did.
+
+     * Once you do that enough, you pine for copyleft.
+
+     * Cooption will hopefully stop working.
+
+     * But that may take a generation.
+
 # Corporate Self-Interest
 
 + I doubt anyone would disagree:
