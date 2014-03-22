@@ -70,8 +70,7 @@
 # The Politics of Cooption
 
 + Once an idea becomes accepted as the &ldquo;right thing to do&rdquo;
-
-+ Lip service works better than getting it right.
+      + &hellip; lip service works better than getting it right.
 
 + Take the exploitable parts and leaving the rest.
       + Ultimately, this is what Open Source is.   
