@@ -53,7 +53,7 @@
 + We put old carboard boxes in the classrooms, and collected them every Friday.
 
 + I doubt there are many schools that don't recycle their paper now.
-      + on the surface, that's 
+      + on the surface, that's progress.
 
 # The Politics of Cooption
 
