@@ -112,6 +112,9 @@
 + Apple sends *just enough* back to BSDs in resources to keep the core they need.
       + adoption vs. software freedom argument, all over again.
 
++ This will happen with LLVM too.
+      + &hellip; but GCC **will** lose a lot of adoption before the pain begins.
+
 # This Game Is Over
 
 + Free Software played to stalemate with proprietary on the operating system.
