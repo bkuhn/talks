@@ -138,7 +138,7 @@
       + so subtle that few see it.
       + Of course, RMS saw this way back when he wrote GPLv2: &ldquo;preferred form of the work for making modifications to it&rdquo;.
 
-+ And those who do perceive it differently.
++ &hellip; but many who do perceive it differently.
 
 # So, raise your hands:
 
@@ -155,7 +155,7 @@
 + It's one of the experienced that turned me into a Free Software zealot.
 
 + Who does this happen to anymore?
-    + No one!
+    + (almost) no one!
     + Why?
 
 # Chasing the Bug Down the Stack
