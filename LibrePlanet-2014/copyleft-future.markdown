@@ -121,7 +121,8 @@
       + We got everything from kernel to application API inside the VM servers.
       + They got everything else.
 
-+ And the software got better overall.
++ Fourtuately, the software got better overall.
+      + &hellip; but that's not nearly enough for universal software freedom.
 
 # The Two New Games
 
