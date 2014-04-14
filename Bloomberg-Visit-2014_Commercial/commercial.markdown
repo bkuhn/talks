@@ -2,6 +2,18 @@
 % Bradley M. Kuhn
 % Tuesday 15 April 2014
 
+# Who Am I?
+
++ President and Executive Director of Software Freedom Conservancy.
+
++ A 501(c)(3) not-for-profit charity dedicated to promoting, advancing, defending, and developing Free, Libre and Open Source Software.
+
++ I'm not an analyst, historian, nor a researcher.
+
++ I do software freedom politics, advocacy and non-profit management.
+
++ My comments are from that perspective.
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
