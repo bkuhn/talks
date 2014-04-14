@@ -2,6 +2,10 @@
 % Bradley M. Kuhn
 % Tuesday 15 April 2014
 
+# Conservancy Member Projects
+
+<img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
