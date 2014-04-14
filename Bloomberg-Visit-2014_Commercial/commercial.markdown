@@ -14,6 +14,20 @@
 
 + My comments are from that perspective.
 
+
+# What Is This Stuff?
+
++ You've probably heard about Open Source.
+
++ Software freedom is the more political way to talk about it.
+     + Think in terms of: what rights and freedoms you get with the software?
+
++ This is a philosophical moral position that's developed over decades.
+
++ It's not incompatible with capitalism
+     + (in fact, it fits right in there).
+     + More on that later.
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
