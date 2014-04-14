@@ -28,6 +28,16 @@
      + (in fact, it fits right in there).
      + More on that later.
 
+# Ye Ol' Four Freedoms
+
++ to use.
+
++ to learn and modify for yourself.
+
++ to copy and share.
+
++ to modify and share modified versions.
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
