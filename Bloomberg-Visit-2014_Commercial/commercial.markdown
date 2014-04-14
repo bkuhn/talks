@@ -1,3 +1,7 @@
+% Benefits of Software Freedom for Commercial Activity
+% Bradley M. Kuhn
+% Tuesday 15 April 2014
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
