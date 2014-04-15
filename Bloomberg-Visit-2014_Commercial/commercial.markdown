@@ -59,6 +59,15 @@
 
 + Meanwhile &hellip;
 
+# Rebutted Complaints
+
++ Obviously, people said RMS was a communist.
+      - sharing all your software does have a certain hippie spirit to it.
+
++ RMS begins to add a Rebutted Objections section:
+      - beginnings of the business models debate.
+
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
