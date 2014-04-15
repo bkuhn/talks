@@ -121,6 +121,15 @@
 
 + Infrastructure and motivations of a commercial actor is essential.
 
+# What Stopped Proprietarization?
+
++ The real innovation isn't the philosophical realization of four freedoms.
+
++ Copyleft creates the truly free market.
+
++ Proprietarized Free Software gets us back to monopoly.
+
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
