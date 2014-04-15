@@ -129,6 +129,11 @@
 
 + Proprietarized Free Software can create new monopolies.
 
+# So, What's Copyleft?
+
++ You may have heard this part before, but hopefully it's worth repeating.
+
++ Start briefly from first principles and work our way up.
 
 
 # Conservancy Member Projects
