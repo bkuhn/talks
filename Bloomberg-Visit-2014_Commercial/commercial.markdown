@@ -69,7 +69,7 @@
 
 # Justify Your Existence
 
-+ Most social justice causes have to make their case to business.
++ Most social justice causes have to make their case to corporate business.
 
 + Consider environmentalism:
       + &ldquo;if I recycle, and my competitor doesn't, I'm at a disadvantage.&rdquo;
