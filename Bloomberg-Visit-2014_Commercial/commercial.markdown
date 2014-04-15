@@ -77,6 +77,15 @@
 
 + Open, oft-debated question: is this kowtowing or good advocacy strategy?
 
+# The Classic Business Model
+
++ Early idealists centered around two specific business models:
+      + Sell support contracts.
+      + Sell custom modifications.
+
++ These showed early success.
+
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
