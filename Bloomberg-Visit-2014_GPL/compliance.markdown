@@ -1,6 +1,6 @@
 % 13 Years of Copyleft License Compliance: A Historical Perspective
 % Bradley M. Kuhn
-% Friday 12 October 2012
+% Tuesday 15 April 2014
 
 # My History
 
