@@ -75,7 +75,7 @@
       + &ldquo;if I recycle, and my competitor doesn't, I'm at a disadvantage.&rdquo;
       + So, how do we get to recycling bins everywhere?
 
-+ Open question: is it kowtowing or good strategy?
++ Open, oft-debated question: is this kowtowing or good advocacy strategy?
 
 # Conservancy Member Projects
 
