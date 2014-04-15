@@ -111,6 +111,15 @@
 + Does this work in a crowded market?:
        + I have no idea, I'm a non-profit guy, remember? :)
 
+# Why GCC Needed Commerce
+
++ Chipset manufacturers needed compilers for their new architectures quickly.
+
++ Free Software projects always move slow.
+
++ Not easy to sign a deadline-centered deal with a non-profit.
+
++ Infrastructure and motivations of a commercial actor is essential.
 
 # Conservancy Member Projects
 
