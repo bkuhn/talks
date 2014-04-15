@@ -50,6 +50,15 @@
 
 + Purely non-profit fundraising style was initial funding ideas.
 
+# Initial Development
+
++ Most early Free Software was written by academics (or those affiliated with
+  academic institutions).
+
++ Minimal initial commercial interest.
+
++ Meanwhile &hellip;
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
