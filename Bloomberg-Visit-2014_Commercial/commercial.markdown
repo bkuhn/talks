@@ -73,7 +73,7 @@
 
 + Consider environmentalism:
       + &ldquo;if I recycle, and my competitor doesn't, I'm at a disadvantage.&rdquo;
-      + So, how do we get to recycling cans everywhere?
+      + So, how do we get to recycling bins everywhere?
 
 + Open question: is it kowtowing or good strategy?
 
