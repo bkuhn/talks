@@ -63,7 +63,6 @@
      + (and social pressure for compliance fails)?
 
 + Copyright enforcement
-     + &hellip; (yes, similar stuff to what the MPAA does: EEP!)
      + &hellip; but for a *good* cause: the four freedoms.
      + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
 
