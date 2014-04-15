@@ -195,7 +195,11 @@
 
 # Contribution Models
 
-+ Both permissive and copyleft communities **want** changes back.
++ Both non-copyleft and copyleft communities **want** changes back.
+
++ All of them want commercial and non-commercial activity treated equally.
+
++ Difference is purely on what tactics to use to ensure equality for all.
 
 # Conservancy Member Projects
 
