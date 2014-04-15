@@ -224,6 +224,157 @@ problem for anybody: If you have grievances ("I wrote that code assuming
 the copyright would stay the same") mail me.  Otherwise The GNU copyleft
 takes effect as of the first of February [1992]. </p>
 
+# The Advent of Open Source
+
++ By the turn of the century:
+     + <a
+       href="http://web.archive.org/web/19990430060825/http://www.gnu.org/philosophy/free-sw.html">FSF's
+       Free Software Definition</a> adds various text about importance of
+       commercial freedoms that <a
+       href="http://web.archive.org/web/19990117030322/http://www.gnu.org/philosophy/free-sw.html">did
+       not appear previously</a> in the definition.
+
+     + DFSG and Open Source Definition are published with &ldquo;No
+       Discrimination Against Fields of Endeavor&rdquo; clause.
+
++ No question of commercial adoption or interest.
+
+# How To Interact?
+
++ IBM's famous statement regarding Apache:
+      + &ldquo;How do we make a deal with a website?&rdquo;
+
++ Formation of Apache Software Foundation.
+
++ Became the non-copyleft center hub, in the way FSF was the copyleft center
+  hub.
+
++ Why do it this way?
+
+# Understanding For/Non-profit Interaction
+
++ Free Software projects are run by individuals.
+
++ Most such individuals are employed.
+      + these days, often because of their expertise and leadership in specific projects.
+
++ Their collaborators are at their boss' competitors.
+
++ Individual contributors need a &ldquo;gathering institution&rdquo;
+
++ Enter: non-profits.
+
+# For-Profit vs. Non-Profit
+
++ For-profits act in interest in shareholders.
+
++ 501(c)(3) non-profits act in interest of the public good.
+
++ Software freedom is best when in public good.
+
++ Non-profit orgs (NPOs) are best place for software freedom.
+
+# For-Profit-Employee &ldquo;Volunteers&rdquo;
+
++ Most code written by for-profit employees.
+     + *20% time* is a boon to software freedom.
+     + **But** codebases drift in directions of company's needs.
+
++ Some developers should be *funded* by non-profits,
+     - to mitigate dangers of for-profit control.
+
+<hr/>
+
+> It's the duty of all Free Software developers to steal as much time as they can from their employers for software freedom.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Jeremy Allison, Director, Conservancy &amp; Co-Founder, Samba Project
+</p>
+</span>
+
+# Historical Public Good Models
+
++ FSF, Apache Software Foundation, Software in the Public Interest, Open
+  Source Initiative are all 501(c)(3)'s.
+
++ They **must** act in the public interest, legally &hellip;
+       + &hellip; lest they lose their tax-exempt status.
+
++ Businesses may not control them:
+       + private benefit is strictly prohibited.
+
+# The Rise of For-Profit Open Source
+
++ I'll be the first to tell you:
+       + open source is a business fad.
+
++ Open sourcing your stuff does not:
+       + magically make your code better.
+       + get unpaid &ldquo;community&rdquo; labor to improve your product.
+       + MAKE.MONEY.FAST (VA Linux is out, Candy Crush is in)
+
++ Yet, business-centric projects don't have community volunteers.
+
+# The March of the Trade Association
+
++ 501(c)(6)'s are a different form of non-profit.
+
++ They act in the common business interest of all their members.
+       + most of which are for-profit companies.
+
++ An effective model for business-centric software.
+
++ Community of individuals does **not** come first.
+
++ Orgs like OpenStack Foundation and Linux Foundation seem to be growing too
+  fast for their own good.
+
++ The model admittedly has value.
+
+# Software Freedom For The Developer
+
++ Most of the best software innovation won't happen here.
+       + Even if you're Google, that can't last forever.
+       
++ Employee brain-drain is a real social force.
+
++ Empowering employees to participate in their community makes happy
+  employees.
+
++ Mailing lists and shared patches *are* the community of software
+  developers.
+
+# Why We Need You
+
++ Non-profit funding of software freedom is a key component.
+
++ But commercial entities always have more resources.
+
++ The great arts have always been subsidized by the most wealthy.
+      + And, in our society, that's big corporations.
+
++ We have a counterbalance of equality through Free Software licensing.
+
+<hr/>
+
+> I haven't finished doing the math, but I'm pretty sure we can't *all* make a living hustling each other for money on Kickstarter.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Evan Prodromou, Free Software Entrepreneur and Founder, E14N
+</p>
+</span>
+
+# What is Conservancy?
+
++ Conservancy is a 501(c)(3) non-profit home for Free Software projects.
+
++ Individual developers' projects can join; we are the non-profit home.
+
++ Conservancy serves the needs of the project and the public good.
+       + but developers retain artistic control.
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
