@@ -201,6 +201,29 @@
 
 + Difference is purely on what tactics to use to ensure equality for all.
 
+# Linux: Non-Commercial Licensing Fail &hellip;
+<span class="fitonslide">
+<p>This kernel is (C) 1991 Linus Torvalds, but all or part of it may be
+redistributed provided you do the following:</p>
+<p>&hellip;
+<ul>
+<li>You may not distibute this for a fee, not even "handling"
+	  costs.</li>
+</p>
+<p>Mail me at "torvalds@kruuna.helsinki.fi" if you have any questions.</p>
+</span>
+
+# &hellip; Within Six Months
+<span class="fitonslide">
+<p>I've had a couple of requests to make
+it compatible with the GNU copyleft, removing the "you may not
+distribute it for money" condition.  I agree.  I propose that the
+copyright be changed so that it confirms to GNU - pending approval of
+the persons who have helped write code.  I assume this is going to be no
+problem for anybody: If you have grievances ("I wrote that code assuming
+the copyright would stay the same") mail me.  Otherwise The GNU copyleft
+takes effect as of the first of February [1992]. </p>
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
