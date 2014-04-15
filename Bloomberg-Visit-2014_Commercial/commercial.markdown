@@ -85,6 +85,14 @@
 
 + These showed early success.
 
+# The Cygnus Era
+
++ The smartest move Red Hat ever made was acquiring Cygnus with its IPO
+  capital.
+
++ Cygnus built the first successful software freedom business.
+
++ How and why did this happen?
 
 # Conservancy Member Projects
 
