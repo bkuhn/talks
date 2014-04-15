@@ -125,9 +125,10 @@
 
 + The real innovation isn't the philosophical realization of four freedoms.
 
-+ Copyleft creates the truly free market.
++ Copyleft guarantees a truly free market.
 
-+ Proprietarized Free Software gets us back to monopoly.
++ Proprietarized Free Software can create new monopolies.
+
 
 
 # Conservancy Member Projects
