@@ -28,7 +28,7 @@
 
 # On Requirement By License
 
-<img src="french-constitution.jpg" align="right"  />
+<img src="Constitution.jpg" align="right"  />
 
 + Social pressure *does* work &hellip;
      + &hellip; and should be used (and is), even for copylefted software.
