@@ -38,6 +38,18 @@
 
 + to modify and share modified versions.
 
+# Philosophical Underpinnings
+
+<img src="rms-80s-scaled.png" align="right" />
+
++ 1984-09-27: GNU Manifesto.
+
++ Richard M. Stallman (RMS) wrote in that *GNU Manifesto*:
+      - *"All sorts of development can be funded with a Software Tax"*
+      - *"People with new ideas could distribute programs as [free software], asking for donations from satisfied users"*
+
++ Purely non-profit fundraising style was initial funding ideas.
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
