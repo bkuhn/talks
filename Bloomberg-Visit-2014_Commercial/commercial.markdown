@@ -345,9 +345,26 @@ takes effect as of the first of February [1992]. </p>
 + Mailing lists and shared patches *are* the community of software
   developers.
 
-# Why We Need You
++ Most software you use isn't your core product anyway.
 
-+ Non-profit funding of software freedom is a key component.
+# Software Freedom For Entrepreneurs
+
++ Various proprietary software cartels.
+       - PBX is an excellent example.
+
++ Free software work is an opportunity to break these up.
+
++ Current places this is occurring:
+       + Medical records: OpenMRS
+       + GIS: QGIS displacing ArcView
+
++ Places it could occur:
+       + CAD: Autodesk
+       + Non-Profit Accounting Systems: Blackbaud
+
+# Why We Need Commercial Interest
+
++ Non-profit funding of software freedom is a necessary component.
 
 + But commercial entities always have more resources.
 
