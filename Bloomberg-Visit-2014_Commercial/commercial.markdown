@@ -409,6 +409,8 @@ takes effect as of the first of February [1992]. </p>
 + Conservancy serves the needs of the project and the public good.
        + but developers retain artistic control.
 
++ Build governance outside of for-profit control, but permit contribution as individuals.
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
