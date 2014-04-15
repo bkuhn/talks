@@ -1,4 +1,4 @@
-% 13 Years of Copyleft License Compliance: A Historical Perspective
+% 15 Years of Copyleft License Compliance: A Historical Perspective
 % Bradley M. Kuhn
 % Tuesday 15 April 2014
 
@@ -8,7 +8,7 @@
 
 + Started working for FSF in 2000 (was there until 2005).
 
-+ Now: Executive Director of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
++ Now: President &amp; Distinguished Technologist of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
 
 + Plurality of my time since 1999 has been spent on GPL enforcement.
      + I'm probably the person &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
