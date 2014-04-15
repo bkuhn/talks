@@ -136,6 +136,67 @@
 + Start briefly from first principles and work our way up.
 
 
+# Why Do We Need Licenses?
+
++ None of those freedoms happen by default.
+
++ Software is governed by copyright &hellip;
+       + &hellip; since it's expression fixed in a tangible medium.
+
++ only way to give those freedoms is to give a license.
+
+# What Free Software License Does?
+
++ Copyright on software governs three basic activities:
+      + copying, modifying and distributing.
+
++ By default, you're prohibited from doing those things.
+
++ A license is:
+      + a document that gives you permissions &hellip;
+      + &hellip; that you otherwise wouldn't have.
+
++ Free software license, first and foremost:
+      + assert recipient's to copy, share, modify and redistribute the software.
+
+# Does/Should a License Do More?
+
++ Ultimately depends on the authors' goal.
+      + More on this in a moment.
+
++ Every Free Software license gives first recipient those four freedoms.
+
++ Question is: What about everyone else?
+
+# Basics of Copyleft Licensing
+
++ Concept: share and share alike.
+
++ Accomplished via copyright requirements:
+      + distribution accompanied with complete, corresponding source.
+      + distribution of modified versions need same (with changes).
+
++ Generally triggered on distribution:
+      + (Note: Affero GPL triggers on modification.)
+
++ Free Software licenses are primarily copyright licenses.
+
++ None of the four freedoms happen by default.
+
++ A software's copyright by default prohibits those freedoms.
+
+
+# Comparing Licenses
+
+<br/>
+<br/>
+
+<img src="license-spectrum.png" align="center" />
+
+# Contribution Models
+
++ Both permissive and copyleft communities **want** changes back.
+
 # Conservancy Member Projects
 
 <img src="Conservancy-project-logos-NASCAR-page-2014-02-05.png" />
