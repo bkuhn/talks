@@ -332,7 +332,24 @@ takes effect as of the first of February [1992]. </p>
 
 + The model admittedly has value.
 
+# Copyleft Under Attack
+
++ Many (particularly in (c)(6)'s) now argue copyleft is no longer needed.
+
++ Most heavily funded large projects under non-copyleft are young.
+       + e.g, Open Stack, LLVM.
+
++ There's still no adequate &rdquo;tragedy of the commons&rdquo; answer for
+  non-copyleft.
+
++ The data here is so bad, and situations unprecedented, we just have to wait
+  and see.
+
++ You can probably guess my opinions anyway.
+
 # Software Freedom For The Developer
+
++ Regardless of license, let employees contribute!
 
 + Most of the best software innovation won't happen here.
        + Even if you're Google, that can't last forever.
