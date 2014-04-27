@@ -1,6 +1,7 @@
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
+     - Sign Up Today as part of the <a href="https://sfconservancy.org/linux-compliance/">*GPL Compliance Project for Linux Developers*</a>.
      - A Book I helped write: <a
         href="http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf">*Copyleft and
         the GNU General Public License: A Comprehensive Tutorial*</a> is available.
