@@ -392,17 +392,15 @@ takes effect as of the first of February [1992]. </p>
 
 # Why We Need Commercial Interest
 
-+ Non-profit funding of software freedom is a necessary component.
++ Non-profit funding is a necessary component.
 
-+ But commercial entities always have more resources.
-
-+ The great arts have always been subsidized by the most wealthy.
++ For-profits always have more resources.
+      + Great Arts always subsidized by the most wealthy.
       + And, in our society, that's big corporations.
 
-+ We have a counterbalance of equality through Free Software licensing.
++ Counterbalance of equality: software freedom licensing.
 
 <hr/>
-
 > I haven't finished doing the math, but I'm pretty sure we can't *all* make a living hustling each other for money on Kickstarter.
 
 <span class="fitonslide">
