@@ -114,7 +114,7 @@ Source: <a href="http://www.npr.org/blogs/money/2013/10/18/237169497/episode-407
 # Why Is This Wheel Reinvented?: 1st
 
 + How'd did we get Y2K?
-     + &ldquo;Who would still be using this code in 2000?&rdquo;x
+     + &ldquo;Who would still be using this code in 2000?&rdquo;
      + Systems live longer than developers think.
 
 + Great developers plan ahead.
