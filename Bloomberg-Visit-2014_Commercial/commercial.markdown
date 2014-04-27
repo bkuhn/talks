@@ -139,13 +139,13 @@ be paid a cent. Supposedly it is all or nothing.</p>
 + Copyleft guarantees a truly free market.
 
 + Proprietarized Free Software can create new monopolies.
+      + e.g., Apple OSX.
 
 # So, What's Copyleft?
 
 + You may have heard this part before, but hopefully it's worth repeating.
 
-+ Start briefly from first principles and work our way up.
-
++ Briefly, a first principles explanation of software freedom licensing.
 
 # Why Do We Need Licenses?
 
