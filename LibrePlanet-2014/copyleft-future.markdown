@@ -207,11 +207,11 @@ licenses, are much more friendly for corporate use.
 
 + The layers of proprietarization got thinner.
 
-# Developers who are Children of the Web
+# Today's Developers: Children of the Web
 
-+ You never have all the source ...
++ You never have all the source &hellip;
 
-+ ... but you're often fed a JSON API.
++ &hellip; but you're often fed a JSON API.
 
 + Javascript developers don't consider idea they'd have &ldquo;all the source&rdquo; on hand.
 
