@@ -13,6 +13,18 @@
 + Plurality of my time since 1999 has been spent on GPL enforcement.
      + I'm probably the person most &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
 
+# How GPL Works (Theoretically)
+
++ Copyright: the internationalized standard for authors' controls over works.
+
++ Use copyright license to grant permission.
+
++ Make permission conditional on giving your downstream the four freedoms.
+
++ This is the copyright law hack of copyleft.
+
++ Copyright rules require compliance with the license.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
