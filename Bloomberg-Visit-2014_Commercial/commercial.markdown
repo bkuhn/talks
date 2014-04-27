@@ -59,7 +59,7 @@
 
 + Meanwhile &hellip;
 
-# Rebutted Complaints
+# Rebutted Objections
 
 + Obviously, people said RMS was a communist.
       - sharing all your software does have a certain hippie spirit to it.
