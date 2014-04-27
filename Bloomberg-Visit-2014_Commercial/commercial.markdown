@@ -252,17 +252,17 @@ takes effect as of the first of February [1992]. </p>
 
 # How To Interact?
 
++ Formation of Apache Software Foundation.
+
 + IBM's famous statement regarding Apache:
       + &ldquo;How do we make a deal with a website?&rdquo;
-
-+ Formation of Apache Software Foundation.
 
 + Became the non-copyleft center hub, in the way FSF was the copyleft center
   hub.
 
 + Why do it this way?
 
-# Understanding For/Non-profit Interaction
+# For/Non-profit Interaction
 
 + Free Software projects are run by individuals.
 
