@@ -154,6 +154,10 @@ be paid a cent. Supposedly it is all or nothing.</p>
 + Software is governed by copyright &hellip;
        + &hellip; since it's expression fixed in a tangible medium.
 
+       + &ldquo;To promote the Progress of Science and useful Arts, by
+       securing for limited Times to Authors and Inventors the exclusive
+       Right to their respective Writings and Discoveries;&rdquo;
+       
 + only way to give those freedoms is to give a license.
 
 # What Free Software License Does?
