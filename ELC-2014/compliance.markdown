@@ -185,6 +185,17 @@ arrest a guy who was just passing drugs from one guy to another.
  &mdash; Michael Scott, *The Office* (USA Version)
 </p>
 
+# Suppliers Bully OEMs, AFAICT
+
++ I'd be the worst police officer in the world.
+
++ No one ever turns &ldquo;states' evidence&rdquo;
+     - &hellip; at least they don't for _me_, anyway.
+
++ Me: &ldquo;Please, just tell me on the record your supplier violated when distributing to you.&rdquo;
+
++ Them: &ldquo;We'll work with our upstream to get into compliance.&rdquo;
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
