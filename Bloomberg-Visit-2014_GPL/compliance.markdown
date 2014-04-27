@@ -405,9 +405,9 @@ by the Installation Information.</p>
 
 + I wish more individuals and non-profits would enforce.
 
-+ Violators are more savvy now.
-      - They will test the boundaries of copyleft.
-      - And will have to be dealt with.
++ Violators are more savvy than ever.
+      - They are testing the boundaries of copyleft.
+      - And the Big Case will eventually come.
 
 # Constant Vigilance!
 
