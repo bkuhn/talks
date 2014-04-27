@@ -209,17 +209,20 @@ be paid a cent. Supposedly it is all or nothing.</p>
 
 + Difference is purely on what tactics to use to ensure equality for all.
 
++ Full agreement on commercial/non-commercial equality.
+
 # Linux: Non-Commercial Licensing Fail &hellip;
 <span class="fitonslide">
 <p>This kernel is (C) 1991 Linus Torvalds, but all or part of it may be
 redistributed provided you do the following:</p>
 <p>&hellip;
 <ul>
-<li>You may not distibute this for a fee, not even "handling"
+<li>You may not distibute [sic] this for a fee, not even "handling"
 	  costs.</li>
 </p>
 <p>Mail me at "torvalds@kruuna.helsinki.fi" if you have any questions.</p>
 </span>
+
 
 # &hellip; Within Six Months
 <span class="fitonslide">
