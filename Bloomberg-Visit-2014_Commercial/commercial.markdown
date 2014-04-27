@@ -110,22 +110,17 @@ be paid a cent. Supposedly it is all or nothing.</p>
 
 + How and why did this happen?
 
-
 # The First Essential Codebase
 
-+ GNU Compiler Collection (GCC) was the first Free Software program no one
-  could live without.
++ GNU Compiler Collection (GCC):
+       + first Free Software program no one could live without.
 
 + It replaced a fragmented proprietary market with weak products:
        + with a single well designed product.
        + under a copyleft license (more on that later).
 
 + Cygnus' founders realized this early enough to act.
-
-+ Rather than first to market, it's more &ldquo;first to talent&rdquo;.
-
-+ Does this work in a crowded market?:
-       + I have no idea, I'm a non-profit guy, remember? :)
+       + Rather than first to market, it's more &ldquo;first to talent&rdquo;.
 
 # Why GCC Needed Commerce
 
