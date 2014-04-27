@@ -93,8 +93,50 @@
 + Claims at OSCON 2013:
      * &ldquo;The GPL is a license of restrictions; I don't like restrictions. just
        use MIT&rdquo; [sic]
+     * This is so transparently self-serving, yet it's widely accepted.
 
-+ This is so transparently self-serving, yet it's widely accepted.
++ Meanwhile, we gotta (sometimes) play same &ldquo;dirty&rdquo; politics they do.
+     + If Preston-Warner is discredited for other reasons, we should pounce.
+     + I don't acting like a politician, but we won't win if we don't.
+     
+# Apache Software Foundation
+
++ If there going to say this &hellip;
+    + &hellip; **why** are we being nice to them politically?
+
+<hr/>
+
+<span class="fitonslide">
+
+<p align="left">
+This is not just a theoretical concern. As aggressively as the BSA protects
+the interests of its commercial members, [GPL enforcers] protects the GPL
+license in high-profile lawsuits against large corporations. &hellip; FSF
+&hellip; writes about their expansion of "active license enforcement.  So the
+cost of compliance with copyleft code can be even greater than the use of
+proprietary software, since an organization risks being forced to make the
+source code for their proprietary product public and available for anyone to
+use, free of charge.
+</p>
+<p align="left">
+<center>
+The Apache Advantage
+</center>
+</p>
+
+<p align="left">
+However, not all open source licenses are copyleft license [sic]. Not all of them
+have that viral quality that radically increases the risk for an
+organization. A subset of open source licenses, generally called "permissive"
+licenses, are much more friendly for corporate use.
+</p>
+
+<p align="right">
+ &mdash; <a
+ href="https://www.openoffice.org/why/why_compliance.html">Apache
+ Software Foundation, *Compliance Costs and the Apache License*</a>
+</p>
+</span>
 
 # Divide And Conquer
 
