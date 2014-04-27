@@ -154,6 +154,13 @@
 + Conservancy has had > 100 GPL violations queued for action since 2007.
      - Conservancy's list is now > 300
 
+# Why Do Violations Happen?
+
++ Compliance actually isn't difficult.
+     - &amp; compliance problems are easily remedied.
+
++ So, why are there so many violations?
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
