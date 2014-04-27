@@ -173,6 +173,18 @@
 
 + So, why are there so many violations?
 
+# The Upstream Problem
+
+<img align=left src="michael-scott.jpg"/>
+
+When I said that I was king of forwards, you got to understand that I
+don't come up with this stuff. I just forward it along. You wouldn't
+arrest a guy who was just passing drugs from one guy to another.
+
+<p align="right">
+ &mdash; Michael Scott, *The Office* (USA Version)
+</p>
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
