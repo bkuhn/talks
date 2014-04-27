@@ -36,6 +36,17 @@
      + &hellip; but for a *good* cause: the four freedoms.
      + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
 
+# Complexity of Modern Enforcement
+
++ Not all GPL enforcers are created equal anymore.
+
++ Oracle, after all, holds MySQL's copyrights now &amp; enforces.
+     + I'd call this the corrupt version of what I do.
+
++ Compliance must be paramount &hellip;
+     + &hellip; over all other interests.
+     + What's that mean?
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
