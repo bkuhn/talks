@@ -189,15 +189,16 @@
 + Once you do that enough, you pine for copyleft.
 
 + Cooption will hopefully stop working.
+     + &hellip; but that may take a generation.
 
-+ But that may take a generation.
++ But that may take a generation, meanwhile &hellip;
 
 # Reboostrapping
 
 + Slowly, the cooption leaves the only essential GPL'd program as Linux.
 
 + Copyleft works only when we have code that companies can't live without.
-          + And if GPL isn't treated like GPL, it doesn't work either.
+      + And if GPL isn't treated like GPL, it doesn't work either.
 
 + The cooption pushes from this side too.
 
