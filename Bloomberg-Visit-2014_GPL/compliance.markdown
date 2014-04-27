@@ -291,7 +291,7 @@ proprietary nature of GPL violators.</p>
 
 # Challenges of Modern Compliance
 
-+ Saavy violators meant intelligent discussion.
++ Savvy violators meant intelligent discussion.
     + Jobs knew just what he was trying to get away by proprietarizing Objective C.
 
 + Clueless violators means difficult conversations:
