@@ -94,9 +94,13 @@ be paid a cent. Supposedly it is all or nothing.</p>
 + Early idealists centered around two specific business models:
       + Sell support contracts.
       + Sell custom modifications.
+      + These showed early success.
 
-+ These showed early success.
-
++ Capitalism works best:
+      + In a competitive free market.
+      + With no barriers to entry.
+      + Free Software codebases provide that market.
+      
 # The Cygnus Era
 
 + The smartest move Red Hat ever made was acquiring Cygnus with its IPO
