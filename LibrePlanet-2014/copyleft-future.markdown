@@ -239,7 +239,7 @@
 + We'll have to reestablished the copyleft of Linux and its value.
       + Enforcement is the only way to do it.
 
-+ We'll need to **code**, ***code**, **code** useful copylefted stuff.
++ We'll need to **code**, **code**, **code** useful copylefted stuff.
 
 + Old school copyleft hackers: go learn Node.js.
       + or whatever the kids are into.
