@@ -25,6 +25,17 @@
 
 + Copyright rules require compliance with the license.
 
+# How GPL Works (In Reality)
+
+<img src="copyleft-irl.jpg" align="right"  />
+
++ What do you do when someone violates?
+     + (and social pressure for compliance fails)?
+
++ Copyright enforcement
+     + &hellip; but for a *good* cause: the four freedoms.
+     + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
