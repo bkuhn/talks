@@ -142,6 +142,18 @@
 
 + Quite successful.
 
+# Embedded Violations Prevalent
+
++ Erik Andersen becomes exasperated by mid-2006.
+     - post-WRT54G: router &amp; NAS market is a violation haven.
+
++ Erik asks for help.
+
++ Conservancy becomes his enforcement agent (&amp; receive some others' &copy; assignment)
+
++ Conservancy has had > 100 GPL violations queued for action since 2007.
+     - Conservancy's list is now > 300
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
