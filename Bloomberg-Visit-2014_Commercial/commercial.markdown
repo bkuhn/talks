@@ -67,6 +67,18 @@
 + RMS begins to add a Rebutted Objections section:
       - beginnings of the business models debate.
 
+<hr/>
+<span class="fitonslide">
+<p><strong>&ldquo;Won't programmers starve?&rdquo;</strong></p>
+<p>I could answer that nobody is forced to be a programmer. Most of us cannot manage to get any money for standing on the street and making faces. But we are not, as a result, condemned to spend our lives standing on the street making faces, and starving. We do something else.</p>
+<p>But that is the wrong answer because it accepts the questioner's implicit
+assumption: that without ownership of software, programmers cannot possibly
+be paid a cent. Supposedly it is all or nothing.</p>
+<p align=right>
+ &mdash; Richard M. Stallman, *GNU Manifesto* (updated in 1985)
+</p>
+</span>
+
 # Justify Your Existence
 
 + Most social justice causes have to make their case to corporate business.
