@@ -178,7 +178,7 @@
       + b/c GPL is the ISC license of web applications.
 
 + These are also people who found the startups that hate copyleft.
-      + Their employers don't know they need it.
+      + Their employers don't know they need copyleft.
       + and these employers let you upstream a bit, after all.
 
 # As the Web grows up
