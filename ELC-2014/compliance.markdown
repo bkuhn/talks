@@ -85,6 +85,21 @@
 
 + Confidentiality is something violators ask for.
 
+# What's CCS?
+
++ The point of GPL is not merely to examine the source.
+
++ GPLv2 requires what it calls &ldquo;complete, corresponding source&rdquo;: CCS
+
++ The freedom to modify requires, as GPLv2 says:
+    + &ldquo;the scripts used to control compilation and installation of the executable&rdquo;
+
++ CCS check: verify these scripts actually do compile and install the executable.
+
++ For embedded systems, this is not always easy.
+
++ But, why is it important?
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
