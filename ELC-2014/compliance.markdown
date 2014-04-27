@@ -85,6 +85,18 @@
 
 + Confidentiality is something violators ask for.
 
+# What Conservancy Strives to Avoid
+
++ Junking products (that's bad for the environment).
+
++ Injunctions:
+     + We've gotten them &hellip;
+     + &hellip; but only after a year or more of ongoing violation.
+     + &hellip; and only after many warnings about compliance progress stymied.
+
++ Companies switching away from GPL'd software.
+     + We *all* want them to use: just in compliance
+
 # What's CCS?
 
 + The point of GPL is not merely to examine the source.
