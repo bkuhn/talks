@@ -194,13 +194,6 @@ be paid a cent. Supposedly it is all or nothing.</p>
 + Generally triggered on distribution:
       + (Note: Affero GPL triggers on modification.)
 
-+ Free Software licenses are primarily copyright licenses.
-
-+ None of the four freedoms happen by default.
-
-+ A software's copyright by default prohibits those freedoms.
-
-
 # Comparing Licenses
 
 <br/>
