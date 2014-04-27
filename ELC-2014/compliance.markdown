@@ -128,6 +128,20 @@
         
 + OpenWRT blossomed into *the* key replacement firmware for most wireless routers.
 
+# GPL-violations.org
+
+<img align=right src="harald-welte.jpg"/>
+
++ FSF was initially shy about lawsuits.
+
++ Harald participated with FSF in WRT54G matter.
+     + But Harald disagreed with FSF's early 2000s &ldquo;no litigation&rdquo; strategy.
+     + (in hindsight, Harald was right).
+
++ launches multiple lawsuits in Germany (about 8 between 2005-2008).
+
++ Quite successful.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
