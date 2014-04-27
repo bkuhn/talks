@@ -100,6 +100,19 @@
 
 + But, why is it important?
 
+# Coalition of the Willing
+
+<img align=right src="wrt54g.png"/>
+
++ Spring 2003: dozens of reports on WRT54G.
+
++ Discussions begin with Cisco (who'd bought Linksys just weeks before)
+
++ Story hits slashdot on 2003-06-08
+
++ FSF puts together group to do enforcement.
+     - key members: Erik Andersen (BusyBox) &amp; Harald Welte (Linux)
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
