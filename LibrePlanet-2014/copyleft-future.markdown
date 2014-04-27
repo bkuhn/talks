@@ -56,16 +56,15 @@
       + on the surface, that's progress.
 
 # The Politics of Cooption
+<img src="green-desk.png" align="right"  />
 
 + I just moved out of a cow-orking facility, called Green Desk.
        + marketing: cow-orking that's good for the environment.
 
 + They didn't even recycle the paper there: just bins to pretend.
-
-+ It's not the first office I've worked in like this.
-
-+ Usually, I'm the only one who cares.
-        + most say: eh, &ldquo;what are you going to do?&rdquo;
+      + It's not the first office I've worked in like this.
+      + Usually, I'm the only one who cares.
+      + most say: eh, &ldquo;what are you going to do?&rdquo;
 
 # The Politics of Cooption
 
