@@ -1,3 +1,7 @@
+% Collaborative GPL Enforcement Through Non-Profit Entities
+% Bradley M. Kuhn
+% Thursday 1 May 2014
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
