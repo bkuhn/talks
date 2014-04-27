@@ -356,7 +356,7 @@ takes effect as of the first of February [1992]. </p>
 + The data here is so bad, and situations unprecedented, we just have to wait
   and see.
 
-+ You can probably guess my opinions anyway.
++ You can probably guess my opinions.
 
 # Software Freedom For The Developer
 
