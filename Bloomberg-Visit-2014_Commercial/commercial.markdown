@@ -4,7 +4,7 @@
 
 # Who Am I?
 
-+ President and Executive Director of Software Freedom Conservancy.
++ President &amp; Distinguished Technologist of Software Freedom Conservancy.
 
 + A 501(c)(3) not-for-profit charity dedicated to promoting, advancing, defending, and developing Free, Libre and Open Source Software.
 
