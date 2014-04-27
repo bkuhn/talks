@@ -52,6 +52,21 @@
      + This has been called &ldquo;community enforcement&rdquo;.
      + What's that mean?
 
+# Community Enforcement
+
++ All community enforcement follows this rote procedure:
+     + Receive a violation report from an end-user.
+     + Verify it's really is a violation.
+     + Send a letter to the violator.
+     + CCS-Ask: Ask the violator to submit CCS candidates
+     + Review and provide feedback on CCS.
+     + If CCS has issues, goto CCS-Ask.
+     + Ask violator to inform past customers.
+     + Ask violator to cover reasonably hourly cost of this work.
+     + Restore copyright permissions.
+
++ Let's talk about the money issue first.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
