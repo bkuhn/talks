@@ -67,6 +67,24 @@
 
 + Let's talk about the money issue first.
 
+# Money
+
++ No community enforcer is getting rich from this.
+
++ 501(c)(3) non-profit charity enforcement == accountability.
+     - On a Form 990, you can look up: &hellip;
+     - &hellip; how much Conservancy  spends on / receives from enforcement.
+     - &hellip; my annual salary &amp; compensation.
+     - <a href="https://sfconservancy.org/about/filings/">https://sfconservancy.org/about/filings/</a>
+
++ Anyway, who should pay for enforcement:
+     - Those who *comply* or those who *violate*?
+     - Individual donors to non-profits?
+
++ There must be a deterrent.
+
++ Confidentiality is something violators ask for.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
