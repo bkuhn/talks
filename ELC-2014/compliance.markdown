@@ -2,6 +2,17 @@
 % Bradley M. Kuhn
 % Thursday 1 May 2014
 
+# My History
+
++ Worked my first GPL enforcement case in 1999 (as FSF volunteer).
+
++ Started working for FSF in 2000 (was there until 2005).
+
++ Now: President &amp; Distinguished Technologist of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
+
++ Plurality of my time since 1999 has been spent on GPL enforcement.
+     + I'm probably the person most &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
