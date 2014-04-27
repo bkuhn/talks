@@ -49,6 +49,7 @@
 
 + Compliance must be paramount &hellip;
      + &hellip; over all other interests.
+     + This has been called &ldquo;community enforcement&rdquo;.
      + What's that mean?
 
 # More Info / Talk License
