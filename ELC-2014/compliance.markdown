@@ -32,7 +32,11 @@
 + What do you do when someone violates?
      + (and social pressure for compliance fails)?
 
-+ Copyright enforcement
++ Violation of the license means lost rights for distribution.
+     + See GPLv2&sect;4 &amp; GPLv3&sect;8
+     + Further distribution thereafter (even in compliance) is copyright infringement.
+
++ Copyright holders must use copyright enforcement:n
      + &hellip; but for a *good* cause: the four freedoms.
      + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
 
