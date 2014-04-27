@@ -253,7 +253,12 @@ proprietary nature of GPL violators.</p>
 <img width="274" height="383" align=right src="marten-mickos.jpg"/>
 
 + Proprietary relicensing (by holding all copyright).
-     - As I spoke about this morning.
+
++ GPL enforcement with profit as its primary (and only?) goal.
+
++ MySQL would shake down GPL users to buy proprietary licenses they didn't need.
+
++ I wish I'd identified this as corruption sooner.
 
 # Embedded Violations Prevalent
 
