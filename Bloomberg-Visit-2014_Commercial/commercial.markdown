@@ -291,7 +291,7 @@ takes effect as of the first of February [1992]. </p>
      + *20% time* is a boon to software freedom.
      + **But** codebases drift in directions of company's needs.
 
-+ Some developers should be *funded* by non-profits,
++ Some developers should be *funded* by non-profits&hellip;
      - to mitigate dangers of for-profit control.
 
 <hr/>
