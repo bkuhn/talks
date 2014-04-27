@@ -270,7 +270,7 @@ proprietary nature of GPL violators.</p>
 # The Era of GPL Litigation
 
 + Lawsuits become undeniably necessary.
-     - Dan Ravicher file some in USA: for Conservancy &amp; Erik.
+     - Dan Ravicher files some in USA: with Conservancy &amp; Erik as clients.
 
 + Focus is to settle:
      - More than anything else, we want full compliance &hellip;
