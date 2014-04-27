@@ -427,6 +427,9 @@ takes effect as of the first of February [1992]. </p>
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
+     - A Book I helped write: <a
+        href="http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf">*Copyleft and
+        the GNU General Public License: A Comprehensive Tutorial*</a> is available.
      - Conservancy: sfconservancy.org &amp; @conservancy
      - Me: faif.us &amp; ebb.org/bkuhn
      - Slides: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
