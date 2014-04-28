@@ -267,9 +267,8 @@ arrest a guy who was just passing drugs from one guy to another.
 + After so much had change, it made sense to simply engage directly on behalf
   of Linux developers.
 
-+ <a href="http://sfconservancy.org/news/2012/may/29/compliance/">On
-  2012-05-29, GPL Compliance Project for Linux Developers</a> gives structure
-  to Linux compliance activity.
++ GPL Compliance Project for Linux Developers gives structure to Linux
+  compliance activity.
 
 # More Info / Talk License
 
