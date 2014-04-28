@@ -225,21 +225,23 @@ arrest a guy who was just passing drugs from one guy to another.
      + Standard for embedded systems.
      + Usually out of compliance.
 
-# Is It Really Degrading?
+# Just Look Busy!
 
 + The <a href="https://lwn.net/Articles/478308/">Tempest in a Toybox</a>.
 
 + BusyBox enforcement was de-facto Linux enforcement.
      + BusyBox copyright holders (Conservancy and Andersen) asked for comprehensive GPL compliance.
-     + Some Linux developers felt this was unfair.
-
+     + Some Linux developers felt this was unfair&hellip;
+     + &hellip;but Linux developers appeared to be supportive.
 <hr/>
 
 > Busybox is arguably the most litigated piece of GPL software in the world.  &hellip; Litigants have sometimes requested remedies outside the scope of busybox itself&hellip;
 
 <span class="fitonslide">
 <p align=right>
- &mdash; Tim Bird of Sony Corporation
+ &mdash; <a href="http://www.elinux.org/Busybox_replacement_project">Tim Bird
+ of Sony Corporation</a>, <a href="http://www.elinux.org/index.php?title=Busybox_replacement_project&action=history">in
+ January 2012</a>.
 </p>
 </span>
  
