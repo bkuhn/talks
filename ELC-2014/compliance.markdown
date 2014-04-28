@@ -213,6 +213,7 @@ arrest a guy who was just passing drugs from one guy to another.
      + Demand legal indemnity from your upstream!
 
 + Join Conservancy's Coalition.
+     + Now, the coalition's history:
 
 # More Info / Talk License
 
