@@ -271,18 +271,6 @@ arrest a guy who was just passing drugs from one guy to another.
   2012-05-29, GPL Compliance Project for Linux Developers</a> gives structure
   to Linux compliance activity.
 
-# Why Special Case Linux?
-
-+ Linux violations are rampant.
-
-+ Denys asked us to engage.
-
-+ Also, various Linux developers &hellip;
-     - &hellip; like Matthew Garrett &hellip;
-     - &hellip; had bugged Conservancy for years to help with enforcement.
-
-+ GPL Compliance Project for Linux Developers gives structure to Linux compliance activity.
-
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
