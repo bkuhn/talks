@@ -283,6 +283,18 @@ arrest a guy who was just passing drugs from one guy to another.
      + Matthew Garrett &amp; David Woodhouse are the most public.
      + We expect to offer this service to more projects.
 
+
+# The Great Queue
+
++ We're aware of hundreds of embedded Linux GPL violations.
+     + Each one takes 40-100 hours of work to resolve.
+     + Over a period of usually 3-6 months.
+
++ The CCS issue is the most difficult:
+     + CCS candidates just don't build.
+
++ But, we're facing a worse problem everywhere.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
