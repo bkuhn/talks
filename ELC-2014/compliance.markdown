@@ -215,6 +215,61 @@ arrest a guy who was just passing drugs from one guy to another.
 + Join Conservancy's Coalition.
      + Now, the coalition's history:
 
+# Historical BusyBox Enforcement
+
+<img src="peanut-butter-jelly-time-comic.png" align="right"  />
+
++ Andersen rewrote BusyBox from scratch (starting 2001).
+
++ BusyBox standard userspace for embedded systems.
+
++ Linux plus BusyBox:
+     + PB&amp;J of embedded systems.
+     + Usually out of compliance.
+
+# Is It Really Degrading?
+
++ The <a href="https://lwn.net/Articles/478308/">Tempest in a Toybox</a>.
+
++ BusyBox enforcement was de-facto Linux enforcement.
+     + BusyBox copyright holders (Conservancy and Andersen) asked for comprehensive GPL compliance.
+     + Some Linux developers felt this was unfair.
+
+<hr/>
+
+> Busybox is arguably the most litigated piece of GPL software in the world.  &hellip; Litigants have sometimes requested remedies outside the scope of busybox itself&hellip;
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Tim Bird of Sony Corporation
+</p>
+</span>
+ 
+# Denys, The Voice of Reason
+
+<img src="denys-vlasenko-scaled.jpg" align="right"  />
+
++ Current BusyBox maintainer has that special skill of Free Software developers &hellip;
+      + &hellip; to find the sane arguments hidden among troll-ish attacks.
+
++ I walk through Brussels on the phone with Denys &hellip;
+      + &hellip; the day before FOSDEM 2012 &hellip;
+      + &hellip; and he convinces me:
+
++ To continue with enforcement, Linux developers must be involved.
+
+# Why Special Case Linux?
+
++ Linux violations are rampant.
+
++ Denys asked us to engage.
+
++ Also, various Linux developers &hellip;
+     - &hellip; like Matthew Garrett &hellip;
+     - &hellip; had bugged Conservancy for years to help with enforcement.
+
++ GPL Compliance Project for Linux Developers gives structure to Linux compliance activity.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
