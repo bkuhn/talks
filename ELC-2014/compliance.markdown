@@ -279,7 +279,7 @@ arrest a guy who was just passing drugs from one guy to another.
      + BusyBox, Linux, Samba, Mercurial
 
 + Linux is not a full Conservancy member project:
-     + but inforces for a coalition of about a dozen prominent copyright holders.
+     + but enforces for a coalition of about a dozen prominent copyright holders.
      + Matthew Garrett &amp; David Woodhouse are the most public.
      + We expect to offer this service to more projects.
 
