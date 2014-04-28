@@ -206,7 +206,7 @@ arrest a guy who was just passing drugs from one guy to another.
 + Just put that CCS online &amp; put URL in the manual.
      + No, GPLv2 doesn't require this!
      + But, I don't want to test your offers for source.
-     + Your fulfillment department *will* screw up the offer.
+     + Your fulfillment department *will* screw this up.
 
 + If possible, help select the supplier.
      + Ask the supplier up front about CCS.
