@@ -217,14 +217,12 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # Historical BusyBox Enforcement
 
-<img src="peanut-butter-jelly-time-comic.png" align="right"  />
++ Erik Andersen rewrote BusyBox from scratch (starting 2001).
 
-+ Andersen rewrote BusyBox from scratch (starting 2001).
-
-+ BusyBox standard userspace for embedded systems.
++ BusyBox slowly but surely became standard userspace for embedded systems.
 
 + Linux plus BusyBox:
-     + PB&amp;J of embedded systems.
+     + Standard for embedded systems.
      + Usually out of compliance.
 
 # Is It Really Degrading?
