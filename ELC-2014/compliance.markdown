@@ -258,6 +258,19 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + To continue with enforcement, Linux developers must be involved.
 
+# Matthew Garrett, Linux's Freedom Fighter
+
++ For years, Matthew had asked me to help him enforce the GPL on Linux.
+
++ I'd told him that as it stood, it was easier to just work based on BusyBox.
+
++ After so much had change, it made sense to simply engage directly on behalf
+  of Linux developers.
+
++ <a href="http://sfconservancy.org/news/2012/may/29/compliance/">On
+  2012-05-29, GPL Compliance Project for Linux Developers</a> gives structure
+  to Linux compliance activity.
+
 # Why Special Case Linux?
 
 + Linux violations are rampant.
