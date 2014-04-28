@@ -196,6 +196,24 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + Them: &ldquo;We'll work with our upstream to get into compliance.&rdquo;
 
+# What Can You Do About This?
+
++ Make sure the suppliers' base system builds/installs from sources.
+     + Consider using Yocto (automated tools to help w/ compliance)
+     + it's better engineering to have reproducible builds anyway.
+     + Convince your bosses the build/install process isn't their value add.
+
++ Just put that CCS online &amp; put URL in the manual.
+     + No, GPLv2 doesn't require this!
+     + But, I don't want to test your offers for source.
+     + Your fulfillment department *will* screw up the offer.
+
++ If possible, help select the supplier.
+     + Ask the supplier up front about CCS.
+     + Demand legal indemnity from your upstream!
+
++ Join Conservancy's Coalition.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
