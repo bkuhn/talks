@@ -270,6 +270,19 @@ arrest a guy who was just passing drugs from one guy to another.
 + GPL Compliance Project for Linux Developers gives structure to Linux
   compliance activity.
 
+# Expanding the Coalition
+
++ <a href="http://sfconservancy.org/news/2012/may/29/compliance/">On
+  2012-05-29, Conservancy announced expanded GPL enforcement efforts</a>.
+
++ Conservancy now actively enforces GPL for:
+     + BusyBox, Linux, Samba, Mercurial
+
++ Linux is not a full Conservancy member project:
+     + but inforces for a coalition of about a dozen prominent copyright holders.
+     + Matthew Garrett &amp; David Woodhouse are the most public.
+     + We expect to offer this service to more projects.
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
