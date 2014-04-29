@@ -36,7 +36,7 @@
      + See GPLv2&sect;4 &amp; GPLv3&sect;8
      + Further distribution thereafter (even in compliance) is copyright infringement.
 
-+ Copyright holders must use copyright enforcement:n
++ Copyright holders must use copyright enforcement:
      + &hellip; but for a *good* cause: the four freedoms.
      + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
 
