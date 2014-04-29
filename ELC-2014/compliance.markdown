@@ -298,17 +298,20 @@ arrest a guy who was just passing drugs from one guy to another.
 
 <img src="elephant-in-the-room_400x415.jpg" align="right"  />
 
-+ I used to avoid the elephant, but now it's central to compliance.
++ I used to avoid the elephant, but now it's *the* central issue of compliance.
 
 + Much debated: Are Linux modules derivative works of Linux?
       + I &amp; our lawyers believe they almost always are.
       + Many corporate lawyers disagree.
 
-+ Case law is limited
++ Case law is limited:
       + Both sides believe they're correct.
-      + No general rule: the actual facts of a specific situation will always matter.
+      + No general rule: the actual facts of a specific situation always matter.
+      + This is the exact type of issue that becomes a big court case.
 
 + My political opponents call this: &ldquo;the ground war of GPL&rdquo;
+
++ Maybe it's time for that ground war.
 
 # More Info / Talk License
 
