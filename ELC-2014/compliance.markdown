@@ -148,7 +148,7 @@
      + But Harald disagreed with FSF's early 2000s &ldquo;no litigation&rdquo; strategy.
      + (in hindsight, Harald was right).
 
-+ launches multiple lawsuits in Germany (about 8 between 2005-2008).
++ Launches multiple lawsuits in Germany (about 8 between 2005-2008).
 
 + Quite successful.
 
@@ -159,7 +159,7 @@
 
 + Erik asks for help.
 
-+ Conservancy becomes his enforcement agent (&amp; receive some others' &copy; assignment)
++ Conservancy becomes his enforcement agent (&amp; receives some others' &copy; assignment)
 
 + Conservancy has had > 100 GPL violations queued for action since 2007.
      - Conservancy's list is now > 300
@@ -200,7 +200,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + Make sure the suppliers' base system builds/installs from sources.
      + Consider using Yocto (automated tools to help w/ compliance)
-     + it's better engineering to have reproducible builds anyway.
+     + It's better engineering to have reproducible builds anyway.
      + Convince your bosses the build/install process isn't their value add.
 
 + Just put that CCS online &amp; put URL in the manual.
@@ -264,7 +264,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + I'd told him that as it stood, it was easier to just work based on BusyBox.
 
-+ After so much had change, it made sense to simply engage directly on behalf
++ After so much had changed, it made sense to simply engage directly on behalf
   of Linux developers.
 
 + GPL Compliance Project for Linux Developers gives structure to Linux
@@ -279,7 +279,7 @@ arrest a guy who was just passing drugs from one guy to another.
      + BusyBox, Linux, Samba, Mercurial
 
 + Linux is not a full Conservancy member project:
-     + but enforces for a coalition of about a dozen prominent copyright holders.
+     + Conservancy enforces for a coalition of about a dozen prominent copyright holders.
      + Matthew Garrett &amp; David Woodhouse are the most public.
      + We expect to offer this service to more projects.
 
