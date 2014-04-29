@@ -196,21 +196,33 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # What Can You Do About This?
 
-<img align=left src="Smokey_The_Nanobot.jpg"/>
+<img align=left src="Smoky_The_Nanobot.jpg"/>
 
 + Make sure the suppliers' base system builds/installs from sources.
      + Consider using Yocto (automated tools to help w/ compliance)
      + It's better engineering to have reproducible builds anyway.
      + Convince your bosses the build/install process isn't their value add.
 
+# What Can You Do About This?
+
+<img align=left src="Smoky_The_Nanobot.jpg"/>
+
 + Just put that CCS online &amp; put URL in the manual.
      + No, GPLv2 doesn't require this!
      + But, I don't want to test your offers for source.
      + Your fulfillment department *will* screw this up.
 
+# What Can You Do About This?
+
+<img align=left src="Smoky_The_Nanobot.jpg"/>
+
 + If possible, help select the supplier.
      + Ask the supplier up front about CCS.
      + Demand legal indemnity from your upstream!
+
+# What Can You Do About This?
+
+<img align=left src="Smoky_The_Nanobot.jpg"/>
 
 + Join Conservancy's Coalition.
      + Now, the coalition's history:
