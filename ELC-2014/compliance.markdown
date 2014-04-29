@@ -56,13 +56,13 @@
 
 + All community enforcement follows this rote procedure:
      + Receive a violation report from an end-user.
-     + Verify it's really is a violation.
+     + Verify it's really a violation.
      + Send a letter to the violator.
      + CCS-Ask: Ask the violator to submit CCS candidates
      + Review and provide feedback on CCS.
      + If CCS has issues, goto CCS-Ask.
      + Ask violator to inform past customers.
-     + Ask violator to cover reasonably hourly cost of this work.
+     + Ask violator to cover reasonable hourly cost of this work.
      + Restore copyright permissions.
 
 + Let's talk about the money issue first.
