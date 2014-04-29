@@ -312,6 +312,10 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + I used to avoid the elephant, but now it's *the* central issue of compliance.
 
+# Linux's GPL Elephant
+
+<img src="elephant-in-the-room_400x415.jpg" align="right"  />
+
 + Much debated: Are Linux modules derivative works of Linux?
       + I &amp; our lawyers believe they almost always are.
       + Many corporate lawyers disagree.
