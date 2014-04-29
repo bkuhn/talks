@@ -91,8 +91,9 @@
 
 + Injunctions:
      + We've gotten them &hellip;
-     + &hellip; but only after a year or more of ongoing violation.
-     + &hellip; and only after many warnings about compliance progress stymied.
+     + &hellip; but only after a year or more of ongoing violation &hellip;
+     + &hellip; &amp; only after (a) many warnings to the violator, &amp;
+     + &hellip; (b) explicitly warning the violator that's our plan.
 
 + Companies switching away from GPL'd software.
      + We *all* want them to use: just in compliance
