@@ -314,6 +314,20 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + Maybe it's time for that ground war.
 
+# Biggest Way You Can Help
+
++ You're all embedded Linux developers.
+     + That means it's likely your copyrighted work that violators infringe.
+     + Only *you* can help your users.
+
++ OTOH, maybe you don't care about the GPL or the freedoms it protects.
+     + &amp; I don't blame you if you don't care &hellip;
+     + &hellip; you aren't required to agree with strong copyleft to be a Linux contributor.
+
++ But, if you *do* care, you can join our coalition:
+     + If you want to join the GPL Compliance Project for Linux Developers &hellip;
+     + &hellip; see me after the talk; I have the blank forms with me. :)
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
