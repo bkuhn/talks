@@ -69,9 +69,8 @@
 
 # Money
 
-+ No community enforcer is getting rich from this.
-
-+ 501(c)(3) non-profit charity enforcement == accountability.
++ No community enforcer is getting rich.
+     - 501(c)(3) non-profit charity enforcement == accountability.
      - On a Form 990, you can look up: &hellip;
      - &hellip; how much Conservancy  spends on / receives from enforcement.
      - &hellip; my annual salary &amp; compensation.
