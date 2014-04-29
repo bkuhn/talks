@@ -270,9 +270,9 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + To continue with enforcement, Linux developers must be involved.
 
-# Matthew Garrett, Linux's Freedom Fighter
+# Garrett, Linux's Freedom Fighter
 
-+ For years, Matthew had asked me to help him enforce the GPL on Linux.
++ For years, Matthew Garrett had asked me to help him enforce the GPL on Linux.
 
 + I'd told him that as it stood, it was easier to just work based on BusyBox.
 
