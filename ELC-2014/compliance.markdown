@@ -220,8 +220,11 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # What Can You Do About This? (3)
 
-+ Join Conservancy's Coalition.
-     + Now, the coalition's history:
++ But, most importantly:
+
++ Please join Conservancy's Coalition.
+
++ For context, a bit of the coalition's history:
 
 # Historical BusyBox Enforcement
 
