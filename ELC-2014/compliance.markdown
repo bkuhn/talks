@@ -318,6 +318,8 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # Biggest Way You Can Help
 
+<img align="right" src="smokey-says-only-you-can-prevent-forest-fires.jpg"/>
+
 + You're all embedded Linux developers.
      + That means it's likely your copyrighted work that violators infringe.
      + Only *you* can help your users.
