@@ -326,8 +326,7 @@ arrest a guy who was just passing drugs from one guy to another.
       + This is the exact type of issue that becomes a big court case.
 
 + My political opponents call this: &ldquo;the ground war of GPL&rdquo;
-
-+ Maybe it's time for that ground war.
+      + Maybe it's time for that ground war.
 
 # Biggest Way You Can Help
 
