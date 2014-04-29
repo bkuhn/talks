@@ -199,6 +199,8 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # What Can You Do About This?
 
+<img align=left src="Smokey_The_Nanobot.jpg"/>
+
 + Make sure the suppliers' base system builds/installs from sources.
      + Consider using Yocto (automated tools to help w/ compliance)
      + it's better engineering to have reproducible builds anyway.
