@@ -342,7 +342,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + But, if you *do* care, you can join our coalition:
      + If you want to join the GPL Compliance Project for Linux Developers &hellip;
-     + &hellip; see me after the talk; I have the blank forms with me. :)
+     + &hellip; see me after the talk; I have blank forms with me. :)
 
 # More Info / Talk License
 
