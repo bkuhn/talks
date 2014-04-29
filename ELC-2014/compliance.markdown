@@ -238,9 +238,8 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # Just Look Busy!
 
-+ The <a href="https://lwn.net/Articles/478308/">Tempest in a Toybox</a>.
-
-+ BusyBox enforcement was de-facto for Linux, too.
++ BusyBox enforcement was de-facto for Linux.
+     + The <a href="https://lwn.net/Articles/478308/">Tempest in a Toybox</a>.
      + BusyBox copyright holders request comprehensive GPL compliance.
      + Some Linux developers felt this was unfair&hellip;
      + &hellip;but other Linux developers supported it.
