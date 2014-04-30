@@ -10,8 +10,8 @@
 
 + Now: President &amp; Distinguished Technologist of Software Freedom Conservancy &amp; on Board of Directors of the FSF.
 
-+ Plurality of my time since 1999 has been spent on GPL enforcement.
-     + I'm probably the person most &ldquo;responsible&rdquo; for every major USA GPL enforcement action.
++ Both FSF and Conservancy have extensive GPL enforcement programs:
+     + so, the plurality of my time since 1999 has been spent on GPL enforcement.
 
 # How GPL Works (Theoretically)
 
