@@ -41,14 +41,14 @@
 
 # Complexity of Modern Enforcement
 
-+ Not all GPL enforcers are created equal anymore.
++ Not all GPL enforcement is software-freedom-motivated.
 
 + Oracle, after all, holds MySQL's copyrights now &amp; enforces.
      + I call this the corrupt version of what I do.
 
 + Compliance must be paramount &hellip;
      + &hellip; over all other interests.
-     + This has been called &ldquo;community enforcement&rdquo;.
+     + Some call this &ldquo;community enforcement&rdquo;.
      + What's that mean?
 
 + We do this because individual users:
