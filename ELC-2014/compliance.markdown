@@ -160,7 +160,8 @@
 
 + Launches multiple lawsuits in Germany (about 8 between 2005-2008).
 
-+ Quite successful.
++ Quite successful, but gpl-violations.org is now mostly defunct.
+     + except for running the mailing lists.
 
 # Embedded Violations Prevalent
 
