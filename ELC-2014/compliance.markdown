@@ -51,9 +51,10 @@
      + Some call this &ldquo;community enforcement&rdquo;.
      + What's that mean?
 
-# Who Reports Violations to Community Enforcers?
+# Who Reports Violations?
 
-+ Who reports violations?: Individual users.
++ Who reports violations to community enforcers?
+     + Individual users.
 
 + The user buys buy embedded products &hellip;
      + &hellip; (such as a TV, DVD Player, wireless router, mobile phone) &hellip;
