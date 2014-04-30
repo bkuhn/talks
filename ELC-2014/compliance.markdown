@@ -157,7 +157,7 @@
 
 # GPL-violations.org
 
-<img align=right src="harald-welte.jpg"/>
+<img align="right" height="300" width="200"  src="harald-welte.jpg"/>
 
 + FSF was initially shy about lawsuits.
 
