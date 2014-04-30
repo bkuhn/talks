@@ -361,3 +361,16 @@ arrest a guy who was just passing drugs from one guy to another.
 <p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA-USA 3.0.
 </p>
 </span>
+
+<!--  LocalWords:  GPLv MySQL's ldquo rdquo CCS goto href GPL'd img src wrt
+ -->
+<!--  LocalWords:  png Linksys slashdot BusyBox Harald Welte OpenWRT Gregers
+ -->
+<!--  LocalWords:  harald welte jpg NAS michael scott mdash OEMs AFAICT de
+ -->
+<!--  LocalWords:  Yocto userspace facto Toybox Busybox busybox fitonslide
+ -->
+<!--  LocalWords:  Denys denys vlasenko ish FOSDEM Linux's Woodhouse faif sa
+ -->
+<!--  LocalWords:  sfconservancy
+ -->
