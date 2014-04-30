@@ -44,7 +44,7 @@
 + Not all GPL enforcers are created equal anymore.
 
 + Oracle, after all, holds MySQL's copyrights now &amp; enforces.
-     + I'd call this the corrupt version of what I do.
+     + I call this the corrupt version of what I do.
 
 + Compliance must be paramount &hellip;
      + &hellip; over all other interests.
