@@ -51,6 +51,12 @@
      + This has been called &ldquo;community enforcement&rdquo;.
      + What's that mean?
 
++ We do this because individual users:
+     + buy embedded products &hellip;
+     + &hellip; try to get the GPL'd sources and build them &hellip;
+     + &hellip; and it doesn't work.
+     + Conservancy gets new reports weekly.
+
 # Community Enforcement
 
 + All community enforcement follows this rote procedure:
