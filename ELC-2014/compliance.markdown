@@ -131,7 +131,7 @@
 
 + After years of complex negotiation, and many CCS &ldquo;rounds&rdquo;:
       + All CCS works (only two proprietary Linux modules held back).
-      + Became first check-in of the OpenWRT is this CCS release.
+      + First check-in of OpenWRT is this CCS release.
 
 + OpenWRT project leaders to this day credit this as their start.
       + Source: <a href="http://twit.tv/show/floss-weekly/265">Gregers Petersen on FLOSS Weekly Episode 265</a>
