@@ -97,6 +97,10 @@
 + Companies switching away from GPL'd software.
      + We *all* want them to use: just in compliance
 
++ Lawsuits of any kind:
+     + suing someone is always a last resort &hellip;
+     + &hellip; usually after years &amp; hundreds of hours of begging them to comply. 
+
 # What's CCS?
 
 + The point of GPL is not merely to examine the source.
