@@ -38,7 +38,6 @@
 
 + Copyright holders must use copyright enforcement:
      + &hellip; but for a *good* cause: the four freedoms.
-     + &ldquo;using the tools of the oppressor against the oppressor&rdquo;
 
 # Complexity of Modern Enforcement
 
