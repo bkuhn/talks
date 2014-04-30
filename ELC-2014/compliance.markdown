@@ -98,12 +98,13 @@
 
 # What Conservancy Strives to Avoid
 
-+ Junking products (that's bad for the environment).
++ Junking products:
+    + That's bad for the environment.
 
 + Injunctions:
-     + We've gotten them &hellip;
-     + &hellip; but only after a year or more of ongoing violation &hellip;
-     + &hellip; &amp; only after (a) many warnings to the violator, &amp;
+     + We've gotten them, but only after &hellip;
+     + &hellip; 1+ years of ongoing violation &hellip;
+     + &hellip; &amp; (a) many warnings to the violator, &amp;
      + &hellip; (b) explicitly warning the violator that's our plan.
 
 + Companies switching away from GPL'd software.
