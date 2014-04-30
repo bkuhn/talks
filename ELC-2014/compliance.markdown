@@ -184,7 +184,6 @@
      + Conservancy even had to sue them over TV products.
 
 + Conservancy settled &amp; the final CCS was really good!
-     + Conservancy even had to sue them over TV products.
      + That CCS launched <a href="http://www.samygo.tv/">SamyGo project</a>.
 
 + More recently, <a href="http://sfconservancy.org/news/2013/aug/16/exfat-samsung/">Conservancy helped Samsung fix</a> their <a href="https://gitorious.org/binbang/exfat-linux">exFAT module</a> violation.
