@@ -277,6 +277,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 + After so much had changed, it made sense to simply engage directly on behalf
   of Linux developers.
+      + &amp; there were many others who felt the same as Matthew did.
 
 + GPL Compliance Project for Linux Developers gives structure to Linux
   compliance activity.
