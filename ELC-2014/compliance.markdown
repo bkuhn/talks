@@ -59,7 +59,8 @@
      + Send a letter to the violator.
      + CCS-Ask: Ask the violator to submit CCS candidates
      + Review and provide feedback on CCS.
-     + If CCS has issues, goto CCS-Ask.
+     + If we know why CCS doesn't work, give patches to violator.
+     + If CCS still has issues, goto CCS-Ask.
      + Ask violator to inform past customers.
      + Ask violator to cover reasonable hourly cost of this work.
      + Restore copyright permissions.
