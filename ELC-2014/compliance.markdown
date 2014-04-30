@@ -102,10 +102,10 @@
     + That's bad for the environment.
 
 + Injunctions:
-     + We've gotten them, but only after &hellip;
-     + &hellip; 1+ years of ongoing violation &hellip;
-     + &hellip; &amp; (a) many warnings to the violator, &amp;
-     + &hellip; (b) explicitly warning the violator that's our plan.
+     + We've gotten them, but only after:
+     + (a) 1+ years of ongoing violation,
+     + (b) many warnings to the violator, &amp;
+     + (c) explicitly warning the violator that's our plan.
 
 + Companies switching away from GPL'd software.
      + We *all* want them to use: just in compliance
