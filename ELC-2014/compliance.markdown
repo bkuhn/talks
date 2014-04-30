@@ -175,7 +175,23 @@
 + Conservancy has had > 100 GPL violations queued for action since 2007.
      - Conservancy's list is now > 300
 
++ Conservancy's work in BusyBox enforcement *has* made a real difference.
+     - both to BusyBox and Linux compliance.
+
+# Samsung: A Success Story
+
++ Samsung has violated the GPL before.
+     + Conservancy even had to sue them over TV products.
+
++ Conservancy settled &amp; the final CCS was really good!
+     + Conservancy even had to sue them over TV products.
+     + That CCS launched <a href="http://www.samygo.tv/">SamyGo project</a>.
+
++ More recently, <a href="http://sfconservancy.org/news/2013/aug/16/exfat-samsung/">Conservancy helped Samsung fix</a> their <a href="https://gitorious.org/binbang/exfat-linux">exFAT module</a> violation.
+
 # Why Do Violations Happen?
+
++ As Samsung now knows:
 
 + Compliance actually isn't difficult.
      - &amp; compliance problems are easily remedied.
