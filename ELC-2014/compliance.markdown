@@ -51,11 +51,16 @@
      + Some call this &ldquo;community enforcement&rdquo;.
      + What's that mean?
 
-+ We do this because individual users:
-     + buy embedded products &hellip;
-     + &hellip; try to get the GPL'd sources and build them &hellip;
+# Who Reports Violations to Community Enforcers?
+
++ Who reports violations?: Individual users.
+
++ The user buys buy embedded products &hellip;
+     + &hellip; (such as a TV, DVD Player, wireless router, mobile phone) &hellip;
+     + &hellip; user tries to get the GPL'd sources and build them &hellip;
      + &hellip; and it doesn't work.
-     + Conservancy gets new reports weekly.
+
++ Conservancy gets a new report like this weekly.
 
 # Community Enforcement
 
