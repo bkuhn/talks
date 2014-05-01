@@ -349,9 +349,9 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # Linux's GPL Elephant
 
-<img src="elephant-in-the-room_400x415.jpg" align="right"  />
+<img height="207" width="200" src="elephant-in-the-room_400x415.jpg" align="right"  />
 
-+ Much debated: Are Linux modules derivative works of Linux?
++ Are Linux modules derivative/combined works of/with Linux?
       + I &amp; our lawyers believe they almost always are.
       + Many corporate lawyers disagree.
 
