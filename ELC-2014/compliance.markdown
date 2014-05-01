@@ -277,6 +277,9 @@ arrest a guy who was just passing drugs from one guy to another.
      + Some Linux developers felt this was unfair&hellip;
      + &hellip;but other Linux developers supported it.
      + (i.e., community was already split on this question.)
+
++ BusyBox copyright holders don't stand alone.
+
 <hr/>
 
 > Busybox is arguably the most litigated piece of GPL software in the world.  &hellip; Litigants have sometimes requested remedies outside the scope of busybox itself&hellip;
