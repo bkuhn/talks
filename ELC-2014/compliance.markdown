@@ -137,7 +137,7 @@
 
 + Discussions begin with Cisco (who'd bought Linksys just weeks before)
 
-+ Story hits slashdot on 2003-06-08
++ Story hits [slashdot on 2003-06-08](http://hardware.slashdot.org/story/03/06/08/1749217/is-linksys-violating-the-gpl).
 
 + FSF puts together group to do enforcement.
      - key members: Erik Andersen (BusyBox) &amp; Harald Welte (Linux)
@@ -167,8 +167,8 @@
 
 + Launches multiple lawsuits in Germany (about 8 between 2005-2008).
 
-+ Quite successful, but gpl-violations.org is now mostly defunct.
-     + except for running the mailing lists.
++ Quite successful, but [gpl-violations.org](http://gpl-violations.org/) is now mostly defunct.
+     + except for running the [mailing lists](http://lists.gpl-violations.org/pipermail/legal/).
 
 # Embedded Violations Prevalent
 
