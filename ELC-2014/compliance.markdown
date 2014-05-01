@@ -86,7 +86,7 @@
      - On a Form 990, you can look up: &hellip;
      - &hellip; how much Conservancy  spends on / receives from enforcement.
      - &hellip; my annual salary &amp; compensation.
-     - <a href="https://sfconservancy.org/about/filings/">https://sfconservancy.org/about/filings/</a>
+     - [https://sfconservancy.org/about/filings/](https://sfconservancy.org/about/filings/)
 
 + Anyway, who should pay for enforcement:
      - Those who *comply* or those who *violate*?
@@ -151,7 +151,7 @@
       + First check-in of OpenWRT is that CCS release.
 
 + OpenWRT project leaders to this day credit this as their start.
-      + Source: <a href="http://twit.tv/show/floss-weekly/265">Gregers Petersen on FLOSS Weekly Episode 265</a>
+      + Source: [Gregers Petersen on FLOSS Weekly Episode 265](http://twit.tv/show/floss-weekly/265)
         
 + OpenWRT blossomed into *the* key replacement firmware for most wireless routers.
 
@@ -191,9 +191,9 @@
      + Conservancy even had to sue them over TV products.
 
 + Conservancy settled &amp; the final CCS was really good!
-     + That CCS launched <a href="http://www.samygo.tv/">SamyGo project</a>.
+     + That CCS launched [SamyGo project](http://www.samygo.tv/)
 
-+ More recently, <a href="http://sfconservancy.org/news/2013/aug/16/exfat-samsung/">Conservancy helped Samsung fix</a> their <a href="https://gitorious.org/binbang/exfat-linux">exFAT module</a> violation.
++ More recently, [Conservancy helped Samsung fix](https://sfconservancy.org/news/2013/aug/16/exfat-samsung/) their [exFAT module](https://gitorious.org/binbang/exfat-linux) violation.
 
 # Why Do Violations Happen?
 
@@ -272,7 +272,7 @@ arrest a guy who was just passing drugs from one guy to another.
 # Just Look Busy!
 
 + BusyBox enforcement was de-facto for Linux.
-     + The <a href="https://lwn.net/Articles/478308/">Tempest in a Toybox</a>.
+     + The [Tempest in a Toybox](https://lwn.net/Articles/478308/)
      + BusyBox copyright holders request comprehensive GPL compliance.
      + Some Linux developers felt this was unfair&hellip;
      + &hellip;but other Linux developers supported it.
@@ -285,9 +285,7 @@ arrest a guy who was just passing drugs from one guy to another.
 > Busybox is arguably the most litigated piece of GPL software in the world.  &hellip; Litigants have sometimes requested remedies outside the scope of busybox itself&hellip;
 <span class="fitonslide">
 <p align=right>
- &mdash; <a href="http://www.elinux.org/Busybox_replacement_project">Tim Bird
- of Sony Corporation</a>, <a href="http://www.elinux.org/index.php?title=Busybox_replacement_project&action=history">in
- January 2012</a>.
+ &mdash; [Tim Bird of Sony Corporation](http://www.elinux.org/Busybox_replacement_project), [in January 2012](http://www.elinux.org/index.php?title=Busybox_replacement_project&action=history)
 </p>
 </span>
  
@@ -319,8 +317,7 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # Expanding the Coalition
 
-+ <a href="http://sfconservancy.org/news/2012/may/29/compliance/">On
-  2012-05-29, Conservancy announced expanded GPL enforcement efforts</a>.
++ [On 2012-05-29, Conservancy announced expanded GPL enforcement efforts](http://sfconservancy.org/news/2012/may/29/compliance/).
 
 + Conservancy now actively enforces GPL for:
      + BusyBox, Linux, Samba, Mercurial
@@ -384,14 +381,12 @@ arrest a guy who was just passing drugs from one guy to another.
 <img align="right" src="cc-by-sa-4-0_88x31.png" />
 
 + URLs / Social Networking / Email:
-     - Sign Up Today as part of the <a href="https://sfconservancy.org/linux-compliance/">*GPL Compliance Project for Linux Developers*</a>.
-     - A Book I helped write: <a
-        href="http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf">*Copyleft and
-        the GNU General Public License: A Comprehensive Tutorial*</a> is available.
+     - Sign Up Today as part of the [*GPL Compliance Project for Linux Developers*](https://sfconservancy.org/linux-compliance/).
+     - A Book I helped write: [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf) is available.
      - Conservancy: sfconservancy.org &amp; @conservancy
      - Me: faif.us &amp; ebb.org/bkuhn
-     - Slides: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
-     - DONATE: https://sfconservancy.org/donate/
+     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/ELC-2014/compliance.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:ELC-2014) (source)
+     - DONATE: [https://sfconservancy.org/donate/](https://sfconservancy.org/donate/)
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2010, 2011, 2012, 2013, 2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
