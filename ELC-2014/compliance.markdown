@@ -279,9 +279,8 @@ arrest a guy who was just passing drugs from one guy to another.
      + (i.e., community was already split on this question.)
 <hr/>
 
-<span class="fitonslide">
 > Busybox is arguably the most litigated piece of GPL software in the world.  &hellip; Litigants have sometimes requested remedies outside the scope of busybox itself&hellip;
-
+<span class="fitonslide">
 <p align=right>
  &mdash; <a href="http://www.elinux.org/Busybox_replacement_project">Tim Bird
  of Sony Corporation</a>, <a href="http://www.elinux.org/index.php?title=Busybox_replacement_project&action=history">in
