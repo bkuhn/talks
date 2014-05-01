@@ -381,6 +381,8 @@ arrest a guy who was just passing drugs from one guy to another.
 
 # More Info / Talk License
 
+<img align="right" src="cc-by-sa-4-0_88x31.png" />
+
 + URLs / Social Networking / Email:
      - Sign Up Today as part of the <a href="https://sfconservancy.org/linux-compliance/">*GPL Compliance Project for Linux Developers*</a>.
      - A Book I helped write: <a
