@@ -74,7 +74,7 @@
 + Thus, [hg-app is announced](http://markmail.org/message/dx2pwuvt2l7u4tpn) on
   2010-06-03 under an [MIT-permissive license](https://kallithea-scm.org/repos/kallithea/files/bad9ccac26b7f84d8b7c65098ccfd6cd1903d4fe/LICENSE) on Mercurial's mailing list.
 
-# There's Always Flaming.
+# There's Always A Flame War.
 
 + A debate erupts about GPL compatible licensing.
 
