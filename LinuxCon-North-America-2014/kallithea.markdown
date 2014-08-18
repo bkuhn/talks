@@ -261,3 +261,5 @@ repositories included only new changes to Python &amp; HTML files.
 
 + This isn't just the obvious sed/perl scripts:
        + You have to make sure your replacements generate working code!
+
+# Lessons for New Communities
