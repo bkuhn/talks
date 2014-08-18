@@ -133,12 +133,12 @@
 <hr/>
 >  All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met.
 <span class="fitonslide">
-<p align=right> GPLv3&sect;2&para;1
- &mdash; 
+<p align=right>  &mdash;  GPLv3&sect;2&para;1
+
 </p>
 </span>
 
-# A &ldquo;based on&rdquo; the earlier work
+# &ldquo;Based on&rdquo; the earlier work
 
 + This codebase is, in Conservancy's view, GPL'd:
      + first, it's based Mercurial.
@@ -201,11 +201,11 @@
 
 # Invalid Additional Term?
 
+<br/>
+
 >  All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10.  If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.  If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.
 <span class="fitonslide">
-<p align=right>  GPLv3&sect;7&para;4
- &mdash; 
-</p>
+<p align=right>&mdash;  GPLv3&sect;7&para;4</p>
 </span>
 
 # Remember: No Conflict!
