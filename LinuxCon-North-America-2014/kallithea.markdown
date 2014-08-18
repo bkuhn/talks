@@ -215,13 +215,6 @@
 + Instead, to make peace, Conservancy reads the license more conservatively
   than necessary.
 
-+ Thus begins: the hard work of a four step process:
-      + Find the last known version of the codebase without the new (invalid) text added.
-      + Extract useful patches of only Python code and HTML files from
-        post-license-change versions.
-      + Rebrand to a new name.
-      + Ensure &ldquo;beyond reproach&rdquo; compliance.
-
 <hr/>
 
 > RhodeCode system is split-licensed and comprised of two parts:
@@ -230,8 +223,17 @@
 
 > (2) All other parts of RhodeCode including, but not limited to, CSS code, images, and design are licensed according to the license purchased.
 
+# Making the Fork
 
-# First Step: Last Known GPLv3'd version
++ Thus begins: the hard work of a four step process:
+      + Find the last known version of the codebase without the new (invalid) text added.
+      + Extract useful patches of only Python code and HTML files from
+        post-license-change versions.
+      + Rebrand to a new name.
+      + Ensure &ldquo;beyond reproach&rdquo; compliance.
+
+
+# Step 0: Last Known GPLv3'd version
 
 + First step was easier than it looked.
 
@@ -240,7 +242,7 @@
 
 + The last released Mercurial repository was basically what we sought.
 
-# Second Step: Extract New Python &amp; HTML
+# Step 1: Extract New Python &amp; HTML
 
 + Even with hyper-conservative reading, Python code &amp; HTML are clearly GPLv3'd.
 
@@ -249,7 +251,7 @@
 + We wrote a shell script to rerun mercurial commands and verified resulting
   repositories included only new changes to Python &amp; HTML files.
 
-# Third Step: Rename
+# Step 3: Rename
 
 + We had no interest in using the (potentially trademarked) brand name, &ldquo;RhodeCode&rdquo;
        + &hellip; other than in those ways third parties are already
@@ -261,7 +263,7 @@
 + This isn't just the obvious sed/perl scripts:
        + You have to make sure your replacements generate working code!
 
-# Fourth Step: Beyond Reproach
+#  Step 4: Beyond Reproach
 
 + Even if upstream violated the GPLv3, it doesn't mean we have permission to
   do so.
