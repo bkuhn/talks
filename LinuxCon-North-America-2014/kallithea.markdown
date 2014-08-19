@@ -21,6 +21,8 @@
      + The whole work licensed under GPL.
      + Complete, Corresponding Source (CCS) of that work provided, under GPL.
 
+# What's a GPL Violation?
+
 + I could give a whole talk on any of these topics:
      + What constitutes the &ldquo;whole work&rdquo;.
      + CCS requirements of GPL.
@@ -30,7 +32,6 @@
      + Everyone has an opinion on the &ldquo;whole/combined work&rdquo;
        question &hellip;
      + &hellip; but there is limited statutory guidance or Court precedent on the topic.
-
 
 # Fundamental Assumptions
 
@@ -65,11 +66,10 @@
      + &hellip; didn't like the existing Free Software alternatives &hellip;
      + &hellip; and started writing one.
 
-+ Specifically:
-     + GitHub was a proprietary solution &amp; only supports Git.
-     + Phabricator existed, but was written in PHP &amp; was
-       Facebook-controlled.
-     + GitLab didn't exist yet (doesn't  support       Mercurial.
++ Specifically, in June 2010:
+     + GitHub was (still is) a proprietary solution &amp; only supports Git.
+     + Phabricator wasn't released yet.
+     + GitLab didn't exist yet (doesn't support Mercurial anyway).
 
 + Thus, [hg-app is announced](http://markmail.org/message/dx2pwuvt2l7u4tpn) on
   2010-06-03 under an [MIT-permissive license](https://kallithea-scm.org/repos/kallithea/files/bad9ccac26b7f84d8b7c65098ccfd6cd1903d4fe/LICENSE) on Mercurial's mailing list.
@@ -192,18 +192,20 @@
 + GPLv3, in fact, contemplated this problem:
 
 <hr/>
-
-> RhodeCode system is split-licensed and comprised of two parts:
-
-> (1) The Python code and integrated HTML are licensed under the GPLv3 license as is RhodeCode itself. ...
-
-> (2) All other parts of RhodeCode including, but not limited to, CSS code, images, and design are licensed according to the license purchased. These licenses are displayed here on this page:
-
+<span class="fitonslide">
+<p>
+RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
+(1) The Python code and integrated HTML are licensed under the GPLv3 license as is RhodeCode itself. &hellip;<br/><br/>
+(2) All other parts of RhodeCode including, but not limited to, CSS code, images, and design are licensed according to the license purchased.
+</p>
+</span>
+ 
 # Invalid Additional Term?
 
-<span class="fitonslide">
 <br/>
+
 >  All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10.  If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.  If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.
+<span class="fitonslide">
 <p align=right>&mdash;  GPLv3&sect;7&para;4</p>
 </span>
 
@@ -217,9 +219,9 @@
 <hr/>
 <span class="fitonslide">
 <p>
-> RhodeCode system is split-licensed and comprised of two parts:
-> (1) The Python code and integrated HTML are licensed under the GPLv3 license as is RhodeCode itself. ...
-> (2) All other parts of RhodeCode including, but not limited to, CSS code, images, and design are licensed according to the license purchased.
+RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
+(1) The Python code and integrated HTML are licensed under the GPLv3 license as is RhodeCode itself. &hellip;<br/><br/>
+(2) All other parts of RhodeCode including, but not limited to, CSS code, images, and design are licensed according to the license purchased.
 </p>
 </span>
 
@@ -286,23 +288,23 @@
 
 # So, What Do I find?
 
-<br/>
+So, there's Javascript in this thing?
 
-    $ hg clone -q https://kallithea-scm.org/repos/kallithea/
-    $ cd kallithea; hg update -C ffd45b185016
-    $ ls -1 rhodeode/public/js/
-    codemirror.js
-    codemirror_loadmode.js
-    excanvas.min.js
-    qgraph.js
-    jquery.1.10.1.min.js
-    mergerly.js
-    mode
-    native.history.js
-    pyroutes_map.js
-    rhodecode.js
-    yui.2.9.js
-    yui.flot.js
+      $ hg clone -q https://kallithea-scm.org/repos/kallithea/
+      $ cd kallithea; hg update -C ffd45b185016
+      $ ls -1 rhodeode/public/js/
+      codemirror.js
+      codemirror_loadmode.js
+      excanvas.min.js
+      qgraph.js
+      jquery.1.10.1.min.js
+      mergerly.js
+      mode
+      native.history.js
+      pyroutes_map.js
+      rhodecode.js
+      yui.2.9.js
+      yui.flot.js
 
 # Verify Upstream licensed this code
 
@@ -336,7 +338,7 @@
 
 # Add Correct LICENSE notices
 
-From LICENSE.md:
+Update our LICENSE.md:
 
       Codemirror
       ----------
@@ -356,17 +358,18 @@ From LICENSE.md:
       release.
 
 # Most Javascript is Object Code
-   + That was the easy part.
-   + The hard part was the minified stuff:
-   + as we had to find the appropriate CCS, and restart from scratch.
-   + Consider: yui.2.9.js
 
-<hr/>
++ That was easy compared to minified Javascript.
+
++ Minified Javascript is Object Code.
+
++ Must find appropriate CCS, &amp; restart from scratch.
+
+# Most Javascript is Object Code
 
 > "Object code" means any non-source form of a work.
 <p align=right>  &mdash; GPLv3&sect;1&para;1
 </p>
-
 <hr/>
 > Object code is not restricted to a narrow technical meaning and is understood broadly to include any form of the work other than the preferred form for making modifications to it.  **Object code** therefore **includes** any kind of transformed version of source code, such as bytecode or **minified Javascript**.
 <p align=right>
@@ -375,36 +378,36 @@ From LICENSE.md:
 
 # Why You?!? I (asked)!
 
-+ YUI is Yahoo's Javascript interface library.
-+ Version 2.9 is deprecated.
-+ Minified versions can be found all over the Internet &hellip;
++ YUI 2.9 is Yahoo's (deprecated) Javascript interface library.
++ Minified versions are found all over the Internet &hellip;
      + &hellip; which isn't a violation &hellip;
      + &hellip; since YUI is 3-Clause BSD &hellip;
-     + &hellip; but it's part of the CCS &hellip;
-     + &hellip; of a lager GPLv3'd work.
+     + &hellip; but it's now part of a larger GPLV3'd work's CCS.
 
-+ So, we just learned how to rebuild our own, and made our own Corresponding Source.
+<hr/>
 
-***
-<span class="fitonslide">
 > The "Corresponding Source" for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.
+<span class="fitonslide">
 <p align=right>
 &mdash; GPLv3&sect;1
 </p>
+</span>
 
-<br/>
+# Handling Our Distribution
+
+What about distributing minified Javascript in our repository?
 
 > Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge.  You need not require recipients to copy the Corresponding Source along with the object code.
+<span class="fitonslide">
 <p align=right>
 &mdash; GPLv3&sect;6(c)
 </p>
 </span>
 
-#
+# YUI Solution (from our LICENSE.md)
 
     Kallithea incorporates parts of the Javascript system called
-    [YUI 2 — Yahoo! User Interface Library](http://yui.github.io/yui2/docs/yui_2.9.0
-    _full/),
+    [YUI 2 — Yahoo! User Interface Library](http://yui.github.io/yui2/docs/yui_2.9.0_full/),
     which is made available under the [BSD License](http://yuilibrary.com/license/):
 
     Copyright &copy; 2013 Yahoo! Inc. All rights reserved.
@@ -412,7 +415,6 @@ From LICENSE.md:
     [Text of 3-Clause BSD]
 
     Kallithea includes a minified version of YUI 2.9. To build yui.2.9.js:
-
         git clone https://github.com/yui/builder
         git clone https://github.com/yui/yui2
         cd yui2/
@@ -426,8 +428,7 @@ From LICENSE.md:
         java -jar ../builder/componentbuild/lib/yuicompressor/yuicompressor-2.4.4.jar tmp.js -o yui.2.9.js
 
     In compliance with GPLv3 the Corresponding Source for this Object Code is made
-    available on
-    [https://kallithea-scm.org/repos/mirror](https://kallithea-scm.org/repos/mirror).
+    available on [https://kallithea-scm.org/repos/mirror](https://kallithea-scm.org/repos/mirror).
 
 # Lessons for New Communities
 
