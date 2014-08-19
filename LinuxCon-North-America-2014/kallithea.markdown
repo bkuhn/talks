@@ -201,10 +201,9 @@
 
 # Invalid Additional Term?
 
-<br/>
-
->  All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10.  If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.  If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.
 <span class="fitonslide">
+<br/>
+>  All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10.  If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.  If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.
 <p align=right>&mdash;  GPLv3&sect;7&para;4</p>
 </span>
 
@@ -216,12 +215,13 @@
   than necessary.
 
 <hr/>
-
+<span class="fitonslide">
+<p>
 > RhodeCode system is split-licensed and comprised of two parts:
-
 > (1) The Python code and integrated HTML are licensed under the GPLv3 license as is RhodeCode itself. ...
-
 > (2) All other parts of RhodeCode including, but not limited to, CSS code, images, and design are licensed according to the license purchased.
+</p>
+</span>
 
 # Making the Fork
 
@@ -284,9 +284,11 @@
 + Every GPL requirement, including those relating to CCS provisioning *apply*
   fully for most Javascript in a GPL'd system!
 
-# So, What Do I find? 
+# So, What Do I find?
 
-    $ hg clone -q  https://kallithea-scm.org/repos/kallithea/
+<br/>
+
+    $ hg clone -q https://kallithea-scm.org/repos/kallithea/
     $ cd kallithea; hg update -C ffd45b185016
     $ ls -1 rhodeode/public/js/
     codemirror.js
@@ -304,6 +306,7 @@
 
 # Verify Upstream licensed this code
 
+     $ hg -v log -r bb9ef0638069
      changeset:   4120:bb9ef0638069
      branch:      rhodecode-2.2.5-gpl
      user:        Bradley M. Kuhn <bkuhn@sfconservancy.org>
@@ -330,7 +333,6 @@
 
        Note that the file .../public/js/mode/meta_ext.js does *not* appear to be
        part of CodeMirror and therefore is not included in this commit.
-
 
 # Add Correct LICENSE notices
 
@@ -359,17 +361,13 @@ From LICENSE.md:
    + as we had to find the appropriate CCS, and restart from scratch.
    + Consider: yui.2.9.js
 
+<hr/>
 
-   
-***
-
-<span class="fitonslide">
 > "Object code" means any non-source form of a work.
 <p align=right>  &mdash; GPLv3&sect;1&para;1
 </p>
 
-***
-
+<hr/>
 > Object code is not restricted to a narrow technical meaning and is understood broadly to include any form of the work other than the preferred form for making modifications to it.  **Object code** therefore **includes** any kind of transformed version of source code, such as bytecode or **minified Javascript**.
 <p align=right>
 &mdash; [FSF's GPLv3 First Rationale Document, 2006-01-16](http://gplv3.fsf.org/gpl-rationale-2006-01-16.tex/view) (emphasis mine)
@@ -404,59 +402,32 @@ From LICENSE.md:
 
 #
 
-<span class="fitonslide">
-Kallithea incorporates parts of the Javascript system called
-[YUI 2 — Yahoo! User Interface Library](http://yui.github.io/yui2/docs/yui_2.9.0
-_full/),
-which is made available under the [BSD License](http://yuilibrary.com/license/):
+    Kallithea incorporates parts of the Javascript system called
+    [YUI 2 — Yahoo! User Interface Library](http://yui.github.io/yui2/docs/yui_2.9.0
+    _full/),
+    which is made available under the [BSD License](http://yuilibrary.com/license/):
 
-Copyright &copy; 2013 Yahoo! Inc. All rights reserved.
+    Copyright &copy; 2013 Yahoo! Inc. All rights reserved.
 
-Redistribution and use of this software in source and binary forms, with or
-without modification, are permitted provided that the following conditions are
-met:
+    [Text of 3-Clause BSD]
 
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
+    Kallithea includes a minified version of YUI 2.9. To build yui.2.9.js:
 
-* Redistributions in binary form must reproduce the above copyright notice,
-  this list of conditions and the following disclaimer in the documentation
-  and/or other materials provided with the distribution.
+        git clone https://github.com/yui/builder
+        git clone https://github.com/yui/yui2
+        cd yui2/
+        git checkout hudson-yui2-2800
+        ln -sf JumpToPageDropDown.js src/paginator/js/JumpToPageDropdown.js # work around inconsistent casing
+        rm -f tmp.js
+        for m in yahoo event dom connection animation dragdrop element datasource autocomplete container event-delegate json datatable paginator; do
+          rm -f build/\$m/\$m.js
+          ( cd src/\$m && ant build deploybuild ) && sed -e 's,@VERSION@,2.9.0,g' -e 's,@BUILD@,2800,g' build/\$m/\$m.js >> tmp.js
+        done
+        java -jar ../builder/componentbuild/lib/yuicompressor/yuicompressor-2.4.4.jar tmp.js -o yui.2.9.js
 
-* Neither the name of Yahoo! Inc. nor the names of YUI's contributors may be
-  used to endorse or promote products derived from this software without
-  specific prior written permission of Yahoo! Inc.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
-ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-Kallithea includes a minified version of YUI 2.9. To build yui.2.9.js:
-
-    git clone https://github.com/yui/builder
-    git clone https://github.com/yui/yui2
-    cd yui2/
-    git checkout hudson-yui2-2800
-    ln -sf JumpToPageDropDown.js src/paginator/js/JumpToPageDropdown.js # work around inconsistent casing
-    rm -f tmp.js
-    for m in yahoo event dom connection animation dragdrop element datasource autocomplete container event-delegate json datatable paginator; do
-      rm -f build/\$m/\$m.js
-      ( cd src/\$m && ant build deploybuild ) && sed -e 's,@VERSION@,2.9.0,g' -e 's,@BUILD@,2800,g' build/\$m/\$m.js >> tmp.js
-    done
-    java -jar ../builder/componentbuild/lib/yuicompressor/yuicompressor-2.4.4.jar tmp.js -o yui.2.9.js
-
-In compliance with GPLv3 the Corresponding Source for this Object Code is made
-available on
-[https://kallithea-scm.org/repos/mirror](https://kallithea-scm.org/repos/mirror).
-</span>
+    In compliance with GPLv3 the Corresponding Source for this Object Code is made
+    available on
+    [https://kallithea-scm.org/repos/mirror](https://kallithea-scm.org/repos/mirror).
 
 # Lessons for New Communities
 
