@@ -78,6 +78,8 @@
 
 # There's Always A Flame War.
 
+<img align="right" src="flame-war-exit.jpg" width="420" height="315"/>
+
 + A debate erupts about GPL compatible licensing.
 
 + hg-app incorporates code from Mercurial:
@@ -454,6 +456,8 @@ From our LICENSE.md:
     available on [https://kallithea-scm.org/repos/mirror](https://kallithea-scm.org/repos/mirror).
 
 # Lessons for New Communities
+
+<img align="right" src="stan-learned-something.jpg" width="224" height="316"/>
 
 + For a web application, *don't* just copy Javascript (even Free Software
   stuff) into your repository.
