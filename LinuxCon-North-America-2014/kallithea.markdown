@@ -401,7 +401,7 @@ Update our LICENSE.md:
 + Minified versions found on many websites &hellip;
      + &hellip; which isn't a violation &hellip;
      + &hellip; since YUI is 3-Clause BSD &hellip;
-     + &hellip; but it's now part of a larger GPLV3'd work's CCS.
+     + &hellip; but it's now part of a larger GPLv3'd work's CCS.
 
 <hr/>
 
