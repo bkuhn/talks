@@ -255,15 +255,25 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 # Step 3: Rename
 
-+ We had no interest in using the (potentially trademarked) brand name, &ldquo;RhodeCode&rdquo;
-       + &hellip; other than in those ways third parties are already
-         permitted to do so.
++ Won't use the (potentially trademarked) brand name, &ldquo;RhodeCode&rdquo;
+     + &hellip; other than in those ways third parties are already permitted to do so.
+
++ Picking names is always hard.
+     + We decided on: &ldquo;Kallithea&rdquo;
+
+<hr/>
+
+> Kallithea is the name of a locality on the island of Rhodes, in Greece, which itself means &lsquo;the best view&rsquo;. Our Kallithea project helps developers get the best views of their project and its contributions so they can better collaborate together.
+
+# Step 3: Rename
 
 + Problem: rhodecode_ was commonly used throughout the code.
-       + Again: hyper-conservative approach, remove all those.
 
-+ This isn't just the obvious sed/perl scripts:
-       + You have to make sure your replacements generate working code!
++ Hyper-conservative approach requires removal.
+     + This is of course mostly functional use, so perhaps unnecessary.
+
++ Obvious sed/perl scripts require care:
+     + You have to make sure your replacements generate working code!
 
 #  Step 4: Beyond Reproach
 
