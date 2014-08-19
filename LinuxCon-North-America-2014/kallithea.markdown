@@ -269,7 +269,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 <hr/>
 
-> Kallithea is the name of a locality on the island of Rhodes, in Greece, which itself means &lsquo;the best view&rsquo;. Our Kallithea project helps developers get the best views of their project and its contributions so they can better collaborate together.
+> Kallithea, or  &Kappa;&alpha;&lambda;&lambda;&iota;&theta;&epsilon;&alpha;, is the name of a locality on the island of Rhodes, in Greece, which itself means &lsquo;the best view&rsquo;. Our Kallithea project helps developers get the best views of their project and its contributions so they can better collaborate together.
 
 # Step 3: Rename
 
