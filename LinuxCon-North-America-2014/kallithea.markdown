@@ -102,18 +102,20 @@
 
 # Altering The Deal
 
+<img align="right" src="vader-altered-the-deal.jpg" width="482" height="330"/>
+
 + RhodeCode's primary author forms a company, RhodeCode GmbH (The Company).
 
 + The Company announces future versions of RhodeCode won't be GPL'd.
       + adds a &ldquo;20 user max&rdquo; code.
 
 + Community backlash, and threats from all sides.
-      + Author of the patch that removes the 20 user max is attacked.
+      + Author of the patch that removes the 20 user max [is attacked](https://github.com/moparisthebest/unlimit-code).
+
+# Conservancy as Mediator
 
 + Conservancy is contacted since Mercurial is a member project.
       + &amp; RhodeCode's codebase is based on GPL'd Mercurial code.
-
-# Conservancy as Mediator
 
 + Some Mercurial developers and other community members seek aggressive enforcement action.
 
