@@ -35,6 +35,8 @@
 
 # Fundamental Assumptions
 
+<img align="right" src="breaking-bad_how-much-is-enough_scaled.jpg" width=600 height=338/>
+
 + Generally speaking, everyone assumes:
      + proprietary software is more lucrative than Free Software.
 
