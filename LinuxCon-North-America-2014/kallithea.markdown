@@ -464,3 +464,21 @@ From our LICENSE.md:
 + Keep your own copyrights &amp; make it clear you expect the license to be
   upheld.
        + &amp; will do so yourself if needed.
+
+# More Info / Talk License
+
+<img align="right" src="cc-by-sa-4-0_88x31.png" />
+
++ URLs / Social Networking / Email:
+     - Sign Up Today as part of the [*GPL Compliance Project for Linux Developers*](https://sfconservancy.org/linux-compliance/).
+     - A Book I helped write: [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf) is available.
+     - Conservancy: sfconservancy.org &amp; @conservancy
+     - Me: faif.us &amp; ebb.org/bkuhn
+     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/LinuxCon-North-America-2014/kallithea.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:LinuxCon-North-America-2014) (source)
+     - DONATE: [https://sfconservancy.org/donate/](https://sfconservancy.org/donate/)
+
+<span class="fitonslide">
+<p>Presentation and slides are: Copyright &copy; 2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
+<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
+</p>
+</span>
