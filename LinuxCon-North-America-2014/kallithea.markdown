@@ -181,7 +181,7 @@
 
 + Conservancy has done GPL litigation before.
 
-+ The reason a lawsuit is the last resort: it takes far too long.
++ Lawsuits are the last resort; they takes far too long.
 
 + When licensing of the primary codebase remains uncertain during the case:
      + you've effectively repeated USL v. BSDi, and tied your codebase up in
