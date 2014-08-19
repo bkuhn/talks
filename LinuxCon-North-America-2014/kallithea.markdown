@@ -288,7 +288,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 + Therefore, getting CCS right is a complicated issue.
 
-+ But why?
++ Why is getting the CCS right difficult in this case?
 
 # GPL'd Javascript
 
