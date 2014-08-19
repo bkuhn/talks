@@ -308,7 +308,7 @@ So, there's Javascript in this thing?
 
       $ hg clone -q https://kallithea-scm.org/repos/kallithea/
       $ cd kallithea; hg update -C ffd45b185016
-      $ ls -1 rhodeode/public/js/
+      $ ls -1 rhodecode/public/js/
       codemirror.js
       codemirror_loadmode.js
       excanvas.min.js
