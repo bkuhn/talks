@@ -204,7 +204,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 <br/>
 
->  All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10.  If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.  If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.
+>  All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10.  If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.
 <span class="fitonslide">
 <p align=right>&mdash;  GPLv3&sect;7&para;4</p>
 </span>
@@ -308,6 +308,7 @@ So, there's Javascript in this thing?
 
 # Verify Upstream licensed this code
 
+     $
      $ hg -v log -r bb9ef0638069
      changeset:   4120:bb9ef0638069
      branch:      rhodecode-2.2.5-gpl
@@ -367,6 +368,8 @@ Update our LICENSE.md:
 
 # Most Javascript is Object Code
 
+<br/>
+
 > "Object code" means any non-source form of a work.
 <p align=right>  &mdash; GPLv3&sect;1&para;1
 </p>
@@ -379,7 +382,7 @@ Update our LICENSE.md:
 # Why You?!? I (asked)!
 
 + YUI 2.9 is Yahoo's (deprecated) Javascript interface library.
-+ Minified versions are found all over the Internet &hellip;
++ Minified versions found on many websites &hellip;
      + &hellip; which isn't a violation &hellip;
      + &hellip; since YUI is 3-Clause BSD &hellip;
      + &hellip; but it's now part of a larger GPLV3'd work's CCS.
@@ -397,6 +400,8 @@ Update our LICENSE.md:
 
 What about distributing minified Javascript in our repository?
 
+<hr/>
+
 > Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge.  You need not require recipients to copy the Corresponding Source along with the object code.
 <span class="fitonslide">
 <p align=right>
@@ -404,14 +409,15 @@ What about distributing minified Javascript in our repository?
 </p>
 </span>
 
-# YUI Solution (from our LICENSE.md)
+# YUI Solution
+
+From our LICENSE.md:
 
     Kallithea incorporates parts of the Javascript system called
     [YUI 2 — Yahoo! User Interface Library](http://yui.github.io/yui2/docs/yui_2.9.0_full/),
     which is made available under the [BSD License](http://yuilibrary.com/license/):
 
     Copyright &copy; 2013 Yahoo! Inc. All rights reserved.
-
     [Text of 3-Clause BSD]
 
     Kallithea includes a minified version of YUI 2.9. To build yui.2.9.js:
@@ -419,13 +425,18 @@ What about distributing minified Javascript in our repository?
         git clone https://github.com/yui/yui2
         cd yui2/
         git checkout hudson-yui2-2800
-        ln -sf JumpToPageDropDown.js src/paginator/js/JumpToPageDropdown.js # work around inconsistent casing
+        # work around inconsistent casing
+        ln -sf JumpToPageDropDown.js src/paginator/js/JumpToPageDropdown.js
         rm -f tmp.js
-        for m in yahoo event dom connection animation dragdrop element datasource autocomplete container event-delegate json datatable paginator; do
+        for m in yahoo event dom connection animation dragdrop \
+                 element datasource autocomplete container event-delegate \
+                 json datatable paginator; do
           rm -f build/\$m/\$m.js
-          ( cd src/\$m && ant build deploybuild ) && sed -e 's,@VERSION@,2.9.0,g' -e 's,@BUILD@,2800,g' build/\$m/\$m.js >> tmp.js
+          ( cd src/\$m && ant build deploybuild ) && \
+            sed -e 's,@VERSION@,2.9.0,g' -e 's,@BUILD@,2800,g' build/\$m/\$m.js >> tmp.js
         done
-        java -jar ../builder/componentbuild/lib/yuicompressor/yuicompressor-2.4.4.jar tmp.js -o yui.2.9.js
+        java -jar ../builder/componentbuild/lib/yuicompressor/yuicompressor-2.4.4.jar \
+         tmp.js -o yui.2.9.js
 
     In compliance with GPLv3 the Corresponding Source for this Object Code is made
     available on [https://kallithea-scm.org/repos/mirror](https://kallithea-scm.org/repos/mirror).
