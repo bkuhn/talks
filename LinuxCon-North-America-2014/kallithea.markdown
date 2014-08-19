@@ -158,7 +158,7 @@
 
 # How This Differs from Other Violations
 
-+ Many GPL enforcement efforts reach the point of fundamental legal
++ Some GPL enforcement efforts reach the point of fundamental legal
   disagreement about the requirements of GPL.
 
 + In most cases, the stand-off is a true stand-off:
