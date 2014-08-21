@@ -19,6 +19,8 @@
 
 + GPL (both v2 and v3) require:
      + The whole work licensed under GPL.
+     + (which means all copyrighted material added must be under
+       GPL-compatible licenses.)
      + Complete, Corresponding Source (CCS) of that work provided, under GPL.
 
 # What's a GPL Violation?
