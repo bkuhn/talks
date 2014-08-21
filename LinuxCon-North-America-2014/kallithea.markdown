@@ -71,6 +71,7 @@
      + &hellip; and started writing one.
 
 + Specifically, in June 2010:
+     + Bitbucket was (still is) a proprietary solution.
      + GitHub was (still is) a proprietary solution &amp; only supports Git.
      + Phabricator wasn't released yet.
      + GitLab didn't exist yet (doesn't support Mercurial anyway).
