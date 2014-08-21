@@ -316,6 +316,23 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 + Obvious sed/perl scripts require care:
      + You have to make sure your replacements generate working code!
+     + Ultimately 300 lines of shell commands were needed.
+
+# Step 3: Example Commmands
+
+    sed -i 's,setup-rhodecode,setup-db,g' */tests/scripts/create_rc.sh docs/*.rst setup.py
+    sed -i 's,setup_rhodecode,setup_db,g' setup.py
+    hg ci -m 'Rename paster command setup-rhodecode to setup-db'
+
+    hg mani | xargs sed -i 's/\<from rhodecode import /from kallithea import /g'
+    sed -i 's,\<rhodecode \(=\|is\) None\>,kallithea \1 None,g' */config/*.py
+    hg mani | xargs sed -i 's/\<import rhodecode$/import kallithea/g'
+    hg mani | xargs sed -i 's/\<rhodecode\.\(bin\|config\|controllers\|lib\|model\|tests\|__init__\|__version__\|websetup\|CONFIG\|EXTENSIONS\|CELERY_ON\|CELERY_EAGER\)\>/kallithea.\1/g'
+    hg mani | xargs sed -i 's,\<rhodecode/\(controllers\|lib\|model\|tests\|public\|i18n\|__init__\|templates\)\>,kallithea/\1,g'
+    sed -i 's, rhodecode/, kallithea/,g' MANIFEST.in
+
+     hg mani | xargs sed -i -e 's,settings\['"'rhodecode_' + ,settings[,g" -e 's,\<rhodecode_\(title\|realm\|ga_code\|captcha_public_key\|captcha_private_key\|show_public_icon\|show_private_icon\|stylify_metatags\|repository_fields\|lightweight_journal\|dashboard_items\|admin_grid_items\|show_version\|use_gravatar\|gravatar_url\|clone_uri_tmpl\|update_url\|extras\)\>,\1,g'
+     hg ci -m 'Drop rhodecode_ prefix for known setting names that are stored in kallithea_settings without prefix'
 
 #  Step 4: Beyond Reproach
 
