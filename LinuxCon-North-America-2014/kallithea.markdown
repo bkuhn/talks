@@ -184,7 +184,7 @@
 
 + Conservancy has done GPL litigation before.
 
-+ Lawsuits are the last resort; they takes far too long.
++ Lawsuits are the last resort; they take far too long.
 
 + When licensing of the primary codebase remains uncertain during the case:
      + you've effectively repeated USL v. BSDi, and tied your codebase up in
@@ -259,7 +259,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 + Careful extraction was required to include only those changes.
 
-+ We wrote a shell script to rerun mercurial commands and verified resulting
++ We wrote a shell script to rerun Mercurial commands and verified resulting
   repositories included only new changes to Python &amp; HTML files.
 
 # Step 3: Rename
