@@ -109,8 +109,8 @@
 
 + RhodeCode's primary author forms a company, RhodeCode GmbH (The Company).
 
-+ The Company announces future versions of RhodeCode won't be GPL'd.
-      + adds a &ldquo;20 user max&rdquo; code.
++ The Company announces a licensing scheme &ldquo;change&rdquo; for RhodeCode.
+      + &amp; adds a &ldquo;20 user max&rdquo; code.
 
 + Community backlash, and threats from all sides.
       + Author of the patch that removes the 20 user max [is attacked](https://github.com/moparisthebest/unlimit-code).
