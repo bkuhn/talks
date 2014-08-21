@@ -295,6 +295,30 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 + We wrote a shell script to rerun Mercurial commands and verified resulting
   repositories included only new changes to Python &amp; HTML files.
 
+# Step 1: Example Command
+
+      hg --cwd $RHODECODE_REPOSITORY diff -r 21af6c4eab3d -r 6177597791c2 \
+         -I rhodecode/__init__.py \
+         -I rhodecode/websetup.py \
+         -I rhodecode/bin/ \
+         -I rhodecode/config/ \
+         -I rhodecode/controllers/ \
+         -I rhodecode/lib/ \
+         -X rhodecode/lib/paster_commands/make_config.py \
+         -X rhodecode/config/deployment.ini_tmpl \
+         -X rhodecode/bin/template.ini.mako \
+         -I rhodecode/model/ \
+         -I rhodecode/tests/ \
+         -I rhodecode/templates/ \
+         -I setup.py \
+        | hg --cwd $KALLITHEA_REPOSITORY import - --no-commit
+
+# Step 1: Vetting
+
++ Output of each diff command (i.e., each patch):
+      + Vetted by me to verify it was just Python/HTML changes.
+      + Edge cases discussed carefully with legal counsel.
+
 # Step 3: Rename
 
 + Won't use the (potentially trademarked) brand name, &ldquo;RhodeCode&rdquo;
