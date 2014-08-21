@@ -248,10 +248,43 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 + First step was easier than it looked.
 
-+ Public development had stopped completely when the controversy started:
-       + i.e., the project became &ldquo;throw it over the wall&rdquo;
++ Beta branch got new license in early August 2013:
 
-+ The last released Mercurial repository was basically what we sought.
+        changeset:   4466:66aad5f0a38e
+        branch:      beta
+        user:        Marcin Kuzminski <marcin@python-works.com>
+        date:        Wed, 07 Aug 2013 04:33:56 -0500 (12 months ago)
+        summary:     updated license header
+
+        diff --git a/LICENSE b/LICENSE
+        --- a/LICENSE
+        +++ b/LICENSE
+        @@ -1,3 +1,13 @@
+        +RhodeCode system is comprised of two parts:
+        +(1) The Python code and integrated HTML are licensed under the GPLv3 license as
+        +is RhodeCode itself.
+        +You will find a copy of the license text below.
+        +
+        +(2) All other parts of the RhodeCode including, but not limited to the CSS code,
+        +images, and design are licensed according to the license purchased.
+        +Read about licensing details here: https://rhodecode.com/licenses
+        +
+        +
+                     GNU GENERAL PUBLIC LICENSE
+                        Version 3, 29 June 2007
+
+# Step 0: Last Known GPLv3'd version
+
++ Material in beta branch was thus considered for Step 1.
+
++ The v1.7.2 maintenance branch never received the license patch.
+
++ For Step 0, we took:
+
+        changeset:   4107:fc64cd9bb856
+        tag:         v1.7.2
+        user:        Marcin Kuzminski <marcin@python-works.com>
+        date:        Mon, 02 Sep 2013 09:49:53 -0500
 
 # Step 1: Extract New Python &amp; HTML
 
