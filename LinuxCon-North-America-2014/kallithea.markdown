@@ -85,7 +85,7 @@
 
 + A debate erupts about GPL compatible licensing.
 
-+ hg-app incorporates code from Mercurial:
++ hg-app is Based On (in the GPL sense) Mercurial:
       + Thus, in the view of most people, hg-app is based on Mercurial (in
         the copyright &amp; GPL sense).
 
