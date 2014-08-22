@@ -360,7 +360,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 #  Step 4: Beyond Reproach
 
-+ Even if upstream violated the GPLv3:
++ Even if the Company violated the GPLv3:
       + it doesn't mean we have permission to do so.
       + as a large copyright holder, the Company could enforce against the fork.
 
