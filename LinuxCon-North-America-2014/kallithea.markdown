@@ -243,6 +243,10 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
       + Rebrand to a new name.
       + Ensure &ldquo;beyond reproach&rdquo; compliance.
 
++ Who did it?
+      + Primarily the work of me (paid by Conservancy) and one volunteer,
+        Mads Kiilerich.
+      + Many other volunteers assisted, such as Sean Farley and Andrew Shadura.
 
 # Step 0: Last Known GPLv3'd version
 
