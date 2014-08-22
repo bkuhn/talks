@@ -301,6 +301,8 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 # Step 1: Example Command
 
+An example command for extracting patches from Company's repository:
+
       hg --cwd $RHODECODE_REPOSITORY diff -r 21af6c4eab3d -r 6177597791c2 \
          -I rhodecode/__init__.py \
          -I rhodecode/websetup.py \
