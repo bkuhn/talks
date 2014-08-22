@@ -323,7 +323,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
       + Vetted by me to verify it was just Python/HTML changes.
       + Edge cases discussed carefully with legal counsel.
 
-# Step 3: Rename
+# Step 2: Rename
 
 + Won't use the (potentially trademarked) brand name, &ldquo;RhodeCode&rdquo;
      + &hellip; other than in those ways third parties are already permitted to do so.
@@ -335,7 +335,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 > Kallithea, or  &Kappa;&alpha;&lambda;&lambda;&iota;&theta;&epsilon;&alpha;, is the name of a locality on the island of Rhodes, in Greece, which itself means &lsquo;the best view&rsquo;. Our Kallithea project helps developers get the best views of their project and its contributions so they can better collaborate together.
 
-# Step 3: Rename
+# Step 2: Rename
 
 + Problem: rhodecode_ was commonly used throughout the code.
 
@@ -346,7 +346,9 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
      + You have to make sure your replacements generate working code!
      + Ultimately 300 lines of shell commands were needed.
 
-# Step 3: Example Commmands
+# Step 2: Example Commands
+
+Example commands to do renaming:
 
     sed -i 's,setup-rhodecode,setup-db,g' */tests/scripts/create_rc.sh docs/*.rst setup.py
     sed -i 's,setup_rhodecode,setup_db,g' setup.py
@@ -362,7 +364,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
      hg mani | xargs sed -i -e 's,settings\['"'rhodecode_' + ,settings[,g" -e 's,\<rhodecode_\(title\|realm\|ga_code\|captcha_public_key\|captcha_private_key\|show_public_icon\|show_private_icon\|stylify_metatags\|repository_fields\|lightweight_journal\|dashboard_items\|admin_grid_items\|show_version\|use_gravatar\|gravatar_url\|clone_uri_tmpl\|update_url\|extras\)\>,\1,g'
      hg ci -m 'Drop rhodecode_ prefix for known setting names that are stored in kallithea_settings without prefix'
 
-#  Step 4: Beyond Reproach
+#  Step 3: Beyond Reproach
 
 + Even if the Company violated the GPLv3:
       + it doesn't mean we have permission to do so.
