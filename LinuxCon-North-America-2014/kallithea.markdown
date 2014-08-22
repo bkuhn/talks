@@ -386,8 +386,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 So, there's Javascript in this thing?
 
       $ hg clone -q https://kallithea-scm.org/repos/kallithea/
-      $ cd kallithea; hg update -C ffd45b185016
-      $ ls -1 rhodecode/public/js/
+      $ cd kallithea; hg locate -r ffd45b185016 'rhodecode/public/js/*'
       codemirror.js
       codemirror_loadmode.js
       excanvas.min.js
