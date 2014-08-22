@@ -555,6 +555,17 @@ From our LICENSE.md:
   upheld.
        + &amp; will do so yourself if needed.
 
+# Early Results: Success
+
++ There's now a self-hosting Kallithea System.
+
++ Kallithea's first release is in the next few days.
+
++ Kallithea supports both Git and Mercurial.
+
++ It's developed in the open, under GPLv3 (for sure) and welcomes
+  contributors on an equal basis.
+
 # More Info / Talk License
 
 <img align="right" src="cc-by-sa-4-0_88x31.png" />
