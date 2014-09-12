@@ -111,7 +111,7 @@
      + If Preston-Warner is discredited for other reasons, we should pounce.
      + I don't like acting like a politician, but we won't win if we don't.
      
-# Apache Software Foundation
+# Apache Software Foundation Today
 
 + If there going to say this &hellip;
     + &hellip; **why** are we being nice to them politically?
