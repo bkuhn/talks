@@ -255,7 +255,8 @@ licenses, are much more friendly for corporate use.
 # Logically Consistent Copyleft?
 
 + It's fundamentally hypocrisy to say you support copyleft but oppose GPL enforcement.  
-     + Yet, this is the **most common position by for-profit companies**.
+     + Yet, this is the **most common position by for-profit companies** &hellip;
+     + &hellip; even those that are seemingly pro-copyleft.
 
 # If It's Just a Symbol
 
