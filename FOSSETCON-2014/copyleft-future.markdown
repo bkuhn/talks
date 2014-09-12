@@ -203,6 +203,12 @@ licenses, are much more friendly for corporate use.
 
 + the &ldquo;embedded&rdquo; device, including mobile here.
 
+# So, raise your hands:
+
++ How many of you run LibreJS and/or NoScript browser plugins?
+
++ How many of you use Chromium or Chrome?
+
 # The Blurry Line of Javascript
 
 + Instantaneous installation of applications that looks like a page hit.
@@ -223,12 +229,6 @@ licenses, are much more friendly for corporate use.
  &mdash; Erik Meijer of Microsoft, on 5 July 2011.
 </p>
 </span>
-
-# So, raise your hands:
-
-+ How many of you run LibreJS and/or NoScript browser plugins?
-
-+ How many of you use Chromium?
 
 # Today's Developers: Children of Web
 
