@@ -654,7 +654,7 @@ Copyright &copy; 2014, Travis Burtrum<br/>
 
 + There's now a self-hosting Kallithea System.
 
-+ Kallithea's first release is in the next few days.
++ Kallithea 0.1 was released this morning!
 
 + Kallithea supports both Git and Mercurial.
 
