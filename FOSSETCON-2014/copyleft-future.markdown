@@ -110,7 +110,7 @@
 
 <p align="left">
 This is not just a theoretical concern. As aggressively as the BSA protects
-the interests of its commercial members, [GPL enforcers] protects the GPL
+the interests of its commercial members, [GPL enforcers] protect the GPL
 license in high-profile lawsuits against large corporations. &hellip; FSF
 &hellip; writes about their expansion of "active license enforcement.  So the
 cost of compliance with copyleft code can be even greater than the use of
