@@ -185,7 +185,7 @@ licenses, are much more friendly for corporate use.
 
 # The Blurry Line of Javascript
 
-+ Instantaneous install of applications that looks like a page hit.
++ Instantaneous installation of applications that looks like a page hit.
 
 + The blurring line of source to object code.
       + so subtle that few see it.
