@@ -185,7 +185,7 @@ licenses, are much more friendly for corporate use.
 
 + How many of you run LibreJS and/or NoScript browser plugins?
 
-+ How many of use Chromium?
++ How many of you use Chromium?
 
 # xdm, Solaris and NIS+
 
