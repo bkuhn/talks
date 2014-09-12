@@ -41,7 +41,7 @@
 
 + Microsoft &ldquo;Shared Source&rdquo; anti-copyleft campaign.
 
-+ Brian Behlendorf of Apache Software Foundation stood up for copyleft.
++ Brian Behlendorf (then) President of Apache Software Foundation stood up for copyleft.
 
 + Would ASF do that today?
 
