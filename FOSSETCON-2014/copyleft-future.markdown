@@ -207,7 +207,7 @@ licenses, are much more friendly for corporate use.
 
 + The layers of proprietarization got thinner.
 
-# Today's Developers: Children of the Web
+# Today's Developers: Children of Web
 
 + You never have all the source &hellip;
 
