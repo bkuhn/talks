@@ -74,6 +74,18 @@
 + Take the exploitable parts and leaving the rest.
       + Ultimately, this is what Open Source is.   
 
+# Fundamental Assumption Remains
+
+<img align="right" src="breaking-bad_how-much-is-enough_scaled.jpg" width="600" height="338"/>
+
++ Generally speaking, everyone assumes:
+     + proprietary software is more lucrative than Free Software.
+
++ The veracity of this claim is immaterial.
+     + only the perception that it's true matters.
+
++ Companies therefore try to keep as much proprietary as they can.
+
 # Non-Copyleft Is Easier
 
 + If your priority is revenue, proprietary software is a better option.
