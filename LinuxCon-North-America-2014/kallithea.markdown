@@ -555,6 +555,85 @@ From our LICENSE.md:
     In compliance with GPLv3 the Corresponding Source for this Object Code is made
     available on [https://kallithea-scm.org/repos/mirror](https://kallithea-scm.org/repos/mirror).
 
+# Avoid Licensing Infractions
+
++ GPL has some minutia.
+
++ They are easily met.
+
++ But require a few items on checklists.
+
+# List of Copyright Notices
+
+<br/>
+
+> An interactive user interface displays "Appropriate Legal Notices" to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice
+
+<span class="fitonslide">
+<p align=right>
+&mdash; GPLv3&sect;0&para;6
+</p>
+</span>
+<hr/>
+> [5] d) If the work has interactive user interfaces, each must display     Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.
+<span class="fitonslide">
+<p align=right>
+&mdash; GPLv3&sect;5(d)
+</p>
+</span>
+
+# When the Original Code Did It &hellip;
+
++ Since RhodeCode had such page a notice displayed &hellip;
+
++ &hellip; Kallithea needs one too.
+
++ And it needs to be accurate.
+
++ Has CONTRIBUTORS file and about.html for interactive.
+
+# Kallithea's about.html
+
+<span class="verytiny">
+<p>Copyright &copy; 2010&ndash;2013, RhodeCode GmbH<br/>
+Copyright &copy; 2011&ndash;2014, Unity Technologies<br/>
+Copyright &copy; 2012, 2014, Andrew Shadura<br/>
+Copyright &copy; 2012, Augusto Herrmann<br/>
+Copyright &copy; 2012, Dan Sheridan<br/>
+Copyright &copy; 2012, 2014, Dominik Ruf<br/>
+Copyright &copy; 2012, Vincent Duvert<br/>
+Copyright &copy; 2011, Liad Shani<br/>
+Copyright &copy; 2013, Jonathan Sternberg<br/>
+Copyright &copy; 2011, Jason F. Harris<br/>
+Copyright &copy; 2011, Lorenzo M. Catucci<br/>
+Copyright &copy; 2013, Grzegorz Rożniecki<br/>
+Copyright &copy; 2011, Les Peabody<br/>
+Copyright &copy; 2011, Nicolas VINOT<br/>
+Copyright &copy; 2012, Indra Talip<br/>
+Copyright &copy; 2012, H Waldo G<br/>
+Copyright &copy; 2011, Aparkar<br/>
+Copyright &copy; 2013, Dennis Brakhane<br/>
+Copyright &copy; 2011, Matt Zuba<br/>
+Copyright &copy; 2014, Bradley M. Kuhn<br/>
+Copyright &copy; 2012&ndash;2013, xpol<br/>
+Copyright &copy; 2012, hppj<br/>
+Copyright &copy; 2013&ndash;2014, Takumi IINO<br/>
+Copyright &copy; 2011, Shawn K. O'Shea<br/>
+Copyright &copy; 2012, Tony Bussieres<br/>
+Copyright &copy; 2011, Simon Lopez<br/>
+Copyright &copy; 2012, mikespook<br/>
+Copyright &copy; 2012, nansenat16<br/>
+Copyright &copy; 2012, Zachary Auclair<br/>
+Copyright &copy; 2012, Raoul Thill<br/>
+Copyright &copy; 2011, Jared Bunting<br/>
+Copyright &copy; 2013, Magnus Ericmats<br/>
+Copyright &copy; 2010, Lukasz Balcerzak<br/>
+Copyright &copy; 2014, Sean Farley<br/>
+Copyright &copy; 2014, Martin Vium<br/>
+Copyright &copy; 2014, Daniel Anderson<br/>
+Copyright &copy; 2014, Travis Burtrum<br/>
+</p>
+
 # Lessons for New Communities
 
 <img align="right" src="stan-learned-something.jpg" width="224" height="316"/>
