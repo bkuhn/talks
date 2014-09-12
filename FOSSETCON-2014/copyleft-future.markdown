@@ -314,11 +314,12 @@ licenses, are much more friendly for corporate use.
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
-     - Conservancy: sfconservancy.org &amp; @conservancy
-     - Me: faif.us, ebb.org/bkuhn &amp; @bkuhn (identi.ca)
-     - GPL violations: &lt;compliance@sfconservancy.org&gt;
-     - Slides: ebb.org/bkuhn/talks &amp; gitorious.org/bkuhn/talks (source)
-     - DONATE: http://sfconservancy.org/donate/
+     - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; [@conservancy](https://twitter.com/conservancy/)
+     - A Book I helped write: [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf) is available.
+     - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
+     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/LinuxCon-North-America-2014/kallithea.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:LinuxCon-North-America-2014) (source)
+     - DONATE: [https://sfconservancy.org/donate/](https://sfconservancy.org/donate/)
+     - Sign Up Today as part of the [*GPL Compliance Project for Linux Developers*](https://sfconservancy.org/linux-compliance/).
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011, 2012, 2013, 2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
