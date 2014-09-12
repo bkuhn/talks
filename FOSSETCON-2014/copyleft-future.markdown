@@ -264,7 +264,7 @@ licenses, are much more friendly for corporate use.
      + why bother?
      + We might as well all be using the Apache license.  
 
-+ An unenforced copyleft is the functional equivalent to a permissive license.
++ An unenforced copyleft is the functional equivalent to a non-copyleft license.
 
 <hr/>
 
