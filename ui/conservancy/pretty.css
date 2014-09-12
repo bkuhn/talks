@@ -56,6 +56,7 @@ div.long {font-size: 0.75em;}
   color: #005;}
 
 .fitonslide p { font: 71%/1em Helvetica, sans-serif }
+.verytiny p { font: 40%/1em Helvetica, sans-serif }
 
 .slide p cite {position: absolute; top: 2.5em; left: 1em; z-index: 1;
   margin: 0; padding: 5px 5px 5px 5px; white-space: nowrap;
