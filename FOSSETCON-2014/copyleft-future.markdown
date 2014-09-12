@@ -174,10 +174,10 @@ licenses, are much more friendly for corporate use.
       + We got everything from kernel to application API inside the VM servers.
       + They got everything else.
 
-+ Fortunately, the software got better overall.
++ Fortunately(?), the software got better overall.
       + &hellip; but that's not nearly enough for universal software freedom.
 
-# xdm, Solaris and NIS+
+# Old Days: xdm, Solaris and NIS+
 
 + I once chased a bug from xdm, down through NIS+ to the Solaris kernel
 
@@ -215,9 +215,10 @@ licenses, are much more friendly for corporate use.
 
 <hr/>
 
+<span class="verytiny">
+
 > JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
 
-<span class="fitonslide">
 <p align=right>
  &mdash; Erik Meijer of Microsoft, on 5 July 2011.
 </p>
@@ -311,7 +312,7 @@ licenses, are much more friendly for corporate use.
 + How do we guess which mobile applications have a long tail?
       + I wish I could give a formula for that. &#x2639;
 
-# Main Recommendation: 
+# Recommendations
 
 + We'll have to reestablished the copyleft of Linux and its value.
       + Enforcement is the only way to do it.
