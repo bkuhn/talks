@@ -191,7 +191,7 @@ licenses, are much more friendly for corporate use.
 
 + I once chased a bug from xdm, down through NIS+ to the Solaris kernel
 
-+ Sun told me my company was &ldquo;too small&rquo; to get it fixed.
++ Sun told me my company was &ldquo;too small&rdquo; to get it fixed.
 
 + It's one of the experienced that turned me into a Free Software zealot.
 
