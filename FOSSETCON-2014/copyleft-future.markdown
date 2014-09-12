@@ -177,38 +177,6 @@ licenses, are much more friendly for corporate use.
 + Fourtuately, the software got better overall.
       + &hellip; but that's not nearly enough for universal software freedom.
 
-# The Two New Games
-
-+ application delivery to the browser. 
-
-+ the &ldquo;embedded&rdquo; device, including mobile here.
-
-# The Blurry Line of Javascript
-
-+ Instantaneous installation of applications that looks like a page hit.
-
-+ The blurring line of source to object code.
-      + so subtle that few see it.
-      + Of course, RMS saw this way back when he wrote GPLv2: &ldquo;preferred form of the work for making modifications to it&rdquo;.
-
-+ &hellip; but many who do perceive it differently.
-
-***
-
-> JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
-
-<span class="fitonslide">
-<p align=right>
- &mdash; Erik Meijer of Microsoft, on 5 July 2011.
-</p>
-</span>
-
-# So, raise your hands:
-
-+ How many of you run LibreJS and/or NoScript browser plugins?
-
-+ How many of you use Chromium?
-
 # xdm, Solaris and NIS+
 
 + I once chased a bug from xdm, down through NIS+ to the Solaris kernel
@@ -228,6 +196,38 @@ licenses, are much more friendly for corporate use.
 + All software got more complex.
 
 + The layers of proprietarization got thinner.
+
+# The Two New Games
+
++ application delivery to the browser. 
+
++ the &ldquo;embedded&rdquo; device, including mobile here.
+
+# The Blurry Line of Javascript
+
++ Instantaneous installation of applications that looks like a page hit.
+
++ The blurring line of source to object code.
+      + so subtle that few see it.
+      + Of course, RMS saw this way back when he wrote GPLv2: &ldquo;preferred form of the work for making modifications to it&rdquo;.
+
++ &hellip; but many who do perceive it differently.
+
+<hr/>
+
+> JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Erik Meijer of Microsoft, on 5 July 2011.
+</p>
+</span>
+
+# So, raise your hands:
+
++ How many of you run LibreJS and/or NoScript browser plugins?
+
++ How many of you use Chromium?
 
 # Today's Developers: Children of Web
 
@@ -298,12 +298,27 @@ licenses, are much more friendly for corporate use.
 </p>
 </span>
 
-# Enforcement, then start hacking
+# There's More To The Embedded Game
+
++ Even if we fully uphold Linux's copyleft, that doesn't win freedom
+  for embedded devices.
+
++ The *application* space on mobile is *just like Microsoft Windows*.
+      + It's marked the return of the boutique application software company. 
+      + Writing a single, special-purpose, proprietary app is profitable again.
+      + Fighting these entranced for-profit interests is a new ground war.
+
++ How do we guess which mobile applications have a long tail?
+      + I wish I could give a formula for that. &#x2639;
+
+# Main Recommendation: 
 
 + We'll have to reestablished the copyleft of Linux and its value.
       + Enforcement is the only way to do it.
+      + I've got that one covered.
 
-+ We'll need to **code**, **code**, **code** useful copylefted stuff.
++ But, We'll need to **code**, **code**, **code** useful copylefted stuff.
+      + Please write copylefted Android &amp; Web Apps! 
 
 + Old school copyleft hackers: go learn Node.js.
       + or whatever the kids are into.
@@ -322,7 +337,7 @@ licenses, are much more friendly for corporate use.
      - Sign Up Today as part of the [*GPL Compliance Project for Linux Developers*](https://sfconservancy.org/linux-compliance/).
 
 <span class="fitonslide">
-<p>Presentation and slides are: Copyright &copy; 2008, 2009, 2010, 2011, 2012, 2013, 2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
+<p>Presentation and slides are: Copyright &copy; 2008&ndash;2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
 <p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
 </p>
 </span>
