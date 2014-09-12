@@ -192,7 +192,7 @@
 
 + Conservancy had better options here, thanks to earlier GPL release &hellip;
      + &hellip; plus partial release of more recent code under GPL.
- 
+
 # A Complex License
 
 + The Company's final text of [their license](https://rhodecode.com/licenses)
