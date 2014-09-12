@@ -107,10 +107,6 @@
        use MIT&rdquo; [sic]
      * This is so transparently self-serving, yet it's widely accepted.
 
-+ Meanwhile, we gotta (sometimes) play same &ldquo;dirty&rdquo; politics they do.
-     + If Preston-Warner is discredited for other reasons, we should pounce.
-     + I don't like acting like a politician, but we won't win if we don't.
-     
 # Apache Software Foundation Today
 
 + If there going to say this &hellip;
