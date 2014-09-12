@@ -236,19 +236,31 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 
 # Making the Fork
 
-+ Thus begins: the hard work of a four step process:
-      + Find the last known version of the codebase without the new (invalid) text added.
-      + Extract useful patches of only Python code and HTML files from
++ Thus begins: the hard work of a five step process:
+      + 0: Conservancy's Evaluation Committee must decide to take project.
+      + 1: Find the last known version of the codebase without the new (invalid) text added.
+      + 2: Extract useful patches of only Python code and HTML files from
         post-license-change versions.
-      + Rebrand to a new name.
-      + Ensure &ldquo;beyond reproach&rdquo; compliance.
+      + 3: Rebrand to a new name.
+      + 4: Ensure &ldquo;beyond reproach&rdquo; compliance.
 
 + Who did it?
       + Primarily the work of me (paid by Conservancy) and one volunteer,
         Mads Kiilerich.
       + Many other volunteers assisted, such as Sean Farley and Andrew Shadura.
 
-# Step 0: Last Known GPLv3'd version
+# Step 0: Evaluation Committee Decision
+
++ If we weren't going to actively do Mercurial-centered enforcement.
+      + The project quickly was out of scope for Conservancy.
+
++ Conservancy's Evaluation Committee needed to evaluate Kallithea for
+membership.
+
++ Membership was offered, but with conditions:
+      + Which basically insisted on the specific steps we too to make the fork.
+
+# Step 1: Last Known GPLv3'd version
 
 + First step was easier than it looked.
 
@@ -277,20 +289,20 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
                      GNU GENERAL PUBLIC LICENSE
                         Version 3, 29 June 2007
 
-# Step 0: Last Known GPLv3'd version
+# Step 1: Last Known GPLv3'd version
 
 + Material in beta branch was thus considered for Step 1.
 
 + The v1.7.2 maintenance branch never received the license patch.
 
-+ For Step 0, we took:
++ For Step 1, we took:
 
         changeset:   4107:fc64cd9bb856
         tag:         v1.7.2
         user:        Marcin Kuzminski <marcin@python-works.com>
         date:        Mon, 02 Sep 2013 09:49:53 -0500
 
-# Step 1: Extract New Python &amp; HTML
+# Step 2: Extract New Python &amp; HTML
 
 + Even with hyper-conservative reading, Python code &amp; HTML are clearly GPLv3'd.
 
@@ -299,7 +311,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 + We wrote a shell script to rerun Mercurial commands and verified resulting
   repositories included only new changes to Python &amp; HTML files.
 
-# Step 1: Example Command
+# Step 2: Example Command
 
 An example command for extracting patches from Company's repository:
 
@@ -319,13 +331,13 @@ An example command for extracting patches from Company's repository:
          -I setup.py \
         | hg --cwd $KALLITHEA_REPOSITORY import - --no-commit
 
-# Step 1: Vetting
+# Step 2: Vetting
 
 + Output of each diff command (i.e., each patch):
       + Vetted by me to verify it was just Python/HTML changes.
       + Edge cases discussed carefully with legal counsel.
 
-# Step 2: Rename
+# Step 3: Rename
 
 + Won't use the (potentially trademarked) brand name, &ldquo;RhodeCode&rdquo;
      + &hellip; other than in those ways third parties are already permitted to do so.
@@ -337,7 +349,7 @@ An example command for extracting patches from Company's repository:
 
 > Kallithea, or  &Kappa;&alpha;&lambda;&lambda;&iota;&theta;&epsilon;&alpha;, is the name of a locality on the island of Rhodes, in Greece, which itself means &lsquo;the best view&rsquo;. Our Kallithea project helps developers get the best views of their project and its contributions so they can better collaborate together.
 
-# Step 2: Rename
+# Step 3: Rename
 
 + Problem: rhodecode_ was commonly used throughout the code.
 
@@ -348,7 +360,7 @@ An example command for extracting patches from Company's repository:
      + You have to make sure your replacements generate working code!
      + Ultimately 300 lines of shell commands were needed.
 
-# Step 2: Example Commands
+# Step 3: Example Commands
 
 Example commands to do renaming:
 
@@ -366,7 +378,7 @@ Example commands to do renaming:
      hg mani | xargs sed -i -e 's,settings\['"'rhodecode_' + ,settings[,g" -e 's,\<rhodecode_\(title\|realm\|ga_code\|captcha_public_key\|captcha_private_key\|show_public_icon\|show_private_icon\|stylify_metatags\|repository_fields\|lightweight_journal\|dashboard_items\|admin_grid_items\|show_version\|use_gravatar\|gravatar_url\|clone_uri_tmpl\|update_url\|extras\)\>,\1,g'
      hg ci -m 'Drop rhodecode_ prefix for known setting names that are stored in kallithea_settings without prefix'
 
-#  Step 3: Beyond Reproach
+#  Step 4: Beyond Reproach
 
 + Even if the Company violated the GPLv3:
       + it doesn't mean we have permission to do so.
