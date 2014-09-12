@@ -193,6 +193,16 @@ licenses, are much more friendly for corporate use.
 
 + &hellip; but many who do perceive it differently.
 
+***
+
+> JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Erik Meijer of Microsoft, on 5 July 2011.
+</p>
+</span>
+
 # So, raise your hands:
 
 + How many of you run LibreJS and/or NoScript browser plugins?
