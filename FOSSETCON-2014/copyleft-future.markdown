@@ -174,7 +174,7 @@ licenses, are much more friendly for corporate use.
       + We got everything from kernel to application API inside the VM servers.
       + They got everything else.
 
-+ Fourtuately, the software got better overall.
++ Fortunately, the software got better overall.
       + &hellip; but that's not nearly enough for universal software freedom.
 
 # xdm, Solaris and NIS+
