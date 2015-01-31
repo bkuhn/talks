@@ -1,6 +1,6 @@
 % Fork and Ignore: Fighting a GPL Violation By Coding Instead
 % Bradley M. Kuhn
-% Friday 22 August 2014
+% Saturday 31 January 2015
 
 # GPL Violations Differ
 
@@ -654,12 +654,15 @@ Copyright &copy; 2014, Travis Burtrum<br/>
 
 + There's now a self-hosting Kallithea System.
 
-+ Kallithea 0.1 was released this morning!
++ Kallithea remains under active development since its inception.
 
 + Kallithea supports both Git and Mercurial.
 
 + It's developed in the open, under GPLv3 (for sure) and welcomes
   contributors on an equal basis.
+
++ [forge.python.org](https://www.python.org/dev/peps/pep-0474/) will likely
+  be a Kallithea instance.
 
 # More Info / Talk License
 
@@ -675,7 +678,7 @@ Copyright &copy; 2014, Travis Burtrum<br/>
      - Sign Up Today as part of the [*GPL Compliance Project for Linux Developers*](https://sfconservancy.org/linux-compliance/).
 
 <span class="fitonslide">
-<p>Presentation and slides are: Copyright &copy; 2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
+<p>Presentation and slides are: Copyright &copy; 2014, 2015 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
 <p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
 </p>
 </span>
