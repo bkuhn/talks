@@ -150,7 +150,7 @@
 # &ldquo;Based on&rdquo; the earlier work
 
 + This codebase is, in Conservancy's view, GPL'd:
-     + first, it's based Mercurial.
+     + first, it's based on Mercurial.
      + second, some third-party authors contributed patches under GPL.
 
 + The Company just doesn't agree.
@@ -258,7 +258,7 @@ RhodeCode system is split-licensed and comprised of two parts:<br/><br/>
 membership.
 
 + Membership was offered, but with conditions:
-      + Which basically insisted on the specific steps we too to make the fork.
+      + Which basically insisted on the specific steps we took to make the fork.
 
 # Step 1: Last Known GPLv3'd version
 
@@ -584,7 +584,7 @@ From our LICENSE.md:
 
 # When the Original Code Did It &hellip;
 
-+ Since RhodeCode had such page a notice displayed &hellip;
++ Since RhodeCode had such page w/ a notice displayed &hellip;
 
 + &hellip; Kallithea needs one too.
 
