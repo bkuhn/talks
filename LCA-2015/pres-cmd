@@ -1,6 +1,6 @@
 #!/bin/sh
 
-talk=fossetcon-2014
+talk=plug-2015-03
 
 rsync -HavP ./  /home/pres/$talk/
 rm -rf /home/pres/$talk/ui

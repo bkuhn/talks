@@ -5,7 +5,7 @@
 
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=copyleft-future
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/FOSSETCON-2014/
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/LCA-2015
 endif 
 
 DO_INCREMENTAL_POINTS = -i -s
@@ -56,10 +56,10 @@ all:	$(PRESENTATION_BASE).html
 	$(FIG2DEV) -L pstex $< > $@
 
 $(PRESENTATION_BASE).tex: $(PDF_FIGS) $(PRESENTATION_BASE).markdown
-	$(PANDOC) -S -s -f markdown -t latex $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).tex
+	$(PANDOC) -S -s -f markdown   --latex-engine=xelatex -t latex $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).tex
 
 $(PRESENTATION_BASE).pdf: $(PRESENTATION_BASE).tex $(PDF_FIGS)
-	$(PANDOC) -S -s -f markdown -t latex $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).tex
+	$(PANDOC) -S -s -f markdown  --latex-engine=xelatex -t latex $(PRESENTATION_BASE).markdown -o $(PRESENTATION_BASE).tex
 	$(PDFLATEX)  $(PRESENTATION_BASE).tex
 	$(PDFLATEX)  $(PRESENTATION_BASE).tex
 
