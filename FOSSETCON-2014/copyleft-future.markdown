@@ -1,6 +1,6 @@
 % Considering the Future of Copyleft
 % Bradley M. Kuhn
-% Sunday 2 February 2014
+% Saturday 13 September 2014
 
 # Talking Politics and Faith
 
@@ -11,7 +11,7 @@
 + Fact is, anything worthwhile is mired in politics.
      + because reasonable, rational actors simply disagree on politics.
 
-+ Open Source and Free Software is a trecherous political system.
++ Open Source and Free Software is a treacherous political system.
      + &hellip; not often noticed because nearly all our politics are played by proxy.  
 
 # A Recitation of Faith
@@ -37,9 +37,11 @@
 
 <img src="mundie-behlendorf.jpg" align="right"  />
 
-+ OSCON 2001.
-
 + Microsoft &ldquo;Shared Source&rdquo; anti-copyleft campaign.
+
++ OSCON 2001: The Great Debate.
+
++ A Tim O'Reilly Meme-Control Production.
 
 + Brian Behlendorf (then) President of Apache Software Foundation stood up for copyleft.
 
@@ -50,12 +52,15 @@
 
 + In high school, I got beat up for being in the environmental club.
 
-+ We put old carboard boxes in the classrooms, and collected them every Friday.
++ We put old cardboard boxes in the classrooms, and collected them every Friday.
 
 + I doubt there are many schools that don't recycle their paper now.
       + on the surface, that's progress.
 
 # The Politics of Cooption
+
+<bra/>
+
 <img src="green-desk.png" align="right"  />
 
 + I just moved out of a cow-orking facility, called Green Desk.
@@ -100,16 +105,21 @@
 <img src="preston-werner.jpg" align="right"  />
 
 + Tom Preston-Werner
-     + yes, the &ldquo;open source almost everything guy&rdquo;
+     + Co-founder of GitHub
+     + The &ldquo;open source almost everything&rdquo; guy.
 
 + Claims at OSCON 2013:
      * &ldquo;The GPL is a license of restrictions; I don't like restrictions. just
        use MIT&rdquo; [sic]
-     * This is so transparently self-serving, yet it's widely accepted.
+     * So, is he saying Git's license (GPLv2) is too restrictive &amp; made
+       it impossible to start a business around it?
+     * Was he announcing GitHub would end support for Git and switch to SVN?
+
+* His position is transparently self-serving, yet it's widely accepted.
 
 # Apache Software Foundation Today
 
-+ If there going to say this &hellip;
++ If they're going to say this &hellip;
     + &hellip; **why** are we being nice to them politically?
 
 <hr/>
@@ -120,7 +130,7 @@
 This is not just a theoretical concern. As aggressively as the BSA protects
 the interests of its commercial members, [GPL enforcers] protect the GPL
 license in high-profile lawsuits against large corporations. &hellip; FSF
-&hellip; writes about their expansion of "active license enforcement.  So the
+&hellip; writes about their expansion of "active license enforcement".  So the
 cost of compliance with copyleft code can be even greater than the use of
 proprietary software, since an organization risks being forced to make the
 source code for their proprietary product public and available for anyone to
@@ -148,13 +158,17 @@ licenses, are much more friendly for corporate use.
 
 # Divide And Conquer
 
-+ Microsoft wasn't powerful enough to do what a thousand uncoordinated start-ups can.
++ Microsoft wasn't powerful enough to kill copyleft.
 
-+ This isn't a conspiracy; it's a sponteneous alignment of independant self-interest.
++ But a thousand uncoordinated start-ups &amp; other business interests can.
+
++ This isn't a conspiracy.
+
++ It's a spontaneous alignment of independent self-interest.
 
 # Those Who Forget the Past&hellip;
 
-+ Why is GNU/Linux preferred overwhealming for servers over the BSDs?
++ Why is GNU/Linux preferred overwhelming for servers over the BSDs?
       + BSDs have great code:
       + a few infrastructure pieces are essential: TCP/IP, ssh
 
@@ -166,7 +180,7 @@ licenses, are much more friendly for corporate use.
 
 # This Game Is Over
 
-+ Free Software played to stalemate with proprietary on the operating system.
++ Free Software played to stalemate with proprietary software on the operating system.
       + We got everything from kernel to application API inside the VM servers.
       + They got everything else.
 
@@ -213,11 +227,9 @@ licenses, are much more friendly for corporate use.
       + so subtle that few see it.
       + Of course, RMS saw this way back when he wrote GPLv2: &ldquo;preferred form of the work for making modifications to it&rdquo;.
 
-+ &hellip; but many who do perceive it differently.
-
 <hr/>
 
-<span class="verytiny">
+<span class="fitonslide">
 
 > JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
 
@@ -238,8 +250,8 @@ licenses, are much more friendly for corporate use.
       + b/c GPL is the ISC license of web applications.
 
 + These are also people who found the startups that hate copyleft.
-      + Their employers don't know they need copyleft.
-      + and these employers let you upstream a bit, after all.
+      + These employers let you upstream a bit, after all.
+      + it's not clear to employees why they'd need copyleft.
 
 # As the Web grows up
 
@@ -249,7 +261,6 @@ licenses, are much more friendly for corporate use.
 + Once you do that enough, you pine for copyleft.
 
 + Cooption will hopefully stop working.
-     + &hellip; but that may take a generation.
 
 + But that may take a generation, meanwhile &hellip;
 
@@ -263,6 +274,8 @@ licenses, are much more friendly for corporate use.
 + The cooption pushes from this side too.
 
 # Logically Consistent Copyleft?
+
+<br/>
 
 <img src="wonderful-life_george-clarence-wisper-at-bar.jpg" align="right"  />
 
@@ -337,3 +350,8 @@ licenses, are much more friendly for corporate use.
 <p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
 </p>
 </span>
+
+<!--  LocalWords:  O'Reilly Behlendorf ASF Cooption src png rdquo ldquo jpg
+ -->
+<!--  LocalWords:  mundie behlendorf OSCON img
+ -->
