@@ -117,7 +117,7 @@
 
 * His position is transparently self-serving, yet it's widely accepted.
 
-# Apache Software Foundation Today
+# Apache Software Foundation Last Month
 
 + If they're going to say this &hellip;
     + &hellip; **why** are we being nice to them politically?
@@ -151,8 +151,42 @@ licenses, are much more friendly for corporate use.
 
 <p align="right">
  &mdash; <a
+ href="http://web.archive.org/web/20140714030041/https://www.openoffice.org/why/why_compliance.html">Apache
+ Software Foundation, *Compliance Costs and the Apache License* (until 2015-02)</a>
+</p>
+</span>
+
+# Apache Software Foundation Today
+
++ If they're &ldquo;play nice&rdquo; text after I complain says **this** &hellip;
+    + &hellip; **we really** shouldn't be nice to them politically!
+
+<hr/>
+
+<span class="fitonslide">
+
+<p align="left">
+
+In order to avoid the expense and penalties of an audit from the Business
+Software Alliance (BSA), including those originated by employees, turning in
+their employer for software piracy, organizations are increasingly adopting
+Software Asset Management (SAM) practices to ensure that their use of
+commercial software complies with the applicable licenses. These practices
+generally include employee education along with the purchase of software to
+track licenses and software use within the organization. &hellip;
+
+The Apache License has no propagative (or "copyleft", or "viral") effects,
+i.e., it does not influence the license of the derivative product: if you
+base your product on source code distributed under the Apache License you
+have no legal obligation of releasing the entire source code tree.&hellip;
+
+The Apache License thus reduces the need for employee education, the
+frequency of internal audits, the intensity of internal audits.</p>
+
+<p align="right">
+ &mdash; <a
  href="https://www.openoffice.org/why/why_compliance.html">Apache
- Software Foundation, *Compliance Costs and the Apache License*</a>
+ Software Foundation, *Compliance Costs and the Apache License* (since 2015-02)</a>
 </p>
 </span>
 
