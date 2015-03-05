@@ -371,6 +371,8 @@ frequency of internal audits, the intensity of internal audits.</p>
       + And tell your employer you want to keep your copyrights, &
       + copyleft your stuff: with Affero GPL.
 
++ Oh, and don't go to OSCON keynotes anymore!
+
 # More Info / Talk License
 
 + URLs / Social Networking / Email:
