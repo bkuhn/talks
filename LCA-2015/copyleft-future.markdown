@@ -1,6 +1,6 @@
 % Considering the Future of Copyleft
 % Bradley M. Kuhn
-% Saturday 13 September 2014
+%  Thursday 15 January 2015
 
 # Talking Politics and Faith
 
@@ -63,8 +63,8 @@
 
 <img src="green-desk.png" align="right"  />
 
-+ I just moved out of a cow-orking facility, called Green Desk.
-       + marketing: cow-orking that's good for the environment.
++ 2010-2013, Conservancy used a coworking facility, called Green Desk.
+       + marketing: coworking that's good for the environment.
 
 + They didn't even recycle the paper there: just bins to pretend.
       + It's not the first office I've worked in like this.
@@ -77,7 +77,7 @@
       + &hellip; lip service works better than getting it right.
 
 + Take the exploitable parts and leaving the rest.
-      + Ultimately, this is what Open Source is.   
+      + Ultimately, Open Source itself *is* Open Washing.
 
 # Fundamental Assumption Remains
 
@@ -162,7 +162,7 @@ licenses, are much more friendly for corporate use.
 
 + But a thousand uncoordinated start-ups &amp; other business interests can.
 
-+ This isn't a conspiracy.
++ This isn't a conspiracy:
 
 + It's a spontaneous alignment of independent self-interest.
 
@@ -181,7 +181,7 @@ licenses, are much more friendly for corporate use.
 # This Game Is Over
 
 + Free Software played to stalemate with proprietary software on the operating system.
-      + We got everything from kernel to application API inside the VM servers.
+      + We got everything from (most of the) kernel to application API inside the VM servers.
       + They got everything else.
 
 + Fortunately(?), the software got better overall.
@@ -203,15 +203,15 @@ licenses, are much more friendly for corporate use.
 
 + Meanwhile: even proprietary software got better.
 
-+ All software got more complex.
++ But all software got more complex.
 
 + The layers of proprietarization got thinner.
 
-# The Two New Games
+# The Two New Fronts
 
 + application delivery to the browser. 
 
-+ the &ldquo;embedded&rdquo; device, including mobile here.
++ the &ldquo;embedded&rdquo; device (including mobile here).
 
 # So, raise your hands:
 
@@ -246,7 +246,7 @@ licenses, are much more friendly for corporate use.
 
 + Javascript developers don't consider idea they'd have &ldquo;all the source&rdquo; on hand.
 
-+ &amp; they didn't have a copyleft license anyway ...
++ &amp; they didn't have a copyleft license anyway &hellip;
       + b/c GPL is the ISC license of web applications.
 
 + These are also people who found the startups that hate copyleft.
@@ -269,7 +269,7 @@ licenses, are much more friendly for corporate use.
 + Slowly, the cooption leaves the only essential GPL'd program as Linux.
 
 + Copyleft works only when we have code that companies can't live without.
-      + And if GPL isn't treated like GPL, it doesn't work either.
+      + &amp; if GPL isn't treated like GPL, it doesn't work either.
 
 + The cooption pushes from this side too.
 
@@ -308,12 +308,12 @@ licenses, are much more friendly for corporate use.
 </p>
 </span>
 
-# There's More To The Embedded Game
+# Embedded Freedom is Complex
 
 + Even if we fully uphold Linux's copyleft, that doesn't win freedom
   for embedded devices.
 
-+ The *application* space on mobile is *just like Microsoft Windows*.
++ The *application* space on mobile is **just like* Microsoft Windows'.
       + It's marked the return of the boutique application software company. 
       + Writing a single, special-purpose, proprietary app is profitable again.
       + Fighting these entranced for-profit interests is a new ground war.
@@ -325,9 +325,10 @@ licenses, are much more friendly for corporate use.
 
 + We'll have to reestablished the copyleft of Linux and its value.
       + Enforcement is the only way to do it.
-      + I've got that one covered.
+      + Conservancy **will** do that work for the community.
+      + Help us by supporting Conservancy when we ask.
 
-+ But, We'll need to **code**, **code**, **code** useful copylefted stuff.
++ But, we'll need to **code**, **code**, **code** useful copylefted stuff.
       + Please write copylefted Android &amp; Web Apps! 
 
 + Old school copyleft hackers: go learn Node.js.
@@ -343,7 +344,7 @@ licenses, are much more friendly for corporate use.
      - A Book I helped write: [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf) is available.
      - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
      - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/LinuxCon-North-America-2014/kallithea.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:LinuxCon-North-America-2014) (source)
-     - DONATE: [https://sfconservancy.org/donate/](https://sfconservancy.org/donate/)
+     - *Support Conservancy*: [https://sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2008&ndash;2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
