@@ -358,8 +358,8 @@ frequency of internal audits, the intensity of internal audits.
 
 + We'll have to reestablished the copyleft of Linux and its value.
       + Enforcement is the only way to do it.
-      + Conservancy **will** do that work for the community.
-      + Help us by supporting Conservancy when we ask.
+      + Conservancy **is** doing that work for the community.
+      + [Supporting Conservancy](https://sfconservancy.org/supporter/) today in the VMware lawsuit we're funding.
 
 + But, we'll need to **code**, **code**, **code** useful copylefted stuff.
       + Please write copylefted Android &amp; Web Apps! 
