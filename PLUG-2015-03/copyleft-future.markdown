@@ -382,7 +382,7 @@ frequency of internal audits, the intensity of internal audits.
      - *Support Conservancy*: [https://sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
 
 <span class="fitonslide">
-<p>Presentation and slides are: Copyright &copy; 2008&ndash;2014 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
+<p>Presentation and slides are: Copyright &copy; 2008&ndash;2015 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
 <p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
 </p>
 </span>
