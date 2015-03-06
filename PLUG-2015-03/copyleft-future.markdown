@@ -171,9 +171,7 @@ Software Alliance (BSA), including those originated by employees, turning in
 their employer for software piracy, organizations are increasingly adopting
 Software Asset Management (SAM) practices to ensure that their use of
 commercial software complies with the applicable licenses. These practices
-generally include employee education along with the purchase of software to
-track licenses and software use within the organization. &hellip;
-
+generally include employee education &hellip;
 The Apache License has no propagative (or "copyleft", or "viral") effects,
 i.e., it does not influence the license of the derivative product: if you
 base your product on source code distributed under the Apache License you
