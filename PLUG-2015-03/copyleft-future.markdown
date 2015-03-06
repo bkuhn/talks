@@ -166,7 +166,6 @@ licenses, are much more friendly for corporate use.
 <span class="fitonslide">
 
 <p align="left">
-
 In order to avoid the expense and penalties of an audit from the Business
 Software Alliance (BSA), including those originated by employees, turning in
 their employer for software piracy, organizations are increasingly adopting
@@ -179,9 +178,9 @@ The Apache License has no propagative (or "copyleft", or "viral") effects,
 i.e., it does not influence the license of the derivative product: if you
 base your product on source code distributed under the Apache License you
 have no legal obligation of releasing the entire source code tree.&hellip;
-
 The Apache License thus reduces the need for employee education, the
-frequency of internal audits, the intensity of internal audits.</p>
+frequency of internal audits, the intensity of internal audits.
+</p>
 
 <p align="right">
  &mdash; <a
