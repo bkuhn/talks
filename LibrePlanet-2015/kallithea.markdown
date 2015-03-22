@@ -1,6 +1,6 @@
 % Fork and Ignore: Fighting a GPL Violation By Coding Instead
 % Bradley M. Kuhn
-% Saturday 31 January 2015
+% Sunday 22 March 2015
 
 # GPL Violations Differ
 
