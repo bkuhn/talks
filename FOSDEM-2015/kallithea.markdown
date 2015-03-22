@@ -264,7 +264,7 @@ membership.
 
 + First step was easier than it looked.
 
-+ Beta branch got new license in early August 2013:
++ Beta branch changed to new &ldquo;license&rdquo; in early August 2013:
 
         changeset:   4466:66aad5f0a38e
         branch:      beta
@@ -291,7 +291,7 @@ membership.
 
 # Step 1: Last Known GPLv3'd version
 
-+ Material in beta branch was thus considered for Step 1.
++ Material in beta branch was thus considered for Step 2.
 
 + The v1.7.2 maintenance branch never received the license patch.
 
@@ -356,7 +356,7 @@ An example command for extracting patches from Company's repository:
 + Hyper-conservative approach requires removal.
      + This is of course mostly functional use, so perhaps unnecessary.
 
-+ Obvious sed/perl scripts require care:
++ Obvious sed &amp; Perl scripts require care:
      + You have to make sure your replacements generate working code!
      + Ultimately 300 lines of shell commands were needed.
 
@@ -670,15 +670,41 @@ Copyright &copy; 2014, Travis Burtrum<br/>
 
 + URLs / Social Networking / Email:
      - [Kallithea Project: https://kallithea-scm.org](https://kallithea-scm.org).
-     - A Book I helped write: [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf) is available.
+     - [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](https://copyleft.org/guide) is available and welcomes contribution at [copyleft.org](https://copyleft.org).
      - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; [@conservancy](https://twitter.com/conservancy/)
      - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
      - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/LinuxCon-North-America-2014/kallithea.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:LinuxCon-North-America-2014) (source)
-     - DONATE: [https://sfconservancy.org/donate/](https://sfconservancy.org/donate/)
-     - Sign Up Today as part of the [*GPL Compliance Project for Linux Developers*](https://sfconservancy.org/linux-compliance/).
+     - SUPPORT Conservancy: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2014, 2015 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
 <p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
 </p>
 </span>
+
+<!--  LocalWords:  CCS ldquo rdquo img src jpg Codebase Bitbucket GitHub hg
+ -->
+<!--  LocalWords:  Phabricator GitLab Mercurial's relicenses RhodeCode vader
+ -->
+<!--  LocalWords:  RhodeCode's GmbH codebase GPL'd un relicense fitonslide
+ -->
+<!--  LocalWords:  mdash GPLv USL BSDi br CSS Rebrand Kiilerich Shadura fc
+ -->
+<!--  LocalWords:  Kallithea changeset cd bb Marcin Kuzminski Sep cwd af eab
+ -->
+<!--  LocalWords:  rhodecode init py config lsquo rsquo sed perl rst ci mani
+ -->
+<!--  LocalWords:  paster xargs kallithea websetup ga captcha stylify url js
+ -->
+<!--  LocalWords:  metatags gravatar uri tmpl Javascript ffd codemirror ef
+ -->
+<!--  LocalWords:  loadmode qgraph mergerly pyroutes CodeMirror sha fd cbf
+ -->
+<!--  LocalWords:  ee css whitespace md Marijn Haverbeke txt Codemirror's ln
+ -->
+<!--  LocalWords:  minified bytecode YUI yui hudson JumpToPageDropDown tmp
+ -->
+<!--  LocalWords:  dom dragdrop datasource autocomplete json datatable html
+ -->
+<!--  LocalWords:  paginator deploybuild Kallithea's
+ -->
