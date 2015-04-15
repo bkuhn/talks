@@ -184,16 +184,15 @@ copyright notice and this permission notice appear in all copies.
 + Linux is GPL'd, so policy prohibits proprietary modifications.
 
  
-
+# More Info / Talk License
 
 <img align="right" src="cc-by-sa-4-0_88x31.png" />
 
 + URLs / Social Networking / Email:
-     - [Kallithea Project: https://kallithea-scm.org](https://kallithea-scm.org).
      - [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](https://copyleft.org/guide) is available and welcomes contribution at [copyleft.org](https://copyleft.org).
      - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; [@conservancy](https://twitter.com/conservancy/)
      - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
-     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/LinuxCon-North-America-2014/kallithea.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:LinuxCon-North-America-2014) (source)
+     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/POSSCON-2015/licensing.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:POSSCON-2015) (source)
      - SUPPORT Conservancy: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
 
 <span class="fitonslide">
