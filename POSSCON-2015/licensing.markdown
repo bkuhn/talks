@@ -1,6 +1,20 @@
 % Software Freedom Licensing: What You Must Know
 % Bradley M. Kuhn
-% Wednesday 14 April 2015
+% Wednesday 15 April 2015
+
+# Angels Dancing on Heads of Pins
+
+<img src="richard-baxter.jpg" align="right"  />
+
+<br/>
+
+> And Schibler with others, maketh the difference of extension to be this, that Angels can contract their whole substance into one part of space, and therefore have not partes extra partes.  Whereupon it is that the Schoolmen have questioned how many Angels may fit upon the point of a Needle?
+
+<span class="fitonslide">
+<p align=right>
+ &mdash; Richard Baxter, *The Reasons of the Christian Religion*, 1667.
+</p>
+</span>
 
 # Licenses: Who Reads Them?
 
