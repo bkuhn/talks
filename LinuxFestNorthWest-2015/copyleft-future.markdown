@@ -323,6 +323,11 @@ frequency of internal audits, the intensity of internal audits.
 
 + The cooption pushes from this side too.
 
+# SPOILER ALERT!
+
+The next slide and my comments about it are a spoiler for a 1945 film
+entitled *It's a Wonderful Life!*.
+
 # Logically Consistent Copyleft?
 
 <br/>
