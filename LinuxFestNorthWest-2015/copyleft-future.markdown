@@ -2,6 +2,23 @@
 % Bradley M. Kuhn
 %  Saturday 25 April 2015
 
+# Are We A Community?
+
++ This **is**, simply stated, what corporate cooption brings.
+
++ Hopefully, I can explain why the LinuxFest has become a rare breed, and how
+  it relates to larger Free Software politics.
+
+<span class="fitonslide">
+
+> I've been coming to the event for 15 years.  There are so many other events now that charge so much for nothing.
+
+<p align=right>
+ &mdash; LFNW Attendee in BoF Atrium, 09:05 PDT, 25 April 2015
+</p>
+</span>
+
+
 # Talking Politics and Faith
 
 + My mother told me:
