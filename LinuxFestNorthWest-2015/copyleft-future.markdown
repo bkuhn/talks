@@ -368,7 +368,7 @@ entitled *It's a Wonderful Life!*.
 + Even if we fully uphold Linux's copyleft, that doesn't win freedom
   for embedded devices.
 
-+ The *application* space on mobile is **just like* Microsoft Windows'.
++ The *application* space on mobile is *just like* Microsoft Windows'.
       + It's marked the return of the boutique application software company. 
       + Writing a single, special-purpose, proprietary app is profitable again.
       + Fighting these entranced for-profit interests is a new ground war.
