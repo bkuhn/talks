@@ -9,6 +9,8 @@
 + Hopefully, I can explain why the LinuxFest has become a rare breed, and how
   it relates to larger Free Software politics.
 
+<hr/>
+
 <span class="fitonslide">
 
 > I've been coming to the event for 15 years.  There are so many other events now that charge so much for nothing.
