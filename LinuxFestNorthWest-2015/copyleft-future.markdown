@@ -391,9 +391,10 @@ frequency of internal audits, the intensity of internal audits.
 
 + URLs / Social Networking / Email:
      - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; [@conservancy](https://twitter.com/conservancy/)
-     - A Book I helped write: [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](http://ebb.org/bkuhn/writings/comprehensive-gpl-guide.pdf) is available.
-     - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
-     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/LinuxCon-North-America-2014/kallithea.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:LinuxCon-North-America-2014) (source)
+     - [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](https://copyleft.org/guide/) is available
+       (and welcomes contribution) at [copyleft.org](https://copyleft.org).
+     - Me: [faif.us (audcast)](http://faif.us) &amp; [ebb.org/bkuhn (website)](http://ebb.org/bkuhn)
+     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/LinuxFestNorthWest-2015/copyleft-future.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:LinuxFestNorthWest-2015) (source)
      - *Support Conservancy*: [https://sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
 
 <span class="fitonslide">
