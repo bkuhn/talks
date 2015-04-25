@@ -136,7 +136,7 @@
 
 * His position is transparently self-serving, yet it's widely accepted.
 
-# Apache Software Foundation until Feb. 2015
+# Apache Software Foundation Today
 
 + If they're going to say this &hellip;
     + &hellip; **why** are we being nice to them politically?
