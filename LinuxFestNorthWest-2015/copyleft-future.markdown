@@ -378,20 +378,17 @@ entitled *It's a Wonderful Life!*.
 
 # Recommendations
 
-+ We'll have to reestablished the copyleft of Linux and its value.
++ We must reestablish Linux's copyleft.
       + Enforcement is the only way to do it.
-      + Conservancy **is** doing that work for the community.
-      + Help by [supporting Conservancy](https://sfconservancy.org/supporter/) today in the [VMware lawsuit](https://sfconservancy.org/linux-compliance/vmware-lawsuit-appeal.html) we're funding.
-
-+ But, we'll need to **code**, **code**, **code** useful copylefted stuff.
+      + Conservancy does that work for the community.
+      + Help by [supporting Conservancy](https://sfconservancy.org/supporter/) today for the [VMware lawsuit](https://sfconservancy.org/linux-compliance/vmware-lawsuit-appeal.html) we're funding.
++ But, we'll need to **code** useful copylefted stuff.
       + Please write copylefted Android &amp; Web Apps! 
-
 + Old school copyleft hackers: go learn Node.js.
       + or whatever the kids are into.
-      + code on your own time.
-      + And tell your employer you want to keep your copyrights, &
+      + code on your own time &hellip;
+      + &hellip; tell your employer you want to keep your copyrights &hellip;
       + copyleft your stuff: with Affero GPL.
-
 + Oh, and don't go to OSCON keynotes anymore!
 
 # More Info / Talk License
