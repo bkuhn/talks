@@ -284,7 +284,7 @@ frequency of internal audits, the intensity of internal audits.
 > JavaScript is an assembly language. JavaScript + HTML is like a .NET assembly. The browser can execute it, but no human should care what's there.
 
 <p align=right>
- &mdash; Erik Meijer of Microsoft, [on 5 July 2011](http://web.archive.org/web/20110710112718/http://www.hanselman.com/blog/JavaScriptIsAssemblyLanguageForTheWebSematicMarkupIsDeadCleanVsMachinecodedHTML.aspx).
+ &mdash; [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_%28computer_scientist%29) of Microsoft, [on 5 July 2011](http://web.archive.org/web/20110710112718/http://www.hanselman.com/blog/JavaScriptIsAssemblyLanguageForTheWebSematicMarkupIsDeadCleanVsMachinecodedHTML.aspx).
 </p>
 </span>
 
