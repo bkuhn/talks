@@ -34,6 +34,8 @@
 
 # The Copyleft
 
+<hr/>
+
 > Copyleft is a strategy of utilizing copyright law to pursue the policy goal
 > of fostering and encouraging the equal and inalienable right to copy,
 > share, modify and improve creative works of authorship. Copyleft &hellip;
@@ -97,6 +99,8 @@ copyleft.org </p> </span>
 + In enforcement, we talk about &ldquo;the CCS adequately meeting GPL's requirements&rdquo;
 
 # How GPLv3 says CCS.
+
+<hr/>
 
 > The "Corresponding Source" for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.
 <span class="fitonslide">
@@ -221,7 +225,6 @@ copyleft.org </p> </span>
 
 + &hellip; then the script are a written explanation of what the human must
 do.
-
 
 <hr>
 > **the scripts** used to control compilation and installation of the executable.
