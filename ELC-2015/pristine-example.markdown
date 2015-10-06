@@ -374,6 +374,18 @@ A file called “README” at the top-level directory said:
 <p>Presentation and slides are: Copyright &copy; 2015 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
 </span>
 
+# Device Lock Down (Since you asked)
+
+<img src="elephant-in-the-room_400x415.jpg" align="right"  />
+
++ The only core difference between GPLv2 and GPLv3 with regard to
+  Installation Information is cryptographic lock-down.
+
++ If you didn't use cryptography to required signed binaries on installation,
+  then the user has a right under GPLv2 to install updated binaries.
+
++ If you *did* use cryptographic lock-down, then you need to provide all
+  installation information *except* the signing key.
 
 <!--  LocalWords:  CCS ldquo rdquo img src jpg Codebase Bitbucket GitHub hg
  -->
