@@ -61,7 +61,7 @@ copyleft.org </p> </span>
      + help distributor themselves join and contribute back to the upstream
        project.
 
-+ https://sfconservancy.org/linux-compliance/principles.html
++ [*The Principles of Community-Oriented GPL Enforcement* at sfconservancy.org/linux-compliance/principles.html](https://sfconservancy.org/linux-compliance/principles.html).
 
 # This Is Not About Upstream.
 
