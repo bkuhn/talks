@@ -111,9 +111,11 @@ copyleft.org </p> </span>
 
 # How GPLv2 says CCS.
 
+<hr/>
+
 > You may copy and distribute the Program (or a work based on it, under
-> Section 2) in object code or executable form under the terms of Sections 1
-> and 2 above provided that you &hellip; [a]ccompany it with the complete
+> &sect; 2) in object code or executable form under the terms of &sect; 1
+> &amp; 2 above provided that you &hellip; [a]ccompany it with the complete
 > corresponding machine-readable source code &hellip; The source code for a
 > work means the preferred form of the work for making modifications to it.
 > For an executable work, complete source code means all the source code for
@@ -174,7 +176,7 @@ copyleft.org </p> </span>
 + Thanks to ThinkPenguin, we finally have an example of beautiful embedded
   product compliance. 
 
-# N Lessons Learned from the Pristine Example
+# Lessons Learned from Pristine Example
 
 + The full paper for this talk is available online:
     + [compliance.guide/pristine-example](http://compliance.guide/pristine-example)
@@ -196,6 +198,21 @@ copyleft.org </p> </span>
 + Lawyers love the offer for source.
     + I don't think they are good lawyers if they do.
 
+<hr/>
+
+> Accompany [executable form] with a written offer, valid for at least three
+> ears, to give any third party, for a charge no more than your cost of
+> physically performing source distribution, a complete machine-readable copy
+> of the corresponding source code &hellip; on a medium customarily used for software
+> interchange
+
+<p align=right>
+&mdash; GPLv2&sect;3
+</p>
+</span>
+
+# Avoid the offer for source.
+
 + The offer creates ongoing obligations.
     + Often, an offer for sources telegraphs that compliance wasn't done.
 
@@ -206,9 +223,8 @@ copyleft.org </p> </span>
 > Accompany [executable form] with a written offer, valid for at least three
 > ears, to give any third party, for a charge no more than your cost of
 > physically performing source distribution, a complete machine-readable copy
-> of the corresponding source code, to be distributed under the terms of
-> Sections 1 and 2 above on a medium customarily used for software
-> interchange; or,
+> of the corresponding source code &hellip; on a medium customarily used for software
+> interchange
 
 <p align=right>
 &mdash; GPLv2&sect;3
@@ -236,25 +252,24 @@ do.
 
 # ThinkPengiun's README
 
-* A file called “README” at the top-level directory said:
+A file called “README” at the top-level directory said:
 
-> In order to build firmware images for your router, the following needs to be installed:
+    In order to build firmware images for your router, the following needs to be installed:
 
-> gcc, binutils, bzip2, flex, python, perl, make, find, grep, diff, unzip,
-> gawk, getopt, libz-dev and libc headers.
+    gcc, binutils, bzip2, flex, python, perl, make, find, grep, diff, unzip,
+    gawk, getopt, libz-dev and libc headers.
 
-> Please use “make menuconfig” to configure your appreciated configuration
-> for the toolchain and firmware. Please note that the default configuration
-> is what was used to build the firmware image for your router. It is advised
-> that you use this configuration.
+    Please use “make menuconfig” to configure your appreciated configuration
+    for the toolchain and firmware. Please note that the default configuration
+    is what was used to build the firmware image for your router. It is advised
+    that you use this configuration.
 
-> Simply running “make” will build your firmware. The build system will
-> download all sources, build the cross-compile toolchain, the kernel and all
-> chosen applications.
+    Simply running “make” will build your firmware. The build system will
+    download all sources, build the cross-compile toolchain, the kernel and all
+    chosen applications.
 
-> To build your own firmware you need to have access to a GNU/Linux system
-> (case-sensitive filesystem required).
-
+     To build your own firmware you need to have access to a GNU/Linux system
+     (case-sensitive filesystem required).
 
 # Make Sure It Builds
 
@@ -311,7 +326,7 @@ do.
 + It is required; don't skip this part.
 
 <hr>
-> the scripts used to control compilation and **installation** of the executable.
+> the scripts used to **control** compilation and **installation** of the executable.
 <p align=right>
 &mdash; GPLv2&sect;3
 </p>
@@ -327,6 +342,20 @@ do.
 
 + Just tell the user what they have to go buy for the install to work.
 
+# Summary
+
++ The GPL requires that the users can replace the copylefted binaries in your
+  embedded product with binaries they build.
+
++ The host system matters; just tell everyone what host system you use.
+  (&amp; don't be ashamed at how old it is.)
+
++ Explain details of the toolchain used.  Including it would be nice, but
+  ensure its compliance too.
+
++ Have a colleague not working on the project test the build and
+  installation.
+
 # More Info / Talk License
 
 <img align="right" src="cc-by-sa-4-0_88x31.png" />
@@ -335,16 +364,15 @@ do.
      - Pls. support Conservancy: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
      - If you hold copyrights in Linux, Debian, Samba, or BusyBox, you can
        join our enforcement coalition.  [Contact us!](https://sfconservancy.org/linux-compliance/about.html)
-     - [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](https://copyleft.org/guide) is available and welcomes contribution at [copyleft.org](https://copyleft.org).
-     - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; [@conservancy](https://twitter.com/conservancy/)
+     - [*The Guide*](https://copyleft.org/guide) is available &amp; [welcomes contributions at copyleft.org](https://copyleft.org).
+     - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; [@conservancy](https://twitter.com/conservancy/).
      - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
      - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/ELC-2015/pristine-example.html).
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2015 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
-<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
-</p>
 </span>
+
 
 <!--  LocalWords:  CCS ldquo rdquo img src jpg Codebase Bitbucket GitHub hg
  -->
