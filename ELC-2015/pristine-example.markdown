@@ -32,19 +32,19 @@
   generate and utilize binaries in the same manner that upstream did.
     + Even after modifying sources.
 
-# The Copyleft
+# Formal Definition of Copyleft
 
 <hr/>
 
 > Copyleft is a strategy of utilizing copyright law to pursue the policy goal
-> of fostering and encouraging the equal and inalienable right to copy,
-> share, modify and improve creative works of authorship. Copyleft &hellip;
+> of fostering &amp; encouraging the equal &amp; inalienable right to copy,
+> share, modify &amp; improve creative works of authorship. Copyleft &hellip;
 > describes any method that utilizes the copyright system to achieve the
 > aforementioned goal. Copyleft as a concept is usually implemented in the
-> details of a specific copyright license, such as &hellip; GPL &hellip;
-> Copyright holders of creative work can unilaterally implement these
-> licenses for their own works to build communities that collaboratively
-> share and improve those copylefted creative works.
+> details of a specific copyright license &hellip; Copyright holders of
+> creative work can unilaterally implement these licenses for their own works
+> to build communities that collaboratively share &amp; improve those
+> copylefted creative works.
 
 <span class="fitonslide"> <p align=right> &mdash; Definition of copyleft from
 copyleft.org </p> </span>
@@ -63,11 +63,11 @@ copyleft.org </p> </span>
 
 + [*The Principles of Community-Oriented GPL Enforcement* at sfconservancy.org/linux-compliance/principles.html](https://sfconservancy.org/linux-compliance/principles.html).
 
-# This Is Not About Upstream.
+# But It's Not *Really* About Upstream.
 
 + Nevertheless, enforcement pursues the  second goal indirectly.
 
-+ GPL Compliance is usually *not* about what to do upstream.
++ GPL compliance is usually *not* about what to do upstream.
 
 + GPL is a license made for the users, not the developers.
 
@@ -198,6 +198,8 @@ copyleft.org </p> </span>
 + Lawyers love the offer for source.
     + I don't think they are good lawyers if they do.
 
++ The offer creates ongoing obligations.
+
 <hr/>
 
 > Accompany [executable form] with a written offer, valid for at least three
@@ -213,8 +215,7 @@ copyleft.org </p> </span>
 
 # Avoid the offer for source.
 
-+ The offer creates ongoing obligations.
-    + Often, an offer for sources telegraphs that compliance wasn't done.
++ Often, an offer for sources telegraphs that compliance wasn't done.
 
 + If you must use the offer, assume it'll be requested on product launch day.
 
