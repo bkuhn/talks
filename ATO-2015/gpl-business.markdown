@@ -211,6 +211,17 @@ copyleft.org </p> </span>
 
 # Copyleft's Business Value Proposition
 
++ Security through obscurity is known not to work.
+    + Non-source code available software is therefore a security risk.
+
++ Enforced Copyleft **assures** that businesses have the source code of the
+software on which they rely.
+
++ Companies need not fear &ldquo;bad actor&rdquo; vendor (or acquisition of
+  their vendor by a bad actor).
+
+# Copyleft's Business Value Proposition
+
 + Non-copyleft licensing yields a prisoners' dilemma:
       + if the other guy releases code &amp; I don't, I benefit greatly.
       + if both of us do, we *both* get an equitable and pretty good benefit.
