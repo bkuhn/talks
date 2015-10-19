@@ -10,16 +10,16 @@
        a manner that advances common business interests of an industry.
 
 + Conservancy provides essential non-software-development work that Open
-  Source and Free Software projects needs.
+  Source and Free Software projects need.
 
 + This includes helping projects ensure their software licenses continue to
   benefit the public.
-     + which in concrete terms means acting to verify projects' FLOSS
+     + which, in concrete terms, means acting to verify projects' FLOSS
        licenses meet goals their policy.
   
 # Background
 
-+ My first few slides point may be too remedial for some of you.
++ My first few slides' points may be too remedial for some of you.
      + If so, take a 2 minute email break.
 
 
@@ -65,15 +65,16 @@ copyleft.org </p> </span>
 
 # But It's Not *Really* About Upstream.
 
-+ Nevertheless, enforcement pursues the  second goal indirectly.
++ Nevertheless, enforcement pursues that second goal only indirectly.
 
 + GPL compliance is usually *not* about what to do upstream.
 
 + GPL is a license made for the users, not the developers.
+     + Who, of course, may be future developers.
 
 + The main policy goal:
      + Ensure the user can exercise the freedom to modify the software &hellip;
-     + &hellip; in a manner that's allows real world, not theoretical 
+     + &hellip; in a manner that's real and concrete, not theoretical.
 
 # What's a GPL Violation?
 
@@ -203,7 +204,7 @@ copyleft.org </p> </span>
 <hr/>
 
 > Accompany [executable form] with a written offer, valid for at least three
-> ears, to give any third party, for a charge no more than your cost of
+> years, to give any third party, for a charge no more than your cost of
 > physically performing source distribution, a complete machine-readable copy
 > of the corresponding source code &hellip; on a medium customarily used for software
 > interchange
@@ -222,7 +223,7 @@ copyleft.org </p> </span>
 <hr/>
 
 > Accompany [executable form] with a written offer, valid for at least three
-> ears, to give any third party, for a charge no more than your cost of
+> years, to give any third party, for a charge no more than your cost of
 > physically performing source distribution, a complete machine-readable copy
 > of the corresponding source code &hellip; on a medium customarily used for software
 > interchange
@@ -298,7 +299,7 @@ A file called “README” at the top-level directory said:
 + The toolchain is rarely considered mandatory as part of &ldquo;the
   scripts&rdquo;.
 
-+ Admittedly, it doesn't *control* compilation, it *is* complication.
++ Admittedly, it doesn't *control* compilation, it *is* compilation.
 
 + The script here is explaining precisely what type of toolchain is needed.
 
