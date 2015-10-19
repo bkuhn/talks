@@ -93,7 +93,7 @@ a financial services professional association</p> </span>
 
 + Societal debate on the legitimacy &amp; efficacy of regulatory regimes is appropriate.
 
-+ Libertarians tend to believe they're rarely need.
++ Libertarians tend to believe they're rarely needed.
 
 + Most others &mdash; everywhere in the political sphere of thought &mdash;
   believe regulatory regimes (&amp; thus regulatory enforcement) are
@@ -190,7 +190,7 @@ copyleft.org </p> </span>
   entrusted with enforcement authority.
 
 + The force of law thus automatically deputizes the authors themselves to
-  ensure compliance.
+  assure compliance.
 
 + The beauty of the legal hack of copyleft goes beyond merely an innovative use of
   copyright law.
@@ -199,7 +199,7 @@ copyleft.org </p> </span>
 
 + Most businesses, particularly small ones, don't want anarcho-capitalism.
 
-+ Equitable regulations create equal playing field for innovators.
++ Equitable regulations create an equal playing field for innovators.
 
 + Fairly enforced copyleft licensing ensures equitable regulation of software
   freedom principles.
@@ -212,12 +212,12 @@ copyleft.org </p> </span>
 # Copyleft's Business Value Proposition
 
 + Security through obscurity is known not to work.
-    + Non-source code available software is therefore a security risk.
+    + Software without source code available is therefore a security risk.
 
 + Enforced Copyleft **assures** that businesses have the source code of the
 software on which they rely.
 
-+ Companies need not fear &ldquo;bad actor&rdquo; vendor (or acquisition of
++ Companies need not fear a &ldquo;bad actor&rdquo; vendor (or acquisition of
   their vendor by a bad actor).
 
 # Copyleft's Business Value Proposition
