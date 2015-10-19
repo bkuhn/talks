@@ -1,8 +1,8 @@
-% A Beautiful Build: Releasing Linux Source Correctly
+% GPL Enforcement Is Good For Business
 % Bradley M. Kuhn
 % Monday 19 October 2015
 
-# What Does Conservancy Do?
+# What Is Conservancy?
 
 + Software Freedom Conservancy is a charity based in the USA.
      + That means we're legally required to operate in the public good.
@@ -11,6 +11,8 @@
      + Even further contrast: Red Hat or GitHub, which are for-profit
        companies, that must act in interest of their shareholders.
      
+# What Does Conservancy Do?
+
 + Conservancy provides essential non-software-development work that Open
   Source and Free Software projects need.
 
@@ -89,15 +91,16 @@ a financial services professional association</p> </span>
 
 # Should This Exist?
 
-+ We have societal debate whether regulatory regimes should exist.
++ Societal debate on the legitimacy &amp; efficacy of regulatory regimes is appropriate.
 
 + Libertarians tend to believe they're rarely need.
 
-+ Most others on the political spectrum believe regulatory regimes, and
-  regulatory enforcement valuable.
++ Most others &mdash; everywhere in the political sphere of thought &mdash;
+  believe regulatory regimes (&amp; thus regulatory enforcement) are
+  valuable.
 
-+ Calling for end to copyleft is akin to calling to an end to regulatory
-  regime that ensures software freedom.
++ Encouraging avoidance of copyleft is akin to calling to an end to
+  regulatory regime that ensures software freedom.
 
 # Voluntary Compliance &amp; Non-Copyleft
 
@@ -105,34 +108,36 @@ a financial services professional association</p> </span>
   redistribute software.
 
 + These rights are not *guaranteed* by those licenses
-     + The licenses (and the communities) merely encourage, but don't
-       mandate, sharing of software.
+     + The licenses (&amp; the communities that use them) merely encourage,
+       but don't mandate, sharing of software.
 
-+ Non-copyleft is the Free Software licensing version of libertarianism:
++ Non-copyleft is the Open Source and Free Software licensing version of libertarianism:
      + for-profit companies exploit the resource &amp; are entrusted for
        voluntary giving back to the commons.
      + I find it almost anarcho-capitalist in practice.
 
-# A Regulatory Regime for Software Sharing
+# Software Sharing Regulatory Regime
 
 + Copyleft is admittedly a regulatory regime, designed to meet specific
   policy goals.
 
-+ If you're opposed to any regulatory regimes (e.g., if you think no one
-  should have the power to stop VW's emissions trick), then you should
-  certainly oppose copyleft.
++ If you're opposed to any regulatory regimes &hellip;
+     + (e.g., if you think no one but consumers' purchasing decisions should
+        have the power to stop VW's emissions trick) &hellip;
+     + then you should certainly oppose copyleft.
 
 + In my experience, most people prefer some regulatory regime to exist to
-  control areas of their interest and concern.
+  ensure the public good in areas their interest and concern.
      
 # The Copyleft
 
 + Linux and much Open Source and Free Software  use **copyleft** licenses.
     + The GNU General Public License (GPL) is the most common one.
 
-+ Copyleft, simply, seeks to give downstream users the means and capacity to
-  generate and utilize binaries in the same manner that upstream did.
-    + Even after modifying sources.
++ Copyleft seeks to give downstream users:
+    + the Complete, Corresponding Source code to the binaries.
+    + the means and capacity to   generate and utilize binaries in the same
+      manner that upstream did  (even if the sources have been further modified).
 
 # Formal Definition of Copyleft
 
@@ -145,8 +150,7 @@ a financial services professional association</p> </span>
 > aforementioned goal. Copyleft as a concept is usually implemented in the
 > details of a specific copyright license &hellip; Copyright holders of
 > creative work can unilaterally implement these licenses for their own works
-> to build communities that collaboratively share &amp; improve those
-> copylefted creative works.
+> to build communities that collaboratively share &amp; improve [them].
 
 <span class="fitonslide"> <p align=right> &mdash; Definition of copyleft from
 copyleft.org </p> </span>
@@ -163,20 +167,7 @@ copyleft.org </p> </span>
      + help distributor themselves join and contribute back to the upstream
        project.
 
-+ [*The Principles of Community-Oriented GPL Enforcement* at sfconservancy.org/linux-compliance/principles.html](https://sfconservancy.org/linux-compliance/principles.html).
-
-# But It's Not *Really* About Upstream.
-
-+ Nevertheless, enforcement pursues that second goal only indirectly.
-
-+ GPL compliance is usually *not* about what to do upstream.
-
-+ GPL is a license made for the users, not the developers.
-     + Who, of course, may be future developers.
-
-+ The main policy goal:
-     + Ensure the user can exercise the freedom to modify the software &hellip;
-     + &hellip; in a manner that's real and concrete, not theoretical.
++ *The Principles of Community-Oriented GPL Enforcement* at [sfconservancy.org/linux-compliance/principles.html](https://sfconservancy.org/linux-compliance/principles.html).
 
 # What's a GPL Violation?
 
@@ -193,7 +184,7 @@ copyleft.org </p> </span>
 
 # Who Are the Regulators?
 
-+ Copyleft is a community-organized regulatory regime.
++ Copyleft has a community-organized regulatory regime.
 
 + The authors of the software (i.e., copyright holders) are automatically
   entrusted with enforcement authority.
@@ -201,55 +192,91 @@ copyleft.org </p> </span>
 + The force of law thus automatically deputizes the authors themselves to
   ensure compliance.
 
-+ The beauty of the legal hack of copyleft goes beyond merely creative use of
-  copyright.
++ The beauty of the legal hack of copyleft goes beyond merely an innovative use of
+  copyright law.
 
-# Copyleft Value Proposition for Businesses
+# Copyleft's Business Value Proposition
 
 + Most businesses, particularly small ones, don't want anarcho-capitalism.
 
 + Equitable regulations create equal playing field for innovators.
 
-+ Fairly enforced copyleft licensing ensures equitable regulation software
++ Fairly enforced copyleft licensing ensures equitable regulation of software
   freedom principles.
 
-+ Copyleft availability limits first movers' advantage; allows immediate
++ Copyleft availability limits first mover's advantage; allows immediate
   leveraging of new innovations.
 
-+ Linux adoption in Android mobile devices is an excellent example.
++ Example: Linux adoption in Android mobile devices.
 
-# Copyleft Value Proposition for Businesses
+# Copyleft's Business Value Proposition
 
 + Non-copyleft licensing yields a prisoners' dilemma:
       + if the other guy releases code &amp; I don't, I benefit greatly.
-      + if both of us do, we both get maximal benefit.
+      + if both of us do, we *both* get an equitable and pretty good benefit.
 
-+ Copyleft licensing &amp; its enforcement creates regulatory process that
++ Copyleft licensing &amp; its enforcement creates a regulatory process that
   assures the optimal outcome for everyone.
 
 
 # HP Knows This
 
-<img height="600" width="399" alight="right" src="linxcon-fink.jpg" align="right"  />
+<img border="10" height="600" width="399" alight="right" src="linuxcon-fink.jpg" align="right"  />
 
-+ Martin Fink, CTO of HP, said at LinuxCon Europe earlier this month:
-    + &ldquo;I'm calling out that you should change your default to a
-      copyleft license like the GPL.&ldquo; Copyleft is good, he added;
-      &ldquo;copyleft is what enables community&rdquo;
-    +  &ldquo;But I hope that with some more education, people will see the self-governing, overhead-avoiding nature of copyleft, and we can get the pendulum to swing back to copyleft as the industry default.&rdquo;
-    + &ldquo;All of you are enabled to change things. You can take an
-      Apache-licensed project and go make a GPL version of it. Some of you
-      will start new projects. When you do that, start them with the
-      GPL.&rdquo;
+Martin Fink, CTO of HP, said at LinuxCon Europe said earlier this month.
 
-+ He says this *despite* HP's heavy investment in Apache-licensed projects like OpenStack.
+# HP Says: Copyleft Enables Community
+
+<img height="600" width="399" alight="right" src="linuxcon-fink.jpg" align="right"  />
+
+> I'm calling out that you should change your default to a
+> copyleft license like the GPL. &hellip; Copyleft is good &hellip;
+> copyleft is what enables community.
 
 <hr/>
 
 <span class="fitonslide"> <p align=right>
-Source: <a href="https://lwn.net/SubscriberLink/660428/54a3a2177a1179e2/"><cite>Linux Weekly News</cite></a>
+&mdash; Martin Fink, 7 October 2015 as quoted in <a href="https://lwn.net/SubscriberLink/660428/54a3a2177a1179e2/"><em>Linux Weekly News</em></a>
 </p>
 </span>
+
+# HP Says: Copyleft Avoids Overhead
+
+<img border="10" height="600" width="399" alight="right" src="linuxcon-fink.jpg" align="right"  />
+
+> &hellip; but I hope that with some more education, people will see the
+> self-governing, overhead-avoiding nature of copyleft, and we can get the
+> pendulum to swing back to copyleft as the industry default
+
+<hr/>
+
+<span class="fitonslide"> <p align=right>
+&mdash; Martin Fink, 7 October 2015 as quoted in <a href="https://lwn.net/SubscriberLink/660428/54a3a2177a1179e2/"><em>Linux Weekly News</em></a>
+</p>
+</span>
+
+# HP Says: Fork Apache-licensed code Under GPL 
+
+<img border="10" height="600" width="399" alight="right" src="linuxcon-fink.jpg" align="right"  />
+
+> &hellip; All of you are enabled to change things. You can take an
+> Apache-licensed project and go make a GPL version of it. Some of you
+> will start new projects. When you do that, start them with the
+> GPL.
+
+
+<hr/>
+
+<span class="fitonslide"> <p align=right>
+&mdash; Martin Fink, 7 October 2015 as quoted in <a href="https://lwn.net/SubscriberLink/660428/54a3a2177a1179e2/"><em>Linux Weekly News</em></a>
+</p>
+</span>
+
+# HP Knows This
+
+<img height="600" width="399" alight="right" src="linuxcon-fink.jpg" align="right"  />
+
+He says this *despite* HP's heavy investment in Apache-licensed projects like OpenStack.
 
 # If It's Just a Symbol &hellip;
 
@@ -258,6 +285,9 @@ Source: <a href="https://lwn.net/SubscriberLink/660428/54a3a2177a1179e2/"><cite>
      + We might as well all be using the Apache license.  
 
 + An unenforced copyleft is the functional equivalent to a non-copyleft license.
+
++ Enforcement is the only process to assure the benefits of copyleft.
+     + individuals actors can ignore its requirements if no one watches &amp; regulates.
 
 <hr/>
 
@@ -271,16 +301,18 @@ Source: <a href="https://lwn.net/SubscriberLink/660428/54a3a2177a1179e2/"><cite>
 
 # Enforcement Must Not Be Corrupt
 
-+ Enforcement is the only process to assure the benefits of copyleft.
-     + individuals actors can ignore its requirements if no one watches &amp; regulates.
++ Thus, enforcement is necessary for the regulatory regime of copyleft to
+  function.
 
-+ We must learn from the mistakes of other regulatory regimes?
++ We must however learn from the mistakes of other regulatory regimes.
 
 #  Anyone Know Who This Is?
 
-<img height="600" width="399" alight="right" src="linxcon-fink.jpg" align="right"  />
+<img height="636" width="500" alight="center" src="carmen-segarra.jpg" align="right"  />
 
 # Banking Regulation Failures
+
+<img height="636" width="500" alight="center" src="carmen-segarra.jpg" align="right"  />
 
 + Carmen Segarra was a bank examiner for the Federal Reserve in New York who,
   in 2012, started secretly recording the cosy relationship between federal
@@ -288,6 +320,10 @@ Source: <a href="https://lwn.net/SubscriberLink/660428/54a3a2177a1179e2/"><cite>
 
 + [*This American Life*, Episode 536](http://www.thisamericanlife.org/radio-archives/episode/536/the-secret-recordings-of-carmen-segarra)
 covered her work in detail.
+
+# Avoiding Regulatory Regime Failure
+
+<img height="636" width="500" alight="center" src="carmen-segarra.jpg" align="right"  />
 
 + Key lesson learned:
        + the free flow of staff &amp; relationship-building between the
@@ -305,17 +341,26 @@ covered her work in detail.
       + scare companies about copyleft software adoption.
       + charge huge fees in an attempt to &ldquo;get their client off&rdquo;
         when they fail to meet copyleft terms.
-
+      + Outspend the regulators by burying us in specious legal arguments
+        &amp; political dirty tricks.
+ 
 # The Compliance Industrial Complex
 
-FIXME: VW picture
+<img height="536" width="428" alight="right" src="VW-law-firm-cartoon.jpg" align="right"  />
 
-+ The existing of this compliance industrial complex has made copyleft
++ The compliance industrial complex has made copyleft
   enforcement amazingly expensive.
-      + because we aren't a governmental agency, we have no easy source of funding.
+      + Because we aren't a governmental agency, we have no easy source of funding.
 
-+ Instead, Conservancy is a charity, supported by the public, to do the
-  public good.
++ Instead, Conservancy is a 501(c)(3) charity, financially supported by the public, to
+  do the public good.
+
+<hr/>
+<span class="fitonslide">
+<p align=right>
+(Cartoon by Matt of <em>The Telegraph</em>)
+</p>
+</span>
 
 # Who Watches the Watchers?
 
@@ -343,6 +388,10 @@ FIXME: VW picture
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2015 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
+<p>Some images included herein are &copy;'ed by others. I believe my use of
+those images is fair use under USA &copy; law.  However, I suggest you remove
+such images if you redistribute these slides under CC By-SA 4.0.
+</p>
 </span>
 
 
