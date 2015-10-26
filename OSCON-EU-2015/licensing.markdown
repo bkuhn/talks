@@ -89,17 +89,17 @@
 
 + But there are more policy issues to consider.
 
-# Did You File Your 1040 Today?
+# Is Policy Boring?
 
 + Some people find software licensing a boring topic:
-     + but most people find the USA tax code even more boring.
+     + but most people find other policy debates, such as tax policy, even more boring.
 
-+ I find both fascinating:
++ I find all of it fascinating:
      + Ultimately, these codes implement policy.
 
 # Tax Policy
 
-+ What Is a Tax Write-Off?
++ What Is a Tax Write-Off (deduction)?
       + It's a government incentive to encourage certain behavior.
 
 + What Is a Tax Penalty?
