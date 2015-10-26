@@ -200,10 +200,10 @@ copyright notice and this permission notice appear in all copies.
 
 + URLs / Social Networking / Email:
      - [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](https://copyleft.org/guide) is available and welcomes contribution at [copyleft.org](https://copyleft.org).
-     - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; [@conservancy](https://twitter.com/conservancy/)
+     - Conservancy: [@conservancy](https://twitter.com/conservancy/) &amp; [sfconservancy.org](https://sfconservancy.org/)
      - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
-     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/POSSCON-2015/licensing.html) &amp; [gitorious.org/bkuhn/talks](https://gitorious.org/bkuhn/talks/source/master:POSSCON-2015) (source)
-     - SUPPORT Conservancy: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
+     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/OSCON-EU-2015/licensing.html)
+     - Pls. SUPPORT Conservancy: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
 
 <span class="fitonslide">
 <p>Presentation and slides are: Copyright &copy; 2014, 2015 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
