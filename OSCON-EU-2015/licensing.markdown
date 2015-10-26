@@ -163,7 +163,6 @@ copyright notice and this permission notice appear in all copies.
 # Comparing Licenses
 
 <br/>
-<br/>
 
 <img src="license-spectrum.png" align="center" />
 
