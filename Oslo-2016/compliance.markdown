@@ -486,11 +486,12 @@ hackers):
 
 + Our goals are diametrically opposed.
 
-# VMware: Combined Work Test Case for Linux
+# Linux's Combined Work Test Case
 
-+ We later found some VMware violations were first identified publicly in 2007.
++ VMware violations were first identified publicly in 2007.
+       + as we discovered later when:
 
-+ Conservancy was first informed of them in 2011, including BusyBox and Linux
++ Conservancy was first informed of a violation in 2011, including BusyBox and Linux
   violations.
 
 + VMware was glad to fix compliance problems with BusyBox, but refused for
