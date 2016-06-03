@@ -392,15 +392,24 @@ proprietary nature of GPL violators.</p>
 
 # The Default Judgment
 
-<img align=right src="shira-scheindlin.jpg"/>
+<img width="410" height="248" align=right src="shira-scheindlin.jpg"/>
 
 + &ldquo;[Westinghouse is] still producing these BusyBoxes&rdquo;.
+
+# Busyboxes?
+
+<img align=right src="fisher-price-busybox.jpg"/>
+
+# The Default Judgment
+
+<img width="410" height="248" align=right src="shira-scheindlin.jpg"/>
 
 + Judge Scheindlin honors our request to have all their TVs donated to
   charity, and an injunction on further selling.
 
 + The lawyers for Westinghouse quit, saying they aren't getting paid and
   their client is broke.
+
 
 # Violators Are Often Corrupt
 
