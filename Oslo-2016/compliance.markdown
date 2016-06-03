@@ -313,8 +313,18 @@ proprietary nature of GPL violators.</p>
      + The previous lawyer sits in the back of the Court and shouts
        directions to the new lawyer!
 
-+ Companies don't just &ldquo;make honest mistakes &amp; want to do
-  the right thing&rdquo; with copylefted software.
+# Age of the Savvy Violator
+
++ The days of the innocent mistake violation are coming to an end.
+    + Eternal September principle ensures there will always be some.
+    + But we know how to solve those.
+
++ The truly dangerous violators now hire lawyers in advance to prepare
+  arguments and plans to fight if anyone questions their right to keep Linux
+  modules proprietary.
+
++ They are wily &amp; experienced opponents, whom, ironically, we are helping
+  with our open communication, transparency and honesty.
 
 # Companies Want To Replace Copyleft
 
@@ -343,19 +353,6 @@ hackers):
 + Corporate lawyers advise their clients to create proprietary Linux modules, and fight us.
 
 + Linux proprietary module enforcement.
-
-# Age of the Savvy Violator
-
-+ The days of the innocent mistake violation are coming to an end.
-    + Eternal September principle ensures there will always be some.
-    + But we know how to solve those.
-
-+ The truly dangerous violators now hire lawyers in advance to prepare
-  arguments and plans to fight if anyone questions their right to keep Linux
-  modules proprietary.
-
-+ They are wily &amp; experienced opponents, whom, ironically, we are helping
-  with our open communication, transparency and honesty.
 
 # Zero-Sum Game
 
