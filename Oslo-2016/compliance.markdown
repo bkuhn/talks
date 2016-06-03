@@ -477,6 +477,33 @@ hackers):
 
 + Our goals are diametrically opposed.
 
+# VMware: Combined Work Test Case for Linux
+
++ We later found some VMware violations were first identified publicly in 2007.
+
++ Conservancy was first informed of them in 2011, including BusyBox and Linux
+  violations.
+
++ VMware was glad to fix compliance problems with BusyBox, but refused for
+Linux.
+
++ Conservancy [has published as much as it can about the lawsuit](https://sfconservancy.org/copyleft-compliance/vmware-lawsuit-faq.html).
+
+# VMware's Incorporation of Linux
+
+<img src="linux-vs-vmkernel_en.png" align="right"  />
+
+# Status of VMware Suit
+
++ German proceedings are not public.
+
++ [Harald's blog post](http://laforge.gnumonks.org/blog/20160225-vmware-gpl/) and
+  [my blog post](https://sfconservancy.org/blog/2016/feb/29/vmware-hearing/)
+  are the most recent information.
+
++ Another round of documents was just filed with the Court by Christoph's
+  lawyers last month.
+
 # Funding Enforcement
 
 + Enforcement done for profit is a path to corruption.
