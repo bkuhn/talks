@@ -448,6 +448,8 @@ proprietary nature of GPL violators.</p>
 + Company-controlled Linux community representatives insist BusyBox copyright
   holders never ask for Linux compliance.
 
+# A New Coalition
+
 + Many community developers (Matthew Garrett, Ben Hutchings, David Woodhouse,
   and many others) come forward &amp; ask Conservancy to directly enforce on
   their behalf.
