@@ -244,8 +244,8 @@ proprietary nature of GPL violators.</p>
 + I could give an entire talk on any one of these 11 words.
     + Yes, I can even give 20-30 minute treatises on each use of &ldquo;the&rdquo;. 
 
-+ Yet, when enforcement processes are at their best, they're about the spirit
-  behind these words, not the words themselves.
++ Yet, when enforcement processes are at their best, we need not argue about
+  the details of these words.
 
 <hr>
 > the scripts used to control compilation and installation of the executable.
