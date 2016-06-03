@@ -561,6 +561,8 @@ it.
 + The nasty GPL violators are seeking to exploit the people who bolster
   ZFSOnLinux as a method to justify their own GPL violations.
 
+# ZFS (Since You Asked)
+
 + Thus, we must take the clear stand, that is supported by copyright law:
     + You need permission to distribute the binary combination of zfs.ko
       &mdash; Linux.
