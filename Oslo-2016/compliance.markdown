@@ -354,6 +354,29 @@ it.
 </p>
 </span>
 
+# ZFS (Since You Asked)
+
++ [Conservancy's](https://sfconservancy.org/blog/2016/feb/25/zfs-and-linux/)
+  and [FSF's](https://sfconservancy.org/blog/2016/apr/11/fsf-zfs/) statements
+  really say it all.
+
++ Fundamentally, there is *little legal difference* between a
+  GPL-incompatible license that gives source code and one that doesn't.
+
++ Tolerating CDDL-only modules in Linux is a backdoor to tolerating
+  proprietary Linux modules.
+
++ The nasty GPL violators are seeking to exploit the people who bolster
+  ZFSOnLinux as a method to justify their own GPL violations.
+
++ Thus, we must take the clear stand, that is supported by copyright law:
+    + You need permission to distribute the binary combination of zfs.ko
+      &mdash; Linux.
+    + Neither CDDL nor GPL give you that permission, so it's copyright
+      infringement when you do that distribution.
+    + So, don't do it.  Sorry.  I wish the legal details worked out another
+      way.  But they don't.
+      
 <!--  LocalWords:  ldquo rdquo RSA img src shuttleworth jpg SSL CACM href sa
  -->
 <!--  LocalWords:  Paywalls codebases codebase FOSDEM Source'd ACM png
