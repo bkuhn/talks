@@ -4,11 +4,15 @@
 
 # The Guiding Moral Theory
 
+<hr/>
+
 > Fighting for software freedom means trying to build a world where every
 > user has the unencumbered, inalienable right to copy, share, modify,
 > redistribute, upgrade and improve all the software on which they rely.
 
 # The Final Goal
+
+<hr/>
 
 > IMO, the final goal of the software freedom movement is to change the world
 > so that all software available is Free Software, giving every users those
