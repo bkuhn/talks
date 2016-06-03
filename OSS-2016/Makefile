@@ -5,7 +5,7 @@
 
 ifndef PRESENTATION_BASE
 PRESENTATION_BASE=research
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/OSCON-EU-2015/
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/OSS-2016/
 endif 
 
 DO_INCREMENTAL_POINTS = -i -s
