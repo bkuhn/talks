@@ -439,7 +439,7 @@ proprietary nature of GPL violators.</p>
 
 + Our methods were of course legally sound, but becoming politically unviable.
 
-# Fighting anti-enforcement industry consortia
+# Anti-enforcement industry consortia
 
 + Companies that adopt Linux have always wanted GPL enforcement to end.
 
