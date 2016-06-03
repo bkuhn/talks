@@ -427,8 +427,8 @@ proprietary nature of GPL violators.</p>
     + Violators realize this is a politically weak spot &hellip;
     + &hellip; &amp; seek to drive a political wedge in community.
     + Industry consortia send their proxies to
-      [attack BusyBox enforcement](https://lwn.net/Articles/478674/)
-      [with specious in the press](https://lwn.net/Articles/478702/).
+      [attack BusyBox enforcement](https://lwn.net/Articles/478674/) with
+      [specious claims in the press](https://lwn.net/Articles/478702/).
 
 + Our methods were of course legally sound, but becoming politically unviable.
 
