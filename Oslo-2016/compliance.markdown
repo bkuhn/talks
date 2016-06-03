@@ -66,6 +66,19 @@ copyleft.org </p> </span>
      + Ensure the user can exercise the freedom to modify the software &hellip;
      + &hellip; in a manner that's real and concrete, not theoretical.
 
+# What's a GPL Violation?
+
++ GPL (both v2 and v3) require:
+     + The whole work licensed under GPL.
+     + (which means all copyrighted material added must be under
+       GPL-compatible licenses.)
+     + Complete, Corresponding Source (CCS) of that work provided, under GPL.
+
++ The licenses terminate upon violation &hellip;
+     + &hellip; thus failure to comply means lost distribution rights.
+     + &hellip; enforcement uses this rights termination as leverage to
+       restore compliance.
+
 # Earliest Copyleft Programs
 
 <img src="emacs.png" align="right" />
@@ -171,6 +184,83 @@ proprietary nature of GPL violators.</p>
      + I suspected they'd been resisting compliance because it was
        security-though-obscurity.
        + The passphrase appeared to be written to tape.
+
+# Enforcement is Technical
+
++ Copyleft's policy goals related to technical acts.
+     + modifying, building, and installing software is a technical process.
+
++ In embedded systems, this process is rarely straightforward.
+     + Yet GPL requires that such be possible.
+
++ In enforcement, we talk about &ldquo;the CCS adequately meeting GPL's requirements&rdquo;
+
+# How GPLv3 says CCS.
+
+<hr/>
+
+> The "Corresponding Source" for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.
+<span class="fitonslide">
+<p align=right>
+&mdash; GPLv3&sect;1
+</p>
+</span>
+
+# How GPLv2 says CCS.
+
+<hr/>
+
+> You may copy and distribute the Program (or a work based on it, under
+> &sect; 2) in object code or executable form under the terms of &sect; 1
+> &amp; 2 above provided that you &hellip; [a]ccompany it with the complete
+> corresponding machine-readable source code &hellip; The source code for a
+> work means the preferred form of the work for making modifications to it.
+> For an executable work, complete source code means all the source code for
+> all modules it contains, plus any associated interface definition files,
+> plus the scripts used to control compilation and installation of the
+> executable.
+
+<p align=right>
+&mdash; GPLv2&sect;3
+</p>
+</span>
+
+# The 11 Words That Consumed My Life
+
++ GPLv2 enforcement, for embedded products, is all about the these eleven
+  words.
+
++ I could give an entire talk on any one of these 11 words.
+    + Yes, I can even give 20-30 minute treatises on each use of &ldquo;the&rdquo;. 
+
++ Yet, when enforcement processes are at their best, they're about the spirit
+  behind these words, not the words themselves.
+
+<hr>
+> the scripts used to control compilation and installation of the executable.
+
+<p align=right>
+&mdash; GPLv2&sect;3
+</p>
+</span>
+
+# The 11 Words That Consumed My Life
+
++  Basic reference rule:
+     + Can a developer reasonably skilled in the art of embedded software
+       build your sources, take the (copylefted) executables and install
+       them?
+
++ Enforcement spends its most attention on testing CSS
+  &ldquo;candidates&rdquo; to verify that.
+
+<hr>
+> the scripts used to control compilation and installation of the executable.
+
+<p align=right>
+&mdash; GPLv2&sect;3
+</p>
+</span>
 
 # Tar Wars Continue
 
