@@ -43,6 +43,13 @@
 <span class="fitonslide"> <p align=right> &mdash; Definition of copyleft from
 [copyleft.org](https://copyleft.org/) </p> </span>
 
+# It's Not Magic 
+
+<img src="Pixie_Dust.png" width="50%" height="50%" align="right"  />
+
+Copyleft is *not* magic pixie dust.
+
+
 # What is GPL Enforcement?
 
 + Broadly, GPL enforcement is the process of ensuring that redistributors
