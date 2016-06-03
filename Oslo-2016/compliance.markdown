@@ -41,7 +41,7 @@
 > copylefted creative works.
 
 <span class="fitonslide"> <p align=right> &mdash; Definition of copyleft from
-copyleft.org </p> </span>
+[copyleft.org](https://copyleft.org/) </p> </span>
 
 # What is GPL Enforcement?
 
@@ -55,7 +55,7 @@ copyleft.org </p> </span>
      + help distributor themselves join and contribute back to the upstream
        project.
 
-+ [*The Principles of Community-Oriented GPL Enforcement* at sfconservancy.org/linux-compliance/principles.html](https://sfconservancy.org/linux-compliance/principles.html).
++ *The Principles of Community-Oriented GPL Enforcement* [at sfconservancy.org/linux-compliance/principles.html](https://sfconservancy.org/linux-compliance/principles.html).
 
 # But It's Not *Really* About Upstream.
 
