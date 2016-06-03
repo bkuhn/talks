@@ -398,7 +398,9 @@ proprietary nature of GPL violators.</p>
 
 # Busyboxes?
 
-<img align=right src="fisher-price-busybox.jpg"/>
+<hr/>
+
+<img align=center src="fisher-price-busybox.jpg"/>
 
 # The Default Judgment
 
@@ -510,7 +512,7 @@ Linux.
 
 # VMware's Incorporation of Linux
 
-<img src="linux-vs-vmkernel_en.png" align="right"  />
+<img width="830" height="628" src="linux-vs-vmkernel_en.png" align="center"  />
 
 # Status of VMware Suit
 
