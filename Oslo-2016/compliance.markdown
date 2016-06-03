@@ -393,7 +393,7 @@ proprietary nature of GPL violators.</p>
 
 # Violators Are Often Corrupt
 
-+ Westinghouse uses a bizarre bankruptcy rule in California.
++ Westinghouse used a bizarre bankruptcy rule in California.
      + You go out of business on a Friday.
      + Transfer all assets to another company on a Saturday.
      + Go back into business under a similar name on Monday morning.
