@@ -385,7 +385,7 @@ proprietary nature of GPL violators.</p>
 
 # The Default Judgment
 
-<img width="274" height="383" align=right src="shira-scheindlin.jpg"/>
+<img align=right src="shira-scheindlin.jpg"/>
 
 + &ldquo;[Westinghouse is] still producing these BusyBoxes&rdquo;.
 
