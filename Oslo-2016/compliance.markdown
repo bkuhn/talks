@@ -160,7 +160,25 @@ proprietary nature of GPL violators.</p>
 
 + Sysadmins were good at finding these violations.
 
-+ All but one violator came into compliance.
+# My First CCS Check
+
++ In mid-2000, RMS sent me a proposed source release to verify for compliance
+  on a GNU tar violation.
+
++ They'd modified GNU tar to support various other filesystems.
+
++ There was also some odd &ldquo;cryptography support&rdquo;.
+     + I suspected they'd been resisting compliance because it was
+       security-though-obscurity.
+       + The passphrase appeared to be written to tape.
+
+# Tar Wars Continue
+
++ There were a number of these backup solutions on the market.
+
++ All of them had modified tar, it seemed.
+
++ All but one came into compliance.
 
 # Court May Not Mandate Source Release
 
