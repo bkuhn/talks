@@ -261,6 +261,43 @@ proprietary nature of GPL violators.</p>
      - &hellip; judge is unlikely to grant us all that &hellip;
      - &hellip; so we work hard to settle on that request.
 
+# Success in Court
+
++ The &ldquo;Big One&rdquo;:
+[Software Freedom Conservancy, et al vs. Best Buy et al.](https://ia600207.us.archive.org/21/items/gov.uscourts.nysd.355978/gov.uscourts.nysd.355978.docket.html)
+
++ Settle with most of the defendants for actual compliance *on BusyBox*.
+      + Linux compliance is sometimes elusive (more on that later).
+
++ Received a [default judgment against Westinghouse](http://www.archive.org/download/gov.uscourts.nysd.355978/gov.uscourts.nysd.355978.131.0.pdf).
+
+# The Default Judgment
+
+<img width="274" height="383" align=right src="shira-scheindlin.jpg"/>
+
++ &ldquo;[Westinghouse is] still producing these BusyBoxes&rdquo;.
+
++ Judge Scheindlin honors our request to have all their TVs donated to
+  charity, and an injunction on further selling.
+
++ The lawyers for Westinghouse quit, saying they aren't getting paid and
+  their client is broke.
+
+# Violators Are Often Corrupt
+
++ Westinghouse uses a bizarre bankruptcy rule in California.
+     + You go out of business on a Friday.
+     + Transfer all assets to another company on a Saturday.
+     + Go back into business under a similar name on Monday morning.
+     + The brother of the previous CEO is the new CEO.
+
++ The new defendant is added, with a new lawyer.
+     + The previous lawyer sits in the back of the Court and shouts
+       directions to the new lawyer!
+
++ Companies don't just &ldquo;make honest mistakes &amp; want to do
+  the right thing&rdquo; with copylefted software.
+
 # Companies Want To Replace Copyleft
 
 + Companies scramble to replace BusyBox with Toybox.
