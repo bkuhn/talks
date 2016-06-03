@@ -416,13 +416,40 @@ proprietary nature of GPL violators.</p>
 + They are wily &amp; experienced opponents, whom, ironically, we are helping
   with our open communication, transparency and honesty.
 
-# Companies Want To Replace Copyleft
+# The Tempest in the Toybox
 
-+ Companies scramble to replace BusyBox with Toybox.
++ Conservancy had sought Linux compliance via BusyBox enforcement.
+    + My view was that this consolidated claims.
+    + Violators realize this is a politically weak spot &hellip;
+    + &hellip; &amp; seek to drive a political wedge in community.
+    + Industry consortia send their proxies to
+      [attack BusyBox enforcement](https://lwn.net/Articles/478674/)
+      [with specious in the press](https://lwn.net/Articles/478702/).
 
-+ Companies scramble to replace GCC with LLVM.
++ Our methods were of course legally sound, but becoming politically unviable.
 
-+ What community copyrighted GPL'd packages will remain essential?
+# Fighting anti-enforcement industry consortia
+
++ Companies that adopt Linux have always wanted GPL enforcement to end.
+
++ They redouble their efforts during BusyBox suits.
+
++ Company-controlled Linux community representatives insist BusyBox copyright
+  holders never ask for Linux compliance.
+
++ Many community developers (Matthew Garrett, Ben Hutchings, David Woodhouse,
+  and many others) come forward &amp; ask Conservancy to directly enforce on
+  their behalf.
+
++ [The GPL Compliance Project For Linux Developers](https://sfconservancy.org/copyleft-compliance/) Is Born.
+
+# Why Linux?
+
++ Corporate lawyers have decided to stand their ground here:
+
++ Corporate lawyers advise their clients to create proprietary Linux modules, and fight us.
+
++ Linux proprietary module enforcement.
 
 # Linux's GPL Elephant
 
@@ -435,14 +462,6 @@ proprietary nature of GPL violators.</p>
 + Through the accident of history (&amp; lots of great work by Linux
 hackers):
       + Linux is the battle ground for copyleft.
-
-# Why Linux?
-
-+ Corporate lawyers have decided to stand their ground here:
-
-+ Corporate lawyers advise their clients to create proprietary Linux modules, and fight us.
-
-+ Linux proprietary module enforcement.
 
 # Zero-Sum Game
 
