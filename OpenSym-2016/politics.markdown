@@ -2,6 +2,16 @@
 % Bradley M. Kuhn
 % Wednesday 17 August 2016
 
+# Slides Links
+
++ Some of the slides have links to various articles.
+
++ I don't mind at all if you would rather read those than listen to me
+  further. :)
+
++ [ebb.org/bkuhn/talks/OpenSym-2016/politics.html](http://ebb.org/bkuhn/talks/OpenSym-2016/politics.html)
+  (via url shortener at [ur1.ca/plug4](http://ur1.ca/plug4)
+
 # Am I Qualified to Give This Talk?
 
 + I am not a political scientist.
