@@ -299,6 +299,20 @@ yet, it also becomes increasingly more difficult *each day* for users to
 successfully avoid proprietary software while completing their necessary work
 on a computer.  </span>
 
+# The 2010s Software Freedom Paradox
+
++ The smartest thing that companies do is distract great FLOSS leaders with
+  interesting technical problems.
+
++ Take it from one of [O'Reilly's beloved stars](http://www.forbes.com/pictures/lmm45emkh/2-jeff-hammerbacher-chief-scientist-cloudera-and-dj-patil-entrepreneur-in-residence-greylock-ventures/#7f86f1876d7b):
+       + &ldquo;The best minds of my generation are thinking about how to make people click ads&ldquo;
+       &mdash; Jeff Hammerbach
+       
++ The charity-style volunteerism we once had (work 40 hours, then spend some
+  free time helping Free Software) has mostly evaporated.
+
++ Attention given only to Free Software in specific infrastructural areas.
+
 # The New Cooptive Meme: Sustainability
 
 + These new would-be O'Reilly's today seek to brand sustainability as:
