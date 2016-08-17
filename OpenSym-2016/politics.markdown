@@ -363,10 +363,12 @@ on a computer.  </span>
 # Wikimedia
 
 + Sure, they've had their scandals.
+       - &amp; my captious nature leads me to find plenty to criticize.
 
-+ But, it's tough to say anything really bad about Wikimedia:
++ But, it's actually tough to say anything *really* bad about Wikimedia:
        - they're a charity.
-       - they insist on only free-as-in-freedom licensing.
+       - they insist on only free-as-in-freedom, usually copyleft, licensing &hellip;
+       - &hellip; both for content **&amp;** software.
        - they have egalitarian, republican governance.
 
 # Those Who Forget the Past...
