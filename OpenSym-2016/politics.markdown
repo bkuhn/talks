@@ -125,7 +125,7 @@ they find appealing without adopting the full program or ideals.
 
 <p align="right">
  &mdash; <a href="http://www.oreilly.com/pub/pr/796">O'Reilly and Associates
- Press Release, 1998-04-14.  (Emphasis mine).
+ Press Release, 1998-04-14</a>.  (Emphasis mine).
 </p>
 
 # The Meme Hustler
