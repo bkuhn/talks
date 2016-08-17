@@ -15,6 +15,7 @@ blockquote i {font-style: normal;}
 blockquote b {display: block; margin-top: 0.5em; font-weight: normal; font-size: smaller; font-style: normal;}
 blockquote b i {font-style: italic;}
 
+img { margin: 10px; }
 kbd {font-weight: bold; font-size: 1em;}
 sup {font-size: smaller; line-height: 1px;}
 
