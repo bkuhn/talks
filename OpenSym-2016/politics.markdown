@@ -384,9 +384,10 @@ on a computer.  </span>
        - ND &amp; NC licensing, which Open Source and Free Software
          eradicated 20 years ago, is *often preferred*.
 
-+ copyleft (CC BY-SA or GPL) is widely rejected in Open.* communities.
-       - e.g., Adam, speaking from Open Education, lambasted copyleft
++ copyleft (CC BY-SA or GPL) is widely &amp; unfairly attacked in Open.* communities.
+       - e.g., Adam, speaking from Open Education mindset, disparaged copyleft
          this morning.
+       - Politically manipulative conflation of commercial &amp; proprietary.
        - yet copyleft is the only system to assure for-profit companies don't
          exploit without giving back.
 
