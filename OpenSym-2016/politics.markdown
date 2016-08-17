@@ -332,7 +332,7 @@ on a computer.  </span>
        - perhaps the papers belong with political scientists?
 
 + Second: the FLOSS world that you study is in danger of crumbling.
-       - Open Source done this was is not particularly distinct from
+       - This form of Open Source is not particularly distinct from
          existing traditional proprietary methods.
        - well, perhaps our collapse will make a good paper someday.
 
