@@ -289,7 +289,7 @@ though it originates from and is supported by grassroots participant(s).
 
 + Long-term: this changes the focus of work.
 
-# The Paradox
+# The 2010s Software Freedom Paradox
 
 <span class="fitonslide">
 
