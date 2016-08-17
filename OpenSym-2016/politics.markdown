@@ -243,7 +243,7 @@ governance** &mdash; organized control over a human community.
 
 + The power structure is, again, who controls the copyrights.
 
-+ Companies promulgate CLAs &copy;AAs.
++ Companies promulgate CLAs &amp; &copy;AAs.
        - the goal of such agreements is to give **all the power** to the Company.
 
 + Turn FLOSS contribution into a one-click-through omnibus, rights-shifting
