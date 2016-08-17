@@ -419,7 +419,7 @@ on a computer.  </span>
 
 + Be as independent as possible.
 
-+ You're not anthropologists so you can occasionally &ldquo;go native&rdquo;
++ You're (likely) not anthropologists so you can occasionally &ldquo;go native&rdquo;.
        - teach your students that there is a moral &amp; activist component
          to this work.
 
