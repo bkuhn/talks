@@ -12,6 +12,9 @@
 + [ebb.org/bkuhn/talks/OpenSym-2016/politics.html](http://ebb.org/bkuhn/talks/OpenSym-2016/politics.html)
   (via url shortener at [ur1.ca/plug4](http://ur1.ca/plug4)
 
++ [Source code of slides is available](https://github.com/bkuhn/talks/tree/master/OpenSym-2016).  I'm sure to have typos; please
+  submit patches there rather than calling them. :)
+
 # Am I Qualified to Give This Talk?
 
 + I am not a political scientist.
