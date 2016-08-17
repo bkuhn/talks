@@ -395,20 +395,23 @@ on a computer.  </span>
 
 + Open.* communities widely reject software freedom.
        - the vehement anti-copyleft rhetoric is just the beginning.
-       - On one point, Adam &amp; I agree: &ldquo;Why are Open Education people
+       - On this point, Adam &amp; I agree: &ldquo;Why are Open Education people
          not doing Open Source?&rdquo;
 
 + But, even some software-liberated initiatives don't support Free Software
   operating systems like GNU/Linux &amp; FreeBSD.
 
-+ These position are often utilized by the cooptive forces in the software
-  world to marginalize radical positions.
++ These position are often utilized by the cooptive forces (trade
+  associations &amp; companies) in the software world to marginalize radical
+  positions.
 
 # What Can You Do?
 
 + Academic research *is* political by its nature.
        - I know of researchers who are funded to produce data to discredit
          activist positions.
+       - Megan Squire's paper we heard today has political ramifications
+         (which I suspect are quite positive).
 
 + Who funds the research matters:
        - (cf: where we're standing: Fraunhofer's patents are regularly used
