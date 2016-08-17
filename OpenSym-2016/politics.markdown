@@ -80,8 +80,8 @@ community.
 
 + An [invite-only event under O'Reilly's control](http://www.oreilly.com/pub/pr/796).
 
-+ 14 un-elected, affluent men (all but one Caucasian) in a room **decide** what
-  the principles of a whole community are.
++ 14 unelected, affluent men (all but one Caucasian) in a room **decide**
+  what the principles of a whole community are.
 
 + This is where &ldquo;Open Source&rdquo; comes from.
 
