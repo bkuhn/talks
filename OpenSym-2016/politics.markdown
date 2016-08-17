@@ -428,39 +428,20 @@ on a computer.  </span>
 <img align="right" src="cc-by-sa-4-0_88x31.png" />
 
 + URLs / Social Networking / Email:
-     - Pls. support Conservancy: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
+     - Pls. **support Conservancy**: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
      - [*The Guide*](https://copyleft.org/guide) is available &amp; [welcomes contributions at copyleft.org](https://copyleft.org).
      - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; <a href="https://twitter.com/conservancy/">@conservancy</a>.
      - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
-     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/Oslo-2016/compliance.html).
+     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/OpenSym-2016/politics.html).
 
 <span class="fitonslide">
-<p>Presentation and slides are: Copyright &copy; 2012, 2014, 2015, 2016 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
-<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
-</p>
+<p>Presentation and slides are: Copyright &copy; 2015, 2016 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
 </span>
 
-
-# More Info / Talk License
-
-<img align="right" src="cc-by-sa-4-0_88x31.png" />
-
-+ URLs / Social Networking / Email:
-     - [*Copyleft and the GNU General Public License: A Comprehensive Tutorial*](https://copyleft.org/guide) is available and welcomes contribution at [copyleft.org](https://copyleft.org).
-     - Conservancy: @[conservancy](https://twitter.com/conservancy/) &amp; [sfconservancy.org](https://sfconservancy.org/)
-     - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
-     - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/OSCON-EU-2015/licensing.html)
-     - Pls. SUPPORT Conservancy: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
-
-<span class="fitonslide">
-<p>Presentation and slides are: Copyright &copy; 2014, 2015, 2016 Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
-<p>Some images included herein are &copy;'ed by others. I believe my use of those images is fair use under USA &copy; law.  However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.
-</p>
-</span>
 
 <!--  LocalWords:  ldquo rdquo RSA img src shuttleworth jpg SSL CACM href sa
  -->
-<!--  LocalWords:  Paywalls codebases codebase FOSDEM Source'd ACM png
+<!--  LocalWords:  Paywalls codebases codebase FOSDEM Source'd ACM png AAs
  -->
-<!--  LocalWords:  blogosphere sfconservancy
+<!--  LocalWords:  blogosphere sfconservancy politikos Pls faif
  -->
