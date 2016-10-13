@@ -4,8 +4,8 @@
 # an environment variable before you type make.
 
 ifndef PRESENTATION_BASE
-PRESENTATION_BASE=politics
-INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/OpenSym-2016/
+PRESENTATION_BASE=gpl
+INSTALL_DIR=/home/bkuhn/Files/Personal/Website/www.ebb.org/web-public/bkuhn/talks/OpenWRT-2016/
 endif 
 
 DO_INCREMENTAL_POINTS = -i -s
