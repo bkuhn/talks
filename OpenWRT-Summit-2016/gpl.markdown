@@ -90,9 +90,9 @@ Copyleft is *not* magic pixie dust.
      + &hellip; enforcement uses this rights termination as leverage to
        restore compliance.
 
-# How This Relates to OpenWRT
+# How This Relates to OpenWrt
 
-+ OpenWRT may be the most successful historical example of GPL enforcement.
++ OpenWrt may be the most successful historical example of GPL enforcement.
 
 + The project began as the outcome of GPL enforcement action.
 
@@ -113,7 +113,7 @@ Copyleft is *not* magic pixie dust.
 
 + WRT54G source is released (but wireless driver kept proprietary).
 
-+ SVN check-in r1 of the OpenWRT project was the actual source code we
++ SVN check-in r1 of the OpenWrt project was the actual source code we
   reviewed in our GPL compliance efforts.
 
 # How We Got There
@@ -155,16 +155,16 @@ drivers &hellip;
 
 # What's Next
 
-+ The GPL gives OpenWRT/LEDE a strong argument:
++ The GPL gives OpenWrt/LEDE a strong argument:
      + &ldquo;if you are out of compliance, we can't maintain your changes upstream&rdquo;.
 
-+ OpenWRT/LEDE is the *key* project to influence wireless industry behavior:
++ OpenWrt/LEDE is the *key* project to influence wireless industry behavior:
      + proprietary Linux device drivers violate the license; the project
        takes on risk if it distributes them &hellip;
      + &hellip; so vendors must eliminate the risk by liberating the drivers
        &amp; gain upstream cooperation. 
 
-+ The tool of GPL works for OpenWRT/LEDE to assure wireless device users'
++ The tool of GPL works for OpenWrt/LEDE to assure wireless device users'
 software freedom.
 
 # What about USA FCC &amp; Other Regulators?
