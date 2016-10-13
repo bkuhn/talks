@@ -1,6 +1,6 @@
-% Politics of Cooption in Free and Open Communities
+% Why GPL Enforcement Is Essential to OpenWrt's Past and Future 
 % Bradley M. Kuhn
-% Wednesday 17 August 2016
+% Thursday 13 October 2016
 
 # Slides Links
 
