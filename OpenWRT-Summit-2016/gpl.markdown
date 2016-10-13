@@ -10,7 +10,7 @@
   further. :)
 
 + [ebb.org/bkuhn/talks/OpenWRT-2016/gpl.html](http://ebb.org/bkuhn/talks/OpenWRT-2016/gpl.html),
-  or via url shortener at [ur1.ca/plug4](http://ur1.ca/plug4)
+  or via url shortener at [ur1.ca/pvrdi](http://ur1.ca/pvrdi)
 
 + [Source code of slides is available](https://github.com/bkuhn/talks/tree/master/OpenWRT-2016).  I'm sure to have typos; please
   submit patches there rather than calling them. :)
