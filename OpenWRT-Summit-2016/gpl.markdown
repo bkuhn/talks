@@ -142,7 +142,7 @@ Copyleft is *not* magic pixie dust.
 
 # Was It the Right Deal?
 
-<img align=right src="dr-who-timey.jpg"/>
+<img align=right height="333" width="333" src="dr-who-timey.jpg"/>
 
 
 + I've often wondered if we made the right deal.
