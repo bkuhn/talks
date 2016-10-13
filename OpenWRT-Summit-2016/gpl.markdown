@@ -155,8 +155,8 @@ Copyleft is *not* magic pixie dust.
 
 # Culture of Enforcement-Born Projects
 
-+ More than any other project, I believe OpenWrt/LE DE culture has GPL
-  enforcement as part any other project.
++ More than any other project, I believe OpenWrt/LEDE culture has GPL
+  enforcement in their DNA more than any other project.
 
 + OpenWrt/LEDE developers have a healthy distrust of any proprietary component,
   particularly proprietary device drivers.
@@ -182,11 +182,11 @@ drivers &hellip;
 + The tool of GPL works for OpenWrt/LEDE to assure wireless device users'
 software freedom.
 
-# What about USA FCC &amp; Other Regulators?
+# What about FCC &amp; Other Regulators?
 
-+ So much but so little has changed in the 13 years since I sat across the
++ So much, but also so little, has changed in the 13 years since I sat across the
   table from those Broadcom executives.
-      + We have a shared problem: misunderstanding by the FCC.
+      + We all have a shared problem: misunderstanding by the FCC.
 
 + I thought we solved in this with
   [the Cognitive Radio Report and Order](http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-66A1.pdf)
@@ -196,8 +196,27 @@ software freedom.
       + I'm quite sure ath9k would have been a non-starter without this ruling.
 
 + But thanks to Eric Schultz for being the very first to point out
-  [FCC NPRM 15-170](transition.fcc.gov/Daily_Releases/Daily_Business/2015/db0722/FCC-15-92A1.pdf)
+  [FCC NPRM 15-170](http://transition.fcc.gov/Daily_Releases/Daily_Business/2015/db0722/FCC-15-92A1.pdf)
   was likely to trump the 2007 ruling.
+
+
+# What about FCC &amp; Other Regulators?
+
++ But be clear on this point:
+
++ the question is [still *open* with the FCC](https://www.fcc.gov/news-events/blog/2015/11/12/clearing-air-wi-fi-software-updates); it's *not*
+  decided yet.  We should not treat it as a fait accompli!
+
+<hr/>
+
+> There is more hard work ahead of us as we finalize rules, and we welcome continued input from manufacturers, users, technologists, and others.
+
+<span class="fitonslide">
+<p align="right">
+&mdash;
+[Julius Knapp, FCC on November 12, 2015](https://www.fcc.gov/news-events/blog/2015/11/12/clearing-air-wi-fi-software-updates)
+</p>
+</span>
 
 # Reusing the Strategy
 
@@ -211,14 +230,14 @@ software freedom.
 
 + So, why not ask the federal government to directly consider this conflict!
  
-# Bringing Issue Forward
+# Bringing The Issue Forward
 
 + Ultimately, the NPRM dance with the FCC, while necessary, is only one
   approach to bring forward the issue.
 
 + Consider this other simple, parallel approach:
 
-# Bringing Issue Forward
+# Bringing The Issue Forward
 
 + Bring a product before the FCC that needs to be GPL'd due to compliance,
   and ask for certification.
@@ -237,6 +256,8 @@ software freedom.
 + URLs / Social Networking / Email:
      - Pls. **support Conservancy**: [sfconservancy.org/supporter/](https://sfconservancy.org/supporter/)
      - [*The Guide*](https://copyleft.org/guide) is available &amp; [welcomes contributions at copyleft.org](https://copyleft.org).
+     - You can join
+       [the current GPL enforcement coalition of Linux developers](https://sfconservancy.org/copyleft-compliance/).
      - Conservancy: [sfconservancy.org](https://sfconservancy.org/) &amp; <a href="https://twitter.com/conservancy/">@conservancy</a>.
      - Me: [faif.us](http://faif.us) &amp; [ebb.org/bkuhn](http://ebb.org/bkuhn)
      - Slides: [ebb.org/bkuhn/talks](http://ebb.org/bkuhn/talks/OpenSym-2016/politics.html).
