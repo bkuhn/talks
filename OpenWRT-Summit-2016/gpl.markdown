@@ -216,8 +216,12 @@ software freedom.
 + Ultimately, the NPRM dance with the FCC, while necessary, is only one
   approach to bring forward the issue.
 
-+ Another simple, parallel approach: bring a product before the FCC that
-  needs to be GPL'd due to compliance, and ask for certification.
++ Consider this other simple, parallel approach:
+
+# Bringing Issue Forward
+
++ Bring a product before the FCC that needs to be GPL'd due to compliance,
+  and ask for certification.
 
 + If/When it is not certified, we can directly ask the federal government to
   address the question head-on: &ldquo;Is the USA federal government really
