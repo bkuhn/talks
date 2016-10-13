@@ -98,6 +98,8 @@ Copyleft is *not* magic pixie dust.
 
 # Where It All Began
 
+<img align=right src="wrt54g.png"/>
+
 + Spring 2003: dozens of reports on WRT54G.
 
 + Discussions begin with Cisco (who'd bought Linksys just weeks before)
