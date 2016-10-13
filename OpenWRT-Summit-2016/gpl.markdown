@@ -205,7 +205,7 @@ software freedom.
     + We had, from 2003-2007, and now may  again soon have a clear conflict
       between copyright requirements under GPL &amp; FCC regulations.
 
-    + In the USA, we can bring this issue to the forefront: fundamentally,
+    + In the USA, we can bring this issue to the forefront: ultimately,
       two federal laws/regulations (i.e., copyright &amp; spectrum
       regulation) have a fundamental conflict.
 
