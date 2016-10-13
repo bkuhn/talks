@@ -131,19 +131,31 @@ Copyleft is *not* magic pixie dust.
 
 + On Monday 13 October 2003, Broadcom brought most of their executive team to
   meet with us.
-      + Their primary request: don't push on the wireless driver issue, for fear
-        of an FCC fight, and in return they will comply with GPL.
-      + Our coalition of copyright holders made the deal.
 
-+ I have often wondered if we made the right deal, but I doubt I'd go back
-  and change it, because the birth of OpenWRT was too important to mess with.
++ Their primary request: don't push on the wireless driver issue, for fear
+  of an FCC fight, and in return they will comply with GPL.
+
++ The coalition of copyright holders enforcing the GPL in this case made that deal.
+
+# Was It the Right Deal?
+
+<img align=right src="dr-who-timey.jpg"/>
+
+
++ I've often wondered if we made the right deal.
+
++ But I doubt I'd go back and change it, because the birth of OpenWrt was too
+  important to mess with.
+
++ &hellip; &amp; besides, I am convinced time-travel into the past is
+  impossible.
 
 # Culture of Enforcement-Born Projects
 
-+ More than any other project, I believe OpenWRT/LE DE culture has GPL
++ More than any other project, I believe OpenWrt/LE DE culture has GPL
   enforcement as part any other project.
 
-+ OpenWRT/LEDE developers have a healthy distrust of any proprietary component,
++ OpenWrt/LEDE developers have a healthy distrust of any proprietary component,
   particularly proprietary device drivers.
 
 + Developers are not afraid to confront companies who make proprietary
