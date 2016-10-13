@@ -42,6 +42,7 @@
 # Formal Definition of Copyleft
 
 <hr/>
+<span class="fitonslide">
 
 > Copyleft is a strategy of utilizing copyright law to pursue the policy goal
 > of fostering &amp; encouraging the equal &amp; inalienable right to copy,
@@ -53,7 +54,7 @@
 > to build communities that collaboratively share &amp; improve those
 > copylefted creative works.
 
-<span class="fitonslide"> <p align=right> &mdash; Definition of copyleft from
+<p align=right> &mdash; Definition of copyleft from
 [copyleft.org](https://copyleft.org/) </p> </span>
 
 # It's Not Magic 
