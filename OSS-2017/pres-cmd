@@ -1,0 +1,10 @@
+#!/bin/sh
+
+talk=oss-2017
+
+rsync --delete -HavP ./  /home/pres/$talk/
+rm -rf /home/pres/$talk/ui
+rsync -HavP ../ui/  /home/pres/$talk/ui/
+find /home/pres/$talk -exec chmod gou+r {} \;
+find /home/pres/$talk -type d -exec chmod gou+rx {} \;
+rsync --delete -HavzP ./ /home/bkuhn/website/content/www.ebb.org/web-public/bkuhn/talks/OSS-2017/
