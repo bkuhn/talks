@@ -1,0 +1,7 @@
+#!/bin/sh
+
+talk=sdc-2018
+
+rsync -HavP ./  /home/pres/$talk/
+find /home/pres/$talk -exec chmod gou+r {} \;
+find /home/pres/$talk -type d -exec chmod gou+rx {} \;
