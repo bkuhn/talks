@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en">
+<html lang="en">
+ <head>
+<meta charset="utf-8">
+<title>GPL Compliance For Advancement of OpenWRT</title>
+
+<meta name="description" content="GPL Compliance For Advancement of OpenWRT">
+<meta name="author" content="Bradley M. Kuhn">
+
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ <link rel="stylesheet" href="css/reveal.css">
+ <link rel="stylesheet" href="css/theme/conservancy.css" id="theme">
+
+<!-- Theme used for syntax highlighting of code -->
+<link rel="stylesheet" href="lib/css/zenburn.css">
+
+ <!-- Printing and PDF exports -->
+<script>
+ var link = document.createElement( 'link' );
+ link.rel = 'stylesheet';
+ link.type = 'text/css';
+ link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'print/paper.css';
+ document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+</head>
+
+<body>
+ <div id="hidden" style="display:none;">
+            <div id="header">
+                <div id="header-left"></div>
+                <div id="header-right"></div>
+                <div id="footer-left"></div>
+            </div>
+ </div>
+<div class="reveal">
+<div class="slides">
+<section>
+  <h3><em>GPL Compliance For Advancement of OpenWRT</em></h3>
+  <br/>
+  <p>Bradley M. Kuhn</p>
+  <p>OpenWRT Summit 2018</p>
+  <p>Monday 29 October 2018</p>
+  <p>Slides: <a href="http://ebb.org/bkuhn/talks/OpenWRT-2018/opwrt-2018.html">ebb.org/bkuhn/talks/OpenWRT-2018/openwrt-2018.html</a>
+    (<a href="https://tinyurl.com/bkuhn-openwrt">tinyurl.com/bkuhn-openwrt</a>)</p>
+</section>
+
+<section>
+  <h2 class="top-title">Previously On <em>The OpenWRT Summit</em>&hellip;</h2>
+
+  <p><span class="fragment">I spoke two years ago</span>
+    <span class="fragment">&hellip; about the history of copyleft &amp; the GPL.</span></p>
+  <p class="fragment">And, in particular, how OpenWRT is so central to that history.</p></section>
+</section>
+<section>
+  <h2 class="top-title">Still A Daily Inspiration</h2>
+
+<img align=right src="openwrt-history-page.png"/>
+
+<p class="fragment">More than 15 years ago, SVN check-in r1 of the OpenWrt
+  project was the actual source code we reviewed in the Cisco/Linksys GPL
+  compliance efforts.</p></section>
+<section>
+  <h2 class="top-title">Still Wondering If We Made Mistakes</h2>
+
+<p class="fragment">Was it a mistake not to sue Broadcom for their proprietary
+  Linux driver?</p>
+</section>
+<section>
+  <h2 class="top-title">The Anti-GPL Enforcement Era</h2>
+  <p class="fragment">GPL violations are more prevalent than ever.</p>
+  <p class="fragment">GPL enforcement became a more divisive issue upstream
+    in the last two years.</p>
+  <p class="fragment">In fact, the political firestorm erupted just months
+    after my OpenWRT Summit 2016 talk.</p> 
+</section>
+
+<section class="copious">
+<h2 class="top-title">Should Enforcement Ever Happen?</h2>
+<p>When asked by David Woodhouse:
+<q>If you are happy with the status quo, and do not want violators to be brought into compliance &hellip;</q></p>
+
+<br clear="all">
+
+<p class="fragment">
+  Greg K. H. answered:
+<q>I do, but I don't ever think that suing them is the right way to do it,
+given that we have been <strong><em>very</em> successful so far without having to do
+    that</strong>.</q>
+</p>
+
+<p>From: <a href="https://lists.linuxfoundation.org/pipermail/ksummit-discuss/2016-August/003555.html">&lt;20160824174724.GE30853@kroah.com&gt; on ksummit-discuss</a></p>
+</section>
+<section>
+ <h1 class="top-title">Greg Denies History</h1>
+
+ <p>But, our community <em>did</em> often enforce the GPL.</p>
+
+ <p class="fragment">&amp; it's been necessary for Linux's success since the
+   advent of the embedded system.</p>
+ <p class="fragment">OpenWRT is the ready-made example of that.</p>
+</section>
+<section>
+  <h2 class="top-title">After Linksys, there were a lot of lawsuits</h2>
+  <img class="fragment" align="right" src="img/wireless-router-generic.jpg"/>
+  <img class="fragment" align="left" src="img/harald-welte.jpg"/>
+  <p class="fragment" align="left">Harald Welte from 2004&ndash;2013 brought
+    more than 15 GPL enforcement actions (most of which were lawsuits) and mostly against
+    wireless router makers:</p>
+</section>
+<section class="copious">
+  <h2 class="top-title">After Linksys, there were a lot of lawsuits</h2>
+  <p align="left">A mere sample of Harald's many enforcement actions (most of which were lawsuits):</p>
+    <ul class="fragment">
+      <li>2004: Allnet</li>
+      <li>2004: Asus</li>
+      <li>2004: SecurePoint</li>
+      <li>2004: Sitecom</li>
+      <li>2004: Gigabyte</li>
+      <li>2004: TomTom</li>
+      <li>2005: ARP Datacon</li>
+      <li>2005: Edimax</li>
+      <li>2005: CeBit</li>
+      <li>2005: Fortinet</li>
+      <li>2005: MEDION</li>
+      <li>2005: Targa</li>
+      <li>2006: D-Link</li>
+      <li>2007: Iliad</li>
+      <li>2011: AVM</li>
+                          </ul>
+</section>
+<section>
+<h2 class="top-title">GPL Is Not Primarily About Upstream</h2>
+
+<blockquote>[Those who enforce the GPL] NEVER found any actual useful code
+  that should have gone upstream
+<p align="right"> &mdash; Rob Landley, former BusyBox developer</p>
+  </blockquote>
+</section>
+
+<section>
+<h2 class="top-title">GPL Is Not Primarily About Upstream</h2>
+
+<p class="fragment">Rob and I spoke at LCA in 2017.  We cleared up this
+  misunderstanding.</p>
+
+<p class="fragment">Upstreamed code is only
+  a <strong>secondary</strong> effect of copyleft's primary goal:
+<span class="fragment">rights to downstream users so they can
+  someday become upstream developers.</span></p>
+</section>
+<section>
+  <h3 class="top-title">Users Deserve The Means of Source Production</h3>
+<blockquote>
+complete source code means all the source code for all modules it contains,
+plus any associated interface definition files, plus the scripts used to
+control compilation and installation of the executable.
+<br/>
+<p align="right">&mdash; GPLv2&sect;3</p>
+</blockquote>
+</section>
+<section class="copious">
+  <h4 class="top-title">Garrett: It's About Downstream Users Who Become Developers</h4>
+  
+  <br/>
+<q align="right" cite="https://lists.linuxfoundation.org/pipermail/ksummit-discuss/2016-August/003585.html">
+  [D]o you want 4 more enterprise clustering filesystems, or another complete
+rewrite of the page allocator for a 3% performance improvement under a
+specific database workload, or do you want a bunch of teenagers who grow up
+hacking this stuff because it's what powers every device they own? Because
+honestly I think it's the latter that's helped get you [Linux developers]
+where you are now, and they're not going to be there if the thing that
+matters to you most is making sure that large companies don't feel threatened
+rather than making sure that the next 19 year old in a dorm room can actually
+hack the code on their phone and build something better as a result. It's
+what brought me here in the first place, and I'm hardly the only one.
+<p align="right"> &mdash; Matthew Garrett, Linux Developer, 26 August 2016</p>
+</q>
+</section>  
+<section>
+  <h2 class="top-title">Our History is Enforcement</h2>
+
+  <p>I argue: Linux and other GPL'd software has been
+    successful <em>because</em> enforcement and lawsuits have happened
+    regularly since 2002.</p>
+
+  <p class="fragment">We can't run a parallel experiment (absent 
+  time travel).</p>
+  
+  <p class="fragment">But, we can show it's political FUD to argue that GPL
+  enforcement and occasional lawsuits is a new-fangled strategy
+  that endangers Linux.</p>
+
+  <p class="fragment">Because, if so, Linux has been &ldquo;endangered&rdquo; since 2002.</p>
+</section>
+<section class="copious">
+  <h4 class="top-title">The Principles of Community-Oriented GPL Enforcement</h4>
+  <ul>
+  <li>Our primary goal in GPL enforcement is to bring about GPL compliance.</li>
+
+  <li class="fragment highlight-green">Legal action is a last
+  resort. Compliance actions are primarily education and assistance processes
+  to aid those who are not following the license.</li>
+
+  <li>Confidentiality can increase receptiveness and responsiveness.</li>
+
+  <li>Community-oriented enforcement must never prioritize financial
+    gain.</li>
+  <li>Community-oriented compliance work does not request nor accept payment
+    to overlook problems.</li>
+  <li>Community-oriented compliance work starts with carefully verifying
+    violations and finishes only after a comprehensive analysis. </li>
+  <li>Community-oriented compliance processes should extend the benefit of
+    GPLv3-like termination, even for GPLv2-only works.</li>
+  </ul>
+  <p>
+  Full
+  text <a href="https://sfconservancy.org/linux-compliance/principles.html">at
+      sfconservancy.org/linux-compliance/principles.html</a>.</p>
+</section>
+<section>
+  <h3 class="top-title">The .01% We Don't Agree On</h3>
+
+  <p>Greg KH and I agree on 99.99% of GPL enforcement strategy.  </p>
+
+  <p class="fragment">We differ only on one minor point.</p>
+</section>
+
+<section>
+  <h3 class="top-title">Lawsuits</h3>
+
+  <p>Companies sue each other all time: there are hundreds of lawsuits
+    between tech companies every year.</p>
+
+  <p class="fragment"> We can't even overcount to get 50 lawsuits filed by
+  community actors against GPL violators in history.</p>
+
+  <p class="fragment">Yet, we remain under constant political attack because
+    Conservancy has funded <em>exactly one</em> Linux lawsuit: <a href="https://sfconservancy.org/copyleft-compliance/vmware-lawsuit-faq.html">Christoph
+    Hellwig's ongoing case against VMware</a>.</p>
+</section>
+
+<section>
+  <h4 class="top-title">Just so we're clear: This Is What We Care About</h4>
+  
+  <p>The accusation is: Conservancy cares more about copyleft than
+    Linux.</p>
+  <p class="fragment">The FUD implication: we want to &ldquo;sacrifice
+    Linux at the holy altar of the GPL.&rdquo;</p>
+</section>
+<section>
+  <h4 class="top-title">Just so we're clear: This Is What We Care About</h4>
+  <p class="fragment">Linux is a bunch of code and copyrights that happen to
+    be GPL'd; the GPL is just a tool (by design).</p>
+
+  <p class="fragment">Code and licenses are ephemeral.  We
+  care about is users' long-term software freedom.</p>
+
+  <p class="fragment">New developers should hack their devices &amp;
+  join our community.</p>
+</section>
+
+<section>
+  <h3 class="top-title">The Curious Case of OpenWRT</h3>
+  <p class="fragment">Wireless routers were the canary in the coalmine: the
+  first product beyond servers that <em>needed</em> Linux.</p>
+  <p class="fragment">As IoT becomes common, every product, software-wise,
+    actually looks more like a wireless router than anything else.</p>
+  <p class="fragment">Can we, and should we, establish a beachhead for users
+    with wireless routers?</p></section>
+<section>
+  <h3 class="top-title">What It Would Take</h3>
+  <p class="fragment">We'd need OpenWRT developers to commit long-term to GPL
+    enforcement.</p>
+  <p class="fragment">We'd need some of you to volunteer some time to work
+    with Conservancy to check source releases.</p>
+  <p class="fragment">We'd need a plan on what to do when they refuse to
+    release code (because someone will).</p></section>
+
+<section>
+  <h4 class="top-title">Enforcement's More Work Than It Should Be</h4>
+
+  <p class="fragment">We at Conservancy don't actually <em>like</em> GPL
+    enforcement:</p>
+  <ul>
+    <li class="fragment">It's boring.</li>
+    <li class="fragment">It's politically dangerous for our careers and our organization.</li>
+    <li class="fragment">Speaking for just me, I'd actually rather be a
+      developer.</li>
+    <li class="fragment">We do it because it benefits developers and users.</li>
+  </ul>
+</section>
+<section>
+  <h3 class="top-title">So, I'm Asking, Not Telling</h3>
+  <p class="fragment">I've read OpenWRT forums and see users complaining
+  about compliance problems (as recently as a few months ago).</p>
+  <p class="fragment">It doesn't surprise me.</p>
+  <p class="fragment">There are probably even more violations!</p>
+  <p class="fragment">But, I want to know from <strong>you</strong> if you
+    want Conservancy's help to do something about it.</p>
+</section>
+
+
+<section class="copious">
+ <h4 class="top-title">More Info / Talk License</h4>
+
+<img align="right" src="img/cc-by-sa-4-0_88x31.png" />
+<p>URLs / Social Networking / Email:</p>
+ <ul>
+     <li> Pls. <a href="https://sfconservancy.org/supporter/"><strong>support Conservancy</strong></a></li>
+     <li><a href="https://copyleft.org/guide/"><em>The Copyleft Guide</em></a> is
+     freely available &amp; <a href="https://copyleft.org">welcomes contributions at copyleft.org</a></li>
+     <li>Linux developers can join
+        <a href="https://sfconservancy.org/copyleft-compliance/">the GPL enforcement coalition of Linux developers.</a></li>
+     <li>Conservancy: <a href="https://sfconservancy.org">sfconservancy.org</a>
+       &amp; <a href="https://twitter.com/conservancy/">@conservancy</a>.</li>
+ </ul>
+<p>Presentation and slides are: Copyright &copy; 2017, 2018 Bradley M. Kuhn,
+  and are licensed under the <a rel="license"
+                                href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+    Commons Attribution-Share Alike 4.0 International License</a>. <a href="https://github.com/bkuhn/talks/SNIA-SDC-2018">Slide Source available</a>.</p>
+</section>
+
+            </div>
+
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+<script>
+Reveal.initialize({
+    controls: true,
+    progress: true,
+    history: true,
+    center: true,
+    transition: 'convex', // none/fade/slide/convex/concave/zoom
+    dependencies: [
+  { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+  { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  { src: 'plugin/markdown/markdown.js', condition: function() { return
+    !!document.querySelector(  '[data-markdown]' ); } },
+  { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+  { src: 'plugin/zoom-js/zoom.js', async: true },
+ { src: 'plugin/notes/notes.js', async: true }
+ ]
+});
+</script>
+<script src="jquery/jquery-2.1.3.min.js"></script>
+
+<script type="text/javascript">
+   // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+    var header = $('#header').html();
+    if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+            $('.slide-background').append(header);
+        });
+    }
+    else {
+        $('div.reveal').append(header);
+   }
+</script>
+</body>
+</html>

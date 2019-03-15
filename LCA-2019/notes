@@ -1,0 +1,87 @@
+Kade said yesterday morning that we must pay attention to politics both in
+good and bad times, for our whole lives.  I agree with that.  I also believe
+that every valuable activity of human endeavor is wrought with politics.
+
+Yesterday evening, you heard a number of circumspect and confusing political
+messages.  I've been asked about them multiple times in the last 20 hours.  I
+hope to give you all some real context to understand what you've heard.
+
+I'll start with one of the statements last night that requires no real
+explanation.  Conor Schaefer, when accepting the FSF award last night,
+parapharsed a famous quote that that a cantankerous, obstinate an ubiquitous
+press preserves the right of the people.  In the larger political structure,
+we have such a press, but that press is only burgeoning in Free Software.
+The resources for the press in our community is minimal and we should all be
+supporting it more.
+
+But in the meantime, opponents of software freedom are extremely active in
+taking advantage of the current lack of funding for expensive investigative
+journalism.  In the last few years, the politics of Open Source and Free
+Software occur in backchannels, and coded messages.  Policy decisions and
+initiatives by the major organizations are not held accountable by the
+community of individual  Free Software users, and I've historically been
+convinced by arguments that "avoiding airing dirty laundry" is somehow
+beneficial.  I think it's detrimental, because all of you don't gain an
+in-depth understanding and analysis and don't participate in the discussions
+about these policies.
+
+I've pointed out that Linux Foundation has a clear policy plan to curtail
+enforcement of the GPL.  They do this because they are a trade assocation,
+who have for-profit companies members who have a myraid of reasons to oppose
+copyleft.  Some are nominally pro-copyleft but fear any actual enforcement of
+the GPL because it confuses their customers.  Others, including VMware,
+violate the GPL openly and with purpose, in an effort to circumvent the
+defenses of copyleft that was created.  Christoph's ongoing lawsuit against
+VMware on this matter has truly clarified where LF stands: they don't
+actually want VMware to comply or, indeed, any actual work to stop the
+growing number of companies who violate GPL on purpose.
+
+These forces that oppose copyleft are more powerful than ever, but they are
+not new.  What is relatively new is the consensus among most companies that
+Open Source is valuable to them, and specifically that having the option to
+sometimes make proprietary modifications and improvements to Open Source is
+in their interest.  The creation of non-copylefted kernels to compete with
+Linux is not a new effort -- it's been ongoing since the 1990s and as such
+the political claim we heard from Eben Moglen yesterday that these
+initiatives are somehow a response to GPL enforcement efforts on Linux is not
+a cause and effect relationship.
+
+You heard a lot of other things yesterday too, which were circumspect.  You
+heard Moglen say that we must make allies with our enemies to advance
+software freedom, and you heard RMS reminding us that we cannot forget those
+people are enemies.  I actually think the whole analogy is flawed here, and
+the confusion is exacerbated by these attempts to carry out our political
+discourse by coded messages of this nature.  So I'll be frank where other
+speakers yesterday were surreptitious.
+
+SFLC and Professor Moglen in particular have aligned themselves with this
+anti-copyleft-enforcement initiative of the Linux Foundation.  Those two
+entities are using their substantial resources to stop Conservancy from
+enforcing the GPL for Linux and other projects.  I don't think of them as
+enemies myself, I think of them as misguided and hypocritical.  But the
+bigger problem is not the position they've taken in opposition to the work of
+GPL enforcement, but rather the fact that political disagreement happens
+purely behind closed doors instead of in the open with democratic input from
+our community.
+
+As a start, I would welcome a panel discussion at the conference specifically
+between the entities involved -- FSF, Conservancy, SFLC, FSF Europe and Linux
+Foundation -- to actually discuss our positions on how to enforce copyleft.
+Karen and I at Conservancy think as a public figure entrusted with the
+essential job of defending the main strategy for software freedom, and we do
+not fear public scrutiny.  By extension, we won't tolerate wealthy
+corporations clandestinely pushing efforts to oppose our work without you,
+the Free Software activist public, being able to question these actions.
+That's why we can't tolerate the polictics occuring via the rumor mill, they
+should be transparent.
+
+And, my position has always been transparent.  From my point of view,
+copyleft is in peril without active and well-funded GPL enforcement, because
+this device, this one, and this one, all run Linux, but if you go buy one,
+there won't be source code.  There won't be the ability to modify and improve
+it.  Because they are violating GPL.
+
+Our political opponents tell you that if we "get too aggressive" with the
+GPL, that no one will adopt it and proprietarized non-copyleft software will
+win.  There are no studies to show that's true, there's supposition based on
+flawed premseis.  I'm willing to have an honest and transparent debate about policy,

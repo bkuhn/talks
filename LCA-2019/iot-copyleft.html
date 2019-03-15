@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="en">
+<html lang="en">
+ <head>
+<meta charset="utf-8">
+<title>Preventing the IoT Dystopia with Copyleft</title>
+
+<meta name="description" content="Preventing the IoT Dystopia with Copyleft">
+<meta name="author" content="Bradley M. Kuhn">
+
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ <link rel="stylesheet" href="css/reveal.css">
+ <link rel="stylesheet" href="css/theme/conservancy.css" id="theme">
+
+<!-- Theme used for syntax highlighting of code -->
+<link rel="stylesheet" href="lib/css/zenburn.css">
+
+ <!-- Printing and PDF exports -->
+<script>
+ var link = document.createElement( 'link' );
+ link.rel = 'stylesheet';
+ link.type = 'text/css';
+ link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'print/paper.css';
+ document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+</head>
+
+<body>
+ <div id="hidden" style="display:none;">
+            <div id="header">
+                <div id="header-left"></div>
+                <div id="header-right"></div>
+                <div id="footer-left"></div>
+            </div>
+ </div>
+<div class="reveal">
+<div class="slides">
+<section>
+  <h3><em>Preventing the IoT Dystopia with Copyleft</em></h3>
+  <br/>
+  <p>Bradley M. Kuhn</p>
+  <p>LCA 2019</p>
+  <p>Friday 25 January 2019</p>
+  <p>Slides: <a href="http://ebb.org/bkuhn/talks/LCA-2019/iot-copyleft.html">ebb.org/bkuhn/talks/LCA-2019/iot-copyleft.html</a></p>
+</section>
+<section>
+  <h2 class="top-title">The Theme of the Conference</h2>
+
+  <p class="fragment">As a regular attendee, I love when conferences pick themes.</p>
+  <p class="fragment">It forces me not to propose the same talk everywhere.</p>
+</section>
+  <section>
+  <h2 class="top-title">The Theme of the Conference</h2>
+  <p class="fragment">I promise at least 51% of this talk is &ldquo;new content&rdquo;.</p>
+  <p class="fragment">Hey, for a guy who strives to stay &ldquo;on
+  message&rdquo; as much as I can, &ldquo;slim majority new content&rdquo; really the best I can do.</p>
+</section>
+
+<section>
+  <h2 class="top-title">Talk Thesis</h2>
+
+  <p class="fragment">I seek to convince you the first step toward mitigating
+  the many of the dangers of IoT (Internet of Things) start with a
+  regularly and fairly enforced copyleft license.</p>
+</section>
+<section>
+
+  <h2 class="top-title">Consensus that IoT is Dangerous</h2>
+
+  <p>The joke of this conference&hellip; <span class="fragment">which I've
+      seen told in at least three other talks:</span></p>
+  <p class="fragment">The S in IoT stands for security.</p></section>
+
+<section>
+<h2 class="top-title">A few reminders</h2>
+    <img align=right src="img/2018-12-washington-post-1.png"/>
+</section>
+
+<section>
+<h2 class="top-title">A few reminders</h2>
+    <img align=right src="img/2018-12-washington-post-2.png"/>
+</section>
+
+<section>
+<h2 class="top-title">A few reminders</h2>
+    <img align=right src="img/2018-12-washington-post-3.png"/>
+</section>
+
+<section>
+  <h2 class="top-title">So?</h2>
+  <p class="fragment">As good as technical communities are at identifying
+    problems, we too often fail to take measure to solve them.</p>
+  <p class="fragment">Linux, historically, was the ultimate
+    counter-example.</p></section>
+
+<section>
+ <h1 class="top-title">The Campus Luggable</h1>
+ <img align="right" src="img/mlc-toshiba.jpg"/>
+ <p align="left">My 1992 laptop (from Sager) looked very much like this &hellip;</p>
+</section>
+
+<section>
+ <h1 class="top-title">Linux for Hobbyists by Hobbyists</h1>
+ <img align="right" src="img/mlc-toshiba.jpg"/>
+
+ <p class="fragment">&amp; I had all source code of installed software, and
+ ability to recompile my patches and test them.
+   <span class="fragment">&amp; I did.</span></p>
+</section>
+
+<section>
+  <h2 class="top-title">Why Is Linux on your Laptop?</h2>
+  <p class="fragment">The hobbyist culture brought Linux to the laptop.</p>
+</section>
+
+<section>
+  <h2 class="top-title">Why Is Linux on your Laptop?</h2>
+  <p class="fragment">Specifically, the hobbyist culture brought Linux to the
+    laptop <strong>in spite of</strong>, not <strong>through</strong> the manufactures.</p>
+</section>
+
+<section>
+  <h2 class="top-title">Who Put Linux on your Laptop?</h2>
+
+  <p class="fragment">Did your laptop come with Linux?</p>
+  <p class="fragment">Have you tried to buy a laptop with Linux preinstalled
+    lately?</p>
+  <p class="fragment">It's only slightly easier than it was in 1992.</p></section>
+
+<section>
+  <h2 class="top-title">What Devices Have Linux Preinstalled?</h2>
+  <p class="fragment">So, if laptops rarely have Linux pre-installed, where
+  is Linux most commonly preinstalled?</p>
+</section>
+
+<section>
+<h2 class="top-title">Got Linux?</h2>
+  <a href="https://www.itprotoday.com/iot/survey-shows-linux-top-operating-system-internet-things-devices">
+    <img align=right src="img/survey-iot-linux.png"/>
+  </a>
+</section>
+
+<section>
+<h2 class="top-title">No Reinstalls</h2>
+
+<p class="fragment">While some people do install alternative firmwares,</p>
+
+<p class="fragment">few people do, or, more importantly, even <em>can</em>.</p>
+</section>
+<section>
+<h2 class="top-title">The Right To Install Modified Versions</h2>
+<q class="copious">
+You may copy and distribute the Program (or a work based on it, under § 2) in
+object code or executable form under the terms of § 1 &amp; 2 above provided
+that you … [a]ccompany it with the complete corresponding machine-readable
+source code … The source code for a work means the preferred form of the work
+for making modifications to it. For an executable work, complete source code
+means all the source code for all modules it contains, plus any associated
+interface definition files, plus <span class="fragment highlight-green">the
+scripts used to control compilation and installation of the
+executable</span>.</q>
+<p align="right">
+&mdash; GPLv2§3
+</p></section>
+
+<section>
+<h2 class="top-title">When IoT Was Young</h2>
+<img src="img/wrt54g.png"/>
+</section>
+
+<section>
+<h2 class="top-title">GPL Enforcement Yielded OpenWRT</h2>
+<img align=right src="openwrt-history-page.png"/>
+</section>
+
+<section>
+  <h2 class="top-title">Is OpenWRT a Unicorn?</h2>
+
+  <p class="fragment">For many years, no other product line of IoT devices
+    had a serious alternative firmware project.</p></section>
+
+<section>
+  <h2 class="top-title">The BusyBox Lawsuits</h2>
+
+  <p class="fragment">Before IoT was even a term, the goal of BusyBox
+    enforcement was about downstream users with would-be IoT devices!</p>
+
+    <p class="fragment">At least for one model of Samsung's TV's, we yielded
+       a rebuildable release.</p></section>
+
+<section>
+  <h2 class="top-title">SamyGo: an alternative firmware?</h2>
+<img align=right src="img/samygo-website.png"/>
+</section>
+
+<section>
+<h2 class="top-title">GPL Enforcement Is About This</h2>
+<q class="copious">
+You may copy and distribute the Program (or a work based on it, under § 2) in
+object code or executable form under the terms of § 1 &amp; 2 above provided
+that you … [a]ccompany it with the complete corresponding machine-readable
+source code … The source code for a work means the preferred form of the work
+for making modifications to it. For an executable work, complete source code
+means all the source code for all modules it contains, plus any associated
+interface definition files, plus <span class="fragment highlight-green">the scripts
+used to control compilation and installation of the executable</span>.</q>
+<p align="right">
+&mdash; GPLv2§3
+</p></section>
+
+<section>
+<h2 class="top-title">Who Does Upstream Serve?</h2>
+
+<p class="fragment">Linux upstream is too often focused on the big corporate
+  users.</p>
+
+<p class="fragment">Multiple key member of the Linux leadership once said to
+    me: <q>All I want from the GPL is their best .c files; I don't care if it
+    builds or installs</q>.</p>
+</section>
+<section class="copious">
+  <h4 class="top-title">Garrett: It's About Downstream Users Who Become Developers</h4>
+  
+  <br/>
+<q align="right" cite="https://lists.linuxfoundation.org/pipermail/ksummit-discuss/2016-August/003585.html">
+  [D]o you want 4 more enterprise clustering filesystems, or another complete
+rewrite of the page allocator for a 3% performance improvement under a
+specific database workload, or do you want a bunch of teenagers who grow up
+hacking this stuff because it's what powers every device they own? Because
+honestly I think it's the latter that's helped get you [Linux developers]
+where you are now, and they're not going to be there if the thing that
+matters to you most is making sure that large companies don't feel threatened
+rather than making sure that the next 19 year old in a dorm room can actually
+hack the code on their phone and build something better as a result. It's
+what brought me here in the first place, and I'm hardly the only one.
+<p align="right"> &mdash; Matthew Garrett, Linux Developer, 26 August 2016</p>
+</q>
+</section>  
+
+
+<section>
+<h2 class="top-title">Copyleft is About Users</h2>
+
+<p class="fragment">Matthew is right: the hobbyist firmware modifier and the
+  would-be developer really do matter most.</p>
+
+<p class="fragment">Would we even <em>have</em> any new upstream developers if
+  the only place you can reinstall Linux yourself is in a big data center or
+  in a Cloud host?</p>
+
+<p class="fragment">We may have won the DIY battle on the laptop, but we're
+  losing it on IoT!</p></section>
+
+<section>
+  <h2 class="top-title">Linux is Important</h2>
+
+  <p class="fragment">There is no doubt in my mind that Linux is the most
+    important GPL'd program in history.</p>
+
+  <p class="fragment">It was successful <em>because</em> users could install
+    it on their own devices.</p>
+
+  <p class="fragment">Linux cannot remain the most important GPL'd program if
+    users can't install their modifications.</p>
+  <p class="fragment"><strong>Tinkering is what makes software freedom succeed.</strong></p></section>
+
+<section>
+  <h2 class="top-title">The Need For Downstream</h2>
+  <p class="fragment">Upstream matters, of course, but downstream matters more.</p>
+  <p class="fragment">There may be thousands of Linux upstream developers
+    now, but&hellip;</p></section>
+
+<section>
+  <h2 class="top-title">2 Billion Android Devices!</h2>
+<img src="img/2-billion-android.png"/>
+</section>
+<section>
+  <h2 class="top-title">Downstream &amp; Upstream Won't Agree 100%</h2>
+  <p class="fragment">Linux upstream is important to us; they're our friends
+    and colleagues.</p>
+  <p class="fragment">A silent plurality and a loud minority agree about the
+    importance of software freedom for the individual downstream user.</p>
+  <p class="fragment">&amp; the upstream developers have  kindly licensed
+    their code in a manner that <strong>does assure our software
+      freedom</strong>.</p>
+  <p class="fragment">We just need to take advantage of the opportunity.</p>
+</section>
+<section>
+  <h2 class="top-title">Freedom Isn't Free as In Price</h2>
+  <p class="fragment">No, we don't need to fight a revolution to liberate
+    IoT devices&hellip;</p>
+  <p class="fragment">&hellip; because the words are there, right in the GPL, that assures
+    us the ability to reinstall and modify the base operating system of all
+    our firmwares.</p>
+  <p class="fragment">We just need to take it.</p>
+</section>
+<section>
+  <h2 class="top-title">What You Can Do</h2>
+  <p class="fragment">Request Linux sources on every device you own.</p>
+  <p class="fragment">Try to build and install them; if you can't, ask a
+    friend or ask Conservancy to help.</p>
+  <p class="fragment">If it doesn't build/install, it's a GPL violation;
+  report it to Conservancy (&lt;compliance@sfconservancy.org&gt;).</p>
+  <p class="fragment">Step up as a leader of a project for devices that
+    matter to you.</p>
+</section>
+<section>
+  <h2 class="top-title">Why This Will Work</h2>
+  <p class="fragment">The problem seems insurmountable now, only because
+    we've been led astray.</p>
+ <p class="fragment">The right to upgrade IoT devices is guaranteed to you as
+   a Linux licensee, by the license that upstream Linux gave you.</p>
+  <p class="fragment">You just have to exercise your rights.</p>
+</section>
+<section>
+  <h2 class="top-title">Why This Will Work</h2>
+    <p class="fragment">Rebuilding and reinstalling Linux on IoT device is
+      the first and absolutely necessary step toward privacy and security on
+      those devices.</p>
+ <p class="fragment">When the user controls the operating system again, the
+   balance of power <strong>will be restored</strong>.</p></section>
+   
+<section class="copious">
+ <h4 class="top-title">More Info / Talk License</h4>
+
+<img align="right" src="img/cc-by-sa-4-0_88x31.png" />
+<p>URLs / Social Networking / Email:</p>
+ <ul>
+     <li> Pls. <a href="https://sfconservancy.org/supporter/"><strong>support Conservancy</strong></a></li>
+     <li><a href="https://copyleft.org/guide/"><em>The Copyleft Guide</em></a> is
+     available &amp; <a href="https://copyleft.org">welcomes contributions at copyleft.org</a></li>
+     <li>If you're a Linux developer, you can join
+        <a href="https://sfconservancy.org/copyleft-compliance/">the GPL
+        enforcement coalition of Linux developers. (Ask me or Karen about it.)</a></li>
+     <li>Conservancy: <a href="https://sfconservancy.org">sfconservancy.org</a>
+       &amp; <a href="https://twitter.com/conservancy/">@conservancy</a>.</li>
+ </ul>
+<p>Presentation and slides are: Copyright &copy; 2017, 2018, 2019Bradley M. Kuhn, and are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-Share Alike 4.0 International License</a>. </p>
+<p>Some images included herein are ©’ed by others. I believe my use of those images is fair use under USA © law. However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.</p>
+</section>
+
+            </div>
+
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+<script>
+Reveal.initialize({
+    controls: true,
+    progress: true,
+    history: true,
+    center: true,
+    transition: 'convex', // none/fade/slide/convex/concave/zoom
+    dependencies: [
+  { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+  { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  { src: 'plugin/markdown/markdown.js', condition: function() { return
+    !!document.querySelector(  '[data-markdown]' ); } },
+  { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+  { src: 'plugin/zoom-js/zoom.js', async: true },
+ { src: 'plugin/notes/notes.js', async: true }
+ ]
+});
+</script>
+<script src="jquery/jquery-2.1.3.min.js"></script>
+
+<script type="text/javascript">
+   // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+    var header = $('#header').html();
+    if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+            $('.slide-background').append(header);
+        });
+    }
+    else {
+        $('div.reveal').append(header);
+   }
+</script>
+</body>
+</html>
