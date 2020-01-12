@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en">
+<html lang="en">
+ <head>
+<meta charset="utf-8">
+<title>Analysis of FOSS Gaming Failure: A history of PokerSource and Open Source Online Poker</title>
+
+<meta name="description" content="Analysis of FOSS Gaming Failure: A history of PokerSource and Open Source Online Poker">
+<meta name="author" content="Bradley M. Kuhn">
+
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ <link rel="stylesheet" href="css/reveal.css">
+ <link rel="stylesheet" href="css/theme/conservancy.css" id="theme">
+
+<!-- Theme used for syntax highlighting of code -->
+<link rel="stylesheet" href="lib/css/zenburn.css">
+
+ <!-- Printing and PDF exports -->
+<script>
+ var link = document.createElement( 'link' );
+ link.rel = 'stylesheet';
+ link.type = 'text/css';
+ link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'print/paper.css';
+ document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+</head>
+
+<body>
+ <div id="hidden" style="display:none;">
+            <div id="header">
+                <div id="header-left"></div>
+                <div id="header-right"></div>
+                <div id="footer-left"></div>
+            </div>
+ </div>
+<div class="reveal">
+  <div class="slides">
+<section>
+  <h3><em>Analysis of FOSS Gaming Failure: A history of PokerSource and Open Source Online Poker</em></h3>
+  <br/>
+  <p>Bradley M. Kuhn</p>
+  <p>LinuxConf Australia 2020</p>
+  <p>Monday 13 January 2020</p>
+  <p><a href="http://ebb.org/bkuhn/talks/LCA-2020-Games/games-lca-2020.html">ebb.org/bkuhn/talks/LCA-2020-Games/games-lca-2020.html
+  or FIXME</a></p>
+</section>
+
+<section>
+  <h3 class="top-title">DISCLAIMER</h3>
+
+  <p>This talk is only tangentially related to my day job (i.e., the talk is
+  about software freedom!).  While I don't think I'll say anything in this
+  talk my employer would strongly object to, my employer probably has no
+  opinion on the online poker industry, other than Conservancy's general
+  opposition to any proprietary software.  Nevertheless, the opinions in this
+    talk are entirely my own.</p>
+</section>
+<section>
+  <h3 class="top-title">I Don't Know Games</h3>
+
+  <p>I'm better known for my work on software freedom policy and licensing&hellip;</p>
+  <p class="fragment">&hellip;<strong>But</strong>, I did a side-gig working
+  on a FOSS game for about 3 years.</p>
+  <p class="fragment">This is the story of its failure&hellip; </p>
+  <p class="fragment"> (&hellip; and its transient success). </p>
+</section>
+
+<section>
+  <h3 class="top-title">Poker Is Different</h3>
+
+  <p>How would you define the game of poker? </p>
+</section>
+
+<section>
+  <h3 class="top-title">&ldquo;Correct&rdquo; Definition of Poker</h3>
+
+  <p>Poker is a gambling game of strategy played by people
+  for <span class="fragment highlight-green">money</span>, using cards
+  (priority of these things are in <strong>that</strong> order).</p>
+</section>
+
+  <section>
+  <h3 class="top-title">Brief Popularity History of Poker</h3>
+
+  <p>Poker is very popular in USA, UK, and Australia.</p>
+  <p class="fragment">Played regularly in &ldquo;home games&rdquo; with
+    friends, but larger games legal in casinos in all those countries and
+    throughout the world.</p>
+  <p class="fragment">5 Card Draw games at saloons are part of USAmerican
+  mythology (some of which is based in fact).</p>
+  <p class="fragment">Mainstream popular rise, particularly for No-limit
+  Texas Hold'em (NL HE) variant began in 1999 with UK's <cite>Late Night
+  Poker</cite> television series.</p>
+
+</section>
+
+<section>
+  <h3 class="top-title">Rise of Online Poker</h3>
+  <img align="right" src="img/paradise-poker.jpg"/>
+  <p class="fragment">In 1998/1999, first online poker sites, <a href="https://en.wikipedia.org/wiki/Planet_Poker">Planet Poker</a>
+    and Paradise Poker, launch.</p>
+  <p class="fragment">Comparatively speaking, poker is straightforward to
+    implement (2-D, minimal graphics needed).</p>
+  </section>
+
+  <section>
+  <h3 class="top-title">Rise of Online Poker</h3>
+  <p class="fragment">Watershed moment: <a href="https://en.wikipedia.org/wiki/Chris_Moneymaker">Chris Moneymaker</a> (yes, it's his real
+  name from birth.  Journalists verified it.)</p>
+
+  <p class="fragment">Moneymaker wins an US$86 entry fee online poker
+  &ldquo;satellite&rdquo; to gain entry to the World Series of Poker
+  (WSoP).</p>
+  <p class="fragment">Moneymaker ultimately wins the 2003 WSoP Main Event for
+    a prize of US$2.5 million.</p></section>
+
+  <section>
+  <h3 class="top-title">Rise of Online Poker</h3>
+      <p class="fragment">During the Moneymaker era (2003&mdash;2011), there are three major
+      online poker &ldquo;networks&rdquo;: 
+      &mdash; <a href="https://en.wikipedia.org/wiki/Full_Tilt_Poker">Full
+      Tilt Poker</a>, Pokerstars, and Cereus Poker Network (UltimateBet and
+        Absolute Poker)</p>
+      <p class="fragment">Plus dozens and dozens of secondary and tertiary
+        networks with &ldquo;skins&rdquo;.</p>
+<p class="fragment">Online poker market was estimated in <a href="https://www.prnewswire.com/news-releases/new-study-us-online-poker-market-worth-up-to-33-billion-236026101.html">the multi-billions
+    by this time</a>.</p>
+  </section>
+  <section>
+  <h3 class="top-title">FOSS Was Both Early &amp; Late</h3>
+  <p class="fragment">The history of Free and Open Source Software (FOSS) is
+    riddled with playing &ldquo;catch-up&rdquo; to existing proprietary.</p>
+  <p class="fragment">Ironically, <a href="https://en.wikipedia.org/wiki/IRC_poker">IRC
+  Poker</a> had been the first &ldquo;online&rdquo; poker system (for play
+    money only).</p>
+  <p class="fragment">In the early 2000s, no one in FOSS was maintaining its
+    infrastructure.</p>
+  </section>
+  <section>
+    <h3 class="top-title">The One True Hand Evaluator</h3>
+      <p class="fragment">The first comprehensive poker hand evaluator that
+        ever existed, amazingly, was under the GPL.</p>
+      <p class="fragment">Started in 1994 by Cliff Matthews (ctn), it
+        supported every single game.</p>
+      <p class="fragment">I don't know for sure, but I suspect every online
+        poker system uses (a fork of) it.</p>
+      <p class="fragment">If only network services copyleft (i.e., Affero
+        GPL) had existed in 1994. :)</p>
+  </section>
+<section>
+  <h3 class="top-title">FOSS Tries to Leapfrog</h3>
+
+  <p>A French company called Mekensleep attempts to make the ultimate 3-D
+    online poker site (spoiler alert: <span class="fragment">it failed</span>).</p>
+  <p class="fragment">But they hire my lifelong friend, Lo&iuml;c Dachary as
+    their CTO.</p>
+  <p class="fragment">Lo&iuml;c morally will never write proprietary
+    software, so the entire system is under the Affero GPL and/or GPL.</p>
+</section>
+
+<section>
+  <h3 class="top-title">No One Wants Poker to Look Like a Video Game</h3>
+  <p class="fragment">Poker, in essence, is gambling.</p>
+  <p class="fragment">The goal is to maximize hands per hour (MORE GAMBLING).</p>
+  <p class="fragment">No one plays just one table (usually at least 2-3).</p>
+  <p class="fragment">The player-preferred UI, thus, has barely changed since 1998.</p>
+</section>
+<section>
+  <h3 class="top-title">FOSS's Opportunity Lost</h3>
+  <p class="fragment">Online cheating and government raids became a plague for poker.</p>
+  <p class="fragment">Cereus (UB &amp; Absolute) founders actually wrote a
+  &ldquo;god mode&rdquo; to cheat customers.</p>
+  <p class="fragment">Full Tilt mismanaged funds (comingled player balances
+    with operating expenses) and played a shell game.</p>
+  <p class="fragment">Transparency of FOSS could have helped here.</p></section> 
+<section>
+  <h3 class="top-title">The Harder Software</h3>
+  <p class="fragment">Focus on making only the game work meant that
+    infrastructural software for site management wasn't written:</p>
+  <ul>
+    <li class="fragment">Cashier services</li>
+    <li class="fragment">Player database management and marketing</li>
+    <li class="fragment">Collusion detection</li>
+  </ul>
+  <p class="fragment">Even though Pokersource was a &ldquo;complete
+  system&rdquo; &mdash; fast, efficient and scalable server, two clients,
+  including the first Javascript client in online poker history &mdash; you
+    couldn't launch a online poker business with it.  Then &hellip;</p></section>
+
+<section>
+  <h3 class="top-title">Repurpose to Play Money</h3>
+  <p class="fragment">Lo&ium;c built a consulting business, called OutFlop,
+    around the existing code.</p>
+  <p class="fragment">Primary client was a French social media site who
+    deployed play money version for prizes.</p>
+  <p class="fragment">We were a network of contractors, and Lo&ium;c shielded
+  each contractor from deployment &mdash; doling out small tasks (2&mdash;10
+    days work) and paying by project.</p></section>
+
+<section>
+  <h3 class="top-title">Was this Success?</h3>
+  <p class="fragment">For approximately three years, about 10 contractors had paying,
+    part-time jobs improving a 100% FOSS game codebase.</p>
+  <p class="fragment">Should we really define FOSS success as a project that
+    lasts a generation (like Linux)?</p>
+</section>
+
+<section>
+  <h3 class="top-title">Why FOSS Online Poker Is Likely Hopeless</h3>
+  <p class="fragment">October 13, 2006: USA's Unlawful Internet Gaming
+    Act</p>
+  <p class="fragment">USA DoJ warns all poker sites to cease USA operation
+    immediately; PartyPoker is the only one that does.</p>
+  <p class="fragment">April 15, 2011: All poker sites still operating in the
+    USA are shut down.</p>
+  <p class="fragment">Full Tilt's pyramid scheme is revealed within
+    weeks.</p>
+</section>
+<section>
+  <h3 class="top-title">Why FOSS Online Poker Is Likely Hopeless</h3>
+  <p class="fragment">Pokerstars quickly makes a deal with USA DoJ to pay a
+    fine <strong>and</strong> acquire FullTilt's player debt.</p>
+  <p class="fragment">Pokerstars now holds a strong majority in the market;
+  other players are long-standing stalwarts.</p>
+  <p class="fragment">More importantly, the investment in operational
+    software would be prohibitive for a FOSS competitor.</p>
+</section>
+
+<section>
+  <h3 class="top-title">Is There a Future in Play Money?</h3>
+  <p class="fragment">The FOSS code is <em>there</em> (even with full test coverage on
+    poker-network, thanks to me :) to deploy play-money poker.</p>
+    <p class="fragment">Why isn't anyone using it?</p>
+   <p class="fragment">Zynga, as it turns out, dominated the play-money market because
+    they were early on Facebook.</p>
+     <p class="fragment">Would there be value in play-money Mastadon Poker as
+    a social media add-on?</p>
+</section>
+  
+<section>
+  <h3 class="top-title">Is There a Future in Play Money?</h3>
+   <p class="fragment">Fact is, people who love poker enough to deploy a FOSS
+     play-money site think play money poker is not even a game worth
+     playing.</p></section>
+    <section class="copious">
+ <h4 class="top-title">More Info / Talk License</h4>
+
+<img align="right" src="img/cc-by-sa-4-0_88x31.png" />
+<p>URLs / Social Networking / Email:</p>
+<ul>
+     <li>Disclaimer: this talk is my opinions, not necessarily my employer's.
+     <li> Pls. <a href="https://sfconservancy.org/supporter/"><strong>support Conservancy</strong></a></li>
+     <li>Conservancy: <a href="https://sfconservancy.org">sfconservancy.org</a>
+       &amp; <a href="https://twitter.com/conservancy/">@conservancy</a>.</li>
+ </ul>
+<p>Presentation and slides are: Copyright &copy; 2020 Bradley M. Kuhn,
+  and are licensed under the <a rel="license"
+                                href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+    Commons Attribution-Share Alike 4.0 International
+  License</a>. <a href="https://github.com/bkuhn/talks/LCA-2020-Games">Slide
+    Source available</a>.</p>
+<p>Some images included herein are ©’ed by others. I believe my use of those images is fair use under USA © law. However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.</p>
+    </section>
+
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+<script>
+Reveal.initialize({
+    controls: true,
+    progress: true,
+    history: true,
+    center: true,
+    transition: 'convex', // none/fade/slide/convex/concave/zoom
+    dependencies: [
+  { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+  { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+  { src: 'plugin/zoom-js/zoom.js', async: true },
+ { src: 'plugin/notes/notes.js', async: true }
+ ]
+});
+</script>
+<script src="jquery/jquery-2.1.3.min.js"></script>
+
+<script type="text/javascript">
+   // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+    var header = $('#header').html();
+    if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+            $('.slide-background').append(header);
+        });
+    }
+    else {
+        $('div.reveal').append(header);
+   }
+</script>
+</body>
+</html>
