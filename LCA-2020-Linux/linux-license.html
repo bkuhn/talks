@@ -1,0 +1,585 @@
+<!doctype html>
+<html lang="en">
+<html lang="en">
+ <head>
+<meta charset="utf-8">
+<title>Introduction to Linux's License</title>
+
+<meta name="description" content="Introduction to Linux's License">
+<meta name="author" content="Bradley M. Kuhn">
+
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ <link rel="stylesheet" href="css/reveal.css">
+ <link rel="stylesheet" href="css/theme/conservancy.css" id="theme">
+
+<!-- Theme used for syntax highlighting of code -->
+<link rel="stylesheet" href="lib/css/zenburn.css">
+
+ <!-- Printing and PDF exports -->
+<script>
+ var link = document.createElement( 'link' );
+ link.rel = 'stylesheet';
+ link.type = 'text/css';
+ link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'print/paper.css';
+ document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+</head>
+
+<body>
+ <div id="hidden" style="display:none;">
+            <div id="header">
+                <div id="header-left"></div>
+                <div id="header-right"></div>
+                <div id="footer-left"></div>
+            </div>
+ </div>
+<div class="reveal">
+  <div class="slides">
+<section>
+  <h3><em>Introduction to Linux's License</em></h3>
+  <br/>
+  <p>Bradley M. Kuhn</p>
+  <p>LCA 2020</p>
+  <p>Tuesday 14 January 2020</p>
+  <p><a href="http://ebb.org/bkuhn/talks/LCA-2020-Linux/linux-license.html">Online Slides available at:
+  ebb.org/bkuhn/talks/LCA-2020-Linux/linux-license.html or tinyurl.com/LCA-2020-Linux </a></p>
+</section>
+
+<section>
+  <h3 class="top-title">Why Should You Care?</h3>
+
+  <p class="fragment">Engineers and developers like to do cool things with
+    computing.</p>
+  <p><span class="fragment">It's totally reasonable that you might feel licensing
+      just gets in your way</span> <span class="fragment">&hellip; and you're
+      probably right.</span></p>
+    <p class="fragment">My goal is to give you enough information so that
+      licensing doesn't get in your way&hellip;</p>
+    <p class="fragment">&hellip; and maybe you'll be able to teach others
+      too.</p>
+</section>
+<section>
+  <h3 class="top-title">You <em>Can</em> Learn this license stuff.</h3>
+
+<q> Every great wizard in history has started out as nothing
+  more than what we are now, students. If they can do it, why not us?</q>
+
+  <p align="right"> &mdash; <em>J. K. Rowling &amp; Michael Goldenberg<br/>
+  Harry
+    Potter and the Order of the Phoenix</em></p>
+</section>
+<section>
+  <h3 class="top-title">Things Even Non-Lawyers Should Know</h3>
+  <p class="fragment">I am not a lawyer either.</p>
+  <p class="fragment">I can't give you legal advice, but &hellip;</p>
+  <p class="fragment">This talk can help you ask much more intelligent
+  questions of lawyers when you have a question about your engineering and
+    development work.</p></section> 
+
+<section>
+  <h3 class="top-title">So, let's focus on Software</h3>
+
+  <p class="fragment">Let's consider what it means to get a software
+    license.</p>
+
+  <p class="fragment">A license, in non-lawyer terms, is a bundle of
+    permissions wrapped with a bundle of requirements.</p>
+  <p class="fragment">Proprietary licenses  rely primarily on <em>contract
+      law</em> as the foundation of their licenses.</p>
+  <p class="fragment">FOSS licenses rely primarily on <em>copyright law</em>
+    as the foundation of their licenses.</p>
+  <p class="fragment">(but both draw from other legal regimes as well)</p>
+</section>
+<section>
+  <h2 class="top-title">What Is Software?</h2>
+  <p class="fragment">Software is a series of textual statements.</p>
+
+  <p class="fragment">Text, in our legal system, is governed by
+  copyright.</p>
+
+  <p class="fragment">The primary system that governs software is therefore
+  copyright.</p>
+</section>  
+<section>
+  <h2 class="top-title">What Does Copyright Govern?</h2>
+  <p class="fragment">Copyright was invented primarily for books.</p>
+  <p class="fragment">It governs permission to copy, distribute, and modify
+  a &ldquo;work&rdquo;.</p>
+  <p class="fragment">Engaging in those activities is otherwise prohibited.</p>
+</section>
+
+<section>
+  <h2 class="top-title">Does/Should a License Do More?</h2>
+
+  <p class="fragment">Ultimately depends on the authors' goal.</p>
+
+  <p class="fragment">Every FOSS license gives those basic rights and permissions.</p>
+  <p class="fragment">Some licenses &ldquo;do more&rdquo;.</p>
+</section>
+<section>
+  <h2 class="top-title">What is Copyleft?</h2>
+  <p class="fragment">Copyleft utilizes copyright to achieve a policy system
+    that assures software freedom.</p>
+  <p class="fragment">First: asserts your rights to copy, modify and
+  distribute the software.</p>
+  <p class="fragment">Second: adds conditional requirements on those
+  activities, when such requirements help assure the software freedom of
+  others.</p>
+</section>
+<section class="copious">
+ <h1 class="top-title">Copyleft Is a Tool, Not a Principle</h1>
+<p>
+<q class="copious">Copyleft is a <span class="fragment highlight-green">strategy</span> of
+utilizing copyright law to pursue the policy goal of fostering &amp;
+encouraging the equal &amp; inalienable right to copy, share, modify &amp;
+improve creative works of authorship. Copyleft &hellip; describes any method
+that utilizes the copyright system to achieve the aforementioned
+goal. Copyleft as a concept is usually implemented in the details of a
+specific copyright license &hellip; Copyright holders of creative work can
+unilaterally implement these licenses for their own works to build
+communities that collaboratively share &amp; improve those copylefted
+creative works.
+<p align=right> &mdash; Definition of copyleft from
+  <a href="https://copyleft.org">copyleft.org</a> </q>
+</p>
+</section>
+<section>
+  <h3 class="top-title">Details of the GPL</h3>
+  <p class="fragment">The General Public License (GPL) is a
+    specific <em>implementation</em> of copyleft.</p>
+    <p class="fragment">Copyleft can apply to any copyrightable work, but GPL
+      focuses on copyleft for software.</p>
+    <p class="fragment">GPL has detailed rules to assure downstream users
+    &amp; developers  benefit from the software
+      freedoms assured by copyleft in any  <em>effective</em>
+      way.</p></section>
+<section>
+  <h3 class="top-title">The Mindset of GPL</h3>
+
+<p class="fragment">Ultimate goal: make sure every user has the four software
+  freedoms:</p>
+
+<ul><li class="fragment">to run the software.</li>
+    <li class="fragment">to study and modify the software.</li>
+    <li class="fragment">Freedom to share the software.</li>
+  <li class="fragment">Freedom to distribute modified versions.</li></ul>
+
+</section>
+
+<section>
+  <h3 class="top-title">Using Copyright</h3>
+  <p class="fragment">GPL is primarily a copyright license.</p>
+
+  <ul>
+    <li class="fragment">software is copyrighted.</li>
+    <li class="fragment">License grants key freedoms.</li>
+    <li class="fragment">Requirements prohibit activities that take away
+      freedoms.</li>
+    <li class="fragment">You may do <em>A</em>, &ldquo;provided that&rdquo;
+    you do <em>B</em></li>
+  </ul>
+</section>
+<section>
+  <h3 class="top-title">&ldquo;Strong&rdquo; Copyleft</h3>
+  <p class="fragment">License like the General Public License (GPL) are
+  known as <strong>strong</strong> copyleft.</p>
+
+  <p class="fragment">A <strong>strong</strong> copyleft license typically
+  seeks to extend its scope of coverage to the breadth of derivative and/or
+  combined works that the copyright statue allows.</p>
+</section>  
+<section>
+  <h3 class="top-title">&ldquo;Weak&rdquo; Copyleft</h3>
+  <p class="fragment">By contrast, a <strong>weak</strong> copyleft license
+  unilaterally provides some detailed rules that permit creation and/or
+  distribution of certain types of proprietary combinations and/or
+  derivations that would require a copyright holder's permissions and that a
+  strong copyleft license would forbid.</p>
+</section>
+<section>
+  <h3 class="top-title">Modification As a Center Provision</h3>
+  <p class="fragment">GPL's primary copyright hook is copyright controls on the right to modify.</p>
+
+  <p class="fragment">GPL's central tenant:</p>
+<ul>
+  <li class="fragment">You can make a modified version of various types privately as much as you'd like.</li>
+  <li class="fragment">When you distribute that modified version, you have
+    requirements to meet.</li>
+</ul>
+</section>
+<section>
+  <h3 class="top-title">[GPLv2&sect;]2</h3>
+<p class="copious">[GPLv2&sect;]2. You may modify your copy or copies of the Program or any
+portion of it, thus forming a work based on the Program, and copy and
+distribute such modifications or work under the terms of Section 1 above,
+provided that you also meet all of these conditions:
+<br/>
+<br/>
+a) You must cause the modified files to carry prominent notices stating
+that you changed the files and the date of any change.
+<br/>
+<br/>
+b) You must cause any work that you distribute or publish, that in
+whole or in part contains or is derived from the Program or any
+part thereof, to be licensed as a whole at no charge to all third
+parties under the terms of this License.
+</p>
+</section>
+<section>
+  <h3 class="top-title">Derivative Works</h3>
+  <p>Everyone  wants a good <em>risk
+      analysis</em><span class="fragment">, but</span><span class="fragment">: why would they <em>want</em> to test the  boundary?</span></p>
+  <p class="fragment">You should
+  certainly <a href="https://copyleft.org/guide/comprehensive-gpl-guidech5.html#x8-300004">read
+  the section in the <cite>Copyleft Guide</cite></a>.</p>
+  <p class="fragment">Rarely does the derivative work question actually come up.</p>
+  <p class="fragment"><strong>Removing</strong> the copylefted software is
+  always an option.</p>
+</section>
+
+<section>
+  <h3 class="top-title">Source Code Matters</h3>
+  <p class="fragment">The freedom to modify is essential; source code is
+    mandatory for modifications.</p>
+      <p class="fragment">Many provisions in GPL focus on details of source
+        code disclosure.</p>
+</section>
+<section>
+<h3 class="top-title"> Binaries (Object Code) are Modifications</h3>
+<p class="fragment">Software that the computer understands is different than
+  software humans  read.</p>
+
+<p class="fragment">There is often a process required to modify (and/or
+  translate) the software from human-readable to computer-readable.</p>
+
+</section>
+
+<section>
+  <h3 class="top-title">A Legal Mechanism for Technical Details</h3>
+      <p class="fragment">While hearing it's a copyright license might
+      indicate the lawyer is the most important expert to understand the license&hellip;
+      <p class="fragment">&hellip;in fact, most of the confusion around
+        copyleft are more <em>technology-focused</em>
+        than <em>legally-focused</em>.</p>
+      <p class="fragment">Indeed, the most important requirement
+        is <strong>complete, corresponding source (CCS).</strong></p>
+</section>
+
+<section>
+  <h3 class="top-title">Copyleft at its Core</h3>
+<p>At its core, copyleft's primary goal is to give downstream users the means
+  and capacity to generate and utilize binaries in the same manner that
+  upstream did.</p>
+</section>
+
+<section class="copious">
+  <h3 class="top-title">How GPLv2 Says CCS</h3>
+
+<q class="copious">
+You may copy and distribute the Program (or a work based on it, under § 2) in object code or executable form under the terms of § 1 &amp; 2 above provided that you … [a]ccompany it with the complete corresponding machine-readable source code … The source code for a work means the preferred form of the work for making modifications to it. For an executable work, complete source code means all the source code for all modules it contains, plus any associated interface definition files, plus the scripts used to control compilation and installation of the executable.</q>
+<p align="right">
+&mdash; GPLv2§3
+</p></section>
+
+<section>
+<h3 class="top-title">Testing CCS</h3>
+<p class="fragment">
+  Evaluating CCS is often a “know it when I see it” standard.
+  <span class="fragment">(i.e., can you take the CCS build it, and install it?)</span></p>
+</section>
+<section>
+<h3 class="top-title">Best Way to Test CCS?</h3>
+<p class="fragment">Find an embedded engineer who <strong>didn't</strong>
+  work on the product and ask that engineer to build from sources a new
+  firmware and install it on the device.</p></section>
+<section>
+<h3 class="top-title">Why So Much Copyleft?</h3>
+<p class="fragment">I admit, copyleft is my favorite form of licensing.</p>
+<p class="fragment">The classic joke is that &ldquo;the ISC license is simple
+  because it doesn't actually <strong>do</strong> anything&rdquo;.</p>
+<p class="fragment">But let's briefly take a comparative look at FOSS
+  licensing&hellip;</p></section>
+
+<section>
+<h3 class="top-title">Comparing Licenses</h3>
+
+<img src="img/license-spectrum.png" align="center" />
+</section>
+<section>
+  <h3 class="top-title">Additional Permissions</h3>
+
+  <p class="fragment">Licenses are, in fact, hackable just like software.</p>
+  <p class="fragment">Take a &ldquo;strong&rdquo; license and make it
+    slightly (or a lot!) &ldquo;weaker&rdquo; by adding an <strong>additional
+      permission</strong>.</p>
+  <p class="fragment">These are also often called <em>exceptions</em>&hellip;</p>
+    <p class="fragment">(&hellip; but I find the latter term confusing given
+      the overload of the term <em>exception</em> in
+      programming.)</p></section>
+<section>
+  <h3 class="top-title">Linux's License</h3>
+
+  <p class="fragment">(Thanks for your patience, I realize it took me this
+    much time to mention Linux at all.)</p>
+  <p class="fragment">Linux is a complex project <em>technically</em>, so it's not
+    surprisingly it complex <em>license-wise</em> too.</p>
+
+  <p class="fragment">I recommend this simple mantra:
+
+  <p class="fragment"><strong>&ldquo;the effective
+  license of Linux as a whole is GPLv2-only, but many additional permissions
+    exist on much of its code.&rdquo;</strong></p></section>
+
+<section>
+<h3 class="top-title">What's GPLv2-<strong>only</strong>?</h3>
+
+<p>GPL is one of very few FOSS licenses that don't have an
+  &ldquo;auto-upgrade&rdquo; clause.</p>
+
+<p class="fragment">Auto-upgrade means the <span class="fragment highlight-green">license steward</span> controls
+  forward-licensing of the code under yet unpublished versions.</p>
+</section>
+
+<section>
+  <h3 class="top-title">What's a License Steward?</h3>
+
+  <p class="fragment">A license steward is someone who publishes the text of
+    a FOSS license that is <em>reusable</em> for other copyright holders.</p>
+  <p class="fragment">Between FOSS licenses and the ability to
+    write <em>additional permissions</em>, you often have the tools you need
+    to craft interesting licensing solutions; usually, no fresh license
+    drafting is needed.</p>
+</section>  
+<section>
+<h3 class="top-title">What's GPLv2-<strong>only</strong>?</h3>
+
+<p>GPL is one of very few FOSS licenses that don't have an
+  <span class="fragment highlight-green">&ldquo;auto-upgrade&rdquo;</span> clause.</p>
+</section>
+<section>
+<h3 class="top-title">What's Auto-upgrade?</h3>
+<p class="fragment">Auto-upgrade means the license steward controls
+  forward-licensing of the code under yet unpublished drafts of the license.</p>
+<p class="fragment">Using Eclipse Public License, Apache Public License (and
+  almost all  of the popular non-GNU licenses) means you give those
+  organization (Eclipse Foundation, Apache Software Foundation, etc.) the
+  right to relicense your code <strong>any way they wish</strong>.</p>
+</section>
+<section>
+<h3 class="top-title">What's Auto-upgrade?</h3>
+<p class="fragment">Auto-upgrade also means: when the license steward publishes a
+  new version of the license, that action <em>automatically</em> changes the
+  license on millions of third-party lines of code overnight.</p></section>
+
+<section>
+<h3 class="top-title">Why Auto-upgrade?</h3>
+<p class="fragment">I'm not a fan of a forced auto-upgrade; I prefer the GPL
+  model, even though it's more complicated.</p>
+<p class="fragment">The key feature of auto-upgrade clauses is
+  simplicity.</p>
+<p class="fragment">Don't believe the hype: Linux's license, my friends, is not simple.</p>
+</section>
+<section>
+  <h3 class="top-title">Down Linux's Licensing Rabbit-Hole</h3>
+
+  <p class="fragment">Opinions of Linux developers differ widely about
+    GPLv3.</p>
+  <p class="fragment">Many Linux developers license their code
+  GPLv2-<strong>only</strong> (forbid upgrade), rather than
+    GPLv2-<strong>or-later</strong> (opt-in auto-upgrade)  because they
+    dislike GPLv3.</p>
+  <p class="fragment">Linux has lots of GPLv2-only and GPLv2-or-later code
+    mixed together.</p>  
+  <p class="fragment">You can &ldquo;downgrade&rdquo; the <em>effective</em>
+    license back to GPLv2-only.</p></section>
+<section>
+<h3 class="top-title">Linux syscall Exception</h3>
+<q>
+  NOTE! This copyright [sic] does <strong>not</strong> cover user programs
+ that use kernel services by normal system calls - this is merely considered
+ normal use of the kernel, and does *not* fall under the heading of "derived
+ work".
+</q></section>
+<section>
+  <h3 class="top-title">What's a syscall?</h3>
+
+  <p class="fragment">Let's consider what this means.</p>
+  <p class="fragment">It's an interesting licensing analysis &mdash; because
+    technical folks are actually better equipped to think about this than
+    lawyers.</p>
+  <p class="fragment">What would someone reasonable skilled in the art
+    consider a &ldquo;normal system call&rdquo;?</p></section>
+<section>
+  <h3 class="top-title">Linux API to userspace</h3>
+  <p class="fragment">syscalls are the method that non-kernel-space programs
+    ask the kernel for the resources that it manages. </p>
+  <p class="fragment">(e.g., memory, file system, peripherals, etc.)</p>
+  <p class="fragment">The Linux syscall exception tell us, &ldquo;when you do
+  this in the normal way with the normal mechanism, we don't mean for your
+  program to be licensed GPLv2&rdquo;.</p></section>
+<section>
+  <h3 class="top-title">Our Community Made This Up</h3>
+
+  <p class="fragment">The emperor's have no clothes!</p>
+  <p class="fragment">Copyright wasn't designed for copyleft; copyleft is a
+    hack on copyright.</p>
+  <p class="fragment">Courts have hitherto never really considered these questions.</p>
+  <p class="fragment">Experts in the field have real power to sway
+    interpretation.</p></section>
+<section>
+  <h3 class="top-title">If I were an Expert Witness</h3>
+
+  <p class="fragment">Even though I know that Linus probably had in mind a
+    specific (and very short!) list of syscalls when he wrote that
+    exception&hellip;</p>
+    <p class="fragment">I would consider (for example) using the /sys
+    interfaces to manipulate GPIO as a form of normal syscall, precisely
+    because Linux docs specifically document that as a normal way to interact
+    with the feature</p>
+    <p class="fragment">(while they say it's deprecated, says that the SYSFS
+    ABI WILL NOT BE DEVELOPED (NO NEW FEATURES), IT WILL JUST BE
+    MAINTAINED).</p></section>
+<section>
+  <h3 class="top-title">Layering with Weak Copyleft</h3>
+  <p class="fragment">Consider libgpiod.</p>
+  <p class="fragment">It provides an <em>additional</em> layer of API for
+    GPIO.</p>
+  <p class="fragment">Upon a quick analysis, I believe it likely uses only
+    &ldquo;normal system calls&rdquo;, so the syscall exception applies to
+    libgpiod itself.</p>
+  <p class="fragment">libgpiod then introduces new copyrights under
+    the <strong>Lesser</strong> public license.</p>
+</section>
+<section>
+  <h3 class="top-title">Libgpiod?</h3>
+  <p class="fragment">The derivative work analysis here is surely complex
+  (and I've not yet done it).</p>
+  <p class="fragment">But an outcome that said &ldquo;using libgpiod in the
+  usual way requires GPLv2-only to cover the original work&rdquo; would
+  flabbergast me.</p>
+</section>
+<section>
+  <h3 class="top-title">The Dual License with BSD</h3>
+  <p class="fragment">I'm still a bit baffled why this tradition started.</p>
+  <p class="fragment">Ostensibly it was for code sharing with the *BSD projects.</p>
+  <p class="fragment">I frankly think it's being exploited by companies who
+    either:</p>
+  <ul>
+    <li class="fragment">do not want to grant outbound GPLv2 licenses.</li>
+    <li class="fragment">think this magically gets them around copyleft (it
+      doesn't: remember, effective license of the work is GPLv2!)</li>
+  </ul>
+</section>
+<section>
+  <h3 class="top-title">Proprietary Kernel Modules</h3>
+  <p class="fragment">Simply put: I have yet to see a proprietary kernel
+  module that did not create a derivative and/or combined work with Linux,
+    in my (non-lawyer but) expert opinion.</p>
+  <p class="fragment">There have been companies getting away with violating
+  copyright licenses for many years and the resources available to stop them
+    are limited.</p>
+  <p class="fragment">This is why Conservancy continues to enforce the GPL
+    for Linux.</p></section>
+<section>
+  <h3 class="top-title">The Glib Answer To All Licensing Questions</h3>
+  <p class="fragment">I've began to hint at how complex licensing analysis
+    is.</p>
+  <p class="fragment">The complexity only impacts you when you wish to keep
+    something proprietary.</p>
+  <p class="fragment">I have yet to see a licensing problem that isn't
+    trivially solved with &ldquo;release everything under your favorite GPL-compatible license&rdquo;</p></section>
+<section class="copious">
+ <h4 class="top-title">More Info / Talk License</h4>
+
+<img align="right" src="img/cc-by-sa-4-0_88x31.png" />
+<p>URLs / Social Networking / Email:</p>
+<ul>
+     <li>I am not a lawyer and this talk was not legal advice.  Conservancy
+     is not a law firm and does not provide legal advice.</li>
+     <li> Pls. <a href="https://sfconservancy.org/supporter/"><strong>support Conservancy</strong></a></li>
+     <li>You can join
+        <a href="https://sfconservancy.org/copyleft-compliance/">the GPL enforcement coalition of Linux developers.</a></li>
+     <li>Conservancy: <a href="https://sfconservancy.org">sfconservancy.org</a>
+       &amp; <a href="https://twitter.com/conservancy/">@conservancy</a>.</li>
+ </ul>
+<p>Presentation and slides are: Copyright &copy; 2017, 2018, 2019, 2020 Bradley M. Kuhn,
+  and are licensed under the <a rel="license"
+                                href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+    Commons Attribution-Share Alike 4.0 International
+  License</a>. <a href="https://github.com/bkuhn/talks/LCA-2020-Linux">Slide
+    Source available</a>.</p>
+<p>Some images included herein are ©’ed by others. I believe my use of those images is fair use under USA © law. However, I suggest you remove such images if you redistribute these slides under CC-By-SA 4.0.</p>
+    </section>
+<section>
+  <h3 class="top-title">The Whole SPDX thing</h3>
+  <p class="fragment">You've probably seen Linux Foundation aggressively
+    pushing SPDX identifiers into single files.</p>
+  <p class="fragment">The compliance industrial complex has an obsession with
+    precise file-level licensing information, even if it's not entirely accurate.</p>
+</section><section>
+  <h3 class="top-title">The Whole SPDX thing</h3>
+  <p class="fragment">Just keep in mind, copyright statutes around the world
+  talk about &ldquo;works&rdquo;, not &ldquo;files&rdquo;.  The obsession
+    with getting things right in each file is just misguided.</p>
+  <p class="fragment">Worst of all, SPDX refuses to list all the additional
+  permissions for GPLv3 that are used in Linux (for political reasons?), so
+  the SPDX information can never possible be correct in Linux, by
+  design.</p></section>
+<section>
+  <h3 class="top-title">KESAP</h3>
+  <p class="fragment">Additional permission added by many Linux copyright
+    holders to their code.</p>
+  <p class="fragment">It reads <q>[we] adopt the following provisions of
+      GPL-3.0 as additional permissions under our license </q></p>
+  <p class="fragment">SPDX decided that this is <strong>not</strong> an
+    additional permission (!)</p>
+  <p class="fragment">I assure you, it turns out if you say that you grant an
+    &ldquo;additional permission&rdquo;, you are, in fact, granting an
+    additional permission.</p>
+  <p class="fragment">Welcome to post-fact politics!</p>
+</section>  
+    
+
+            </div>
+
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+<script>
+Reveal.initialize({
+    controls: true,
+    progress: true,
+    history: true,
+    center: true,
+    transition: 'convex', // none/fade/slide/convex/concave/zoom
+    dependencies: [
+  { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+  { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+  { src: 'plugin/zoom-js/zoom.js', async: true },
+ { src: 'plugin/notes/notes.js', async: true }
+ ]
+});
+</script>
+<script src="jquery/jquery-2.1.3.min.js"></script>
+
+<script type="text/javascript">
+   // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+    var header = $('#header').html();
+    if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+            $('.slide-background').append(header);
+        });
+    }
+    else {
+        $('div.reveal').append(header);
+   }
+</script>
+</body>
+</html>
